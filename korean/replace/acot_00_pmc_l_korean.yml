@@ -1,0 +1,1461 @@
+﻿l_korean:
+
+PHANON:  "파논 군단"
+ 
+acot_pmc_shipset_desc:  "강력하고 위협적인 이 흰색-검정색 함선은 제작자의 불굴의 의지와 힘을 보여줍니다. 별과 그 너머에 자신의 이름을 알리려는 의지."
+
+sm_acot_sb_phanon_assembly:  "Phanon 논리 알고리즘 분류 해제"
+sm_acot_sb_phanon_assembly_desc:  "Phanon Corp의 Starbase 신호 및 논리를 모방하여 Corp의 강력한 선박을 건조할 수 있도록 설계된 슈퍼컴퓨터입니다. 기업 식별 키의 지속적인 변경으로 인해 시스템은 작업을 따라잡기 위해 엄청난 양의 에너지는 물론 암흑 물질과 암흑 에너지의 막대한 공급이 필요합니다."
+acot_sb_phanon_assembly_tooltip:  "§YPhanon 선박 건조를 허용합니다.§!"
+
+tech_enable_phanon_design:  "Phonon 논리 분류 해제"
+tech_enable_phanon_design_desc:  "기본적으로 Phanon 주 궤도 정거장의 마스터 제어 터미널에만 Phanon 군함을 건조하고 설계하는 데 필요한 보안 패스가 포함되어 있지만 일부 조각 모음 및 신호 수정을 통해 다른 우주 기지에서도 Phanon 함선을 건조할 수 있게 할 수도 있으며 나중에 새로운 흥미로운 데이터로 이어질 수도 있습니다."
+TECH_UNLOCK_PHANON_BUILD_TITLE:  "Phonon 논리 분류 해제"
+TECH_UNLOCK_PHANON_BUILD_DESC:  "파논 함선을 건설할 수 있는 특별한 항성 기지 건물을 잠금 해제합니다."
+
+tech_precursor_phanon_design:  "룬 문자 선구자 적응"
+tech_precursor_phanon_design_desc:  "새로운 접근 방식을 시도해 보겠습니다."
+TECH_UNLOCK_PHANON_PRECURSOR_TITLE:  "룬 문자 선구자 적응"
+TECH_UNLOCK_PHANON_PRECURSOR_DESC:  "선구자 선박의 룬 디자인을 잠금 해제합니다."
+
+damage_vs_country_type_acot_phanon_base_mult:  "파논 군단에 대한 피해"
+damage_vs_country_type_acot_phanon_retaliator_mult:  "파논군단 보복함대에 대한 피해"
+mod_damage_vs_country_type_acot_phanon_base_mult:  "파논 군단에 대한 피해"
+mod_damage_vs_country_type_acot_phanon_retaliator_mult:  "파논군단 보복함대에 대한 피해"
+
+acot_phanon_invader_dead_operative_debuff:  "데드 요원"
+acot_phanon_invader_dead_operative_debuff_desc:  "촉수 루트를 피했어야 했어요."
+
+personality_acot_phanon_base_personality:  "은하계 준군사 회사"
+personality_acot_phanon_base_personality_desc:  "수수께끼의 유리무리치가 이끄는 강력한 중립 세력."
+
+pc_acot_pmc_vault:  "파논 커맨드 볼트"
+pc_acot_pmc_vault_adj:  "파논 커맨드 볼트"
+pc_acot_pmc_vault_desc:  "Command Vault는 은하계의 모든 Phonon 작전 기지의 심장인 것으로 보입니다. 비록 외부에서는 제국의 다른 경이로움에 비하면 별로 눈에 띄지 않지만, 이 수수께끼 같은 금고 안에는 어떤 종류의 비밀이 숨겨져 있는지 누가 알겠습니까? 신비한 강력한 방패로 인해 궤도 폭격을 거의 뚫을 수 없습니다."
+ 
+pc_acot_pmc_vault_unshielded:  "비차폐형 파논 커맨드 볼트"
+pc_acot_pmc_vault_unshielded_adj:  "비차폐형 파논 커맨드 볼트"
+pc_acot_pmc_vault_unshielded_desc:  "Command Vault는 은하계의 모든 Phonon 작전 기지의 심장인 것으로 보입니다. 이제 방패가 무너지고 거대 구조물이 폭격에 취약해졌으므로 그 안에 어떤 비밀이 있는지는 더 이상 문제가 되지 않습니다. 운명의 Vault 날짜는 숫자입니다."
+ 
+pc_acot_pmc_data_planet:  "파논 데이터 유닛"
+pc_acot_pmc_data_planet_adj:  "파논 데이터 유닛"
+pc_acot_pmc_data_planet_desc:  "다양한 주제의 방대한 데이터와 정보를 저장하는 디지털화된 행성."
+ 
+pc_acot_pmc_storage_planet:  "Phonon 저장 장치"
+pc_acot_pmc_storage_planet_adj:  "Phonon 저장 장치"
+pc_acot_pmc_storage_planet_desc:  "Phanon의 미래 계획을 위한 대규모 자원 비축지로 사용되는 완전히 기계화된 행성입니다."
+ 
+mod_pc_acot_pmc_vault_habitability:  "파논 거주 가능성"
+trait_pc_acot_pmc_vault_preference:  "나는 이것을 좋아한다"
+trait_pc_acot_pmc_vault_preference_desc:  "물론이죠 마 친구!"
+#### SHIP NAMES ####
+ 
+acot_star_bender:  "스타벤더"
+acot_star_bender_plural:  "스타 벤더스"
+acot_star_bender_cap:  "스타벤더"
+acot_star_bender_cap_plural:  "스타 벤더스"
+
+acot_star_bender_builder:  "스타 벤더 유형 B"
+acot_star_bender_builder_plural:  "스타 벤더 유형 B" 
+acot_star_bender_builder_cap:  "스타 벤더 유형 B"
+acot_star_bender_builder_cap_plural:  "스타 벤더 유형 B" 
+
+ACOT_STARBENDER_CARGO:  "무니무니"
+ACOT_STARBENDER_BOW:  "나니?"
+ACOT_STARBENDER_STERN:  "초토 매트"
+ 
+acot_starfighter_hero:  "스타 인베이더"
+acot_starfighter_hero_plural:  "스타 인베이더"
+acot_starfighter_hero_cap:  "스타 인베이더"
+acot_starfighter_hero_cap_plural:  "스타 인베이더"
+
+ACOT_PHANON_STARFIGHTERS_HERO_SECTION:  "포메이션 1"
+
+acot_star_fighters:  "스타 체이서 소대"
+acot_star_fighters_plural:  "스타 체이서 편대"
+acot_star_fighters_cap:  "스타 체이서 소대"
+acot_star_fighters_cap_plural:  "스타 체이서 편대"
+
+tech_phanon_fighter:  "군단 ISC 액세스 코드"
+tech_phanon_fighter_desc:  "독립 FTL을 탑재한 팬텀스트라이크 제작대. 그들은 신경망을 사용하여 조종하는 것으로 보입니다. 군단은 더 작은 피켓 선박 대신에 이를 사용합니다." 
+
+ACOT_PHANON_STARFIGHTERS_TEAM_1:  "포메이션 1"
+ACOT_PHANON_STARFIGHTERS_TEAM_2:  "포메이션 2"
+ACOT_PHANON_STARFIGHTERS_TEAM_3:  "포메이션 3"
+ 
+####################
+ 
+acot_star_destroyer:  "스타 디스트로이어"
+acot_star_destroyer_plural:  "스타 디스트로이어" 
+acot_star_destroyer_cap:  "스타 디스트로이어"
+acot_star_destroyer_cap_plural:  "스타 디스트로이어" 
+
+ACOT_DESTROYER_SPINAL:  "파논쿠커"
+ACOT_DESTROYER_BOW:  "파논쿠커"
+ACOT_DESTROYER_MID_1:  "파논쿠커"
+ACOT_DESTROYER_MID_2:  "파논쿠커"
+ACOT_DESTROYER_CORE:  "파논쿠커"
+ACOT_DESTROYER_STERN_DOWN:  "파논쿠커"
+ACOT_DESTROYER_STERN:  "파논쿠커"
+ACOT_DESTROYER_LEFT_WING:  "파논쿠커"
+ACOT_DESTROYER_RIGHT_WING:  "파논쿠커"
+
+tech_phanon_cruiser:  "군단 호위함 접근 코드"
+tech_phanon_cruiser_desc:  "스타 디스트로이어는 군단 함대 내에서 가장 작은 전함으로 보입니다. 그들은 소형 무기를 배치하고 소형 선박과 교전하고 피켓 임무를 지원할 것으로 예상됩니다. 하지만 그들은 여전히 ​​더 큰 선박과 싸울 수 있을 만큼 충분히 장비를 잘 갖추고 있습니다."
+
+####################
+ 
+acot_star_devastator:  "스타 데바스테이터"
+acot_star_devastator_plural:  "스타 데바스테이터"
+acot_star_devastator_cap:  "스타 데바스테이터"
+acot_star_devastator_cap_plural:  "스타 데바스테이터"
+
+ACOT_Phanon_BOW:  "파논쿠커"
+ACOT_Phanon_BOW_2:  "파논쿠커"
+ACOT_Phanon_MID:  "파논쿠커"
+ACOT_Phanon_MID_2:  "파논쿠커"
+ACOT_Phanon_CORE:  "파논쿠커"
+ACOT_Phanon_CORE_2:  "파논쿠커"
+ACOT_Phanon_HUB:  "파논쿠커"
+ACOT_Phanon_STERN:  "파논쿠커"
+ACOT_Phanon_STERN_2:  "파논쿠커"
+ 
+tech_phanon_bb:  "군단 본선 선박 액세스 코드"
+tech_phanon_bb_desc:  "스타 데바스테이터(Star Devastators)는 군단이 사용하는 주력 선박입니다. 그들은 공격과 방어 모두에 잘 갖추어져 있습니다. 데바스테이터는 군단의 비주력 함선 중 가장 큰 함선입니다."
+
+####################
+ 
+acot_star_decimator:  "스타 데시메이터"
+acot_star_decimator_plural:  "스타 데시메이터"
+acot_star_decimator_cap:  "스타 데시메이터"
+acot_star_decimator_cap_plural:  "스타 데시메이터"
+  
+ACOT_Phanon_BOW:  "파논쿠커"
+ACOT_Phanon_HANGAR:  "파논쿠커"
+ 
+####################
+ 
+acot_star_dominator:  "스타 지배자"
+acot_star_dominator_plural:  "스타 도미네이터"
+acot_star_dominator_cap:  "스타 지배자"
+acot_star_dominator_cap_plural:  "스타 도미네이터"
+ 
+ACOT_DOMINATOR_SPINAL_1:  "파논쿠커"
+ACOT_DOMINATOR_SPINAL_2:  "파논쿠커"
+ACOT_DOMINATOR_HAMMER_1:  "파논쿠커"
+ACOT_DOMINATOR_HAMMER_2:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_A1:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_A2:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_B1:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_B2:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_C1:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_C2:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_D1:  "파논쿠커"
+ACOT_DOMINATOR_TUBE_D2:  "파논쿠커"
+ACOT_DOMINATOR_LEFT:  "파논쿠커"
+ACOT_DOMINATOR_RIGHT:  "파논쿠커"
+ACOT_DOMINATOR_STERN_1:  "파논쿠커"
+ACOT_DOMINATOR_STERN_2:  "파논쿠커"
+ 
+tech_phanon_titan:  "군단 주력함 액세스 코드"
+tech_phanon_titan_desc:  "스타 도미네이터와 데시메이터는 모두 캐피탈 쉽으로 분류됩니다. 전자는 직접 공격에 적합하고 전자는 포병함으로 사용됩니다. 그들은 종종 군단에서 소규모 전투 그룹을 이끌기 위해 사용됩니다."
+
+####################
+ 
+acot_star_dominator_2:  "스타 도미네이터 II"
+acot_star_dominator_2_plural:  "하나는 Star Dominator II에 단순히 복수형을 추가하지 않습니다."
+acot_star_dominator_2_cap:  "스타 도미네이터 II"
+acot_star_dominator_2_cap_plural:  "하나는 Star Dominator II에 단순히 복수형을 추가하지 않습니다."
+ 
+ACOT_MEGANOUGHT_SPINAL_1:  "파논쿠커"
+ACOT_MEGANOUGHT_HAMMER_1:  "파논쿠커"
+ACOT_MEGANOUGHT_HAMMER_2:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_A1:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_A2:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_B1:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_B2:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_C1:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_C2:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_D1:  "파논쿠커"
+ACOT_MEGANOUGHT_TUBE_D2:  "파논쿠커"
+ACOT_MEGANOUGHT_LEFT:  "파논쿠커"
+ACOT_MEGANOUGHT_RIGHT:  "파논쿠커"
+ACOT_MEGANOUGHT_STERN_1:  "파논쿠커"
+ACOT_MEGANOUGHT_STERN_2:  "파논쿠커"
+ACOT_MEGANOUGHT_BOTTOM:  "파논쿠커"
+ 
+####################
+ 
+acot_star_annihilator:  "스타 어나힐레이터"
+acot_star_annihilator_plural:  "스타 어나힐레이터"
+acot_star_annihilator_cap:  "스타 어나힐레이터"
+acot_star_annihilator_cap_plural:  "스타 어나힐레이터"
+ 
+ACOT_ANNIHILATOR_SPINAL:  "파논쿠커"
+ACOT_ANNIHILATOR_HAMMER:  "파논쿠커"
+ACOT_ANNIHILATOR_WING:  "파논쿠커"
+ACOT_ANNIHILATOR_MID:  "파논쿠커"
+ACOT_ANNIHILATOR_HUB:  "파논쿠커"
+ACOT_ANNIHILATOR_STERN:  "파논쿠커"
+ACOT_ANNIHILATOR_NOUGHT:  "파논쿠커"
+ 
+tech_phanon_mothership:  "군단 기함 액세스 코드"
+tech_phanon_mothership_desc:  "처음에는 어나힐레이터(Annihilator)만이 군단의 기함으로 간주됩니다. Dominator II는 최근에야 더 적은 예산을 지출하려는 에이전트를 위한 보다 경제적인 대안으로 승격되었습니다. 두 함선 모두 에이전트가 레벨 2 은하계에 배치하도록 승인된 가장 큰 전통적인 군함입니다."
+
+####################
+ 
+acot_star_overwatcher:  "스타 오버워치"
+acot_star_overwatcher_plural:  "스타 오버워치"
+acot_star_overwatcher_cap:  "스타 오버워치"
+acot_star_overwatcher_cap_plural:  "스타 오버워치"
+ 
+ACOT_OVERWATCH_HUB:  "파논쿠커"
+ACOT_OVERWATCH_MID:  "파논쿠커"
+ACOT_OVERWATCH_HAMMER:  "파논쿠커"
+ 
+acot_star_overseer:  "별 감독관"
+acot_star_overseer_plural:  "스타 오버시어즈"
+acot_star_overseer_cap:  "별 감독관"
+acot_star_overseer_cap_plural:  "스타 오버시어즈"
+ 
+ACOT_OVERSEER_HUB:  "파논쿠커"
+ACOT_OVERSEER_MID:  "파논쿠커"
+ACOT_OVERSEER_EXTENSION:  "파논쿠커"
+ 
+acot_star_commander:  "파논 궤도 사령부"
+acot_star_commander_plural:  "파논 궤도 사령부"
+acot_star_commander_cap:  "파논 궤도 사령부"
+acot_star_commander_cap_plural:  "파논 궤도 사령부"
+  
+ACOT_COMMANDER_HUB:  "파논쿠커"
+ 
+acot_star_commander_portal:  "Phanon 궤도 게이트웨이"
+acot_star_commander_portal_plural:  "Phanon 궤도 게이트웨이"
+acot_star_commander_portal_cap:  "Phanon 궤도 게이트웨이"
+acot_star_commander_portal_cap_plural:  "Phanon 궤도 게이트웨이"
+
+acot_pmc_small_portal:  "파논 소형 웜홀"
+acot_pmc_small_portal_plural:  "파논 소형 웜홀"
+acot_pmc_small_portal_cap:  "파논 소형 웜홀"
+acot_pmc_small_portal_cap_plural:  "파논 소형 웜홀"
+
+acot_pmc_large_portal:  "파논 대형 웜홀"
+acot_pmc_large_portal_plural:  "파논 대형 웜홀"
+acot_pmc_large_portal_cap:  "파논 대형 웜홀"
+acot_pmc_large_portal_cap_plural:  "파논 대형 웜홀"
+
+tech_phanon_plat_m:  "경궤도 방어 접근 코드"
+tech_phanon_plat_m_desc:  "군단이 사용하는 중형 방어 기지로, 주로 범용 방어에 맞춰져 있습니다."
+
+tech_phanon_plat_l:  "중궤도 방어 접근 코드"
+tech_phanon_plat_l_desc:  "건설 비용이 많이 들지만 자체적으로 대부분의 침입자를 막아낼 수 있는 견고한 요새입니다."
+
+####################
+ 
+#### PHI TIER TECH #####
+ 
+### ENERGY - The Corps essentially channel Runic Power directly as an energy attack. To the unlearned plebs, they only links it to Psionics, hence the confusion.
+
+SMALL_ACOT_LASER_PE:  "소형 파이 레이저 캐논"
+MEDIUM_ACOT_LASER_PE:  "중형 파이 레이저 캐논"
+LARGE_ACOT_LASER_PE:  "대형 파이 레이저 캐논"
+ACOT_LASER_PE:  "파이 레이저 캐논"
+ACOT_LASER_PE_DESC:  "Corps Technology에서 리버스 엔지니어링된 몇 가지 새로운 템플릿과 결합된 Alpha Laser에 대해 우리가 알고 있는 것을 사용하여 Laser Cannon을 업데이트했습니다." ###THANOS
+tech_laser_pe:  "파이 레이저 캐논"
+tech_laser_pe_desc:  "Corps Technology에서 리버스 엔지니어링된 몇 가지 새로운 템플릿과 결합된 Alpha Laser에 대해 우리가 알고 있는 것을 사용하여 Laser Cannon을 업데이트했습니다."
+
+SMALL_ACOT_LASER_RE:  "소형 룬문자 레이저 캐논"
+MEDIUM_ACOT_LASER_RE:  "중형 룬문자 레이저 캐논"
+LARGE_ACOT_LASER_RE:  "대형 룬문자 레이저 캐논"
+ACOT_LASER_RE:  "룬문자 레이저 캐논"
+ACOT_LASER_RE_DESC:  "군단이 사용하는 레이저 캐논을 모방한 것입니다. 무결성을 유지하기 위해 원천 동력원의 부족을 보완하기 위해 더 많은 양의 합금이 추가되었습니다." ###THANOS
+tech_laser_re:  "룬문자 레이저 캐논"
+tech_laser_re_desc:  "군단이 사용하는 레이저 캐논을 모방한 것입니다. 무결성을 유지하기 위해 원천 동력원의 부족을 보완하기 위해 더 많은 양의 합금이 추가되었습니다."
+############
+SMALL_ACOT_AUTOLASER_PE:  "소형 파이 스코처 빔"
+MEDIUM_ACOT_AUTOLASER_PE:  "중형 파이 스코처 빔"
+LARGE_ACOT_AUTOLASER_PE:  "대형 파이 스코처 빔"
+ACOT_AUTOLASER_PE:  "파이 스코처 빔"
+ACOT_AUTOLASER_PE_DESC:  "Phi Scorcher Beams는 버터를 자르는 칼처럼 쉽게 갑옷과 선체를 녹입니다."
+SMALL_ACOT_AUTOLASER_MUTATION_PE:  "파이 스코처 빔"
+MEDIUM_ACOT_AUTOLASER_MUTATION_PE:  "파이 스코처 빔"
+LARGE_ACOT_AUTOLASER_MUTATION_PE:  "파이 스코처 빔"
+XL_ACOT_AUTOLASER_MUTATION_PE:  "파이 스코처 빔"
+ACOT_AUTOLASER_MUTATION_PE:  "파이 스코처 빔"
+ACOT_AUTOLASER_MUTATION_PE_DESC:  "Phi Scorcher Beams는 버터를 자르는 칼처럼 쉽게 갑옷과 선체를 녹입니다."
+tech_auto_laser_pe:  "파이 스코처 빔"
+tech_auto_laser_pe_desc:  "이 무기 제품군이 단순한 채광용 레이저에서 시작되었다는 사실을 되돌아보면 꽤 재미있습니다. 하지만 이제 우리는 가장 작은 패키지에 포함된 가장 무서운 대전차 무기 중 하나를 만들고 있습니다."
+
+SMALL_ACOT_AUTOLASER_RE:  "작은 룬 문자 스코처 빔"
+MEDIUM_ACOT_AUTOLASER_RE:  "중형 룬문자 스코처 빔"
+LARGE_ACOT_AUTOLASER_RE:  "대형 룬 문자 스코처 빔"
+ACOT_AUTOLASER_RE:  "룬 문자 스코처 빔"
+ACOT_AUTOLASER_RE_DESC:  "Runic Scorcher Beams는 버터를 자르는 칼처럼 쉽게 갑옷과 선체를 녹입니다."
+SMALL_ACOT_AUTOLASER_MUTATION_RE:  "룬 문자 스코처 빔"
+MEDIUM_ACOT_AUTOLASER_MUTATION_RE:  "룬 문자 스코처 빔"
+LARGE_ACOT_AUTOLASER_MUTATION_RE:  "룬 문자 스코처 빔"
+XL_ACOT_AUTOLASER_MUTATION_RE:  "룬 문자 스코처 빔"
+ACOT_AUTOLASER_MUTATION_RE:  "룬 문자 스코처 빔"
+ACOT_AUTOLASER_MUTATION_RE_DESC:  "Runic Scorcher Beams는 버터를 자르는 칼처럼 쉽게 갑옷과 선체를 녹입니다."
+tech_auto_laser_re:  "룬 문자 스코처 빔"
+tech_auto_laser_re_desc:  "이 무기 제품군이 단순한 채광용 레이저에서 시작되었다는 사실을 되돌아보면 꽤 재미있습니다. 하지만 이제 우리는 가장 작은 패키지에 포함된 가장 무서운 대전차 무기 중 하나를 만들고 있습니다."
+############
+SMALL_ACOT_PLASMA_PE:  "소형 파이 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_PE:  "중형 파이 플라즈마 캐논"
+LARGE_ACOT_PLASMA_PE:  "대형 파이 플라즈마 캐논"
+ACOT_PLASMA_PE:  "파이 플라즈마 캐논"
+ACOT_PLASMA_PE_DESC:  "군단의 플라즈마 무기를 만드는 데 어떤 물질이나 촉매가 사용되었는지는 아직 확인되지 않았습니다. 그러나 적어도 우리는 포탑 설계 자체에 대한 뛰어난 엔지니어링을 활용할 수 있습니다."
+tech_plasma_pe:  "파이 플라즈마 캐논"
+tech_plasma_pe_desc:  "군단의 플라즈마 무기를 만드는 데 어떤 물질이나 촉매가 사용되었는지는 아직 확인되지 않았습니다. 그러나 적어도 우리는 포탑 설계 자체에 대한 뛰어난 엔지니어링을 활용할 수 있습니다."
+
+SMALL_ACOT_PLASMA_RE:  "소형 룬문자 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_RE:  "중형 룬문자 플라즈마 캐논"
+LARGE_ACOT_PLASMA_RE:  "대형 룬문자 플라즈마 캐논"
+ACOT_PLASMA_RE:  "룬문자 플라즈마 캐논"
+ACOT_PLASMA_RE_DESC:  "군단 설계도를 기반으로 한 플라즈마 캐논의 최종 버전입니다. 사이오닉 에너지의 징후가 보임에도 불구하고 무기 자체는 그렇지 않습니다."
+tech_plasma_re:  "룬문자 플라즈마 캐논"
+tech_plasma_re_desc:  "군단 설계도를 기반으로 한 플라즈마 캐논의 최종 버전입니다. 사이오닉 에너지의 징후가 보임에도 불구하고 무기 자체는 그렇지 않습니다."
+############
+SMALL_ACOT_DISRUPTOR_PE:  "소형 파이 디스럽터 레이"
+MEDIUM_ACOT_DISRUPTOR_PE:  "중간 파이 방해선(Medium Phi Disruptor Ray)" 
+LARGE_ACOT_DISRUPTOR_PE:  "대형 파이 교란기 레이" 
+ACOT_DISRUPTOR_PE:  "파이 디스럽터 레이"
+ACOT_DISRUPTOR_PE_DESC:  "이 무기들은 차원적이고 불가사의한 기술을 기반으로 한다는 점에서 우리가 사용했던 것과 어느 정도 유사한 것 같습니다. 그러나 무기와 재료 설계에 대한 군단의 이해가 우리의 이해를 능가한다는 것은 분명합니다."
+tech_disruptor_pe:  "피 데졸레이터 레이"
+tech_disruptor_pe_desc:  "이 무기들은 차원적이고 불가사의한 기술을 기반으로 한다는 점에서 우리가 사용했던 것과 어느 정도 유사한 것 같습니다. 그러나 무기와 재료 설계에 대한 군단의 이해가 우리의 이해를 능가한다는 것은 분명합니다."
+
+SMALL_ACOT_DISRUPTOR_RE:  "작은 룬문자 황폐체 광선"
+MEDIUM_ACOT_DISRUPTOR_RE:  "중형 룬문자 황폐체 광선" 
+LARGE_ACOT_DISRUPTOR_RE:  "대형 룬문자 파괴자 광선" 
+ACOT_DISRUPTOR_RE:  "황폐화 광선"
+ACOT_DISRUPTOR_RE_DESC:  "완전히 구현된 Desolator Ray는 무기 시스템 자체를 위험에 빠뜨리지 않고 무기의 최대 성능을 허용합니다."
+tech_disruptor_re:  "룬문자 황폐자 광선"
+tech_disruptor_re_desc:  "완전히 구현된 Desolator Ray는 무기 시스템 자체를 위험에 빠뜨리지 않고 무기의 최대 성능을 허용합니다."
+
+SMALL_ACOT_DISRUPTOR_LANCE_PE:  "소형 파이 디스럽터 랜스"
+MEDIUM_ACOT_DISRUPTOR_LANCE_PE:  "중형 파이 디스럽터 랜스"
+LARGE_ACOT_DISRUPTO_LANCE_PE:  "대형 파이 디스럽터 랜스"
+ACOT_DISRUPTOR_LANCE_PE:  "파이 디스럽터 랜스"
+ACOT_DISRUPTOR_LANCE_PE_DESC:  "디스럽터 랜스는 훨씬 더 긴 도달 거리와 화력을 위해 단거리 효율성을 희생합니다."
+SMALL_ACOT_DISRUPTOR_LANCE_MUTATION_PE:  "파이 디스럽터 랜스"
+MEDIUM_ACOT_DISRUPTOR_LANCE_MUTATION_PE:  "파이 디스럽터 랜스"
+LARGE_ACOT_DISRUPTOR_LANCE_MUTATION_PE:  "파이 디스럽터 랜스"
+XL_ACOT_DISRUPTOR_LANCE_MUTATION_PE:  "파이 디스럽터 랜스"
+ACOT_DISRUPTOR_LANCE_MUTATION_PE:  "파이 디스럽터 랜스"
+ACOT_DISRUPTOR_LANCE_MUTATION_PE_DESC:  "디스럽터 랜스는 훨씬 더 긴 도달 거리와 화력을 위해 단거리 효율성을 희생합니다."
+tech_disruptor_lance_pe:  "파이 디스럽터 랜스"
+tech_disruptor_lance_pe_desc:  "더 나은 성능으로 초기 디스럽터 랜스 디자인을 업데이트했습니다."
+
+SMALL_ACOT_DISRUPTOR_LANCE_RE:  "소형 룬문자 교란기 창"
+MEDIUM_ACOT_DISRUPTOR_LANCE_RE:  "중형 룬 교란기 창"
+LARGE_ACOT_DISRUPTO_LANCE_RE:  "대형 룬 교란기 창"
+ACOT_DISRUPTOR_LANCE_RE:  "룬문자 교란기 창"
+ACOT_DISRUPTOR_LANCE_RE_DESC:  "디스럽터 랜스는 훨씬 더 긴 도달 거리와 화력을 위해 단거리 효율성을 희생합니다."
+SMALL_ACOT_DISRUPTOR_LANCE_MUTATION_RE:  "룬문자 교란기 창"
+MEDIUM_ACOT_DISRUPTOR_LANCE_MUTATION_RE:  "룬문자 교란기 창"
+LARGE_ACOT_DISRUPTOR_LANCE_MUTATION_RE:  "룬문자 교란기 창"
+XL_ACOT_DISRUPTOR_LANCE_MUTATION_RE:  "룬문자 교란기 창"
+ACOT_DISRUPTOR_LANCE_MUTATION_RE:  "룬문자 교란기 창"
+ACOT_DISRUPTOR_LANCE_MUTATION_RE_DESC:  "디스럽터 랜스는 훨씬 더 긴 도달 거리와 화력을 위해 단거리 효율성을 희생합니다."
+tech_disruptor_lance_re:  "룬문자 교란기 창"
+tech_disruptor_lance_re_desc:  "더 나은 성능으로 초기 디스럽터 랜스 디자인을 업데이트했습니다."
+
+############
+ACOT_ENERGY_CANNON_PE:  "파이 에너지 캐논"
+ACOT_ENERGY_CANNON_PE_DESC:  "유사한 개념을 가진 Phi 레이저 캐논의 업그레이드된 변형입니다."
+tech_energy_cannon_pe:  "파이 에너지 캐논"
+tech_energy_cannon_pe_desc:  "유사한 개념을 가진 Phi 레이저 캐논의 업그레이드된 변형입니다."
+
+ACOT_ENERGY_CANNON_RE:  "룬 에너지 대포"
+ACOT_ENERGY_CANNON_RE_DESC:  "필요한 합금의 증가는 불가피하지만 결과는 그 자체로 입증됩니다. 이 레이저 포병은 적의 장갑과 차체를 모두 파괴하는 놀라운 능력을 발휘합니다."
+tech_energy_cannon_re:  "룬 에너지 대포"
+tech_energy_cannon_re_desc:  "필요한 합금의 증가는 불가피하지만 결과는 그 자체로 입증됩니다. 이 레이저 포병은 적의 장갑과 차체를 모두 파괴하는 놀라운 능력을 발휘합니다."
+############
+ACOT_ENERGY_TORPEDO_PE:  "파이 플라즈마 어뢰포"
+ACOT_ENERGY_TORPEDO_MEDIUM_PE:  "파이 플라즈마 어뢰포"
+ACOT_ENERGY_TORPEDO_PE_DESC:  "이러한 에너지 어뢰의 폭발을 유발하는 데 사용되는 물질은 우리에게 알려져 있지 않지만, 군단이 발사 및 격리 메커니즘을 설계하는 방법에서 많은 것을 배울 수 있습니다."
+tech_energy_torpedo_pe:  "파이 에너지 어뢰"
+tech_energy_torpedo_pe_desc:  "이러한 에너지 어뢰의 폭발을 유발하는 데 사용되는 물질은 우리에게 알려져 있지 않지만, 군단이 발사 및 격리 메커니즘을 설계하는 방법에서 많은 것을 배울 수 있습니다."
+
+ACOT_ENERGY_TORPEDO_RE:  "룬 에너지 어뢰"
+ACOT_ENERGY_TORPEDO_MEDIUM_RE:  "룬 에너지 어뢰"
+ACOT_ENERGY_TORPEDO_RE_DESC:  "이 에너지 어뢰는 일종의 사이오닉 에너지를 담고 있는 것처럼 보이지만, 그 안에는 악의와 고통이 가득합니다. 너무 많아서 자신의 사이오닉 특성을 거부하는 것처럼 보입니다. 아니면 기업의 기술이 그것을 다른 종류로 변화시킬 수도 있을까요?"
+tech_energy_torpedo_re:  "룬 에너지 어뢰"
+tech_energy_torpedo_re_desc:  "이 에너지 어뢰는 일종의 사이오닉 에너지를 담고 있는 것처럼 보이지만, 그 안에는 악의와 고통이 가득합니다. 너무 많아서 자신의 사이오닉 특성을 거부하는 것처럼 보입니다. 아니면 기업의 기술이 그것을 다른 종류로 변화시킬 수도 있을까요?"
+############
+ACOT_POINT_DEFENSE_PD_PE:  "피피디에스(Phi PDS)"
+ACOT_POINT_DEFENSE_PD_PE_DESC:  "이러한 지점 방어는 성능을 높이기 위해 일종의 예지 시스템과 시간 조작의 징후에 의존하는 것처럼 보이지만 아직 완전히 이해하지 못했습니다."
+ACOT_POINT_DEFENSE_PE:  "피피디에스(Phi PDS)"
+SMALL_ACOT_POINT_DEFENSE_PE:  "피피디에스(Phi PDS)"
+MEDIUM_ACOT_POINT_DEFENSE_PE:  "피피디에스(Phi PDS)"
+ACOT_POINT_DEFENSE_PE_DESC:  "이러한 지점 방어는 성능을 높이기 위해 일종의 예지 시스템과 시간 조작의 징후에 의존하는 것처럼 보이지만 아직 완전히 이해하지 못했습니다."
+tech_point_defense_pe:  "피피디에스(Phi PDS)"
+tech_point_defense_pe_desc:  "이러한 지점 방어는 성능을 높이기 위해 일종의 예지 시스템과 시간 조작의 징후에 의존하는 것처럼 보이지만 아직 완전히 이해하지 못했습니다."
+
+ACOT_POINT_DEFENSE_PD_RE:  "룬 문자 PDS"
+ACOT_POINT_DEFENSE_PD_RE_DESC:  "다른 많은 룬 에너지 무기와 마찬가지로 이 무기도 피해를 입힐 뿐만 아니라 적의 방어를 추적하고 무효화하는 데 도움을 주기 위해 이상한 사이오닉 힘에 의존한다는 것이 이제 더욱 분명해졌습니다."
+ACOT_POINT_DEFENSE_RE:  "룬 문자 PDS"
+SMALL_ACOT_POINT_DEFENSE_RE:  "룬 문자 PDS"
+MEDIUM_ACOT_POINT_DEFENSE_RE:  "룬 문자 PDS"
+ACOT_POINT_DEFENSE_RE_DESC:  "다른 많은 룬 에너지 무기와 마찬가지로 이 무기도 피해를 입힐 뿐만 아니라 적의 방어를 추적하고 무효화하는 데 도움을 주기 위해 이상한 사이오닉 힘에 의존한다는 것이 이제 더욱 분명해졌습니다."
+tech_point_defense_re:  "룬 문자 PDS"
+tech_point_defense_re_desc:  "다른 많은 룬 에너지 무기와 마찬가지로 이 무기도 피해를 입힐 뿐만 아니라 적의 방어를 추적하고 무효화하는 데 도움을 주기 위해 이상한 사이오닉 힘에 의존한다는 것이 이제 더욱 분명해졌습니다."
+############
+
+### Kinetic - The actual projectiles used here are ancient runic tomestones filled with lingering presences of Phanon Imperium's souls, that of the First Men. This knowledge was given to the Corps by Urimurich. The engravings is the most important part as only the correct mark would resonate and link with the signatures of these dead souls, hence why it has to be specific.
+
+SMALL_ACOT_MASS_DRIVER_PE:  "파이 쇼크 캐논"
+MEDIUM_ACOT_MASS_DRIVER_PE:  "파이 쇼크 캐논"
+LARGE_ACOT_MASS_DRIVER_PE:  "파이 쇼크 캐논"
+ACOT_MASS_DRIVER_PE:  "파이 쇼크 캐논."
+ACOT_MASS_DRIVER_PE_DESC:  "놀랍게도 이러한 운동 발사체를 발사하는 데 사용되는 기술은 알파에서 사용하는 기술보다 훨씬 발전된 것 같지 않습니다. 그것들을 강력하게 만드는 것은 재료 자체에서 나오는 것 같습니다."
+tech_mass_driver_pe:  "파이 쇼크 캐논"
+tech_mass_driver_pe_desc:  "놀랍게도 이러한 운동 발사체를 발사하는 데 사용되는 기술은 알파에서 사용하는 기술보다 훨씬 발전된 것 같지 않습니다. 그것들을 강력하게 만드는 것은 재료 자체에서 나오는 것 같습니다."
+
+SMALL_ACOT_MASS_DRIVER_RE:  "룬문자 충격포"
+MEDIUM_ACOT_MASS_DRIVER_RE:  "룬문자 충격포"
+LARGE_ACOT_MASS_DRIVER_RE:  "룬문자 충격포"
+ACOT_MASS_DRIVER_RE:  "룬문자 충격포"
+ACOT_MASS_DRIVER_RE_DESC:  "우리의 이전 가정은 다소 부정확했습니다. 기술은 간단하지만 발사되는 발사체 유형에 직접적으로 작용하는 숨겨진 기능이 있는 것 같습니다. 이 이상하고 치명적인 고체 물질이 무엇이든 간에, 이 포탑에 의해 발사되면 따라 부르는 것처럼 보입니다. 이 조합은 원래 예상했던 것보다 더 강력한 힘을 지닌 훨씬 더 치명적인 무기를 만들어냅니다."
+tech_mass_driver_re:  "룬문자 충격포"
+tech_mass_driver_re_desc:  "우리의 이전 가정은 다소 부정확했습니다. 기술은 간단하지만 발사되는 발사체 유형에 직접적으로 작용하는 숨겨진 기능이 있는 것 같습니다. 이 이상하고 치명적인 고체 물질이 무엇이든 간에, 이 포탑에 의해 발사되면 따라 부르는 것처럼 보입니다. 이 조합은 원래 예상했던 것보다 더 강력한 힘을 지닌 훨씬 더 치명적인 무기를 만들어냅니다."
+############
+ACOT_AUTOCANNON_PE:  "소형 파이 자동포"
+MEDIUM_ACOT_AUTOCANNON_PE:  "중형 파이 자동포"
+LARGE_ACOT_AUTOCANNON_PE:  "대형 파이 자동포"
+ACOT_AUTOCANNON_PE_DESC:  "충격포에 사용된 것과 동일한 재료가 이 무기에도 나타납니다. 총은 단순하지만, 이 발사체의 뭔가가 으스스한 느낌을 줍니다."
+tech_autocannon_pe:  "파이 자동포"
+tech_autocannon_pe_desc:  "충격포에 사용된 것과 동일한 재료가 이 무기에도 나타납니다. 총은 단순하지만, 이 발사체의 뭔가가 으스스한 느낌을 줍니다." 
+
+ACOT_AUTOCANNON_RE:  "소형 룬문자 기관포"
+MEDIUM_ACOT_AUTOCANNON_RE:  "중형 룬문자 기관포"
+LARGE_ACOT_AUTOCANNON_RE:  "대형 룬문자 기관포"
+ACOT_AUTOCANNON_RE_DESC:  "전문가들은 이러한 물질이 사이오닉과 관련이 있으며, 그 섬뜩한 느낌은 사이오닉의 존재가 오래 지속되기 때문에 발생한다고 결론을 내리는 것 같습니다. 아마도 이것이 군단이 무기를 조작하기 위해 실제 사람을 거의 사용하지 않는 이유일까요?"
+tech_autocannon_re:  "룬문자 자동대포"
+tech_autocannon_re_desc:  "전문가들은 이러한 물질이 사이오닉과 관련이 있으며, 그 섬뜩한 느낌은 사이오닉의 존재가 오래 지속되기 때문에 발생한다고 결론을 내리는 것 같습니다. 아마도 이것이 군단이 무기를 조작하기 위해 실제 사람을 거의 사용하지 않는 이유일까요?"
+############
+ACOT_MACROCANNON_PE:  "파이 마크로캐논"
+ACOT_MACROCANNON_PE_MEDIUM:  "파이 마크로캐논"
+ACOT_MACROCANNON_PE_DESC:  "오토캐논과 마찬가지로 여기에도 이상한 재료가 사용됩니다. 하지만 더 혼란스럽기 때문에 화력이 월등합니다."
+tech_macrocannon_pe:  "파이 마크로캐논"
+tech_macrocannon_pe_desc:  "오토캐논과 마찬가지로 여기에도 이상한 재료가 사용됩니다. 하지만 더 혼란스럽기 때문에 화력이 월등합니다."
+
+ACOT_MACROCANNON_RE:  "룬문자 마크로캐논"
+ACOT_MACROCANNON_RE_MEDIUM:  "룬문자 마크로캐논"
+ACOT_MACROCANNON_RE_DESC:  "룬문자 마크로캐논"
+tech_macrocannon_re:  "룬문자 마크로캐논"
+tech_macrocannon_re_desc:  "더 많이 조사할수록 더 많은 질문이 생깁니다. 이러한 무기 시스템은 우리가 보유하고 있는 것보다 더 발전된 것으로 보이지 않으며, 이것이 바로 우리가 이를 복제할 수 있는 이유입니다. 그러나 이렇게 정확한 사양과 할당을 수행해야만 무기가 예상되는 화력을 제공할 수 있습니다. 더도 말고 덜도 말고..."
+############
+ACOT_ARTILLERY_PE:  "피 키네틱 포병"
+ACOT_ARTILLERY_PE_DESC:  "우리는 이 무기가 사이오닉과 관련되어 있다는 것을 알고 있지만, 사이오닉에 속하지 않는 속성도 보여줍니다. 그래도 군대가 사용하는 것을 막지는 못합니다."
+tech_kinetic_artillery_pe:  "피 포병"
+tech_kinetic_artillery_pe_desc:  "우리는 이 무기가 사이오닉과 관련되어 있다는 것을 알고 있지만, 사이오닉에 속하지 않는 속성도 보여줍니다. 그래도 군대가 사용하는 것을 막지는 못합니다."
+
+ACOT_ARTILLERY_RE:  "룬 포병"
+ACOT_ARTILLERY_RE_DESC:  "무기의 위력은 부인할 수 없습니다. 적절하게 응고된 리빙 메탈에 사용하더라도 기업의 발사체에 사용된 재료는 해당 물질을 삼켜버릴 수 있는 것으로 보입니다. 이것은 더 이상 평범한 운동 무기가 아닙니다."
+tech_kinetic_artillery_re:  "룬 포병"
+tech_kinetic_artillery_re_desc:  "무기의 위력은 부인할 수 없습니다. 적절하게 응고된 리빙 메탈에 사용하더라도 기업의 발사체에 사용된 재료는 해당 물질을 삼켜버릴 수 있는 것으로 보입니다. 이것은 더 이상 평범한 운동 무기가 아닙니다."
+############
+ACOT_FLAK_CANNON_PD_PE:  "피 KDS"
+ACOT_FLAK_CANNON_PD_PE_DESC:  "군단과 관련된 다른 것들과 마찬가지로 우리는 그들이 어떻게 작동하는지에 대해 거의 알지 못합니다. 우리가 할 수 있는 최선은 우리가 이해한 내용으로 작업하고 디자인을 개선하는 것입니다."
+ACOT_FLAK_CANNON_PE:  "피 KDS"
+SMALL_ACOT_FLAK_CANNON_PE:  "피 KDS"
+MEDIUM_ACOT_FLAK_CANNON_PE:  "미디엄 파이 KDS"
+ACOT_FLAK_CANNON_PE_DESC:  "군단과 관련된 다른 것들과 마찬가지로 우리는 그들이 어떻게 작동하는지에 대해 거의 알지 못합니다. 우리가 할 수 있는 최선은 우리가 이해한 내용으로 작업하고 디자인을 개선하는 것입니다."
+tech_flak_batteries_pe:  "피 KDS"
+tech_flak_batteries_pe_desc:  "군단과 관련된 다른 것들과 마찬가지로 우리는 그들이 어떻게 작동하는지에 대해 거의 알지 못합니다. 우리가 할 수 있는 최선은 우리가 이해한 내용으로 작업하고 디자인을 개선하는 것입니다."
+
+ACOT_FLAK_CANNON_PD_RE:  "룬문자 KDS"
+ACOT_FLAK_CANNON_PD_RE_DESC:  "너무 단순해 보이는 기술을 사용함에도 불구하고 군단이 어떻게 이러한 강력한 시스템을 만들 수 있는지 알아내는 데 수천 년은 아니더라도 수백 년이 걸릴 수 있습니다."
+ACOT_FLAK_CANNON_RE:  "룬문자 KDS"
+SMALL_ACOT_FLAK_CANNON_RE:  "룬문자 KDS"
+MEDIUM_ACOT_FLAK_CANNON_RE:  "중형 룬 문자 KDS"
+ACOT_FLAK_CANNON_RE_DESC:  "너무 단순해 보이는 기술을 사용함에도 불구하고 군단이 어떻게 이러한 강력한 시스템을 만들 수 있는지 알아내는 데 수천 년은 아니더라도 수백 년이 걸릴 수 있습니다."
+tech_flak_batteries_re:  "룬문자 KDS"
+tech_flak_batteries_re_desc:  "너무 단순해 보이는 기술을 사용함에도 불구하고 군단이 어떻게 이러한 강력한 시스템을 만들 수 있는지 알아내는 데 수천 년은 아니더라도 수백 년이 걸릴 수 있습니다."
+############
+
+### Kinetic - Phanon Missiles are just generally speaking, psionic guided. And they make use of a combination of mixtures that are more powerful than what can be found on pleb galaxies.
+
+ACOT_MISSILE_PE:  "피 미사일"
+MEDIUM_ACOT_MISSILE_PE:  "피 미사일"
+ACOT_MISSILE_PE_DESC:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+tech_missile_pe:  "피 미사일"
+tech_missile_pe_desc:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+
+ACOT_MISSILE_RE:  "룬문자 미사일"
+MEDIUM_ACOT_MISSILE_RE:  "룬문자 미사일"
+ACOT_MISSILE_RE_DESC:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+tech_missile_re:  "룬문자 미사일"
+tech_missile_re_desc:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+
+############
+
+ACOT_SWARMER_MISSILES_PE:  "파이 스워머 미사일"
+ACOT_SWARMER_MISSILES_PE_DESC:  "Phanon 유도 매트릭스에서 얻은 특수 알고리즘을 사용하여 우수한 재료, 추진기 및 약간 더 나은 탑재량을 통해 기존 클러스터 미사일을 개선했습니다."
+tech_swarmer_missile_pe:  "파이 스워머 미사일"
+tech_swarmer_missile_pe_desc:  "Phanon 유도 매트릭스에서 얻은 특수 알고리즘을 사용하여 우수한 재료, 추진기 및 약간 더 나은 탑재량을 통해 기존 클러스터 미사일을 개선했습니다."
+ 
+ACOT_SWARMER_MISSILES_RE:  "룬 문자 무리 미사일"
+ACOT_SWARMER_MISSILES_RE_DESC:  "다른 유도 발사체와 마찬가지로 이 미사일 클러스터는 조율된 표적 매트릭스와 사이오닉 시스템의 혼합을 통해 작동합니다. 혼합물은 또한 우수하지만, 그 진정한 출처는 아직 우리에게 알려지지 않았습니다."
+tech_swarmer_missile_re:  "룬 문자 무리 미사일"
+tech_swarmer_missile_re_desc:  "다른 유도 발사체와 마찬가지로 이 미사일 클러스터는 조율된 표적 매트릭스와 사이오닉 시스템의 혼합을 통해 작동합니다. 혼합물은 또한 우수하지만, 그 진정한 출처는 아직 우리에게 알려지지 않았습니다."
+
+############
+ACOT_TORPEDO_PE:  "피 어뢰"
+ACOT_TORPEDO_MEDIUM_PE:  "피 어뢰"
+ACOT_TORPEDO_PE_DESC:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+tech_torpedo_pe:  "피 어뢰"
+tech_torpedo_pe_desc:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+
+ACOT_TORPEDO_RE:  "룬문자 어뢰"
+ACOT_TORPEDO_MEDIUM_RE:  "룬문자 어뢰"
+ACOT_TORPEDO_RE_DESC:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+tech_torpedo_re:  "룬문자 어뢰"
+tech_torpedo_re_desc:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+
+############
+ACOT_CCM_PD_PE:  "파이 CMM"
+ACOT_CCM_PD_PE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+ACOT_CCM_PE:  "파이 CMM"
+SMALL_ACOT_CCM_PE:  "파이 CMM"
+MEDIUM_ACOT_CCM_PE:  "파이 CMM"
+ACOT_CCM_PE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+SMALL_ACOT_CCM_MUTATION_PE:  "파이 CMM"
+MEDIUM_ACOT_CCM_MUTATION_PE:  "파이 CMM"
+LARGE_ACOT_CCM_MUTATION_PE:  "파이 CMM"
+XL_ACOT_CCM_MUTATION_PE:  "파이 CMM"
+ACOT_CCM_MUTATION_PE:  "파이 CMM"
+ACOT_CCM_MUTATION_PE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+tech_ccm_pe:  "파이 CMM"
+tech_ccm_pe_desc:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+
+ACOT_CCM_PD_RE:  "룬 문자 CMM"
+ACOT_CCM_PD_RE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+ACOT_CCM_RE:  "룬 문자 CMM"
+SMALL_ACOT_CCM_RE:  "룬 문자 CMM"
+MEDIUM_ACOT_CCM_RE:  "룬 문자 CMM"
+ACOT_CCM_RE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+SMALL_ACOT_CCM_MUTATION_RE:  "룬 문자 CMM"
+MEDIUM_ACOT_CCM_MUTATION_RE:  "룬 문자 CMM"
+LARGE_ACOT_CCM_MUTATION_RE:  "룬 문자 CMM"
+XL_ACOT_CCM_MUTATION_RE:  "룬 문자 CMM"
+ACOT_CCM_MUTATION_RE:  "룬 문자 CMM"
+ACOT_CCM_MUTATION_RE_DESC:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+tech_ccm_re:  "룬 문자 CMM"
+tech_ccm_re_desc:  "CMM 시스템은 고속 정밀 미사일을 발사하여 들어오는 발사체와 타격 항공기를 파괴합니다. 전통적인 지점 방어보다 발사 속도는 느리지만 사거리와 화력이 뛰어납니다."
+
+############
+ACOT_MISSILE_BARRAGE_PE:  "피탄막 시스템"
+ACOT_MISSILE_BARRAGE_PE_DESC:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+tech_barrage_missile_pe:  "피탄막 시스템"
+tech_barrage_missile_pe_desc:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+
+ACOT_MISSILE_BARRAGE_RE:  "룬 공세 시스템"
+ACOT_MISSILE_BARRAGE_RE_DESC:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+tech_barrage_missile_re:  "룬 공세 시스템"
+tech_barrage_missile_re_desc:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+############
+ACOT_MISSILE_XL_PE:  "파이 미사일 랜스"
+ACOT_MISSILE_XL_PE_DESC:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+tech_xl_missile_pe:  "파이 미사일 랜스"
+tech_xl_missile_pe_desc:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+
+ACOT_MISSILE_XL_RE:  "룬문자 미사일 랜스"
+ACOT_MISSILE_XL_RE_DESC:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+tech_xl_missile_re:  "룬문자 미사일 랜스"
+tech_xl_missile_re_desc:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+############
+ACOT_MISSILE_NUKE_PE:  "피 기가-탄두 발사기"
+ACOT_MISSILE_NUKE_PE_DESC:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+tech_missile_nuke_pe:  "피 기가-탄두 발사기"
+tech_missile_nuke_pe_desc:  "파논의 미사일을 모방하려는 우리의 초기 시도. 그들은 우리가 알파에서 가졌던 것보다 더 빠르고 강력합니다. 우리는 군단이 사용하는 혼합물을 복제할 수 없기 때문에 우리가 가지고 있는 것으로 보상했습니다."
+
+ACOT_MISSILE_NUKE_RE:  "룬문자 기가탄두 발사기"
+ACOT_MISSILE_NUKE_RE_DESC:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+tech_missile_nuke_re:  "룬문자 기가탄두 발사기"
+tech_missile_nuke_re_desc:  "이 미사일은 일종의 사이오닉 시스템에 의해 유도되는 것으로 보이며, 이는 사용자의 사이오닉 지식이 필요하지 않습니다. 이 사실을 이해하면 폭발성 혼합물 자체를 더욱 강력하게 만들기 위해 추가 조정을 할 수 있습니다."
+############
+
+### Strikecrafts - Corps Strikecrafts is controlled by a Dutymen brain in addition to improved weaponry and usual VR interface.
+
+ACOT_FIGHTERS_HANGAR_PE:  "피 파이터스"
+ACOT_FIGHTERS_HANGAR_PE_DESC:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+tech_strike_craft_fighter_pe:  "피 파이터스"
+tech_strike_craft_fighter_pe_desc:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+
+ACOT_FIGHTERS_HANGAR_RE:  "룬 문자 전투기"
+ACOT_FIGHTERS_HANGAR_RE_DESC:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+tech_strike_craft_fighter_re:  "룬 문자 전투기"
+tech_strike_craft_fighter_re_desc:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+############
+ACOT_SCOUT_HANGAR_PE:  "파이 인터셉터"
+ACOT_SCOUT_HANGAR_PE_DESC:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+tech_strike_craft_scout_pe:  "파이 인터셉터"
+tech_strike_craft_scout_pe_desc:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+
+ACOT_SCOUT_HANGAR_RE:  "룬문자 요격기"
+ACOT_SCOUT_HANGAR_RE_DESC:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+tech_strike_craft_scout_re:  "룬문자 요격기"
+tech_strike_craft_scout_re_desc:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+############
+ACOT_BOMBERS_HANGAR_PE:  "피 폭격기"
+ACOT_BOMBERS_HANGAR_PE_DESC:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+tech_strike_craft_bomber_pe:  "피 폭격기"
+tech_strike_craft_bomber_pe_desc:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+
+ACOT_BOMBERS_HANGAR_RE:  "룬 문자 폭격기"
+ACOT_BOMBERS_HANGAR_RE_DESC:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+tech_strike_craft_bomber_re:  "룬 문자 폭격기"
+tech_strike_craft_bomber_re_desc:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+############
+ACOT_GUNSHIP_HANGAR_PE:  "피 건쉽"
+ACOT_GUNSHIP_HANGAR_PE_DESC:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+tech_strike_craft_gunship_pe:  "피 건쉽"
+tech_strike_craft_gunship_pe_desc:  "Phanon Design의 리버스 엔지니어링 공격기입니다. 여기에는 일종의 생체공학 컴퓨터가 통합되어 있습니다. 그러나 전반적으로 디자인 자체는 비슷한 단계의 일반적인 타격기 디자인과 크게 다르지 않습니다."
+
+ACOT_GUNSHIP_HANGAR_RE:  "룬문자 건쉽"
+ACOT_GUNSHIP_HANGAR_RE_DESC:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+tech_strike_craft_gunship_re:  "룬문자 건쉽"
+tech_strike_craft_gunship_re_desc:  "이제 일종의 생체공학 컴퓨터, 즉 서브루틴 컴퓨터 역할을 하는 근무자의 컴퓨터가 있다는 것이 분명해졌습니다. 이는 가상 조종사가 시스템과 인터페이스할 때 이상함을 경험하는 이유를 설명할 수 있습니다. 하지만 그 효과는 부인할 수 없습니다."
+############
+ACOT_PARTICLE_LANCE_PE:  "파이 에너지 랜스"
+ACOT_PARTICLE_LANCE_PE_DESC:  "파이 에너지 랜스"
+tech_energy_lance_pe:  "파이 에너지 랜스"
+tech_energy_lance_pe_desc:  "파이 에너지 랜스"
+
+ACOT_PARTICLE_LANCE_RE:  "룬 에너지 창"
+ACOT_PARTICLE_LANCE_RE_DESC:  "룬 에너지 창"
+tech_energy_lance_re:  "룬 에너지 창"
+tech_energy_lance_re_desc:  "룬 에너지 창"
+############
+ACOT_ARC_EMITTER_PE:  "파이 쇼크 이미터"
+ACOT_ARC_EMITTER_PE_DESC:  "파이 쇼크 이미터"
+tech_arc_emitter_pe:  "파이 이미터"
+tech_arc_emitter_pe_desc:  "파이 이미터"
+
+ACOT_ARC_EMITTER_RE:  "룬 방출기"
+ACOT_ARC_EMITTER_RE_DESC:  "룬 방출기"
+tech_arc_emitter_re:  "룬 방출기"
+tech_arc_emitter_re_desc:  "룬 방출기"
+############
+ACOT_MASS_ACCELERATOR_PE:  "파이 질량 가속기"
+ACOT_MASS_ACCELERATOR_PE_DESC:  "파이 질량 가속기"
+tech_mass_accelerator_pe:  "파이 질량 가속기"
+tech_mass_accelerator_pe_desc:  "파이 질량 가속기"
+
+ACOT_MASS_ACCELERATOR_RE:  "룬문자 가속기"
+ACOT_MASS_ACCELERATOR_RE_DESC:  "룬문자 가속기"
+tech_mass_accelerator_re:  "룬문자 가속기"
+tech_mass_accelerator_re_desc:  "룬문자 가속기"
+############
+ACOT_PERDITION_BEAM_PE:  "피 퍼디션 빔"
+ACOT_PERDITION_BEAM_PE_DESC:  "피 퍼디션 빔"
+tech_perdition_beam_pe:  "피 퍼디션 빔"
+tech_perdition_beam_pe_desc:  "피 퍼디션 빔"
+
+ACOT_PERDITION_BEAM_RE:  "룬빔"
+ACOT_PERDITION_BEAM_RE_DESC:  "룬빔"
+tech_perdition_beam_re:  "룬빔"
+tech_perdition_beam_re_desc:  "룬빔"
+############
+ACOT_TITAN_EMITTER_PE:  "파이 타이탄 이미터"
+ACOT_TITAN_EMITTER_PE_DESC:  "파이 타이탄 이미터"
+tech_titan_emitter_pe:  "파이 타이탄 이미터"
+tech_titan_emitter_pe_desc:  "파이 타이탄 이미터"
+
+ACOT_TITAN_EMITTER_RE:  "룬문자 타이탄 방출기"
+ACOT_TITAN_EMITTER_RE_DESC:  "룬문자 타이탄 방출기"
+tech_titan_emitter_re:  "룬문자 타이탄 방출기"
+tech_titan_emitter_re_desc:  "룬문자 타이탄 방출기"
+############
+ACOT_TITAN_ACCELERATOR_PE:  "타이탄 파이 가속포"
+ACOT_TITAN_ACCELERATOR_PE_DESC:  "타이탄 파이 가속포"
+tech_titan_accelerator_pe:  "타이탄 파이 가속포"
+tech_titan_accelerator_pe_desc:  "타이탄 파이 가속포"
+
+ACOT_TITAN_ACCELERATOR_RE:  "타이탄 룬 가속기 캐논"
+ACOT_TITAN_ACCELERATOR_RE_DESC:  "타이탄 룬 가속기 캐논"
+tech_titan_accelerator_re:  "타이탄 룬 가속기 캐논"
+tech_titan_accelerator_re_desc:  "타이탄 룬 가속기 캐논"
+ 
+############
+
+ACOT_PMC_YAMATO_CANNON:  "야마토 대포"
+ACOT_PMC_YAMATO_CANNON_DESC:  "야마토 대포"
+tech_pmc_yamato_cannon:  "야마토 대포"
+tech_pmc_yamato_cannon_desc:  "야마토 대포"
+ 
+ACOT_PHANON_DECIMATOR_CANNON:  "Ignem Aeternum"
+ACOT_PHANON_DECIMATOR_CANNON_DESC:  "Ignem Aeternum"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED:  "Ignem Aeternum"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED_DESC:  "Ignem Aeternum"
+acot_decimator_weapon_tt:  "대상과 동일한 함대에 속한 모든 선박에 §Y50,000 - 10,0000§!의 선체 피해를 줍니다."
+tech_pmc_decimator_beam:  "Ignem Aeternum"
+tech_pmc_decimator_beam_desc:  "Ignem Aeternum"
+ 
+############
+
+SMALL_ACOT_ENIGMATIC_SHIELD_PE:  "소형 파이 쉴드"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_PE:  "중간 파이 쉴드"
+LARGE_ACOT_ENIGMATIC_SHIELD_PE:  "대형 파이 쉴드"
+ACOT_ENIGMATIC_SHIELD_PE:  "파이 쉴즈"
+ACOT_ENIGMATIC_SHIELD_PE_DESC:  "파이 쉴즈"
+tech_dark_matter_deflector_pe:  "파이 쉴즈"
+tech_dark_matter_deflector_pe_desc:  "파이 쉴즈"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_RE:  "작은 룬 방패"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_RE:  "중형 룬 방패"
+LARGE_ACOT_ENIGMATIC_SHIELD_RE:  "대형 룬 방패"
+ACOT_ENIGMATIC_SHIELD_RE:  "룬문자 방패"
+ACOT_ENIGMATIC_SHIELD_RE_DESC:  "룬문자 방패"
+tech_dark_matter_deflector_re:  "룬문자 방패"
+tech_dark_matter_deflector_re_desc:  "룬문자 방패"
+ 
+############
+
+SMALL_ACOT_ARMOR_PE:  "작은 파이 키네틱 장벽"
+MEDIUM_ACOT_ARMOR_PE:  "중간 파이 키네틱 장벽"
+LARGE_ACOT_ARMOR_PE:  "대형 파이 키네틱 장벽"
+ACOT_ARMOR_PE:  "피 키네틱 장벽"
+ACOT_ARMOR_PE_DESC:  "피 키네틱 장벽"
+tech_armor_pe:  "피 키네틱 장벽"
+tech_armor_pe_desc:  "피 키네틱 장벽"
+
+
+SMALL_ACOT_ARMOR_RE:  "작은 룬 문자 역학 장벽"
+MEDIUM_ACOT_ARMOR_RE:  "중간 룬 문자 역학 장벽"
+LARGE_ACOT_ARMOR_RE:  "대형 룬 문자 역학 장벽"
+ACOT_ARMOR_RE:  "룬문자 역학 장벽"
+ACOT_ARMOR_RE_DESC:  "룬문자 역학 장벽"
+tech_armor_re:  "룬문자 역학 장벽"
+tech_armor_re_desc:  "룬문자 역학 장벽"
+ 
+############
+
+SMALL_ACOT_HULL_POWER_PE:  "소형 Phi HLP 도금"
+MEDIUM_ACOT_HULL_POWER_PE:  "중간 파이 HLP 도금"
+LARGE_ACOT_HULL_POWER_PE:  "대형 Phi HLP 도금"
+ACOT_HULL_POWER_PE:  "파이 HLP 도금"
+ACOT_HULL_POWER_PE_DESC:  "Hard-Light는 순수한 고체 빛으로 구성된 동적 소재입니다. 완전하게 형성되면 뉴트로늄보다 훨씬 더 밀도가 높고 단단합니다."
+tech_hull_power_pe:  "하드라이트 전력 도금"
+tech_hull_power_pe_desc:  "가장 독특한 개념 중 하나는 일석이조의 아이디어로 점점 더 까다로워지는 선박의 전력 소비 문제와 선박의 선체 무결성 문제를 동시에 해결한다는 것입니다. 과거에는 이러한 문제를 해결하려고 시도하면 일반적으로 비용이 크게 증가하거나 선박의 전체 물리적 형태가 변경되어 실행 불가능하게 되었습니다. 그러나 차원 공간을 약간만 조정하면 내구성을 높일 뿐만 아니라 함선의 하드포인트를 손상시키지 않으면서 강력한 발전기로도 사용할 수 있는 새로운 유형의 선체 장갑을 만드는 것이 가능할 것입니다."
+
+SMALL_ACOT_HULL_POWER_RE:  "작은 룬 문자 HLP 도금"
+MEDIUM_ACOT_HULL_POWER_RE:  "중간 룬 문자 HLP 도금"
+LARGE_ACOT_HULL_POWER_RE:  "대형 룬 문자 HLP 도금"
+ACOT_HULL_POWER_RE:  "룬 문자 HLP 도금"
+ACOT_HULL_POWER_RE_DESC:  "Hard-Light는 순수한 고체 빛으로 구성된 동적 소재입니다. 완전하게 형성되면 뉴트로늄보다 훨씬 더 밀도가 높고 단단합니다."
+tech_hull_power_re:  "하드라이트 전력 도금"
+tech_hull_power_re_desc:  "가장 독특한 개념 중 하나는 일석이조의 아이디어로 점점 더 까다로워지는 선박의 전력 소비 문제와 선박의 선체 무결성 문제를 동시에 해결한다는 것입니다. 과거에는 이러한 문제를 해결하려고 시도하면 일반적으로 비용이 크게 증가하거나 선박의 전체 물리적 형태가 변경되어 실행 불가능하게 되었습니다. 그러나 차원 공간을 약간만 조정하면 내구성을 높일 뿐만 아니라 함선의 하드포인트를 손상시키지 않으면서 강력한 발전기로도 사용할 수 있는 새로운 유형의 선체 장갑을 만드는 것이 가능할 것입니다."
+
+############
+
+SMALL_ACOT_ARMOR_HULL_RE:  "소형 사이브로스 헐"
+MEDIUM_ACOT_ARMOR_HULL_RE:  "중형 사이브로스 헐"
+LARGE_ACOT_ARMOR_HULL_RE:  "대형 사이브로스 헐"
+ACOT_ARMOR_HULL_RE:  "사이브로스 헐"
+ACOT_ARMOR_HULL_RE_DESC:  "사이브로스 헐"
+tech_armor_hull_re:  "사이브로스 헐"
+tech_armor_hull_re_desc:  "사이브로스 헐"
+ 
+############
+PE_OFFENSIVE_COMBAT_COMPUTER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_OFFENSIVE_COMBAT_COMPUTER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTERT_BATTLECRUISER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN:  "파이(Phi) 전투 분석 컴퓨터"
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_TITAN:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_TITAN_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH:  "파이(Phi) 전투 분석 컴퓨터"
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH:  "파이(Phi) 전투 분석 컴퓨터"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH:  "파이(Phi) 전투 분석 컴퓨터"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER:  "파이(Phi) 전투 분석 컴퓨터"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+
+PAC_COMBAT_COMPUTER_DEFENSE_PE:  "Phi 인터페이스 캐리어 컴퓨터(회피형)"
+PAC_COMBAT_COMPUTER_DEFENSE_PE_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+PAC_COMBAT_COMPUTER_OFFENSE_PE:  "Phi 인터페이스 캐리어 컴퓨터(고정식)"
+PAC_COMBAT_COMPUTER_OFFENSE_PE_DESC:  "파이(Phi) 전투 분석 컴퓨터"
+tech_computer_phi:  "파이(Phi) 전투 분석 컴퓨터"
+tech_computer_phi_desc:  "파이(Phi) 전투 분석 컴퓨터"
+TECH_UNLOCK_PHI_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! Phi 전투 분석 컴퓨터"
+TECH_UNLOCK_PHI_COMPUTER_TITLE_DESC:  "Phi 전투 분석 컴퓨터\n$PE_OFFENSIVE_COMBAT_COMPUTER_DESC$"
+
+RE_OFFENSIVE_COMBAT_COMPUTER:  "룬 문자 전투 분석 컴퓨터"
+RE_OFFENSIVE_COMBAT_COMPUTER_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "룬 문자 전투 분석 컴퓨터"
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN:  "룬 문자 전투 분석 컴퓨터"
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_TITAN:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_TITAN_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH:  "룬 문자 전투 분석 컴퓨터"
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH:  "룬 문자 전투 분석 컴퓨터"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH:  "룬 문자 전투 분석 컴퓨터"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER:  "룬 문자 전투 분석 컴퓨터"
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "룬 문자 전투 분석 컴퓨터"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER:  "룬 문자 전투 분석 컴퓨터"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_RE:  "룬 문자 전투 분석 컴퓨터"
+BASE_COMBAT_COMPUTER_COLOSSUS_RE_DESC:  "룬 문자 전투 분석 컴퓨터"
+HERCULEAN_COMBAT_COMPUTER_RE:  "룬 문자 전투 분석 컴퓨터"
+HERCULEAN_COMBAT_COMPUTER_RE_DESC:  "룬 문자 전투 분석 컴퓨터"
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_RE:  "룬 인터페이스 캐리어 컴퓨터(회피)"
+PAC_COMBAT_COMPUTER_DEFENSE_RE_DESC:  "룬 문자 전투 분석 컴퓨터"
+PAC_COMBAT_COMPUTER_OFFENSE_RE:  "룬 인터페이스 캐리어 컴퓨터(고정식)"
+PAC_COMBAT_COMPUTER_OFFENSE_RE_DESC:  "룬 문자 전투 분석 컴퓨터"
+tech_computer_runic:  "룬 문자 전투 분석 컴퓨터"
+tech_computer_runic_desc:  "룬 문자 전투 분석 컴퓨터"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! 룬 문자 전투 분석 컴퓨터"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE_DESC:  "룬 문자 전투 분석 컴퓨터\n$ENIGMATIC_DRIVE_PE_DESRE_DEFENSIVE_COMBAT_COMPUTER_DESCC$"
+ 
+############
+ACOT_ENIGMATIC_DRIVE_PE:  "파이 정밀 점프 드라이브"
+ACOT_ENIGMATIC_DRIVE_PE_DESC:  "파이 정밀 점프 드라이브"
+tech_enigmatic_drive_pe:  "피 변환기"
+tech_enigmatic_drive_pe_desc:  "피 변환기"
+TECH_UNLOCK_ENIG_DRIVE_PE:  "§H구성요소 잠금 해제:§! Phi Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE_PE_DESC:  "Phi Translocator 드라이브\n$ENIGMATIC_DRIVE_PE_DESC$"
+
+ACOT_ENIGMATIC_DRIVE_RE:  "룬문자 위치변환기"
+ACOT_ENIGMATIC_DRIVE_RE_DESC:  "룬문자 위치변환기"
+tech_enigmatic_drive_re:  "룬문자 위치변환기"
+tech_enigmatic_drive_re_desc:  "룬문자 위치변환기"
+TECH_UNLOCK_ENIG_DRIVE_RE:  "§H구성요소 잠금 해제:§! 룬문자 변환기 드라이브"
+TECH_UNLOCK_ENIG_DRIVE_RE_DESC:  "§H룬 문자 변환기 드라이브§!\n$ENIGMATIC_DRIVE_RE_DESC$"
+
+############
+ACOT_WEAPON_CORE_PE:  "파이 하이퍼믹스 무기 교정기"
+ACOT_WEAPON_CORE_PE_DESC:  "다른 전략적 자원을 함께 사용하면 다소 정통적이지는 않지만 선박의 무기 시스템에 대한 효과적인 보정을 생성할 수 있습니다. 그러나 이러한 시스템의 휘발성 혼합물은 선체 강도를 저하시킬 수 있습니다."
+tech_weapon_core_pe:  "파이 하이퍼믹스 무기 교정기"
+tech_weapon_core_pe_desc:  "다른 전략적 자원을 함께 사용하면 다소 정통적이지는 않지만 선박의 무기 시스템에 대한 효과적인 보정을 생성할 수 있습니다. 그러나 이러한 시스템의 휘발성 혼합물은 선체 강도를 저하시킬 수 있습니다."
+
+ACOT_WEAPON_CORE_RE:  "룬 문자 하이퍼믹스 무기 교정기"
+ACOT_WEAPON_CORE_RE_DESC:  "다른 전략적 자원을 함께 사용하면 다소 정통적이지는 않지만 선박의 무기 시스템에 대한 효과적인 보정을 생성할 수 있습니다. 그러나 이러한 시스템의 휘발성 혼합물은 선체 강도를 저하시킬 수 있습니다."
+tech_weapon_core_re:  "룬 문자 하이퍼믹스 무기 교정기"
+tech_weapon_core_re_desc:  "다른 전략적 자원을 함께 사용하면 다소 정통적이지는 않지만 선박의 무기 시스템에 대한 효과적인 보정을 생성할 수 있습니다. 그러나 이러한 시스템의 휘발성 혼합물은 선체 강도를 저하시킬 수 있습니다."
+############
+ACOT_WEAPON_EXPLOSIVE_CORE_PE:  "파이 폭발성 코어"
+ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC:  "파이 폭발성 코어"
+tech_missile_core_pe:  "파이 폭발성 코어"
+tech_missile_core_pe_desc:  "파이 폭발성 코어"
+
+ACOT_WEAPON_EXPLOSIVE_CORE_RE:  "룬문자 폭발핵"
+ACOT_WEAPON_EXPLOSIVE_CORE_RE_DESC:  "룬문자 폭발핵"
+tech_missile_core_re:  "룬문자 폭발핵"
+tech_missile_core_re_desc:  "룬문자 폭발핵"
+############
+ACOT_WEAPON_KINETIC_CORE_PE:  "파이 키네틱 인핸서"
+ACOT_WEAPON_KINETIC_CORE_PE_DESC:  "파이 키네틱 인핸서"
+tech_kinetic_core_pe:  "파이 키네틱 인핸서"
+tech_kinetic_core_pe_desc:  "파이 키네틱 인핸서"
+
+ACOT_WEAPON_KINETIC_CORE_RE:  "룬문자 키네틱 강화제"
+ACOT_WEAPON_KINETIC_CORE_RE_DESC:  "룬문자 키네틱 강화제"
+tech_kinetic_core_re:  "룬문자 키네틱 강화제"
+tech_kinetic_core_re_desc:  "룬문자 키네틱 강화제"
+############ 
+ACOT_WEAPON_ENERGY_CORE_PE:  "피 펩시스 코어"
+ACOT_WEAPON_ENERGY_CORE_PE_DESC:  "피 펩시스 코어"
+tech_energy_core_pe:  "피 펩시스 코어"
+tech_energy_core_pe_desc:  "피 펩시스 코어"
+
+ACOT_WEAPON_ENERGY_CORE_RE:  "룬닉 펩시스 코어"
+ACOT_WEAPON_ENERGY_CORE_RE_DESC:  "룬닉 펩시스 코어"
+tech_energy_core_re:  "룬닉 펩시스 코어"
+tech_energy_core_re_desc:  "룬닉 펩시스 코어"
+############ 
+ACOT_WEAPON_FIGHTER_CORE_PE:  "파이 강화 격납고 컴퓨터"
+ACOT_WEAPON_FIGHTER_CORE_PE_DESC:  "파이 강화 격납고 컴퓨터"
+tech_fighter_core_pe:  "파이 강화 격납고 컴퓨터"
+tech_fighter_core_pe_desc:  "파이 강화 격납고 컴퓨터"
+
+ACOT_WEAPON_FIGHTER_CORE_RE:  "룬문자 강화 격납고 컴퓨터"
+ACOT_WEAPON_FIGHTER_CORE_RE_DESC:  "룬문자 강화 격납고 컴퓨터"
+tech_fighter_core_re:  "룬문자 강화 격납고 컴퓨터"
+tech_fighter_core_re_desc:  "룬문자 강화 격납고 컴퓨터"
+############ 
+ACOT_SHIP_THRUSTER_PE:  "파이 추진기"
+ACOT_SHIP_THRUSTER_PE_DESC:  "파이 추진기"
+tech_thrusters_pe:  "파이 추진기"
+tech_thrusters_pe_desc:  "파이 추진기"
+TECH_UNLOCK_PE_THRUSTER_TITLE:  "파이 추진기"
+TECH_UNLOCK_PE_THRUSTER_DESC:  "파이 추진기"
+
+ACOT_SHIP_THRUSTER_RE:  "룬문자 추진기"
+ACOT_SHIP_THRUSTER_RE_DESC:  "룬문자 추진기"
+tech_thrusters_re:  "룬문자 추진기"
+tech_thrusters_re_desc:  "룬문자 추진기"
+TECH_UNLOCK_RE_THRUSTER_TITLE:  "룬문자 추진기"
+TECH_UNLOCK_RE_THRUSTER_DESC:  "룬문자 추진기"
+
+############
+ACOT_SENSOR_PE:  "파이 센서"
+ACOT_SENSOR_PE_DESC:  "이 센서 뒤에 있는 기술은 Alpha와 마찬가지로 Enigmatic 감지를 기반으로 하는 것처럼 보이지만 이상한 비밀을 품고 있는 것 같습니다. 마치 센서가 적이 있을 수 있는 위치뿐만 아니라...무엇이었을 수도 있었는지, 아니면 과거에는 어떠했는지도 보여주는 것처럼 말입니다."
+tech_sensor_pe:  "파이 바이오닉 센서"
+tech_sensor_pe_desc:  "이 센서 뒤에 있는 기술은 Alpha와 마찬가지로 Enigmatic 감지를 기반으로 하는 것처럼 보이지만 이상한 비밀을 품고 있는 것 같습니다. 마치 센서가 적이 있을 수 있는 위치뿐만 아니라...무엇이었을 수도 있었는지, 아니면 과거에는 어떠했는지도 보여주는 것처럼 말입니다."
+TECH_UNLOCK_PE_SENSOR_TITLE:  "§H구성요소 잠금 해제:§! Phi Bionic 센서"
+TECH_UNLOCK_PE_SENSOR_DESC:  "§HPhi Translocator 드라이브§!\n$PE_SENSOR_SHIP_DESC$"
+
+ACOT_SENSOR_RE:  "룬 센서"
+ACOT_SENSOR_RE_DESC:  "다소 단순한 장치에서 현실 너머의 비전과 광경을 보여줍니다. 과연 군단 장비에는 무슨 일이 벌어지고 있는 걸까요?"
+tech_sensor_re:  "룬 센서"
+tech_sensor_re_desc:  "다소 단순한 장치에서 현실 너머의 비전과 광경을 보여줍니다. 과연 군단 장비에는 무슨 일이 벌어지고 있는 걸까요?"
+TECH_UNLOCK_RE_SENSOR_TITLE:  "§H구성요소 잠금 해제:§! 룬 생체 공학 센서"
+TECH_UNLOCK_RE_SENSOR_DESC:  "§H룬 문자 변환기 드라이브§!\n$RE_SENSOR_SHIP_DESC$"
+############
+CORVETTE_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC:  "파이 원자로"
+DESTROYER_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+DESTROYER_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+CRUISER_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+CRUISER_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+BATTLESHIP_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+BATTLESHIP_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+TITAN_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+TITAN_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+COLOSSUS_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+COLOSSUS_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+PLATFORM_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+PLATFORM_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+ION_CANNON_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+ION_CANNON_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+STARBASE_DARK_MATTER_REACTOR_PE:  "파이 원자로"
+STARBASE_DARK_MATTER_REACTOR_PE_DESC:  "파이 원자로"
+tech_dark_matter_power_core_pe:  "파이 원자로"
+tech_dark_matter_power_core_pe_desc:  "우리는 현재 파논 군단이 어떤 종류의 동력원을 사용하고 있는지 이해할 수 없으며, 이를 복제할 수도 없습니다. 하지만 단순히 그들이 사물을 디자인하는 방식을 연구하는 것만으로도 우리 디자인을 개선할 수 있는 방법에 대한 많은 새로운 통찰력과 관점을 얻을 수 있었습니다."
+TECH_UNLOCK_DARK_MATTER_POWER_PE_TITLE:  "Phi-Tier 기술을 잠금 해제합니다."
+TECH_UNLOCK_DARK_MATTER_POWER_PE_DESC:  "Phi Tier는 Phanon Techs의 기본 응용 프로그램입니다. 여전히 암흑 물질과 암흑 에너지를 사용하지만 훨씬 더 많은 합금이 필요합니다."
+
+CORVETTE_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+DESTROYER_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+DESTROYER_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+CRUISER_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+CRUISER_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+BATTLESHIP_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+BATTLESHIP_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+TITAN_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+TITAN_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+COLOSSUS_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+COLOSSUS_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+PLATFORM_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+PLATFORM_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+ION_CANNON_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+ION_CANNON_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+STARBASE_DARK_MATTER_REACTOR_RE:  "룬 반응로"
+STARBASE_DARK_MATTER_REACTOR_RE_DESC:  "룬 반응로"
+tech_dark_matter_power_core_re:  "룬 반응로"
+tech_dark_matter_power_core_re_desc:  "Corp의 컴퓨터에서 발견된 기록을 바탕으로 우리는 그들이 휘두르는 힘이 룬이라는 것을 알게 됩니다. 사이오닉 능력과 어떤 관련이 있는 것 같습니다. 하지만 우리는 그 이상 아는 것이 거의 없으며, 우리가 만들 수 있는 것은 단순히 원본의 성능을 최대한 모방하는 복제 디자인뿐입니다."
+TECH_UNLOCK_DARK_MATTER_POWER_RE_TITLE:  "파논 룬 기술을 잠금 해제합니다."
+TECH_UNLOCK_DARK_MATTER_POWER_RE_DESC:  "룬 티어는 군단이 사용하는 것을 모방한 것입니다. 성능면에서는 군단이 사용하는 것과 동일하지만 아직 이해하는 것이 거의 없습니다."
+
+############
+ACOT_AFTERBURNERS_PE:  "피 애프터버너"
+ACOT_AFTERBURNERS_PE_DESC:  "피 애프터버너"
+ACOT_AFTERBURNERS_AURA_PE:  "파이 부분공간 증폭기"
+ACOT_AFTERBURNERS_AURA_PE_DESC:  "함대의 아광속 속도를 향상시키는 데 사용되는 특수 구성품입니다."
+tech_darkmatter_afterburners_pe:  "피 애프터버너"
+tech_darkmatter_afterburners_pe_desc:  "피 애프터버너"
+
+ACOT_AFTERBURNERS_RE:  "룬 문자 애프터버너"
+ACOT_AFTERBURNERS_RE_DESC:  "룬 문자 애프터버너"
+ACOT_AFTERBURNERS_AURA_RE:  "룬 문자 부분공간 증폭기"
+ACOT_AFTERBURNERS_AURA_RE_DESC:  "함대의 아광속 속도를 향상시키는 데 사용되는 특수 구성품입니다."
+tech_darkmatter_afterburners_re:  "룬 문자 애프터버너"
+tech_darkmatter_afterburners_re_desc:  "룬 문자 애프터버너"
+############
+ACOT_HYPERCHARGED_JUMPER_PE:  "파이 하이퍼드라이브 증폭기"
+ACOT_HYPERCHARGED_JUMPER_PE_DESC:  "파이 하이퍼드라이브 증폭기"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE:  "점프 안정기"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE_DESC:  "점프 안정기는 적절한 모듈을 갖춘 주력함에 설치하여 함대의 점프 범위를 늘릴 수 있습니다."
+tech_darkmatter_hyper_jump_drive_pe:  "파이 하이퍼드라이브 증폭기"
+tech_darkmatter_hyper_jump_drive_pe_desc:  "Phanon 하이퍼드라이브 앰프"
+
+ACOT_HYPERCHARGED_JUMPER_RE:  "룬문자 하이퍼드라이브 증폭기"
+ACOT_HYPERCHARGED_JUMPER_RE_DESC:  "룬문자 하이퍼드라이브 증폭기"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE:  "점프 안정기"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE_DESC:  "점프 안정기는 적절한 모듈을 갖춘 주력함에 설치하여 함대의 점프 범위를 늘릴 수 있습니다."
+tech_darkmatter_hyper_jump_drive_re:  "룬문자 하이퍼드라이브 증폭기"
+tech_darkmatter_hyper_jump_drive_re_desc:  "룬문자 하이퍼드라이브 증폭기"
+
+############
+ACOT_REPAIR_COUNTERMEASURES_PE:  "파이 대응 대책"
+ACOT_REPAIR_COUNTERMEASURES_PE_DESC:  "파이 대응 대책"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE:  "피 함대 RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE_DESC:  "함대를 지원하기 위해 대규모 RCD 네트워크를 수용하는 데 사용되는 특수 구성 요소입니다. 개별 선박의 RCD 시스템만큼 효율적이지는 않지만 대규모 선박에서는 상당히 유용할 수 있습니다."
+tech_darkmatter_reactive_drone_pe:  "파이 대응 대책"
+tech_darkmatter_reactive_drone_pe_desc:  "파이 대응 대책"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_REPAIR_COUNTERMEASURES_PE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_DESC:  "$ACOT_REPAIR_COUNTERMEASURES_PE_DESC$"
+
+ACOT_REPAIR_COUNTERMEASURES_RE:  "룬 반응 대응책"
+ACOT_REPAIR_COUNTERMEASURES_RE_DESC:  "룬 반응 대응책"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE:  "룬 함대 RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE_DESC:  "함대를 지원하기 위해 대규모 RCD 네트워크를 수용하는 데 사용되는 특수 구성 요소입니다. 개별 선박의 RCD 시스템만큼 효율적이지는 않지만 대규모 선박에서는 상당히 유용할 수 있습니다."
+tech_darkmatter_reactive_drone_re:  "룬 반응 대응책"
+tech_darkmatter_reactive_drone_re_desc:  "룬 반응 대응책"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_REPAIR_COUNTERMEASURES_RE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_DESC:  "$ACOT_REPAIR_COUNTERMEASURES_RE_DESC$"
+############
+ACOT_REACTOR_BOOSTER_PE:  "파이 부스터"
+ACOT_REACTOR_BOOSTER_PE_DESC:  "파이 부스터"
+ACOT_REACTOR_BOOSTER_AURA_PE:  "파이 수프라 증폭기"
+ACOT_REACTOR_BOOSTER_AURA_PE_DESC:  "일반적인 Aura 구성 요소 대신에 선박은 공간을 활용하여 추가 전원 공급 비용 없이 추가 APA를 설치할 수 있습니다."
+tech_darkmatter_reactor_booster_pe:  "파이 부스터"
+tech_darkmatter_reactor_booster_pe_desc:  "파이 부스터"
+
+ACOT_REACTOR_BOOSTER_RE:  "룬 부스터"
+ACOT_REACTOR_BOOSTER_RE_DESC:  "룬 부스터"
+ACOT_REACTOR_BOOSTER_AURA_RE:  "룬문자 수프라 증폭기"
+ACOT_REACTOR_BOOSTER_AURA_RE_DESC:  "일반적인 Aura 구성 요소 대신에 선박은 공간을 활용하여 추가 전원 공급 비용 없이 추가 APA를 설치할 수 있습니다."
+tech_darkmatter_reactor_booster_re:  "룬 부스터"
+tech_darkmatter_reactor_booster_re_desc:  "룬 부스터"
+############
+ACOT_SHIELD_BOOSTER_PE:  "파이 쉴드 증폭기"
+ACOT_SHIELD_BOOSTER_PE_DESC:  "파이 쉴드 증폭기"
+ACOT_SHIELD_BOOSTER_AURA_PE:  "파이 쉴드 스웜"
+ACOT_SHIELD_BOOSTER_AURA_PE_DESC:  "보다 광범위한 효과를 위해 국지적 힘을 희생하는 초강력 방패 보조 유닛의 특수 변형입니다."
+tech_darkmatter_shield_supercharger_pe:  "파이 쉴드 증폭기"
+tech_darkmatter_shield_supercharger_pe_desc:  "파이 쉴드 증폭기"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_SHIELD_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_DESC:  "$ACOT_SHIELD_BOOSTER_PE_DESC$"
+
+ACOT_SHIELD_BOOSTER_RE:  "룬문자 방패 증폭기"
+ACOT_SHIELD_BOOSTER_RE_DESC:  "룬문자 방패 증폭기"
+ACOT_SHIELD_BOOSTER_AURA_RE:  "룬문자 방패 떼"
+ACOT_SHIELD_BOOSTER_AURA_RE_DESC:  "보다 광범위한 효과를 위해 국지적 힘을 희생하는 초강력 방패 보조 유닛의 특수 변형입니다."
+tech_darkmatter_shield_supercharger_re:  "룬문자 방패 증폭기"
+tech_darkmatter_shield_supercharger_re_desc:  "룬문자 방패 증폭기"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_SHIELD_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_DESC:  "$ACOT_SHIELD_BOOSTER_RE_DESC$"
+ 
+############
+
+ACOT_ARMOR_BOOSTER_PE:  "파이 슈퍼차지 아머"
+ACOT_ARMOR_BOOSTER_PE_DESC:  "슈퍼차징 아머는 전력 소비를 희생하면서 함선의 보호막 생성기의 성능을 극도로 증가시킵니다."
+ACOT_ARMOR_BOOSTER_AURA_PE:  "피 키네틱 배리어 떼"
+ACOT_ARMOR_BOOSTER_AURA_PE_DESC:  "보다 광범위한 효과를 위해 국부적인 힘을 희생하는 키네틱 배리어 보조 유닛의 특수 변형입니다."
+tech_darkmatter_armor_supercharger_pe:  "파이 슈퍼차지 아머"
+tech_darkmatter_armor_supercharger_pe_desc:  "과급 장갑은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 극도로 증가시킵니다."
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_ARMOR_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_DESC:  "$ACOT_ARMOR_BOOSTER_PE_DESC$"
+
+ACOT_ARMOR_BOOSTER_RE:  "룬 문자 과충전 갑옷"
+ACOT_ARMOR_BOOSTER_RE_DESC:  "슈퍼차징 아머는 전력 소비를 희생하면서 함선의 보호막 생성기의 성능을 극도로 증가시킵니다."
+ACOT_ARMOR_BOOSTER_AURA_RE:  "룬문자 역학 방벽 떼"
+ACOT_ARMOR_BOOSTER_AURA_RE_DESC:  "보다 광범위한 효과를 위해 국부적인 힘을 희생하는 키네틱 배리어 보조 유닛의 특수 변형입니다."
+tech_darkmatter_armor_supercharger_re:  "룬 문자 과충전 갑옷"
+tech_darkmatter_armor_supercharger_re_desc:  "과급 장갑은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 극도로 증가시킵니다."
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_TITLE:  "§H구성요소 잠금 해제:§! $ACOT_ARMOR_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_DESC:  "$ACOT_ARMOR_BOOSTER_RE_DESC$"
+
+############
+ACOT_STARCHARTER_PE:  "피 스타차터"
+ACOT_STARCHARTER_PE_DESC:  "피 스타차터"
+ACOT_STARCHARTER_AURA_PE:  "파이 센트리 네트워크"
+ACOT_STARCHARTER_AURA_PE_DESC:  "함대의 추적을 전체적으로 증폭시키는 Star Charter 모듈의 대체 변형입니다."
+tech_darkmatter_star_charter_pe:  "파논 스타차터"
+tech_darkmatter_star_charter_pe_desc:  "파논 스타차터"
+
+ACOT_STARCHARTER_RE:  "룬문자 별표"
+ACOT_STARCHARTER_RE_DESC:  "룬문자 별표"
+ACOT_STARCHARTER_AURA_RE:  "룬문자 감시망"
+ACOT_STARCHARTER_AURA_RE_DESC:  "함대의 추적을 전체적으로 증폭시키는 Star Charter 모듈의 대체 변형입니다."
+tech_darkmatter_star_charter_re:  "룬문자 별표"
+tech_darkmatter_star_charter_re_desc:  "룬문자 별표"
+ 
+############
+ACOT_AURA_TECH_INHIBITOR_PE:  "파이 네트워크 억제제"
+ACOT_AURA_TECH_INHIBITOR_PE_DESC:  "파이 네트워크 억제제"
+tech_darkmatter_aura_energy_drainer_pe:  "파이 네트워크 억제제"
+tech_darkmatter_aura_energy_drainer_pe_desc:  "파이 네트워크 억제제"
+TECH_UNLOCK_ENERGY_DRAINER_PE_TITLE:  "§H구성요소 잠금 해제:§! Phi 네트워크 억제제"
+TECH_UNLOCK_ENERGY_DRAINER_PE_DESC:  "§HPhi 네트워크 억제제§!\n이 강력한 장치는 적 시스템을 방해하여 적 시스템의 힘을 빼앗아 아군 선박에 부여합니다. 당신의 모든 권한은 우리에게 속합니다."
+
+ACOT_AURA_TECH_INHIBITOR_RE:  "룬 네트워크 억제제"
+ACOT_AURA_TECH_INHIBITOR_RE_DESC:  "룬 네트워크 억제제"
+tech_darkmatter_aura_energy_drainer_re:  "룬 네트워크 억제제"
+tech_darkmatter_aura_energy_drainer_re_desc:  "룬 네트워크 억제제"
+TECH_UNLOCK_ENERGY_DRAINER_RE_TITLE:  "§H구성요소 잠금 해제:§! 룬 네트워크 억제제"
+TECH_UNLOCK_ENERGY_DRAINER_RE_DESC:  "§H룬 네트워크 억제제§!\n이 강력한 장치는 적 시스템을 방해하여 적 시스템의 힘을 빼앗아 아군 선박에 부여합니다. 당신의 모든 권한은 우리에게 속합니다."
+ 
+########## REVISED PHANON
+
+#### PHI TIER TECH #####
+ 
+tech_precursor_phanon_design_pe_1:  "예비 Phi Tech 분석"
+tech_precursor_phanon_design_pe_1_desc:  "Phanon Corp의 함대가 보여주는 압도적인 규모와 화력에도 불구하고 그들의 기술 중 상당수는 설계에 있어서 본질적으로 그렇게 난해하지 않은 것 같습니다. 그러나 대부분의 장비는 함선이 파괴되면 자폭하므로 분석할 수 있는 작은 잔해를 연구하는 것 외에는 할 수 없습니다."
+
+tech_precursor_phanon_design_pe_2:  "집중적인 파이테크 분석"
+tech_precursor_phanon_design_pe_2_desc:  "회수된 추가 파편과 잔해는 관찰된 파논 무기 시스템의 동작과 결합되어 우리가 그들의 기술에 대해 보다 집중적인 분석을 할 수 있게 해줍니다. 분명히, 우리는 아직 실제 동력원을 이해하는 데는 전혀 이르지 못했지만, 이것이 그들의 선박이 어떻게 작동하는지에 대한 추가적인 통찰력을 제공할 것이라고 확신합니다."
+
+tech_precursor_phanon_design_pe_3:  "파이테크 분석을 통해"
+tech_precursor_phanon_design_pe_3_desc:  "모든 데이터와 단편이 수집되면 파논 함선에 대한 최종 분석이 가능할 것입니다. 이를 통해 마침내 Phanon Corps에서 영감을 받은 Phi 기반 기술의 전체 스펙트럼을 만들 수 있게 되었습니다. 이 분석을 완료하면 기업의 신비한 힘에 대한 궁극적인 진정한 이해를 얻는 데 큰 도움이 될 것입니다."
+
+
+tech_darkmatter_stealth_generator_re:  "룬문자 스텔스 생성기"
+tech_darkmatter_stealth_generator_re_desc:  "더 나은 스텔스 기술은 많은 새롭고 흥미로운 전략으로 이어집니다. 머지않아 우리는 즉각적인 기습 공격을 넘어서 유용한 클로킹 메커니즘을 고안할 수 있을 것입니다."
+
+ACOT_CLOAKING_LIGHT_RE_TOOLTIP:  "§ELight Stealth Generator는 교전 중 실드 패널티가 없지만 제한된 클로킹 기능을 제공합니다.§!\n\n"
+ACOT_CLOAKING_HEAVY_RE_TOOLTIP:  "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R60%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$는 델타 등급 이상의 실드 증폭기 보조 구성요소를 장착한 경우 절반으로 줄일 수 있습니다.§!\n\n"
+
+ACOT_CLOAKING_LIGHT_RE:  "룬라이트 스텔스 생성기"
+ACOT_CLOAKING_LIGHT_RE_DESC:  "룬라이트 스텔스 생성기"
+ACOT_CLOAKING_FULL_RE:  "룬문자 슈퍼 스텔스 생성기"
+ACOT_CLOAKING_FULL_RE_DESC:  "룬문자 슈퍼 스텔스 생성기"
+
+################ MEGASTRUCTUR #############
+ 
+acot_phanon_dimensional_portal:  "파논 차원 거울"
+acot_phanon_dimensional_portal_DESC:  "파논 군단이 은하계 간 이동 네트워크를 구축하는 데 사용하는 것으로 보이는 대규모 단방향 차원 포털입니다. 파논 군단 본인들만이 사용할 수 있는 것 같습니다."
+ 
+acot_phanon_dimensional_portal_disabled:  "비활성화된 파논 차원 거울"
+acot_phanon_dimensional_portal_disabled_DESC:  "한때 파논 군단이 은하 간 이동 네트워크를 구축하기 위해 사용했던 대규모 단방향 차원 포털입니다. 거울은 이제 비활성화되어 군단이 이 은하계에 쉽게 진입하기 위해 거울을 사용하는 것을 방지합니다."
+
+acot_phanon_master_reactor_sphere:  "파논 스타 트래블러"
+acot_phanon_master_reactor_sphere_DESC:  "다양한 내부 거대 구조물을 수용하고 있는 것으로 보이며 파논 군단이 작전 기지를 구축하기 위해 은하계 사이를 이동하는 데 사용되는 것으로 추정되는 대규모 우주선입니다."
+ 
+#### PHANOROS DISTRUCTUS ######
+ 
+district_acot_phanon_command:  "Phanon Vault A-Zone 모듈"
+district_acot_phanon_command_plural:  "Phanon Vault A-Zone 모듈"
+district_acot_phanon_command_desc:  "A-Zone 모듈은 Vault 내부의 기본 구성인 것 같습니다. 이 구성을 사용하여 제작된 섹션은 거의 눈에 띄지 않는 유지 관리로 충분한 재료, 공급품 및 에너지 출력을 제공합니다."
+ 
+district_acot_phanon_data:  "Phanon Vault B-Zone 모듈"
+district_acot_phanon_data_plural:  "Phanon Vault B-Zone 모듈"
+district_acot_phanon_data_desc:  "이 구성은 Vault의 이 부분을 살아있는 바이오돔으로 변환하는 것으로 보입니다. 군단이 주로 자동화에 의존하고 있어 이와 같은 작업이 거의 필요하지 않다는 사실에도 불구하고 이 구역은 여전히 ​​사기 목적으로 포함될 가능성이 높습니다. 왜냐하면 군단과 은하계 간의 상호 작용이 일어나는 곳으로 보이기 때문입니다. 유지 관리 비용과 크기가 높기 때문에 기본 모듈로 사용해서는 안 됩니다."
+ 
+district_acot_phanon_vault:  "Phanon Vault C-Zone 모듈"
+district_acot_phanon_vault_plural:  "Phanon Vault C-Zone 모듈"
+district_acot_phanon_vault_desc:  "C-Zone Design은 일종의 보안 또는 방어 모듈처럼 보입니다. 섹션은 추가 순간이동 노드와 다수의 자동화된 방어 시스템으로 강화됩니다."
+ 
+#### BUILDING DERU ######
+ 
+building_phanon_tower:  "파논 사령부 본부"
+building_phanon_tower_desc:  "파논 사령부 본부"
+ 
+building_phanon_plant:  "파논 룬 필드"
+building_phanon_plant_desc:  "파논 룬 필드"
+ 
+building_phanon_vault:  "파논 스투디움"
+building_phanon_vault_desc:  "파논 스튜디움"
+ 
+building_phanon_lab:  "파논 비밀 작전"
+building_phanon_lab_desc:  "파논 비밀 작전"
+ 
+ 
+acot_modifier_vault_delay:  "Phonon Vault 잠금"
+acot_modifier_vault_delay_desc:  "우리는 가끔씩만 침해를 시도할 수 있습니다."
+ 
+acot_infiltrate_phanon_grid_fail_text:  "\n§R최소 3000개의 팝 유닛이 필요합니다.§!\n\n관리할 사람이 없이 Vault를 점령하는 것을 허용할 수 없습니다. 그렇지 않으면 군단이 침입자에게 몰래 들어가 제어 코드를 재설정할 수도 있습니다. 총격전에서 일부가 사망할 경우를 대비해 최소 §Y3000§!개의 팝 유닛이 필요합니다.§!"
+
+decision_acot_infiltrate_phanon_grid:  "무한 복도 폭행"
+decision_acot_infiltrate_phanon_grid_desc:  "금고실을 열라는 명령을 내리고 무한의 복도로 내려갑니다. 그곳에서 군대는 승리를 위해 보안 시스템과 박스형 방어군에 맞서 싸워야 합니다. 공격이 실패하면 군단이 금고를 우리 통제에서 탈환할 기회를 잡을 수도 있다는 점을 명심하세요!"
+ 
+decision_acot_infiltrate_phanon_grid_rival:  "무한 복도 장악"
+decision_acot_infiltrate_phanon_grid_rival_desc:  "금고실을 열라는 명령을 내리고 무한의 회랑으로 내려갑니다. 그곳에서 군대는 승리를 위해 파논 군단의 마지막 박스형 방어군과 싸워야 합니다. 공격이 실패하면 군단이 금고를 우리 통제에서 탈환할 기회를 잡을 수도 있다는 점을 명심하세요!"
+
+decision_acot_infiltrate_phanon_grid_stage_two:  "무한 복도 폭행"
+decision_acot_infiltrate_phanon_grid_stage_two_desc:  "금고실을 열라는 명령을 내리고 무한의 복도로 내려갑니다. 그곳에서 군대는 승리를 위해 보안 시스템과 박스형 방어군에 맞서 싸워야 합니다. 공격이 실패하면 군단이 금고를 우리 통제에서 탈환할 기회를 잡을 수도 있다는 점을 명심하세요!"
+ 
+decision_acot_infiltrate_phanon_grid_stage_three:  "무한 복도 폭행"
+decision_acot_infiltrate_phanon_grid_stage_three_desc:  "금고실을 열라는 명령을 내리고 무한의 복도로 내려갑니다. 그곳에서 군대는 승리를 위해 보안 시스템과 박스형 방어군에 맞서 싸워야 합니다. 공격이 실패하면 군단이 금고를 우리 통제에서 탈환할 기회를 잡을 수도 있다는 점을 명심하세요!"
+
+decision_acot_infiltrate_phanon_grid_stage_four:  "무한 복도 폭행"
+decision_acot_infiltrate_phanon_grid_stage_four_desc:  "금고실을 열라는 명령을 내리고 무한의 복도로 내려갑니다. 그곳에서 군대는 승리를 위해 보안 시스템과 박스형 방어군에 맞서 싸워야 합니다. 공격이 실패하면 군단이 금고를 우리 통제에서 탈환할 기회를 잡을 수도 있다는 점을 명심하세요!"
+#### TRAITS AND CIVICS ######
+ 
+RT_PHANON:  "C형 오퍼레이터"
+RT_PHANON:  "C형 오퍼레이터"
+ 
+gov_acot_phanon_corps:  "은하계 준군사 서비스"
+gov_acot_phanon_corps_desc:  "이 세력은 제국이 아니라 은하계에 영향을 미치는 강력한 제3자 준군사 세력으로 존재합니다."
+ 
+civic_acot_phanon_corps:  "파논 군단"
+civic_acot_phanon_corps_desc:  "파논 군단은 미지의 지식과 힘을 지닌 수수께끼의 중립 세력이다."
+ 
+civic_acot_phanon_fleet:  "불굴의 함대"
+civic_acot_phanon_fleet_desc:  "파논 군단의 함대는 최고의 성능을 요구하는 엄격한 규정을 유지합니다."
+ 
+leader_trait_acot_phanon_admiral:  "파논 오퍼레이티브 유형 A"
+leader_trait_acot_phanon_admiral_desc:  "A형 요원은 우주 전투와 전투 리더십에 맞춰져 있습니다."
+ 
+name_list_Phanon:  "파논"
+name_list_Phanon_desc:  "Phanon Corps는 역할에 따라 요원의 이름을 지정합니다.\n\nC 유형 = 사령관\nA 유형 = 제독\nG 유형 = 장군\nS 유형 = 과학자\nM 유형 = 관리자"
+ 
+######## ARMY #############
+
+tech_phanon_army:  "Phanon Dutymen 액세스 코드"
+tech_phanon_army_desc:  "파논 군단(Phanon Corps)이 부르는 이 "듀티맨(Dutymen)"은 단 하나의 목표를 가진 일종의 유전적으로 만들어진 슈퍼솔저 클론인 것으로 보입니다. 군단에 봉사하기 위해. 우리는 이러한 슈퍼군인을 만드는 데 어떤 종류의 유전적 구성이나 강화가 사용되었는지 확인할 수 없지만, 생산 시설에 대한 액세스 코드를 얻는 데 성공했습니다. 하지만 그들과 함께 무엇인가를 하기 전에, 듀티맨들이 우리를 공격하지 않도록 해야 합니다."
+
+acot_phanon_army:  "파논 듀티맨 트루퍼"
+acot_phanon_army_plural:  "파논 듀티맨 트루퍼스"
+acot_phanon_army_desc:  "Corp의 신비한 템플릿을 기반으로 유전적으로 강화된 슈퍼솔져 클론 군대입니다. 그들은 우리의 명령에만 응답하도록 수정되었으며 틀림없이 대부분의 표준 보병보다 우수합니다. 그들은 여전히 ​​기본적인 감정을 느낄 수 있습니다. 즉, 여전히 사기에 영향을 받을 수 있으며 우월한 적군에 맞서 패배할 것입니다. 트루퍼는 중갑을 착용하고 매우 다재다능하며 악용 가능한 약점이 없습니다."
+ 
+acot_phanon_army_sniper:  "파논 듀티맨 스나이퍼"
+acot_phanon_army_sniper_plural:  "파논 듀티맨 스나이퍼스"
+acot_phanon_army_sniper_desc:  "Corp의 신비한 템플릿을 기반으로 유전적으로 강화된 슈퍼솔져 클론 군대입니다. 그들은 우리의 명령에만 응답하도록 수정되었으며 틀림없이 대부분의 표준 보병보다 우수합니다. 그들은 여전히 ​​기본적인 감정을 느낄 수 있습니다. 즉, 여전히 사기에 영향을 받을 수 있으며 우월한 적군에 맞서 패배할 것입니다. 스나이퍼는 방어력이 약하지만 적군을 선별하는 데 탁월하고 뛰어난 사격술로 사기를 저하시켜 표준 보병 부대에 비해 탁월합니다."
+
+tech_phanon_army_elite:  "Phanon Elite Dutymen 액세스 코드"
+tech_phanon_army_elite_desc:  "Vault 깊은 곳에서 더 많은 액세스 코드가 발견되었습니다. 이 코드를 통해 우리는 더욱 강력한 파괴력을 지닌 듀티멘의 더 무겁고 강력한 변종을 획득할 수 있을 것입니다."
+ 
+acot_phanon_elite:  "파논 듀티맨 엘리트"
+acot_phanon_elite_plural:  "파논 듀티맨 엘리트"
+acot_phanon_elite_desc:  "엘리트는 트루퍼에 비해 우수한 갑옷과 무기를 보유하고 있습니다. 그들은 훨씬 더 발전된 생체공학 전투복을 입고 있음에도 불구하고 현대의 엑소슈트 보병과 유사하게 작동합니다. 두 개의 Phanon 유전자 코드를 사용합니다."
+
+acot_phanon_tank:  "파논 패트리어트 탱크"
+acot_phanon_tank_plural:  "파논 패트리어트 탱크"
+acot_phanon_tank_desc:  "전통적인 탱크 섀시 디자인의 강점과 워커 기반 디자인의 일부 요소를 결합한 독특한 모양의 탱크입니다. 이들의 파괴 능력은 너무 커서 볼트 자체를 방어하기 위해 배치되지 않는 이유를 설명할 수 있습니다. 세 개의 파논 유전자 코드를 사용합니다."
+
+tech_phanon_army_repeatable:  "파논 듀티맨 재보급"
+tech_phanon_army_repeatable_desc:  "우리는 Phanon Dutymen 클론의 수를 거의 소진했으며, 더 많은 것을 획득하려면 그들의 유전자 코드를 연구하고 재고를 확보하기 위한 방법을 모색해야 합니다."
+
+decision_recruit_phanon_dog:  "Phanon 테러 드론 요청"
+decision_recruit_phanon_dog_desc:  "스타 벤더에 주둔하는 파논 어택트 독 3개 부대를 고용하세요."
+
+acot_phanon_attack_dog:  "파논 테러 드론"
+acot_phanon_attack_dog_plural:  "파논 테러 드론"
+acot_phanon_attack_dog_desc:  "놀랍도록 뛰어난 전장 지능을 갖춘 강력한 자동 개 모양 드론입니다. 이들은 적 진형을 파괴하고 차량 내부를 파괴하는 데 탁월합니다."
+ 
+acot_phanon_attack_mammoth:  "파논 테러 터스크"
+acot_phanon_attack_mammoth_plural:  "파논 테러 엄니"
+acot_phanon_attack_mammoth_desc:  "거대한 크기와 위력으로 적의 요새를 돌파하는 데 사용되는 강력한 매머드 모양의 자동 드론입니다."
+
+tech_phanon_attack_dog:  "파논 워마키나 액세스 코드"
+tech_phanon_attack_dog_desc:  "이 War Machina는 Dutymen의 인간형 클론과는 달리 매우 독특한 동물적 디자인과 모양을 가지고 있으며, 이는 그들이 Corp의 영토 내에서 발견된 일부 종을 모델로 했을 수 있음을 시사합니다. 목적에 있어서는 듀티맨의 소모성 기계 변형으로 더 많이 사용되는 것으로 보입니다. 그러나 마감 기한은 취약한 성격을 보완합니다."
+
+tech_phanon_attack_dog_repeatable:  "파논 워마키나 재보급"
+tech_phanon_attack_dog_repeatable_desc:  "우리는 파논 워마키나의 수를 거의 소진했으며, 더 많은 것을 획득하려면 더 많은 구성 요소와 유전 코드를 확보하여 이를 복구할 수 있는 방법을 모색해야 합니다."
+
+acot_phanon_operative:  "파논 필드 오퍼레이터 유형 A"
+acot_phanon_operative_plural:  "현장요원 A형"
+acot_phanon_operative_desc:  "쌍으로 배치된 파논 현장 요원은 아마도 현장에서 가장 강력한 전투력 중 하나일 것이며, 거의 모든 종류의 상황에 대응할 수 있고 직접 전투, 방해 공작, 은밀함, 암살, 심지어 유혹까지 다양한 전략을 수행할 수 있습니다. 현장 요원은 대부분의 군단 병력과 달리 다양한 성격, 정체성 및 외모로 맞춤 구성됩니다. 하지만 모두 똑같이 치명적입니다.\n\nA형 요원은 정밀 공격, 사보타주, 심리전에 능합니다. 그들은 일반적으로 목표를 달성하기 위해 비파괴 무기를 사용합니다."
+ 
+acot_phanon_operative_type_b:  "파논 필드 오퍼레이터 유형 B"
+acot_phanon_operative_type_b_plural:  "현장요원 B형"
+acot_phanon_operative_type_b_desc:  "쌍으로 배치된 파논 현장 요원은 아마도 현장에서 가장 강력한 전투력 중 하나일 것이며, 거의 모든 종류의 상황에 대응할 수 있고 직접 전투, 방해 공작, 은밀함, 암살, 심지어 유혹까지 다양한 전략을 수행할 수 있습니다. 현장 요원은 대부분의 군단 병력과 달리 다양한 성격, 정체성 및 외모로 맞춤 구성됩니다. 하지만 모두 똑같이 치명적입니다.\n\nB형 요원은 정면 공격, 지역적 피해 및 파괴 집중에 뛰어나므로 기계 또는 전투에 탁월하므로 부수적 피해는 걱정할 필요가 없습니다."
+
+tech_phanon_operative:  "Phanon 현장 운영 연구"
+tech_phanon_operative_desc:  "아마도 군단 군대의 가장 신비하면서도 무섭도록 강력한 비밀 중 하나인 현장 요원은 모든 침입자에 대한 최종 방어 역할을 합니다. 그들은 본질적으로 생물학적 요소와 기계적 요소를 모두 갖고 있는 것처럼 보이지만 아마도 가장 눈에 띄는 특징은 형태보다 정교한 패션 디자인일 것입니다. 각 요원은 맞춤 제작된 복장을 갖고 있으며 시각적으로 상당히 구별되어 전투 이외의 다양한 다른 임무에도 복무할 수 있음을 시사합니다.\n\n디자인에 관계없이 그들은 여전히 ​​극도로 치명적인 전투원이며 그들이 들고 있는 외양은 그들이 사용할 수 있는 많은 무기고를 기만적으로 숨기고 있으며 그들이 입는 복장은 놀라울 정도로 내구성이 뛰어나며 재질은 일부 차량의 장갑보다 훨씬 강하면서도 무게는 매우 가볍습니다. 코드를 해독하는 것은 어려울 것이며 Vault에는 요원이 3명만 남아 있습니다."
+ 
+tech_phanon_operative_repeatable:  "파논 수술 재건"
+tech_phanon_operative_repeatable_desc:  "활성화할 요원이 남아 있지 않은 상황에서 더 많은 정보를 얻을 수 있는 유일한 방법은 데이터를 연구하고 새 템플릿을 만드는 것입니다. 내장된 보안 시스템이 유전자 템플릿을 재구성하려는 시도를 할 때마다 우리의 작업을 더 어렵게 만들기 때문에 이는 쉬운 작업이 아닙니다."
+ 
+######## DEFENDER #############
+ 
+acot_phanon_defense_soldier:  "파논 듀티맨"
+acot_phanon_defense_soldier_plural:  "파논 듀티맨"
+acot_phanon_defense_soldier_desc:  "남성과 여성에 대한 의무 요구. 의무는 수행되어야 합니다. 콜 오브 듀티이기 때문이다."
+ 
+acot_phanon_defense_elite:  "파논 엘리트"
+acot_phanon_defense_elite_plural:  "파논 엘리트"
+acot_phanon_defense_elite_desc:  "기병 분대! 좋아요. 알겠습니다. 확인해 보겠습니다."
+ 
+acot_phanon_defense_psi:  "파논 사이코만도"
+acot_phanon_defense_psi_plural:  "파논 사이코만도스"
+acot_phanon_defense_psi_desc:  "심령 준비가되었습니다. 나는 당신의 생각을 알고 있습니다. 받은 생각. 그 사람 마음이 약해요!"
+ 
+acot_phanon_defense_commander:  "파논 장교"
+acot_phanon_defense_commander_plural:  "파논 임원"
+acot_phanon_defense_commander_desc:  "<포인트> 모르 발라텐! 불쌍한 목표!"
+ 
+acot_phanon_defense_droid:  "파논 건 디펜더"
+acot_phanon_defense_droid_plural:  "파논 총 수비수"
+acot_phanon_defense_droid_desc:  "수비수 유닛. 우리의 적을 식별하십시오. 청취. 파논의 경우. 허용되는 위치."
+ 
+acot_phanon_defense_droid_commando:  "파논 코만도 디펜더"
+acot_phanon_defense_droid_commando_plural:  "파논 코만도 디펜더스"
+acot_phanon_defense_droid_commando_desc:  "당신의 전화? 실행 중...Phanon용. 우리무리히의 의지로. 우리는 군단에 봉사합니다. 적을 삭제하는 중입니다."
+ 
+acot_phanon_defense_droid_shielder:  "파논 이지스 디펜더"
+acot_phanon_defense_droid_shielder_plural:  "파논 이지스 디펜더스"
+acot_phanon_defense_droid_shielder_desc:  "완전 차폐. 우리는 어떻게 봉사할 수 있습니까? 누구도 우리를 통과하지 못할 것입니다. 원인을 위해. 벡터를 업데이트하는 중입니다. 굴절 대물렌즈."
+ 
+acot_phanon_defense_droid_commander:  "파논 커맨드 디펜더"
+acot_phanon_defense_droid_commander_plural:  "파논 사령부 수비수"
+acot_phanon_defense_droid_commander_desc:  "청취. 오늘 우리는 누구를 파멸시킬 것인가? 커맨드 링크가 구축되었습니다. 주문을 위해 대기 중입니다. 우리의 의지는 파논입니다. 우리무리히가 우리를 안내합니다."
+ 
+acot_phanon_defense_xenomorph:  "파논 강화 제노모프"
+acot_phanon_defense_xenomorph_plural:  "PhanPhanon 강화된 이종형"
+acot_phanon_defense_xenomorph_desc:  "일부 알려지지 않은 사이오닉 장치가 접목된 강력하게 강화된 실험적 이종형입니다. 그들은 매우 공격적이고 변덕스럽기 때문에 오랫동안 유순하게 있을 수는 없습니다."
+
+acot_phanon_defense_attack_dog:  "파논 공격견"
+acot_phanon_defense_attack_dog_plural:  "파논 공격견"
+acot_phanon_defense_attack_dog_desc:  "발톱 준비. 어디를 공격할까요? 우리의 먹이는 누구입니까? 아주 좋습니다. 가는 중입니다. 길은 분명해질 것입니다. 탈출 금지."
+ 
+acot_phanon_defense_turret:  "파논 센트리 건"
+acot_phanon_defense_turret_plural:  "파논 센트리 건"
+acot_phanon_defense_turret_desc:  "<삐> 침입자가 감지되었습니다. <삐> 적대적인 모습이 보입니다. <삐> 대상이 선택되었습니다. <삐> 커버를 제거합니다. <삐> 화력 지원을 제공합니다."
+ 
+acot_phanon_defense_trap:  "파논 데스 트랩"
+acot_phanon_defense_trap_plural:  "파논 데스 트랩"
+acot_phanon_defense_trap_desc:  "<삐> <삐> <삐> <삐> <삐> <삐> <BOOOOM>"
+ 
+ 
+acot_phanon_defense_operative:  "파논 현장 요원"
+acot_phanon_defense_operative_plural:  "파논 현장 요원"
+acot_phanon_defense_operative_desc:  "쌍으로 배치된 파논 현장 요원은 아마도 현장에서 가장 강력한 전투력 중 하나일 것이며, 거의 모든 종류의 상황에 대응할 수 있고 직접 전투, 방해 공작, 은밀함, 암살, 심지어 유혹까지 다양한 전략을 수행할 수 있습니다. 현장 요원은 대부분의 군단 병력과 달리 다양한 성격, 정체성 및 외모로 맞춤 구성됩니다. 하지만 모두 똑같이 치명적입니다.\n\n현장 작전팀은 FTL이 가능한 개인 공격기로 배치됩니다. 할당된 작업에 실패한 경우 개인 작업으로 후퇴할 수 있습니다."
+ 
+acot.sophia.dating_sim.title:  "어둠의 순간"
+acot.sophia.dating_sim.desc:  "소피아 씨, 바디베개로 변신시켜드릴까요?"
+
+####################### 6
+
+ACOT_PHI_CORVETTE_MID_S6:  "§C피 피켓 코르벳§!"
+ACOT_PHI_CORVETTE_MID_M2S2:  "§CPhi 다용도 코르벳함§!"
+ACOT_PHI_CORVETTE_MID_M3:  "§C파이 건쉽 코르벳§!"
+ACOT_PHI_CORVETTE_MID_L1M1:  "§C파이 포병 코르벳함§!"
+ACOT_PHI_CORVETTE_MID_M1H1:  "§C피 격납고 코르벳함§!"
+
+####################### 6
+
+ACOT_PHI_FRIGATE_MID_G3:  "§C파이 중어뢰 호위함§!"
+ACOT_PHI_FRIGATE_MID_M1G2:  "§C피 전투 프리깃§!"
+ACOT_PHI_FRIGATE_MID_S4G1:  "§C파이 지원 호위함§!"
+
+####################### 8 + 6
+
+ACOT_PHI_DESTROYER_BOW_M1S6:  "§C피켓 활§!"
+ACOT_PHI_DESTROYER_BOW_M4:  "§C피 건쉽 활§!"
+ACOT_PHI_DESTROYER_BOW_L1M2:  "§C피 포병 활§!"
+ACOT_PHI_DESTROYER_BOW_S2G3:  "§C파이 어뢰 활§!"
+ACOT_PHI_DESTROYER_BOW_S4H1:  "§C피 격납고 활§!"
+
+ACOT_PHI_DESTROYER_STERN_S6:  "§C피 피켓 스턴§!"
+ACOT_PHI_DESTROYER_STERN_M3:  "§C피 건쉽 스턴§!"
+ACOT_PHI_DESTROYER_STERN_L1M1:  "§C피 포병 선미§!" 
+ACOT_PHI_DESTROYER_STERN_S2G2:  "§C피 어뢰 스턴§!"
+ACOT_PHI_DESTROYER_STERN_M1H1:  "§C피 행거 스턴§!"
+
+####################### 10 + 12 + 8
+
+ACOT_PHI_CRUISER_BOW_M2S6:  "§C피 크루저 건쉽 활§!"
+ACOT_PHI_CRUISER_BOW_M5:  "§C피 크루저 브로드사이드 보우§!"
+ACOT_PHI_CRUISER_BOW_L2M1:  "§C피 순양함 포병 활§!"
+ACOT_PHI_CRUISER_BOW_S4G3:  "§C파이 크루저 어뢰 활§!"
+ACOT_PHI_CRUISER_BOW_S2H2:  "§C피 크루저 격납고 활§!"
+
+ACOT_PHI_CRUISER_MID_M3S6:  "§C파이 크루저 건쉽 코어§!"
+ACOT_PHI_CRUISER_MID_M5:  "§CPhi Cruiser 브로드사이드 코어§!"
+ACOT_PHI_CRUISER_MID_L2M2:  "§C피 순양함 포병 코어§!"
+ACOT_PHI_CRUISER_MID_S4G4:  "§C파이 크루저 어뢰 코어§!"
+ACOT_PHI_CRUISER_MID_S6H2:  "§C피 크루저 행거 코어§!"
+
+ACOT_PHI_CRUISER_STERN_M1S6:  "§C피 크루저 건쉽 스턴§!"
+ACOT_PHI_CRUISER_STERN_M4:  "§C피 크루저 브로드사이드 스턴§!"
+ACOT_PHI_CRUISER_STERN_L2:  "§C피 순양함 포병 선미§!"
+ACOT_PHI_CRUISER_STERN_S4G2:  "§C피 순양함 어뢰 선미§!"
+ACOT_PHI_CRUISER_STERN_H2:  "§C피 순양함 격납고 스턴§!" 
+
+####################### 20 + 24 + 16
+
+ACOT_PHI_BATTLESHIP_BOW_L2M4S4:  "§C피 전함 브로드사이드 보우§!"
+ACOT_PHI_BATTLESHIP_BOW_L4M2:  "§C피 전함 포병 활§!"
+ACOT_PHI_BATTLESHIP_BOW_X2L1:  "§C파이 전함 척추궁§!"
+ACOT_PHI_BATTLESHIP_BOW_L2S4G4:  "§C파이 전함 어뢰활§!"
+ACOT_PHI_BATTLESHIP_BOW_M2S4H3:  "§C피 전함 격납고 활§!"
+
+ACOT_PHI_BATTLESHIP_MID_L3M6:  "§C파이 전함 브로드사이드 코어§!"
+ACOT_PHI_BATTLESHIP_MID_L6:  "§C피 전함 포병 코어§!"
+ACOT_PHI_BATTLESHIP_MID_L3G6:  "§C파이 전함 어뢰 코어§!"
+ACOT_PHI_BATTLESHIP_MID_M6H3:  "§C파이 전함 격납고 코어§!"
+ACOT_PHI_BATTLESHIP_MID_S4H5:  "§C파이 전함 캐리어 코어§!"
+
+ACOT_PHI_BATTLESHIP_STERN_M8:  "§C피 전함 브로드사이드 스턴§!" 
+ACOT_PHI_BATTLESHIP_STERN_L4:  "§C피 전함 포병 선미§!"
+ACOT_PHI_BATTLESHIP_STERN_X2:  "§C피 전함 공성파괴자 스턴§!"
+ACOT_PHI_BATTLESHIP_STERN_M4G4:  "§C피 전함 어뢰 선미§!"
+ACOT_PHI_BATTLESHIP_STERN_S4H3:  "§C피 전함 격납고 스턴§!" 
+
+####################### 48 + 48 + 32
+
+ACOT_PHI_TITAN_BOW_T3:  "§C피 타이탄 삼중 척추 활§!"
+ACOT_PHI_TITAN_BOW_X3L6:  "§C피 타이탄 포병 활§!"
+ACOT_PHI_TITAN_BOW_X6:  "§C파이 타이탄 헥사 코일 활§!"
+ACOT_PHI_TITAN_BOW_X2G12:  "§C피 타이탄 어뢰활§!"
+ACOT_PHI_TITAN_BOW_X2H8:  "§C피 타이탄 캐리어 보우§!"
+
+ACOT_PHI_TITAN_MID_L12:  "§C피 타이탄 포병 코어§!"
+ACOT_PHI_TITAN_MID_XL6:  "§C피타이탄 공성파괴자 코어§!"
+ACOT_PHI_TITAN_MID_L8G8:  "§C피 타이탄 어뢰 코어§!"
+ACOT_PHI_TITAN_MID_L6H6:  "§C피 타이탄 격납고 코어§!"
+ACOT_PHI_TITAN_MID_M4H10:  "§C파이 타이탄 캐리어 코어§!"
+
+ACOT_PHI_TITAN_STERN_X2L4:  "§C피 타이탄 포병 선미§!"
+ACOT_PHI_TITAN_STERN_X4:  "§C피 타이탄 공성파괴자 스턴§!"
+ACOT_PHI_TITAN_STERN_L4G8:  "§C피 타이탄 어뢰 선미§!"
+ACOT_PHI_TITAN_STERN_L4H4:  "§C피 타이탄 격납고 스턴§!"
+ACOT_PHI_TITAN_STERN_H8:  "§C파이 타이탄 항공모함 스턴§!"
+
+#######################
+
+ACOT_PHI_SHIP_COLOSSUS_SECTION:  "§CPhi Colossus Phalious Palous§!"
+
+#######################
+
+ACOT_PHI_CORE_JUGGERNAUT_SECTION:  "§CPhi Standard Juggernaut§!"
+ACOT_PHI_CORE_JUGGERNAUT_L_SECTION:  "§C파이 배틀 저거너트§!"
+ACOT_PHI_CORE_JUGGERNAUT_XL_SECTION:  "§C피 시즈 저거너트§!"
+
+#######################
+
+ACOT_PHI_PLATFORM_2M8S:  "§C피켓 섹션§!"
+ACOT_PHI_PLATFORM_6M:  "§C피 쿠마야키 섹션§!"
+ACOT_PHI_PLATFORM_6G:  "§C파이 어뢰 섹션§!"
+ACOT_PHI_PLATFORM_3L:  "§C피 포병대§!"
+ACOT_PHI_PLATFORM_3H:  "§C피 격납고 섹션§!"
+
+ACOT_PHI_PLATFORM_LARGE_1L4M8S:  "§C피켓 섹션§!" 
+ACOT_PHI_PLATFORM_LARGE_2L8M:  "§C피 쿠마야키 섹션§!" 
+ACOT_PHI_PLATFORM_LARGE_2L4G4M:  "§C파이 어뢰 섹션§!" 
+ACOT_PHI_PLATFORM_LARGE_6L:  "§C피 포병대§!" 
+ACOT_PHI_PLATFORM_LARGE_6H:  "§C피 격납고 섹션§!" 
+ACOT_PHI_PLATFORM_LARGE_4XL:  "§CPhi Siege Defender 섹션§!" 
+
+#######################
+
+ACOT_PHI_ION_CANNON_3T:  "§C피 트윈 아치-척추 대포§!"
+ACOT_PHI_ION_CANNON_6XL:  "§C파이 쿼드 척추 대포§!"
+ACOT_PHI_ION_CANNON_1T4XL:  "§C파이 다이나믹 캐논§!"
+ACOT_PHI_ION_CANNON_12H:  "§C피두퍼 격납고 철도§!"

@@ -1,0 +1,39 @@
+﻿l_korean:
+
+###################################################################################
+
+jumpstarted_exp_development:  "생체 공학 시뮬레이션 프로토콜 적용"
+ 
+return_to_menu:  "기본 옵션으로 돌아가기"
+ 
+acot_special_menu.3.title:  "활성화 챔버"
+acot_special_menu.3.desc:  "더 빠르게. 의미. 더 나은. 더 강해졌습니다."
+acot_special_menu.3.1.name:  "생물학적 리더의 부정적인 특성을 제거합니다."
+acot_special_menu.3.1.explain:  "이 프로세스는 리더가 최적의 성과를 내는 데 방해가 되는 어리석고 쓸모없는 특성을 모두 제거한 다음 이러한 멍청한 특성을 긍정적인 특성으로 대체합니다.\n\n§Y현재는 바닐라 부정적인 특성만 지원합니다.§!"
+not_has_shitty_leaders:  "지금은 멍청한 리더가 없어요. 먼저 누군가 정신병의 징후를 보일 때까지 기다려야 해요."
+ 
+acot_special_menu.3.2.name:  "바이오닉 인터페이스 시뮬레이션 프로토콜."
+acot_special_menu.3.2.explain:  "이 과정을 거치면 모든 생물학적 리더에게 즉시 §Y2500§! 상당의 경험치가 부여됩니다. 레벨 6 이상인 모든 생물학자는 §Y천재의 불꽃§! 특성도 얻습니다."
+too_soon_to_do_that_nub:  "Bionic 인터페이스 시뮬레이션은 리더들에게 많은 부담을 줍니다. 일단 시작되면 프로세스를 다시 수행하기 전에 때때로 휴식을 취해야 합니다."
+ 
+acot_special_menu.4.title:  "나노조립"
+acot_special_menu.4.desc:  "지능적이지만 인공적이지 않습니다."
+acot_special_menu.4.1.name:  "기계 리더의 부정적인 특성을 제거합니다."
+acot_special_menu.4.1.explain:  "이 프로세스는 리더가 최적의 성과를 낼 수 있는 능력을 방해하는 어리석고 쓸모없는 오작동을 모두 제거한 다음 이러한 멍청한 특성을 긍정적인 특성으로 대체합니다.\n\n§Y현재는 바닐라 부정적인 특성만 지원합니다.§!"
+not_has_shitty_leaders_machine:  "지금은 끔찍한 지도자가 없습니다. 누군가 먼저 부패의 조짐을 보일 때까지 기다려야합니다."
+ 
+ 
+acot_special_menu.4.2.a:  "불멸 프로토콜 활성화"
+acot_special_menu.4.2.a.tooltip:  "프로토콜이 활성화되는 동안 우리의 기계 지도자들은 기억을 보존하고 종료 시 부활할 것입니다. 그러나 이로 인해 유지 비용이 크게 증가하고 우리의 영향력이 고갈됩니다.\n\n리더가 파기되었는지 아니면 단순히 서비스에서 해고되었는지 여부는 시스템에서 식별할 수 없다는 점에 유의하세요. 프로토콜은 관계없이 실행됩니다."
+acot_special_menu.4.2.b:  "불멸 프로토콜 비활성화"
+acot_special_menu.4.2.b.tooltip:  "우리 지도자들은 해임될 때까지 자신의 역할을 수행할 것입니다. 그런 다음 새 것으로 교체합니다. 모든 것이 영원히 지속될 수는 없습니다."
+ 
+ 
+resurface_protocol:  "불멸 프로토콜 가동"
+resurface_protocol_desc:  "영원한 서비스."
+ 
+acot_special_menu.50.title:  "불멸 프로토콜 가동"
+acot_special_menu.50.desc:  "우리 리더 중 한 명인 [From.GetName]님이 해고되었습니다. 하지만 불멸 프로토콜이 시행 중이므로 [From.GetName]을(를) 다시 재건할 수 있습니다.\n\n그러나 시스템은 [From.GetName]이(가) 파괴되었는지 아니면 무죄로 해고되었는지 여부를 분류할 수 없습니다.\n\n이 리더를 부활시킬까요?"
+acot_special_menu.50.a:  "그렇습니다. 우리는 [From.GetName]을(를) 재구축할 것입니다. 우리는 기술을 보유하고 있습니다."
+acot_special_menu.50.a.explain:  "리더를 부활시키겠습니다. 해고된 리더에게는 이것을 사용하지 마십시오."
+acot_special_menu.50.b:  "부정적입니다. [From.GetName]은 우리에게 짜증나고 쓸모가 없습니다. 더 나은 모델을 얻게 될 것입니다."

@@ -1,0 +1,338 @@
+﻿l_korean:
+
+### ENGLISH LOCALIZATION
+ 
+acot_active:  "§G활성§!"
+acot_inactive:  "§R비활성§!"
+
+acot_mod_options.0.name:  "고대 기술 캐시에 오신 것을 환영합니다!"
+## NONE
+acot_mod_options.0.desc:  "ACOT에 오신 것을 환영합니다. 이 팝업은 ACOT가 성공적으로 초기화되었음을 알리기 위해 표시됩니다. 게임을 시작하기 전에 설정을 변경하려면 아래 옵션을 선택하세요(나중에 칙령 메뉴에서 다시 액세스할 수 있음)\n\n현재 설치된 ACOT 하위 모드(하위 모드는 기본 ACOT 모드 다음에 다음 순서로 정렬되어야 함)\n\nACOT 재정의: [Root.GetOverrideActiveStatus]\nACOT 비밀 너머의 관문: [Root.GetSBTGActiveStatus]\nACOT 정의: [Root.GetDefinesActiveStatus]"
+acot_mod_options.0.a:  "예. 구성 메뉴로 진행합니다."
+acot_mod_options.0.a.tooltip:  "ACOT 게임플레이 메커니즘의 다양한 측면을 전환하려면 옵션 메뉴를 엽니다."
+acot_mod_options.0.b:  "아니요. 이제 통치할 시간입니다."
+
+
+edict_acot_mod_menu_edict:  "§YACOT 구성 메뉴§!"
+edict_acot_mod_menu_edict_desc:  "구성의 메인 페이지입니다."
+ 
+acot_mod_options_title:  "고대 기술 캐시 기술 옵션 메뉴"
+acot_mod_options_desc:  "이 설정 메뉴는 ACOT 내 다양한 내용을 수정할 수 있게 해줍니다."
+ 
+acot_mod_options.exit:  "종료 메뉴"
+
+####################### KNOW WHATS UP
+
+acot_mod_options.1:  "ACOT에 대해 자세히 알아보기"
+acot_mod_options.1.tooltip:  "어떤 내용을 접하게 될지 모른 채 모드를 구독하는 경우를 대비해 ACOT 및 해당 하위 모드에 대한 간략한 요약을 읽어보세요."
+
+acot_mod_options.100.name:  "ACOT 소개"
+acot_mod_options.100.desc:  "고대 기술 보관함은 새로운 기술, 이벤트 및 콘텐츠를 추가하여 게임 후반 콘텐츠를 확장합니다. 대부분의 모드 콘텐츠는 바닐라 티어 5 기술을 통과한 후에만 경험할 수 있습니다. 바닐라 이후의 각 등급을 잠금 해제하려면 일련의 이벤트와 진행 상황이 필요합니다.\n\n또한 ACOT는 공식 및 비공식의 다양한 추가 하위 모드를 제공합니다. 각 하위 모드의 기능에 대한 간략한 도구 설명을 보려면 아래 각 버튼에 마우스를 올리세요. (버튼을 눌러도 현재 비활성 하위 모드가 활성화되지는 않습니다. 해당 하위 모드를 활성화하려면 실제로 구독하고 새 게임을 시작해야 합니다.)"
+
+acot_mod_options.100.a:  "ACOT: 재정의 - [Root.GetOverrideActiveStatus]"
+acot_mod_options.100.a.tooltip:  "이 하위 모드는 일부 바닐라 파일을 덮어써 바닐라 항목에서 ACOT으로 더 원활하게 전환할 수 있도록 합니다. 또한 ACOT 기반 구성요소를 사용하기 위해 바닐라의 Fallen Empires 및 Crisis를 업그레이드합니다.\n\n이 모드의 기능 대부분은 위기가 이미 발생하지 않는 한 진행 중인 게임에서 소급하여 작동합니다.\n설치 전에 이미 생성된 Fallen Empire 함선은 업데이트되지 않고 새 함선만 업데이트됩니다."
+
+acot_mod_options.100.b:  "ACOT: 관문 너머의 비밀 - [Root.GetSBTGActiveStatus]"
+acot_mod_options.100.b.tooltip:  "이 하위 모드는 강력하지만 선택적인 게임 종료 위기와 신비한 외부 관문을 통해 게임 중반과 관련된 일부 이벤트를 추가합니다.\n\n이 하위 모드는 설치 전에 진행 중인 게임에서는 작동하지 않습니다."
+
+acot_mod_options.100.c:  "ACOT: 추가 정의 - [Root.GetDefinesActiveStatus]"
+acot_mod_options.100.c.tooltip:  "이 하위 모드는 ACOT에 더 적합하도록 바닐라 게임의 일부 핵심 정의를 대부분 수정합니다. 가장 중요한 것은 함대 전력 오버플로 가능성을 줄이기 위해 함대 전력 계산 방법을 변경한다는 것입니다. 또한 오버플로를 방지하기 위해 많은 반복 가능 기술에 최대 한도를 추가합니다.\n\n이 하위 모드는 설치 전 진행 중인 게임에서 소급 적용되지만 이미 한도를 초과한 반복 가능 기술은 사라지지 않습니다."
+
+acot_mod_options.100.d:  "AOT: 기술 인수 - [Root.GetAOTActiveStatus]"
+acot_mod_options.100.d.tooltip:  "이 하위 모드는 FragJacker가 만든 ACOT에 대한 비공식 추가 항목입니다. 그것은 Phanon Corps에 몇 가지 추가 콘텐츠와 확장을 추가합니다(비록 현재 많은 내용이 엄청나게 부정확하다는 점에 유의해야 하지만). 또한 Fallen Empire의 Battle Barge 및 만리장성과 같은 다른 멋진 기능도 추가됩니다.\n\n이 하위 모드는 설치 전 진행 중인 게임에서는 작동하지 않을 수도 있습니다."
+
+acot_mod_options.100.e:  "SOTS: 장막의 비밀 - [Root.GetSOTSActiveStatus]"
+acot_mod_options.100.e.tooltip:  "이 하위 모드는 Faded가 만든 ACOT에 비공식적으로 추가된 것입니다. Shroud Master를 소환할 수 있는 가능성을 탐구하는 또 다른 계층과 몇 가지 추가 지식이 추가됩니다.\n\n이 하위 모드는 아마도 설치 전에는 진행 중인 게임에서 작동하지 않을 것입니다."
+
+acot_mod_options.100.f:  "ACoT: 프로그니터 두드러기 - [Root.GetPHActiveStatus]"
+acot_mod_options.100.f.tooltip:  "이 하위 모드는 Hildo가 만든 ACOT에 비공식적으로 추가된 것입니다. Proognitor Hives 원본에 대한 전체 지원을 추가합니다.\n\n이 하위 모드는 설치 전 진행 중인 게임에서는 작동하지 않을 수 있습니다."
+
+####################### TECH STUFFS
+
+acot_mod_options.2:  "기술 옵션"
+acot_mod_options.2.tooltip:  "표시를 허용할 기술을 사용자 정의하세요."
+
+acot_mod_options.200.name:  "기술 옵션"
+acot_mod_options.200.desc:  "표시를 허용할 기술을 사용자 정의하세요. 제국이 이미 기술을 연구했거나 해당 기술의 발전을 시작한 경우 이러한 옵션 중 일부는 비활성화된다는 점에 유의하십시오."
+
+acot_mod_options.200.maxtech:  "최대 기술 단계 진행"
+acot_mod_options.200.maxtech.tooltip:  "모든 표준 제국에 허용되는 최대 기술 진행을 정의합니다. 이 옵션은 게임 중반에 도달하면 비활성화됩니다."
+
+acot_mod_options.201.name:  "최대 기술 단계 진행"
+acot_mod_options.201.desc:  "모든 표준 제국에 허용되는 최대 기술 진행을 정의합니다. 이 옵션은 게임 중반에 도달하면 비활성화됩니다. 표준 제국이 이미 해당 단계의 진행을 시작한 경우에도 비활성화됩니다. 낮은 기술 계층을 비활성화하면 다음의 모든 상위 계층도 자동으로 비활성화됩니다."
+acot_mod_options.201.delta.enabled:  "§E델타(계층 6):! §G활성화됨§!"
+acot_mod_options.201.delta.disabled:  "§E델타(계층 6):! §R비활성화됨§!"
+acot_mod_options.201.alpha.enabled:  "§B알파(계층 7):! §G활성화됨§!"
+acot_mod_options.201.alpha.disabled:  "§B알파(계층 7)§:! §R비활성화됨§!"
+acot_mod_options.201.sigma.enabled:  "§H시그마(계층 8)§:! §G활성화됨§!"
+acot_mod_options.201.sigma.disabled:  "§H시그마(계층 8)§:! §R비활성화됨§!"
+ 
+acot_mod_options.200.a:  "무기 구성요소가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.a.tooltip:  "모든 ACOT 무기 기술을 비활성화합니다. 이미 연구된 구성요소는 계속 §Y사용 가능§!합니다.\n\n§R경고§!: 보호막은 암흑 에너지 원자로 뒤에 있습니다. 이 기능을 비활성화하면 보호막도 획득할 수 없습니다."
+acot_mod_options.200.a2:  "무기 구성요소가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.a2.tooltip:  "모든 ACOT 무기 기술을 활성화합니다. 다른 모든 조건이 충족되면 연구 가능해집니다."
+ 
+
+acot_mod_options.200.b:  "방어 유틸리티 구성요소가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.b.tooltip:  "모든 ACOT 무기 기술을 비활성화합니다. 이미 연구된 구성요소는 계속 §Y사용 가능§!합니다.\n\n§R경고§!: 보호막은 암흑 에너지 원자로 뒤에 있습니다. 이 기능을 비활성화하면 보호막도 획득할 수 없습니다."
+acot_mod_options.200.b2:  "방어 유틸리티가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.b2.tooltip:  "모든 ACOT 무기 기술을 활성화합니다. 다른 모든 조건이 충족되면 연구 가능해집니다."
+ 
+acot_mod_options.200.c:  "보조 구성요소가 §G사용 설정§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.c.tooltip:  "모든 ACOT 보조 기술을 비활성화합니다. 여기에는 각 무기 유형의 무기 코어가 포함됩니다. 이미 연구된 구성요소는 계속 §Y사용 가능§!합니다."
+acot_mod_options.200.c2:  "보조 구성요소가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.c2.tooltip:  "모든 ACOT 보조 기술을 활성화합니다. 여기에는 각 무기 유형의 무기 코어가 포함됩니다."
+ 
+acot_mod_options.200.d:  "선박 구성요소가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.d.tooltip:  "원자로, 점프 드라이브, 추진기 및 센서를 포함한 모든 ACOT 함선 기술을 비활성화합니다. 이미 연구된 구성요소는 계속 §Y사용 가능§!합니다.\n\n§R경고§!: 이 기능을 비활성화하면 다른 많은 ACOT 기술을 연구할 수 없게 됩니다."
+acot_mod_options.200.d2:  "선박 구성요소가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.d2.tooltip:  "원자로, 점프 드라이브, 추진기 및 센서를 포함한 모든 ACOT 선박 기술을 활성화합니다."
+ 
+acot_mod_options.200.e:  "육군 기술이 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.e.tooltip:  "모든 ACOT 군대 기술을 비활성화합니다. 기존 군대는 §Y활성§! 상태로 유지되며 영원히 당신의 제국을 괴롭힐 것이며 이 끔찍한 운명을 끝내기 위해 당신이 성취할 수 있는 것은 아무것도 없습니다."
+acot_mod_options.200.e2:  "육군 기술이 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.e2.tooltip:  "모든 ACOT 군대 기술을 활성화하여 제국이 AE 등급 군대를 모집/건설/훈련/변형/연상/소환/물질화할 수 있도록 합니다."
+ 
+acot_mod_options.200.f:  "건축 기술이 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.f.tooltip:  "모든 ACOT 구축 기술을 비활성화합니다. 이미 건설된 건물은 계속 §Y사용 가능§!하므로 제국은 은하계의 현실과 은하계의 이 순환에서 이해가 허용되지 않는 건물을 가질 수 있는 이유에 대해 의문을 제기하게 되며 그 존재 자체가 거부됩니다. 당신의 사람들은 곧 존재의 무익함을 깨닫게 될 것입니다."
+acot_mod_options.200.f2:  "건축 기술이 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.f2.tooltip:  "모든 ACOT 구축 기술을 활성화합니다. 축하합니다. 이 모드의 가장 유명한 기술을 활성화하기로 결정하셨습니다. 왜 다시 비활성화하셨나요? 기가 포트리스여야 합니다."
+ 
+acot_mod_options.200.g:  "Empire Technologies가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.200.g.tooltip:  "모든 ACOT 고유 제국 기술을 비활성화합니다. 이미 연구된 기술은 게임에 특별히 그렇게 하지 말라고 지시하더라도 보너스를 제공하므로 희망이 없습니다. 끝났어, 아나킨. 나는 높은 땅을 가지고 있습니다."
+acot_mod_options.200.g2:  "Empire Technologies가 §R사용 중지§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.200.g2.tooltip:  "모든 ACOT 고유 제국 기술을 활성화합니다. 이미 연구한 경우 다시 조립할 수 있게 됩니다. 아마도 모든 행성에 Giga Fortress를 스팸으로 보내는 모든 영향력을 낭비할 시간입니다."
+
+###################################################################################
+
+acot_mod_options.3:  "ACOT 이벤트 옵션"
+acot_mod_options.3.tooltip:  "어떤 이벤트가 발생하도록 허용할지 여부를 사용자 정의하세요."
+
+acot_mod_options.300.name:  "ACOT 이벤트 옵션"
+acot_mod_options.300.desc:  "어떤 이벤트가 발생하도록 허용할지 여부를 사용자 정의하세요."
+ 
+acot_mod_options.300.b:  "선구자 사건의 미스터리가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.300.b.tooltip:  "선구자 이벤트의 미스터리가 선구자 함선을 부여하는 것을 비활성화합니다. 선구자의 신비는 고대 시대의 선구자 용기를 탐구, 이해 및 활용하는 데 중점을 둡니다. (이것은 알파 기술을 얻는 것을 막는 것이 아니라 선구자 함선을 얻는 것을 막는 것뿐입니다.)"
+acot_mod_options.300.b2:  "선구자 사건의 미스터리가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.300.b2.tooltip:  "선구자 사건의 미스터리를 활성화합니다."
+
+acot_mod_options.300.c:  "항성 변칙 이벤트가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.300.c.tooltip:  "스텔라 이벤트 이벤트를 비활성화합니다. 항성변칙(Stellar Anomaly)은 항성력을 부적절하게 사용한 결과로 발생합니다."
+acot_mod_options.300.c2:  "항성 변칙 이벤트가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.300.c2.tooltip:  "스텔라 이벤트 이벤트를 활성화합니다."
+
+acot_mod_options.300.d:  "폭격 이벤트가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.300.d.tooltip:  "폭격 이벤트가 발생하지 않도록 합니다. 이로 인해 모든 ACOT 포격은 추가적인 애프터매치 이벤트 없이 일반적이고 매우 강력한 포격으로 바뀔 것입니다."
+acot_mod_options.300.d2:  "폭격 이벤트가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.300.d2.tooltip:  "폭격 이벤트를 활성화하여 파괴와 파괴가 일어날 수 있도록 합니다."
+ 
+acot_mod_options.300.e:  "암흑물질 외교 이벤트가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.300.e.tooltip:  "외교 관련 행사가 발생하지 않도록 합니다. AI 제국이 영점 듀라셀보다 더 발전할 수 없는 운명을 받아들이기를 원한다면 이 작업을 수행하십시오."
+acot_mod_options.300.e2:  "암흑물질 외교 이벤트가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.300.e2.tooltip:  "외교 관련 이벤트를 활성화합니다. 비록 그것이 음흉한 외교적 움직임을 의미하더라도 AI가 어떻게든 기술을 얻을 수 있는 방법을 찾기 위해 최선을 다해야 한다고 믿는다면 이렇게 하십시오."
+ 
+acot_mod_options.300.f:  "War In Hell 이벤트가 §G활성화§!되었습니다. §R사용 중지§!하시겠습니까?"
+acot_mod_options.300.f.tooltip:  "지옥 전쟁 이벤트를 비활성화합니다. 지옥 전쟁은 관련된 잠재적인 결과를 고려하지 않고 부주의하게 알파 기술을 연구하는 플레이어를 테스트하기 위한 이벤트입니다."
+acot_mod_options.300.f2:  "War In Hell 이벤트가 §R비활성화§!되었습니다. §G사용§!하시겠습니까?"
+acot_mod_options.300.f2.tooltip:  "지옥 전쟁 이벤트를 활성화하여 알파 기술의 위험한 메커니즘을 복원합니다."
+ 
+
+###################################################################################
+
+acot_mod_options.4:  "AI 지원 옵션"
+acot_mod_options.4.tooltip:  "AI가 바닐라에서 처리해야 하는 어리석고 복잡한 리소스 시스템에 더해 ACOT에 의해 추가된 리소스로 인해 따라잡는 데 어려움을 겪을 수 있습니다. 이 메뉴는 AI가 향상되는 데 도움이 되는 다양한 옵션을 제공합니다."
+
+acot_mod_options.400.name:  "AI 지원 옵션"
+acot_mod_options.400.desc:  "AI가 관리해야 하는 리소스의 양이 증가하기 때문에 때로는 모든 것을 관리하려고 초기에 무덤을 파게 될 수도 있습니다. 제가 이러한 AI 관련 작업에 특히 능숙하지 않다는 점을 감안할 때 이 옵션은 AI에게 정기적으로 무료 리소스, 특히 일반적으로 획득하기 어려운 리소스를 제공하여 AI를 돕기 위해 존재합니다."
+ 
+
+acot_mod_options.400.a:  "AI 리소스 부스트 수정자"
+acot_mod_options.400.a.tooltip:  "AI의 보너스를 자원으로 변경하려면 이 옵션을 사용하십시오. 보너스는 변경되는 시점의 표준 제국과 몰락한 제국에만 적용된다는 점을 명심하세요. 새로 생성된 제국은 이 프로세스가 다시 완료될 때까지 보너스를 받지 못합니다." 
+
+acot_mod_options.400.b:  "AI 백업 리소스가 §R활성화§!되었습니다. §G사용 중지§!하시겠습니까?"
+acot_mod_options.400.b.tooltip:  "AI가 너무 오랫동안 부족하다고 판단되면 Dark Energy 또는 Stellarite와 같은 일부 ACOT 기반 리소스에 자동으로 자금을 지원하도록 게임 트리거를 비활성화합니다." 
+acot_mod_options.400.b2:  "AI 백업 리소스가 §G비활성화§!되었습니다. §R사용§!하시겠습니까?"
+acot_mod_options.400.b2.tooltip:  "AI가 너무 오랫동안 부족하다고 판단되면 Dark Energy 또는 Stellarite와 같은 일부 ACOT 기반 리소스에 자동으로 자금을 지원하도록 게임 트리거를 활성화합니다."
+
+acot_mod_options.400.c:  "AI 단순화 이벤트가 §R활성화§!되었습니다. §G사용 중지§!하시겠습니까?"
+acot_mod_options.400.c.tooltip:  "중요한 기술을 획득하는 데 오랜 시간이 걸리지 않도록 AI를 위한 많은 ACOT 이벤트의 단순화된 버전을 비활성화합니다. 이 이벤트를 비활성화하면 AI가 플레이어에게 도전하기 위해 의미 있는 시간 내에 기술을 제대로 획득하지 못할 수 있습니다." 
+acot_mod_options.400.c2:  "AI 단순화된 이벤트가 §G비활성화§!되었습니다. §R사용§!하시겠습니까?"
+acot_mod_options.400.c2.tooltip:  "중요한 기술을 획득하는 데 오랜 시간이 걸리지 않도록 AI를 위한 많은 ACOT 이벤트의 단순화된 버전을 활성화합니다."
+
+ 
+acot_mod_options.401.name:  "AI 리소스 부스트 수정자"
+acot_mod_options.401.a.desc:  "AI의 보너스를 자원으로 변경하려면 이 옵션을 사용하십시오. 보너스는 변경되는 시점의 표준 제국과 몰락한 제국에만 적용된다는 점을 명심하세요. 새로 생성된 제국은 이 프로세스가 다시 완료될 때까지 보너스를 받지 못합니다.\n\n현재 AI의 보너스: §R없음§!\n\nAI는 보너스를 받지 않으며 공정하게 플레이하며 자신의 어리석음과 착하지 못함으로 인해 죽거나 무너질 가능성이 높습니다. 혼자서만 멋진 게임을 즐길 수 있다면 좋습니다."
+acot_mod_options.401.b.desc:  "AI의 보너스를 자원으로 변경하려면 이 옵션을 사용하십시오. 보너스는 변경되는 시점의 표준 제국과 몰락한 제국에만 적용된다는 점을 명심하세요. 새로 생성된 제국은 이 프로세스가 다시 완료될 때까지 보너스를 받지 못합니다.\n\n현재 AI의 보너스: §G낮음§!\n\nAI는 적절한 제국으로 기능할 수 있도록 기본 자원에 대한 일정 수입을 받게 됩니다. 최소한 AI가 상당한 위협이 될 것으로 기대한다면 좋습니다."
+acot_mod_options.401.c.desc:  "AI의 보너스를 자원으로 변경하려면 이 옵션을 사용하십시오. 보너스는 변경되는 시점의 표준 제국과 몰락한 제국에만 적용된다는 점을 명심하세요. 새로 생성된 제국은 이 프로세스가 다시 완료될 때까지 보너스를 받지 못합니다.\n\n현재 AE AI의 보너스: §B보통§!\n\nAI는 기본 설정 수입의 두 배를 받지만 다른 보너스는 받지 않습니다."
+acot_mod_options.401.d.desc:  "AI의 보너스를 자원으로 변경하려면 이 옵션을 사용하십시오. 보너스는 변경되는 시점의 표준 제국과 몰락한 제국에만 적용된다는 점을 명심하세요. 새로 생성된 제국은 이 프로세스가 다시 완료될 때까지 보너스를 받지 못합니다.\n\n현재 AE AI의 보너스: §B높은§!\n\nAI는 AE AI가 실제로 당신에게 위협이 되기를 정말로 원하는 경우 정상의 설정된 수입에 더해 자신이 생산하는 수입의 두 배를 받게 됩니다. 아마도 이번에는 AI가 실제로 당신을 죽일 것입니다(그러나 대부분은 그렇지 않을 것입니다)."
+
+acot_mod_options.401.a:  "AI 리소스 보너스: §W없음§!"
+acot_mod_options.401.b:  "AI 리소스 보너스 :: §Y낮음§!"
+acot_mod_options.401.c:  "AI 리소스 보너스: §Y보통§!"
+acot_mod_options.401.d:  "AI 리소스 보너스: §G높음§!"
+
+easy_acot:  "헤헤"
+easy_acot_desc:  "아 그래"
+medium_acot:  "카우맨"
+medium_acot_desc:  "좋은 소년"
+hard_acot:  "나에겐 힘이 있다아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아"
+hard_acot_desc:  "아서스! 아서스가 너무 많아지기 전에 이 아서스를 멈추세요!"
+
+###################################################################################
+
+acot_mod_options.6:  "콘텐츠 옵션"
+acot_mod_options.6.tooltip:  "이 옵션을 사용하면 ACOT 자체에서 게임 내 특정 콘텐츠를 제거하거나 기존에서 ACOT와 관련된 항목을 제거할 수 있습니다."
+
+acot_mod_options.600.name:  "콘텐츠 옵션"
+acot_mod_options.600.desc:  "이 옵션을 사용하면 ACOT 자체에서 게임 내 특정 콘텐츠를 제거하거나 기존에서 ACOT와 관련된 항목을 제거할 수 있습니다."
+ 
+acot_mod_options.600.a:  "파논 군단 비활성화"
+acot_mod_options.600.a.tooltip:  "이 옵션은 관련 기술을 포함하여 파논 군단을 은하계에서 영구적으로 제거합니다. 다음과 같은 결과가 발생하므로 각별히 주의하세요.\n\n1. 파논 군단은 은하계에서 제거됩니다.\n2. 드롭포인트 시스템은 별만 있는 빈 시스템이 됩니다.\n3. 모든 Phonon 기술은 더 이상 획득할 수 없습니다.\n4. Kylo Ren은 A'merigo에서 절대 획득할 수 없습니다.\n5. Phanon Techs가 있는 Stellarborne을 제외한 모든 제국도 제거됩니다."
+
+acot_mod_options.600.b:  "큐레이터의 집정관 비활성화"
+acot_mod_options.600.b.tooltip:  "이 옵션은 큐레이터로부터 집정관을 고용하는 기능을 영구적으로 제거합니다. 집정관은 일반 큐레이터 과학자보다 훨씬 더 강력한 변종입니다. 다음과 같은 결과가 발생하므로 주의하세요.\n\n1. 집정관은 큐레이터에게서 모집할 수 없습니다.\n2. 집정관 특성을 지닌 기존 지도자는 모두 소멸됩니다."
+
+acot_mod_options.600.c:  "오만함의 전장 비활성화"
+acot_mod_options.600.c.tooltip:  "이 옵션은 Battlefield of Hubris 및 A'merigo가 발생하는 것을 영구적으로 방지합니다. 오만함의 전장(Battlefield of Hubris)은 자연적으로 분열된 세계에서 생성되는 ACOT 고유의 매우 어려운 발굴 현장입니다. 다음과 같은 결과가 발생하므로 각별히 주의하세요.\n\n1. 자연적으로 분열된 모든 세계는 무덤 세계로 변환되고 그 위에 있는 모든 무너진 제국 건물은 제거됩니다.\n2. Hubris Digsite의 전장은 결코 생성되지 않습니다.\n3. 이 행성의 Guardian Fleet은 파괴될 것입니다."
+
+acot_mod_options.600.d:  "공허구 비활성화"
+acot_mod_options.600.d.tooltip:  "이 옵션은 Voidsphere를 기존에서 영구적으로 비활성화합니다. Voidspheres는 ACOT에서 가장 강력한 행성 클래스입니다. 다음과 같은 결과가 발생하므로 각별히 주의하세요.\n\n1. 기존의 모든 공허 구체는 Ecumenopolis로 변환됩니다.\n2. 공허 구체 연구 옵션이 표시되지 않으며 기존 진행 상황이 모두 손실됩니다."
+
+acot_mod_options.600.e:  "헤라클레스 비활성화"
+acot_mod_options.600.e.tooltip:  "이 옵션은 Herculeans 사용을 영구적으로 비활성화합니다. Herculean은 ACOT에서 가장 강력한 이동식 우주 기지로, 자체적으로 쉽게 전쟁에서 승리할 수 있으며 사실상 파괴가 거의 불가능합니다. 다음과 같은 결과가 발생하므로 각별히 주의하세요.\n\n1. 기존의 모든 Herculeans가 제거됩니다.\n2. Herculean을 잠금 해제하는 이벤트는 발생하지 않으며 Herculean의 현재 진행 상황은 모두 손실됩니다."
+
+
+###################################################################################
+
+acot_mod_options.7:  "§YSBTG 옵션§!"
+acot_mod_options.7.tooltip:  "그러면 Gates 구성 메뉴 너머의 비밀이 열립니다."
+
+###################################################################################
+
+acot_mod_options.9:  "§RAOT 옵션§!"
+acot_mod_options.9.tooltip:  "기술 획득 구성 메뉴가 열립니다."
+
+
+###################################################################################
+
+acot_mod_options.8:  "§R디버그 옵션§!"
+acot_mod_options.8.tooltip:  "그러면 콘솔을 사용하지 않고도 일부 버그를 수정하거나 특정 이벤트에 액세스할 수 있는 디버그 메뉴가 열립니다."
+
+acot_mod_options.800.name:  "디버그 옵션"
+acot_mod_options.800.desc:  "이 옵션을 사용하면 ACOT 자체에서 게임 내의 특정 콘텐츠를 제거하거나 기존에서 ACOT와 관련된 항목을 제거할 수 있습니다.\n\n§R말할 필요도 없이 이러한 옵션 중 다수는 합법적인 치트입니다. 무슨 일을 하려는지 조심하세요. 친구들이 당신의 부정행위를 발각하지 못하게 하세요!§!"
+
+acot_mod_options.800.a:  "외교 잠금 플래그 지우기"
+acot_mod_options.800.a.tooltip:  "이로써 외교를 묶는 깃발이 제거될 것입니다. SOPHIA, Phanon, 기타 ACOT 기반 외교와 더 이상 접촉할 수 없을 때 사용하세요. 게임이 중단되는 것을 방지하려면 의도적으로 여러 외교 창을 생성하는 데 사용하지 마세요."
+
+acot_mod_options.800.b:  "델타테크 인수"
+acot_mod_options.800.b.tooltip:  "그러면 거의 모든 ACOT의 Delta Tech가 즉시 제공됩니다. 이미 Delta Tech를 보유하고 있는 경우 이 옵션은 대신 Alpha로 교체됩니다."
+acot_mod_options.800.b1:  "알파테크 획득"
+acot_mod_options.800.b1.tooltip:  "그러면 거의 모든 ACOT의 알파 기술이 즉시 제공됩니다. 이미 Delta Tech를 보유하고 있는 경우 이 옵션은 대신 Sigma로 변경됩니다."
+acot_mod_options.800.b2:  "시그마테크 인수"
+acot_mod_options.800.b2.tooltip:  "그러면 거의 모든 ACOT의 Sigma Tech가 즉시 제공됩니다."
+
+acot_mod_options.800.d:  "파논테크 인수"
+acot_mod_options.800.d.tooltip:  "그러면 거의 모든 ACOT의 Phanon Tech가 즉시 제공됩니다."
+
+acot_mod_options.800.c:  "자원 획득"
+acot_mod_options.800.c.tooltip:  "이를 통해 수많은 바닐라 및 ACOT 리소스를 얻을 수 있습니다. 기본적으로 acot_test_event.10의 비콘솔 버전입니다. 분명히 사기꾼입니다."
+
+############################## WEAPON ARSENAL MENU
+
+edict_acot_arsenal_menu_edict:  "§Y무기고 개발 메뉴§!"
+edict_acot_arsenal_menu_edict_desc:  "무기 및 무기고 개발 메뉴에 액세스하면 어떤 종류의 무기를 개발해야 할지, 개발하지 말아야 할지 결정할 수 있습니다."
+edict_acot_arsenal_menu_edict_fail:  "§R메뉴가 이미 활성화되어 있습니다.§!"
+
+acot_arsenal_menu.1.name:  "무기고 확장"
+acot_arsenal_menu.1.desc:  "무기 연구 부서는 최신 연구 결과를 보고하게 되어 기쁘게 생각합니다. 곧 우리는 더 강력하고 새로운 무기를 개발하여 우리 군대를 강화할 수 있게 될 것입니다.\n\n그러나 다양한 그룹에서 제안하는 무기 프로토타입의 양이 증가하는 것을 우려하는 사람들도 있고 쓸모없다고 생각하는 일부 오래된 개념의 중단을 옹호하는 사람들도 있습니다. 그들은 우리 제국이 미래에 연구를 피해야 할 사항을 조정하고 싶은지 알고 싶어합니다."
+acot_arsenal_menu.1.a:  "좋아요, 리뷰를 보도록 하겠습니다."
+acot_arsenal_menu.1.a.tooltip:  "관심 있는 무기의 범위를 좁히고 싶은 경우 옵션 메뉴를 열어 무기 연구 옵션을 검토하세요."
+acot_arsenal_menu.1.b:  "관심이 없습니다."
+acot_arsenal_menu.1.b.tooltip:  "기본적으로 모든 무기 유형을 연구할 수 있습니다. 나중에 칙령 탭에서 다시 검토할 수 있습니다."
+
+acot_arsenal_menu.2.name:  "무기고 개발 메뉴"
+acot_arsenal_menu.2.desc.a:  "다양한 종류의 무기가 있으며 각각 특정 위협에 대응할 수 있습니다. 일부는 다른 것보다 낫습니다."
+acot_arsenal_menu.2.desc.b:  "아스날 개발팀이 지시를 기다리고 있습니다. 우리 제국은 전쟁무기를 어떻게 개발해야 할까요?"
+acot_arsenal_menu.2.a:  "에너지 무기"
+acot_arsenal_menu.2.b:  "키네틱 무기"
+acot_arsenal_menu.2.c:  "폭발성 무기"
+acot_arsenal_menu.2.d:  "스트라이크크래프트 무기"
+acot_arsenal_menu.2.exit:  "지금은 그것으로 충분합니다."
+
+acot_arsenal_menu.200.name:  "무기고 개발 메뉴: 에너지"
+acot_arsenal_menu.200.desc:  "에너지 무기는 주로 방어구를 녹이도록 설계되었으며 일반적으로 에너지 보호막에 약하지만 디스럽터와 같은 일부 무기는 이중 관통 무기로 사용됩니다.\n\n§G활성화§!는 해당 무기가 기술 트리에 표시된다는 의미입니다. §R사용 안함§!은 표시되지 않음을 의미합니다. 일부 무기의 잠금을 해제하려면 먼저 다른 무기 기술이 필요할 수 있습니다."
+acot_arsenal_menu.200.laser.enabled:  "레이저 대포: §G활성화됨§!"
+acot_arsenal_menu.200.laser.disabled:  "레이저 대포: §R비활성화§!"
+acot_arsenal_menu.200.laser.tooltip:  "기본 레이저, 갑옷에 좋음, 방패에 약함."
+acot_arsenal_menu.200.autolaser.enabled:  "스코처 빔: §G활성화됨§!"
+acot_arsenal_menu.200.autolaser.disabled:  "스코처 빔: §R사용 중지됨§!"
+acot_arsenal_menu.200.autolaser.tooltip:  "고대 드론의 채굴 레이저를 기반으로 한 디자인입니다. 장갑과 차체에 매우 좋고, 방패에 매우 약하고, 사거리가 짧습니다."
+acot_arsenal_menu.200.plasma.enabled:  "플라즈마 캐논: §G활성화됨§!"
+acot_arsenal_menu.200.plasma.disabled:  "플라즈마 캐논: §R비활성화§!"
+acot_arsenal_menu.200.plasma.tooltip:  "플라즈마 캐논은 플라즈마 발사체를 발사하여 적의 선체를 녹입니다. 대형 변종은 이전 변종과 달리 최소 범위 페널티가 없습니다. 갑옷과 차체에 매우 좋고 방패에 매우 약합니다."
+acot_arsenal_menu.200.disruptor.enabled:  "중단 요소: §G사용 설정됨§!"
+acot_arsenal_menu.200.disruptor.disabled:  "방해 요소: §R사용 중지됨§!"
+acot_arsenal_menu.200.disruptor.tooltip:  "방해자, 방패와 방어구를 무시합니다. 단거리."
+acot_arsenal_menu.200.disruptorlance.enabled:  "교란 창: §G활성화됨§!"
+acot_arsenal_menu.200.disruptorlance.disabled:  "교란 창: §R비활성화§!"
+acot_arsenal_menu.200.disruptorlance.tooltip:  "디스럽터의 장거리 포병 변형입니다. 방패와 갑옷을 무시합니다. 장거리. 최소 범위가 있습니다."
+acot_arsenal_menu.200.energycannon.enabled:  "에너지 캐논: §G활성화됨§!"
+acot_arsenal_menu.200.energycannon.disabled:  "에너지 캐논: §R비활성화§!"
+acot_arsenal_menu.200.energycannon.tooltip:  "에너지 캐논. 갑옷과 선체에 좋습니다. 방패에 약하고 장거리입니다."
+acot_arsenal_menu.200.energytorp.enabled:  "에너지 어뢰: §G활성화됨§!"
+acot_arsenal_menu.200.energytorp.disabled:  "에너지 어뢰: §R비활성화§!"
+acot_arsenal_menu.200.energytorp.tooltip:  "에너지 어뢰는 단거리 미사일 발사체입니다. 장갑과 차체에 매우 좋고, 방패에 약하고, 단거리에 좋습니다. 더 큰 함선 클래스에 더 많은 피해를 줍니다."
+acot_arsenal_menu.200.pd.enabled:  "에너지 포인트 방어: §G활성화됨§!"
+acot_arsenal_menu.200.pd.disabled:  "에너지 포인트 방어: §R사용 안함§!"
+acot_arsenal_menu.200.pd.tooltip:  "에너지 포인트 방어. 주로 적의 미사일 발사체를 제거하도록 설계되었습니다."
+
+acot_arsenal_menu.201.name:  "무기고 개발 메뉴: Kinetic"
+acot_arsenal_menu.201.desc:  "키네틱 무기. 우주에서 엄청난 속도로 총알을 발사하려는 경우.\n\n§G활성화§!는 기술 트리에 표시된다는 의미입니다. §R사용 안함§!은 표시되지 않음을 의미합니다. 일부 무기의 잠금을 해제하려면 먼저 다른 무기 기술이 필요할 수 있습니다."
+acot_arsenal_menu.201.massdriver.enabled:  "매스 드라이버: §G활성화됨§!"
+acot_arsenal_menu.201.massdriver.disabled:  "매스 드라이버: §R비활성화§!"
+acot_arsenal_menu.201.massdriver.tooltip:  "매스 드라이브는 고체 슬러그 발사체를 발사합니다. 방패 상대로 좋습니다. 갑옷에 약함. 대형 변종은 이전 변종과 달리 최소 범위 페널티가 없습니다."
+acot_arsenal_menu.201.autocannons.enabled:  "자동포: §G활성화됨§!"
+acot_arsenal_menu.201.autocannons.disabled:  "자동포: §R비활성화§!"
+acot_arsenal_menu.201.autocannons.tooltip:  "자동포는 높은 발사 속도로 치명적인 탄약을 발사합니다. 쉴드와 헐에 좋습니다. 갑옷에 비해 매우 나쁩니다. 단거리."
+acot_arsenal_menu.201.macrocannons.enabled:  "매크로캐논: §G활성화됨§!"
+acot_arsenal_menu.201.macrocannons.disabled:  "매크로캐논: §R사용 중지됨§!"
+acot_arsenal_menu.201.macrocannons.tooltip:  "매크로 캐논은 어뢰 슬롯에 장착된 특수 자동포입니다. 방패 상대로 아주 좋습니다. 갑옷에 약함. 단거리. 더 큰 함선 클래스에 더 많은 피해를 줍니다."
+acot_arsenal_menu.201.artillery.enabled:  "운동 포병: §G활성화됨§!"
+acot_arsenal_menu.201.artillery.disabled:  "운동포: §R비활성화§!"
+acot_arsenal_menu.201.artillery.tooltip:  "키네틱 포병. 방패 상대로 매우 좋습니다. 갑옷에 약함. 장거리. 최소 범위가 있습니다."
+acot_arsenal_menu.201.flak.enabled:  "운동점 방어: §G활성화됨§!"
+acot_arsenal_menu.201.flak.disabled:  "키네틱 포인트 방어: §R비활성화§!"
+acot_arsenal_menu.201.flak.tooltip:  "키네틱 포인트 방어. 주로 적의 공격기를 제거하기 위해 설계되었습니다."
+
+acot_arsenal_menu.202.name:  "무기고 개발 메뉴: 폭발성"
+acot_arsenal_menu.202.desc:  "일반적으로 적의 지점 방어에 취약한 미사일 기반 투사체에서 발사되는 폭발성 무기입니다.\n\n§G활성화§!는 기술 트리에 표시된다는 의미입니다. §R사용 안함§!은 표시되지 않음을 의미합니다. 일부 무기의 잠금을 해제하려면 먼저 다른 무기 기술이 필요할 수 있습니다."
+acot_arsenal_menu.202.missiles.enabled:  "표준 미사일: §G활성화§!"
+acot_arsenal_menu.202.missiles.disabled:  "표준 미사일: §R비활성화§!"
+acot_arsenal_menu.202.missiles.tooltip:  "미사일, 관통 실드, 기본 장갑 및 선체 손상."
+acot_arsenal_menu.202.swarmers.enabled:  "스워머 미사일: §G활성화됨§!"
+acot_arsenal_menu.202.swarmers.disabled:  "스워머 미사일: §R비활성화§!"
+acot_arsenal_menu.202.swarmers.tooltip:  "다중 미사일은 방패, 기본 방어구 및 선체 손상을 관통합니다. 압도적인 포인트 방어 시스템에 적합합니다."
+acot_arsenal_menu.202.torpedoes.enabled:  "어뢰: §G사용 가능§!"
+acot_arsenal_menu.202.torpedoes.disabled:  "어뢰: §R비활성화§!"
+acot_arsenal_menu.202.torpedoes.tooltip:  "방패를 관통하며 갑옷에 좋습니다. 단거리. 더 큰 함선 클래스에 더 많은 피해를 줍니다."
+acot_arsenal_menu.202.barrage.enabled:  "MMLS: §G활성화됨§!"
+acot_arsenal_menu.202.barrage.disabled:  "MMLS: §R사용 중지됨§!"
+acot_arsenal_menu.202.barrage.tooltip:  "대형 미사일 클러스터를 발사하는 중포입니다."
+acot_arsenal_menu.202.ccm.enabled:  "대응 미사일: §G활성화됨§!"
+acot_arsenal_menu.202.ccm.disabled:  "대응 미사일: §R비활성화§!"
+acot_arsenal_menu.202.ccm.tooltip:  "CMM은 미사일 기반 지점 방어입니다. 대부분의 PD보다 사거리가 더 깁니다. 발사 속도가 느려집니다. 최소 범위가 있습니다."
+
+acot_arsenal_menu.203.name:  "무기고 개발 메뉴: Strikecrafts"
+acot_arsenal_menu.203.desc:  "에어쇼를 위한 공격기!\n\n§G활성화§!는 기술 트리에 표시된다는 의미입니다. §R사용 안함§!은 표시되지 않음을 의미합니다. 일부 무기의 잠금을 해제하려면 먼저 다른 무기 기술이 필요할 수 있습니다."
+acot_arsenal_menu.203.interceptors.enabled:  "인터셉터: §G활성화됨§!"
+acot_arsenal_menu.203.interceptors.disabled:  "인터셉터: §R사용 중지됨§!"
+acot_arsenal_menu.203.interceptors.tooltip:  "요격기는 피켓 공격 전용 공격기입니다."
+acot_arsenal_menu.203.fighters.enabled:  "전투기: §G활성화됨§!"
+acot_arsenal_menu.203.fighters.disabled:  "전투기: §R비활성화§!"
+acot_arsenal_menu.203.fighters.tooltip:  "전투기는 다양한 임무를 수행할 수 있는 다재다능한 타격기입니다."
+acot_arsenal_menu.203.bombers.enabled:  "폭격기: §G활성화됨§!"
+acot_arsenal_menu.203.bombers.disabled:  "폭격기: §R비활성화§!"
+acot_arsenal_menu.203.bombers.tooltip:  "폭격기는 파괴적인 탑재량을 배치하기 위해 기총소사를 통해 적군함에 가까이 접근합니다. 더 큰 함선 클래스에 더 많은 피해를 줍니다."
+acot_arsenal_menu.203.gunships.enabled:  "건쉽: §G활성화됨§!"
+acot_arsenal_menu.203.gunships.disabled:  "건쉽: §R비활성화§!"
+acot_arsenal_menu.203.gunships.tooltip:  "건쉽은 단일 척추 무기를 사용하여 멀리서 발사합니다."

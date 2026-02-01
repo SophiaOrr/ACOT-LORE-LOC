@@ -1,0 +1,1428 @@
+﻿l_korean:
+
+MESSAGE_ACOT_ARMY_UPGRADE_TITLE:  "육군 등급 업그레이드"
+MESSAGE_ACOT_ARMY_UPGRADE_DESC:  "육군 등급 업그레이드"
+message_acot_army_tier_upgrade:  "모든 적격 군대가 다음 단계로 업그레이드되었습니다."
+
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_TITLE:  "차량 조종사 모두 준비 완료"
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_DESC:  "차량 조종사 모두 준비 완료"
+message_acot_vehicle_pilot_replace:  "지구상의 모든 조종사는 각자의 차량에 장비를 갖추고 배치할 준비가 되었습니다."
+
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_TITLE:  "기계 군대 수리"
+MESSAGE_ACOT_ARMY_MACHINE_REPAIR_DESC:  "기계 군대 수리"
+message_acot_army_machine_repair:  "지구상의 모든 기계 군대가 수리되었습니다."
+
+MESSAGE_ACOT_ARMY_COCOON_HATCH_TITLE:  "벌집 고치가 부화했습니다"
+MESSAGE_ACOT_ARMY_COCOON_HATCH_DESC:  "벌집 고치가 부화했습니다"
+message_acot_army_cocoon_hatch:  "지구상의 모든 벌집 고치가 새로운 전사로 부화했습니다."
+
+MESSAGE_ACOT_HERO_DEATH_TITLE:  "영웅 살해"
+MESSAGE_ACOT_HERO_DEATH_DESC:  "영웅 살해"
+message_acot_hero_death_psi:  "우리 Dark Psion이 전투 중에 사망했습니다! 끔찍한 손실입니다!" 
+message_acot_hero_death_gene:  "우리 제니스 전사가 죽었습니다! 정말 끔찍한 소식이군요!" 
+message_acot_hero_death_cyborg:  "우리 사이보그 특공대가 살해당했습니다! 정말 재앙이군요!" 
+message_acot_hero_death_synth:  "우리 Synth Spectre가 파괴되었습니다! 저주!" 
+message_acot_hero_death_hive:  "테러가 조용해졌습니다! 벌집이 몸부림친다!" 
+message_acot_hero_death_machine:  "신 기계가 패배했습니다! 상상할 수 없다!" 
+message_acot_hero_death_default:  "오늘은 블랙데이다! 우리 영웅 중 한 명이 쓰러졌습니다!" 
+
+MESSAGE_ACOT_PHANON_INJURED_DESC:  "파논 요원 부상"
+message_acot_phanon_operative_injured:  "파논 작전팀은 패배했지만, 가까스로 스타 체이서호를 타고 후퇴했습니다. 그들은 활력을 되찾기 위해 1800일 동안 탑승해야 하지만, 스타 인베이더를 타고 우주 전투에 참여할 수는 있습니다." 
+MESSAGE_ACOT_PHANON_DEATH_DESC:  "파논 요원 부분 사망"
+message_acot_phanon_operative_dead:  "둘의 파논 요원 중 한 명이 사망했습니다. 다른 한 명은 스타 인베이더에게 다시 탈출했지만 그곳에 남아 있어야 하며 더 이상 지상 전투에 참여할 수 없습니다. 더욱이 파트너의 상실로 인해 스타 인베이더의 효율성이 감소했습니다."
+MESSAGE_ACOT_PHANON_DESTROYED_DESC:  "파논 요원 사망"
+message_acot_phanon_operative_destroyed:  "파논 요원 둘 다 사망했습니다. 요원 없이 스타 인베이더는 자폭 시퀀스에 참여했습니다. 총 손실." 
+
+primitive_army:  "원시군"
+primitive_army_plural:  "원시 군대"
+primitive_army_desc:  "이 불쌍한 작은 군대는 사소한 전쟁에서 싸울 수 있는 장비를 갖춘 군인들입니다. 군인은 도구보다 기술로 승리해야 하는 시대다. 불행하게도 그들의 조잡한 무기는 현대식 갑옷에 대항할 수 없으며 현대식 무기에 대한 방어력도 거의 없습니다. 그들은 하늘에서 온 사람들과 첫눈에 반해 달릴 가능성이 가장 높습니다."
+
+acot_medieval_army:  "중세 군대"
+acot_medieval_army_plural:  "중세 군대"
+acot_medieval_army_desc:  "중세 시대에 국가는 전문 군대와 부과금으로 구성된 적절한 군대를 고용하기 시작했으며 때로는 전쟁 동물도 사용했습니다. 공성 무기가 일반화되었습니다. 그러나 그들은 여전히 ​​현대 군대에 맞서지 않을 것입니다. 명예와 용기는 플라즈마나 미사일 발사를 대체할 수 없습니다."
+
+acot_steam_army:  "스팀아미"
+acot_steam_army_plural:  "증기 군대"
+acot_steam_army_desc:  "총기의 도입은 전투 방식을 변화시킵니다. 그러나 그들은 여전히 ​​현대의 화력에 맞서 도살당할 양들입니다."
+
+industrial_army:  "산업군"
+industrial_army_plural:  "산업군"
+industrial_army_desc:  "산업군은 이제 적절한 편성과 어느 정도 확립된 지휘 체계를 갖추고 있습니다. 그들은 현대 전쟁의 경이로움과 아마도 공포를 발견하기 위해 가는 중입니다. 그들의 무기와 방어구가 여전히 현대 무기에 비해 웃기게도 뒤떨어진다는 사실만 안다면 말이죠."
+
+postatomic_army:  "원자 이후 군대"
+postatomic_army_plural:  "원자 이후 군대"
+postatomic_army_desc:  "원자 이후 군대는 연합군으로 구성됩니다. 보병, 갑옷, 항공기 및 화재 지원은 이전 문학에 비해 상당히 강력합니다. 그러나 여전히 눈에 띄는 문제가 하나 있습니다. 그들은 자신의 행성 밖의 어떤 것과도 싸울 필요가 없습니다. 그리고 그들의 무기는 여전히 현대 군대에 상대가 되지 않습니다."
+
+acot_early_space_army:  "초기 우주 시대 군대"
+acot_early_space_army_plural:  "초기 우주 시대 군대"
+acot_early_space_army_desc:  "그거 좀 봐줄래? 이 원시적인 군대는 진정한 현대화를 향해 나아가고 있습니다. 그들은 심지어 보호막과 적절한 소형 에너지 셀도 가지고 있습니다! 그들은 너무 가깝습니다. 아주 가깝습니다. 어쩌면 그들은 실제로 현대 군대에 맞설 수 있을까요?"
+
+
+#################################################### ARMY Tech ####################################################
+
+decision_acot_rebuild_piloted_vehicle:  "차량 재구축"
+decision_acot_rebuild_piloted_vehicle_desc:  "우리의 귀중한 조종사들이 장난감도 없이 전장에 발이 묶이는 것은 불가능합니다. 교체 비용은 미미하므로 우리 아이들이 항상 최고의 성능을 발휘할 수 있도록 노력해야 합니다."
+decision_acot_rebuild_piloted_vehicle_tooltip:  "지구상의 기존 조종사를 위해 파괴된 차량을 재구성합니다. 이 작업에는 리소스 비용이 들지 않지만 약간의 시간이 걸립니다."
+
+decision_acot_repair_damaged_machine:  "손상된 유닛 수리"
+decision_acot_repair_damaged_machine_desc:  "손상된 전투 유닛은 축적된 전장 데이터를 손상시키지 않고 교체 부품으로 무료로 수리할 수 있습니다."
+decision_acot_repair_damaged_machine_tooltip:  "손상된 전투 유닛을 원래 상태로 복구하고 손상된 유닛이 축적했을 수 있는 모든 경험을 유지합니다."
+
+decision_acot_repair_damaged_robot:  "손상된 기계 수리"
+decision_acot_repair_damaged_robot_desc:  "손상된 기계 유닛은 축적된 전장 데이터를 손상시키지 않고 교체 부품으로 무료로 수리할 수 있습니다."
+decision_acot_repair_damaged_robot_tooltip:  "손상된 기계 장치를 원래 상태로 복구하여 손상된 장치에 축적된 경험을 유지합니다."
+
+decision_acot_hatch_cocoon:  "해치 하이브 고치"
+decision_acot_hatch_cocoon_desc:  "전투가 한창일 때 일부 고치가 부화 순서를 제대로 실행하지 못할 수도 있습니다. 하이브 행성의 안전한 곳에서 부화하도록 수동으로 실행할 수 있습니다."
+decision_acot_hatch_cocoon_tooltip:  "이전 전투에서 아직 부화하지 않은 살아남은 고치를 부화합니다."
+
+decision_acot_repair_fortification:  "요새 수리"
+decision_acot_repair_fortification_desc:  "손상된 벽을 수리하고, 그 과정에서 파괴된 벽과 배터리를 복원 및 교체합니다. 요새를 수리하는 것은 처음부터 다시 재건하는 것보다 항상 더 빠르고 저렴합니다."
+
+decision_acot_upgrade_fortification:  "방어벽"
+decision_acot_upgrade_fortification_desc:  "추가로 강화된 벽으로 식민지의 방어력을 업그레이드합니다. 요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 모든 벽이 파괴되면 다시 건설해야 합니다.\n\n추가되는 벽의 수는 행성의 크기에 따라 결정됩니다. 행성 크기 $Y10$에서 4부터 시작합니다! 그 이하에서는 $Y2$씩 증가합니다! $Y5$마다! 행성 크기는 최대 $Y30$입니다!."
+
+acot_modifier_fortification_1:  "강화된 요새벽"
+acot_modifier_fortification_1_desc:  "요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+acot_modifier_damaged_fortification_1:  "손상된 요새 벽"
+acot_modifier_damaged_fortification_1_desc:  "이 벽은 손상되었으므로 수리해야 합니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+acot_defensive_wall:  "강화된 요새벽"
+acot_defensive_wall_plural:  "강화된 요새 벽"
+acot_defensive_wall_desc:  "요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_wall_dm:  "델타 요새벽"
+acot_defensive_wall_dm_plural:  "델타 요새벽"
+acot_defensive_wall_dm_desc:  "요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_wall_ae:  "알파 요새벽"
+acot_defensive_wall_ae_plural:  "알파 요새 벽"
+acot_defensive_wall_ae_desc:  "요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_wall_se:  "시그마 요새벽"
+acot_defensive_wall_se_plural:  "시그마 요새벽"
+acot_defensive_wall_se_desc:  "요새 벽은 식민지에 대한 추가 보호 역할을 합니다. 성벽은 공격력이 낮고 무장도 약하지만 내구성이 뛰어나고 유지 관리가 덜 필요합니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+
+decision_acot_upgrade_fortification_2:  "방어 배터리"
+decision_acot_upgrade_fortification_2_desc:  "추가 무기 배터리로 식민지의 강화된 벽을 업그레이드합니다. 이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 모든 벽이 파괴되면 다시 건설해야 합니다.\n\n추가되는 벽의 수는 행성의 크기에 따라 결정됩니다. 행성 크기 $Y10$에서 4부터 시작합니다! 그 이하에서는 $Y2$씩 증가합니다! $Y5$마다! 행성 크기는 최대 $Y30$입니다!."
+
+acot_modifier_fortification_2:  "강화 강화 배터리"
+acot_modifier_fortification_2_desc:  "이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+acot_modifier_damaged_fortification_2:  "손상된 강화 배터리"
+acot_modifier_damaged_fortification_2_desc:  "이 배터리는 손상되었으므로 수리해야 합니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+acot_defensive_cannon:  "강화 강화 배터리"
+acot_defensive_cannon_plural:  "강화 강화 배터리"
+acot_defensive_cannon_desc:  "이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_cannon_dm:  "델타 요새 배터리"
+acot_defensive_cannon_dm_plural:  "델타 요새 배터리"
+acot_defensive_cannon_dm_desc:  "이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_cannon_ae:  "알파 강화 배터리"
+acot_defensive_cannon_ae_plural:  "알파 강화 배터리"
+acot_defensive_cannon_ae_desc:  "이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+acot_defensive_cannon_se:  "시그마 강화 배터리"
+acot_defensive_cannon_se_plural:  "시그마 강화 배터리"
+acot_defensive_cannon_se_desc:  "이 벽은 강력한 무기 시스템으로 업그레이드되었으며 이제 강력한 포격으로 방어하는 군대를 지원할 수 있습니다. 몇 가지 추가 방어만으로도 침략을 막거나 증원을 위한 충분한 시간을 확보하는 데 필요할 수 있습니다.\n\n지상 전투 중에 벽이 파괴되면 수리해야 합니다. 성벽이 모두 파괴되면 다시 재건해야 합니다."
+
+
+requires_building_forts:  "이 군대에는 첨단 군사 시설이 필요합니다."
+requires_building_ascensions:  "이 군대에는 고급 승천 건물이 필요합니다."
+
+tech_acot_army_3:  "미래의 군대"
+tech_acot_army_3_desc:  "군인들은 자랑스러워하고, 기계는 시끄럽고, 적들은 난폭하게 달려듭니다. 미래는 지금입니다."
+
+tech_acot_army_5:  "최고사령관"
+tech_acot_army_5_desc:  "싸워서 반드시 승리할 수 있다면 싸워야 합니다. 그리고 우리는 싸울 것입니다. 왜냐하면 우리는 승리하기 위해 플레이하기 때문입니다."
+
+tech_acot_army_morale_1:  "민족주의"
+tech_acot_army_morale_1_desc:  "개별 국가는 더 이상 연합제국에서 중요한 역할을 하지 못하지만, 새 질서 자체는 국민이 그 대의를 믿어야 할 국가이다."
+
+tech_acot_army_morale_2:  "애국심"
+tech_acot_army_morale_2_desc:  "과거에는 군인들이 감정을 위해, 국가를 위해, 자유를 위해 싸웠습니다. 그러나 가장 충실한 자들도 시험을 받을 수 있는 이 광활한 은하계에서 우리는 그들의 목적을 굳게 붙잡고 그들의 삶이 다가오는 칼날에 맞서는 피 한 방울 이상의 의미를 갖는다는 것을 알아야 합니다. 그들은 진실을 공격하고 폭풍에 맞서 싸워야 합니다."
+
+tech_acot_army_morale_3:  "열광"
+tech_acot_army_morale_3_desc:  "어떤 사람들은 광신적인 믿음이 위험하다고 생각하여 특정한 결점과 관점의 상실을 초래할 수 있다고 생각할 수 있습니다. 분명히 그 사람들은 자신의 얼굴에 날아오는 미사일에 정면으로 맞서본 적이 없을 것입니다. 광신적인 군인은 가장 충성스러운 시민조차 놀라게 할 위업을 달성할 수 있습니다. 그들은 자신이 그것을 완전히 이해하지 못하더라도 대의를 위해 싸우고 죽을 것입니다."
+
+################ DEFENDING ARMY ################
+
+decision_acot_upgrade_garrison_1:  "국방군 확장"
+decision_acot_upgrade_garrison_1_desc:  "추가 무기고 확장으로 방어력을 업그레이드하여 방어력을 크게 증가시킵니다. 방어군의 유지 비용도 증가하며, 전쟁 피로도 비용도 증가합니다."
+
+acot_modifier_defense_upgrade_1:  "국방군 확대"
+acot_modifier_defense_upgrade_1_desc:  "확장된 방어군은 방어하는 군대에 향상된 화력과 방어력을 제공합니다."
+
+decision_acot_upgrade_garrison_2:  "최대방어력"
+decision_acot_upgrade_garrison_2_desc:  "추가 무기고 확장으로 방어력을 업그레이드하여 방어력을 크게 증가시킵니다. 방어군의 유지 비용도 증가하며, 전쟁 피로도 비용도 증가합니다."
+
+acot_modifier_defense_upgrade_2:  "최대방어력"
+acot_modifier_defense_upgrade_2_desc:  "방어력을 최대 레벨로 업그레이드하여 방어력을 대폭 증가시킵니다. 방어군의 유지 비용도 증가하며, 전쟁 피로도 비용도 증가합니다."
+
+defense_army:  "보병방위군"
+defense_army_plural:  "보병방위군"
+defense_army_desc:  "기본적으로 행성 수비대는 잠재적인 침략자들에 맞서 싸울 수 있는 다양한 종류의 무기로 무장한 유능한 군인들로 가득 차 있습니다. 그러나 부수적인 피해를 제한하기 위해 일반 보병보다 화력이 적습니다. 고국을 방어하려는 열망을 갖고 있는 방어군은 사기가 높지만 추가 업그레이드와 지원 없이는 강력한 공격에 맞서기에는 부족합니다."
+
+acot_defense_army_dm:  "델타 보병 방위군"
+acot_defense_army_dm_plural:  "델타 보병 방어군"
+acot_defense_army_dm_desc:  "기본적으로 행성 수비대는 잠재적인 침략자들에 맞서 싸울 수 있는 다양한 종류의 무기로 무장한 유능한 군인들로 가득 차 있습니다. 그러나 부수적인 피해를 제한하기 위해 일반 보병보다 화력이 적습니다. 고국을 방어하려는 열망을 갖고 있는 방어군은 사기가 높지만 추가 업그레이드와 지원 없이는 강력한 공격에 맞서기에는 부족합니다."
+
+acot_defense_army_ae:  "알파 보병 방어군"
+acot_defense_army_ae_plural:  "알파 보병 방어군"
+acot_defense_army_ae_desc:  "기본적으로 행성 수비대는 잠재적인 침략자들에 맞서 싸울 수 있는 다양한 종류의 무기로 무장한 유능한 군인들로 가득 차 있습니다. 그러나 부수적인 피해를 제한하기 위해 일반 보병보다 화력이 적습니다. 고국을 방어하려는 열망을 갖고 있는 방어군은 사기가 높지만 추가 업그레이드와 지원 없이는 강력한 공격에 맞서기에는 부족합니다."
+
+acot_defense_army_light:  "기갑방위군"
+acot_defense_army_light_plural:  "기갑방위군"
+acot_defense_army_light_desc:  "대규모 보병 연대와 기갑 사단으로 구성된 강력한 수비대입니다. 두 세력이 협력하여 침입자를 격퇴합니다."
+
+acot_defense_army_light_dm:  "델타 기갑 방위군"
+acot_defense_army_light_dm_plural:  "델타 기갑 방위군"
+acot_defense_army_light_dm_desc:  "대규모 보병 연대와 기갑 사단으로 구성된 막강한 주둔군입니다. 두 세력이 협력하여 침입자를 격퇴합니다."
+
+acot_defense_army_light_ae:  "알파기갑방위군"
+acot_defense_army_light_ae_plural:  "알파 기갑 방위군"
+acot_defense_army_light_ae_desc:  "대규모 보병 연대와 기갑 사단으로 구성된 강력한 수비대입니다. 두 세력이 협력하여 침입자를 격퇴합니다."
+
+acot_defense_army_heavy:  "엘리트 방위군"
+acot_defense_army_heavy_plural:  "엘리트 방위군"
+acot_defense_army_heavy_desc:  "보병, 기갑, 항공 함대로 구성된 군단입니다. 이 엘리트들은 감히 자신의 고향을 위협하는 모든 사람을 파괴할 준비가 되어 있습니다."
+
+acot_defense_army_heavy_dm:  "델타 엘리트 방위군"
+acot_defense_army_heavy_dm_plural:  "델타 엘리트 방위군"
+acot_defense_army_heavy_dm_desc:  "보병, 기갑, 항공 함대로 구성된 군단입니다. 이 엘리트들은 감히 자신의 고향을 위협하는 모든 사람을 파괴할 준비가 되어 있습니다."
+
+acot_defense_army_heavy_ae:  "알파 엘리트 방위군"
+acot_defense_army_heavy_ae_plural:  "알파 엘리트 방위군"
+acot_defense_army_heavy_ae_desc:  "보병, 기갑, 항공 함대로 구성된 군단입니다. 이 엘리트들은 감히 자신의 고향을 위협하는 모든 사람을 파괴할 준비가 되어 있습니다."
+
+############################
+
+acot_defense_undead_dm:  "불멸의 삼각주"
+acot_defense_undead_dm_plural:  "불멸의 삼각주"
+acot_defense_undead_dm_desc:  "언다잉은 조국을 방어하기 위해 군사 강령술사에 의해 키워졌습니다."
+
+acot_defense_undead_ae:  "불멸의 알파"
+acot_defense_undead_ae_plural:  "불멸의 알파"
+acot_defense_undead_ae_desc:  "언다잉은 조국을 방어하기 위해 군사 강령술사에 의해 키워졌습니다."
+
+acot_defense_undead_light:  "공포의 불멸"
+acot_defense_undead_light_plural:  "공포의 불멸"
+acot_defense_undead_light_desc:  "Dread Undying은 더 강하고 크기가 크며 네크로맨서의 명령에 약간 더 반응합니다."
+
+acot_defense_undead_light_dm:  "공포의 불멸의 삼각주"
+acot_defense_undead_light_dm_plural:  "공포의 불멸의 삼각주"
+acot_defense_undead_light_dm_desc:  "Dread Undying은 더 강하고 크기가 크며 네크로맨서의 명령에 약간 더 반응합니다."
+
+acot_defense_undead_light_ae:  "드레드 언다잉 알파"
+acot_defense_undead_light_ae_plural:  "공포의 불멸의 알파"
+acot_defense_undead_light_ae_desc:  "Dread Undying은 더 강하고 크기가 크며 네크로맨서의 명령에 약간 더 반응합니다."
+
+acot_defense_undead_heavy:  "거대한 불멸"
+acot_defense_undead_heavy_plural:  "거대한 불멸자"
+acot_defense_undead_heavy_desc:  "강령술의 달인만이 이 거대한 언데드 군주를 소환할 수 있습니다."
+
+acot_defense_undead_heavy_dm:  "거대하고 불멸의 삼각주"
+acot_defense_undead_heavy_dm_plural:  "거대하고 불멸의 삼각주"
+acot_defense_undead_heavy_dm_desc:  "강령술의 달인만이 이 거대한 언데드 군주를 소환할 수 있습니다."
+
+acot_defense_undead_heavy_ae:  "거대한 불멸의 알파"
+acot_defense_undead_heavy_ae_plural:  "거대하고 불멸의 알파"
+acot_defense_undead_heavy_ae_desc:  "강령술의 달인만이 이 거대한 언데드 군주를 소환할 수 있습니다."
+
+############################
+
+acot_defense_robot_dm:  "델타 집행자 드로이드"
+acot_defense_robot_dm_plural:  "델타 집행자 드로이드"
+acot_defense_robot_dm_desc:  "집행자 드론은 기계의 강력한 방어망 네트워크를 사용하여 지구를 순찰하고 방어하도록 설계된 경량 보안 유닛입니다."
+
+acot_defense_robot_ae:  "알파 집행자 드로이드"
+acot_defense_robot_ae_plural:  "알파 집행자 드로이드"
+acot_defense_robot_ae_desc:  "집행자 드론은 기계의 강력한 방어망 네트워크를 사용하여 지구를 순찰하고 방어하도록 설계된 경량 보안 유닛입니다."
+
+acot_defense_robot_light:  "가디언 드로이드"
+acot_defense_robot_light_plural:  "델타 집행자 드로이드"
+acot_defense_robot_light_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+acot_defense_robot_light_dm:  "델타 집행자 드로이드"
+acot_defense_robot_light_dm_plural:  "델타 집행자 드로이드"
+acot_defense_robot_light_dm_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+acot_defense_robot_light_ae:  "알파 집행자 드로이드"
+acot_defense_robot_light_ae_plural:  "알파 집행자 드로이드"
+acot_defense_robot_light_ae_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+acot_defense_robot_heavy:  "델타 집행자 드로이드"
+acot_defense_robot_heavy_plural:  "델타 집행자 드로이드"
+acot_defense_robot_heavy_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+acot_defense_robot_heavy_dm:  "델타 집행자 드로이드"
+acot_defense_robot_heavy_dm_plural:  "델타 집행자 드로이드"
+acot_defense_robot_heavy_dm_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+acot_defense_robot_heavy_ae:  "알파 집행자 드로이드"
+acot_defense_robot_heavy_ae_plural:  "알파 집행자 드로이드"
+acot_defense_robot_heavy_ae_desc:  "이 드로이드는 최신 암흑 에너지 기반 무기와 갑옷을 갖추고 있어 이전 제품보다 훨씬 뛰어나면서도 유지 관리 비용을 최소화할 수 있습니다."
+
+############################
+
+###################### SPECIAL GARRISON ARMY ######################
+
+acot_garrison_army:  "델타 블랙 가드"
+acot_garrison_army_plural:  "델타 블랙 가드"
+acot_garrison_army_desc:  "죽을 때까지 새로운 본거지를 지키겠다고 맹세한 사절단의 정예 수비대입니다."
+ 
+acot_garrison_army_droid:  "델트론 디펜더"
+acot_garrison_army_droid_plural:  "델트론 수비수"
+acot_garrison_army_droid_desc:  "Emissary에서 설치한 고급 방어 유닛은 파괴될 때까지 새로운 본거지를 보호하도록 프로그래밍되었습니다."
+ 
+acot_garrison_army_giga:  "기가캐논"
+acot_garrison_army_giga_plural:  "기가캐논"
+acot_garrison_army_giga_desc:  "기가 포트리스에서 배치된 대규모 대포로 원시 병력을 빠르게 처리할 수 있습니다."
+ 
+
+################################ ATTACKING ARMY ################################
+
+################ INFANTRY AUTO ARMOR
+
+acot_infantry_autoarmor:  "경보병 오토슈트"
+acot_infantry_autoarmor_plural:  "경보병 자동수트"
+acot_infantry_autoarmor_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+acot_infantry_autoarmor_se:  "시그마 경보병 자동수트"
+acot_infantry_autoarmor_se_plural:  "시그마 경보병 자동수트"
+acot_infantry_autoarmor_se_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+###
+
+acot_infantry_medium_autoarmor:  "전문 보병 자동복"
+acot_infantry_medium_autoarmor_plural:  "전문 보병 자동복"
+acot_infantry_medium_autoarmor_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+acot_infantry_medium_autoarmor_se:  "시그마 전문 보병 오토슈트"
+acot_infantry_medium_autoarmor_se_plural:  "시그마 전문 보병 자동수트"
+acot_infantry_medium_autoarmor_se_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+###
+
+acot_infantry_heavy_autoarmor:  "중보병 오토슈트"
+acot_infantry_heavy_autoarmor_plural:  "중보병 자동수트"
+acot_infantry_heavy_autoarmor_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+acot_infantry_heavy_autoarmor_se:  "시그마 중보병 자동수트"
+acot_infantry_heavy_autoarmor_se_plural:  "시그마 중보병 자동수트"
+acot_infantry_heavy_autoarmor_se_desc:  "이 슈트를 착용한 사람은 전투에서 사망했지만, 슈트의 다양한 자동화 시스템은 온전하게 남아 있으며 자체적으로 또는 전장 사령관의 대리 제어를 통해 어느 정도 전투가 가능합니다. 이상하게도 그들이 운영하는 기술의 시대를 고려하면."
+
+###
+
+################ INFANTRY
+
+tech_acot_army_dm:  "델타군"
+tech_acot_army_dm_desc:  "이제 새로운 원자로 및 방어막과 같은 델타 기반 기술을 활용하여 최소한의 비용 조정으로 침략군에 혁명을 일으킬 수 있습니다. 지상전에서 우위를 점하고자 한다면 지체 없이 이 연구를 추진해야 합니다."
+ 
+tech_acot_army_ae:  "알파군"
+tech_acot_army_ae_desc:  "수수께끼의 힘에 대한 이해가 높아짐에 따라 델타 군대를 더욱 업그레이드할 수 있게 되었습니다. 이러한 변화는 결국 새로운 유형의 군대가 앞으로 나아갈 수 있도록 이끌 수 있습니다."
+
+tech_acot_army_se:  "시그마군"
+tech_acot_army_se_desc:  "항성 에너지로 구동되는 수상 무기, 휴대용 장비 및 파워 슈트. 우리는 적의 지상 요새 위에 두 번째 태양을 가져올 것입니다."
+ 
+assault_army:  "돌격 보병 연대"
+assault_army_plural:  "돌격 보병 연대"
+assault_army_desc:  "§Y경보병§!\n잘 훈련된 전문 군인들은 다양한 적대적인 환경에서 싸울 수 있는 장비를 갖추고 있습니다. 그들은 훈련과 숫자 덕분에 전선을 지킬 수 있고 사기가 좋습니다. 그들의 무기는 작고 통제 가능하여 행성에 부수적인 피해를 거의 또는 전혀 일으키지 않으므로 점령 공격에 이상적입니다."
+
+acot_infantry_dm:  "델타 보병 연대"
+acot_infantry_dm_plural:  "델타 보병 연대"
+acot_infantry_dm_desc:  "§Y경보병§!\n새로운 최첨단 기술로 무장한 이 전문 군인들은 다양한 적대적인 환경에서 언제든지 싸울 준비가 되어 있습니다. 그들은 훈련과 숫자 덕분에 전선을 지킬 수 있고 사기가 좋습니다. 그들의 무기는 작고 통제 가능하여 행성에 부수적인 피해를 거의 또는 전혀 일으키지 않으므로 점령 공격에 이상적입니다."
+
+acot_infantry_ae:  "알파 보병 연대"
+acot_infantry_ae_plural:  "알파 보병 연대"
+acot_infantry_ae_desc:  "§Y경보병§!\n이 병사들은 훨씬 더 치명적인 무기와 갑옷을 갖추고 있어 다양한 전장 조건과 환경에서 효과적으로 싸울 수 있습니다. 그들은 훈련과 숫자 덕분에 전선을 지킬 수 있고 사기가 좋습니다. 그들의 무기는 작고 통제 가능하여 행성에 부수적인 피해를 거의 또는 전혀 일으키지 않으므로 점령 공격에 이상적입니다."
+
+acot_infantry_se:  "시그마 보병 연대"
+acot_infantry_se_plural:  "시그마 보병 연대"
+acot_infantry_se_desc:  "§Y경보병§!\n이 부대는 시그마급 전투 장비를 갖추고 있으며 모든 환경에서 싸울 수 있도록 잘 훈련되었습니다. 비록 이 시대에 전통적인 군인의 가치가 다소 감소했을 수 있지만, 오랜 군사 전통에 따른 준비성, 가용성 및 기술을 과소평가해서는 안 됩니다. 그리고 화력이 낮기 때문에 부수적인 피해도 낮습니다."
+
+################ LIGHT
+
+acot_light_armor_pilot:  "탱크 조종사 승무원"
+acot_light_armor_pilot_plural:  "탱크 조종사 승무원"
+acot_light_armor_pilot_desc:  "§Y조종사 승무원§!\n이 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_light_armor_pilot_dm:  "델타 탱크 조종사 승무원"
+acot_light_armor_pilot_dm_plural:  "델타 탱크 조종사 승무원"
+acot_light_armor_pilot_dm_desc:  "§Y조종사 승무원§!\n이 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_light_armor_pilot_ae:  "알파 탱크 조종사 승무원"
+acot_light_armor_pilot_ae_plural:  "알파 탱크 조종사 승무원"
+acot_light_armor_pilot_ae_desc:  "§Y조종사 승무원§!\n이 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_light_armor_pilot_se:  "시그마 탱크 조종사 승무원"
+acot_light_armor_pilot_se_plural:  "시그마 탱크 조종사 승무원"
+acot_light_armor_pilot_se_desc:  "§Y조종사 승무원§!\n이 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+####
+
+acot_light_armor:  "전투탱크사단"
+acot_light_armor_plural:  "전투 탱크 사단"
+acot_light_armor_desc:  "§Y유인 차량§!\n이 탱크는 무장과 장갑이 잘 갖춰져 있어 공격을 막아낼 수 있고 그 대가로 상당한 피해를 입힐 수 있습니다. 보병 연대보다 조립 비용이 약간 더 비싸지만 모든 공격을 지휘하는 데 매우 적합합니다. 이들의 무기는 강력하지만 어느 정도 통제하면 부수적인 피해를 최소화할 수 있습니다. 사단당 부대 수가 상대적으로 적기 때문에 손실에 더욱 취약하며, 심지어 몇 대의 전차가 파괴되어도 사기가 크게 저하될 수 있으므로 적 떼에 맞서 배치할 때는 주의해야 합니다."
+
+acot_light_armor_dm:  "델타 전투 탱크 사단"
+acot_light_armor_dm_plural:  "델타 전투 탱크 사단"
+acot_light_armor_dm_desc:  "§Y유인 차량§!\n이 탱크는 무장과 장갑이 잘 갖춰져 있어 공격을 막아낼 수 있고 그 대가로 상당한 피해를 입힐 수 있습니다. 보병 연대보다 조립 비용이 약간 더 비싸지만 모든 공격을 지휘하는 데 매우 적합합니다. 이들의 무기는 강력하지만 어느 정도 통제하면 부수적인 피해를 최소화할 수 있습니다. 사단당 부대 수가 상대적으로 적기 때문에 손실에 더욱 취약하며, 심지어 몇 대의 전차가 파괴되어도 사기가 크게 저하될 수 있으므로 적 떼에 맞서 배치할 때는 주의해야 합니다."
+
+acot_light_armor_ae:  "알파 배틀탱크 디비전"
+acot_light_armor_ae_plural:  "알파 전투 탱크 사단"
+acot_light_armor_ae_desc:  "§Y유인 차량§!\n이 탱크는 무장과 장갑이 잘 갖춰져 있어 공격을 막아낼 수 있고 그 대가로 상당한 피해를 입힐 수 있습니다. 보병 연대보다 조립 비용이 약간 더 비싸지만 모든 공격을 지휘하는 데 매우 적합합니다. 이들의 무기는 강력하지만 어느 정도 통제하면 부수적인 피해를 최소화할 수 있습니다. 사단당 부대 수가 상대적으로 적기 때문에 손실에 더욱 취약하며, 심지어 몇 대의 전차가 파괴되어도 사기가 크게 저하될 수 있으므로 적 떼에 맞서 배치할 때는 주의해야 합니다."
+
+acot_light_armor_se:  "시그마 배틀탱크 디비전"
+acot_light_armor_se_plural:  "시그마 전투 탱크 사단"
+acot_light_armor_se_desc:  "§Y유인 차량§!\n이 탱크는 무장과 장갑이 잘 갖춰져 있어 공격을 막아낼 수 있고 그 대가로 상당한 피해를 입힐 수 있습니다. 보병 연대보다 조립 비용이 약간 더 비싸지만 모든 공격을 지휘하는 데 매우 적합합니다. 이들의 무기는 강력하지만 어느 정도 통제하면 부수적인 피해를 최소화할 수 있습니다. 사단당 부대 수가 상대적으로 적기 때문에 손실에 더욱 취약하며, 심지어 몇 대의 전차가 파괴되어도 사기가 크게 저하될 수 있으므로 적 떼에 맞서 배치할 때는 주의해야 합니다."
+
+################ HEAVY
+
+
+acot_heavy_armor_pilot:  "랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_plural:  "랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_desc:  "§Y조종사 승무원§!\n이 Landcruiser 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_heavy_armor_pilot_dm:  "델타 랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_dm_plural:  "델타 Landcruiser 조종사 승무원"
+acot_heavy_armor_pilot_dm_desc:  "이 Landcruiser 승무원들은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_heavy_armor_pilot_ae:  "알파 랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_ae_plural:  "알파 Landcruiser 조종사 승무원"
+acot_heavy_armor_pilot_ae_desc:  "이 Landcruiser 승무원들은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_heavy_armor_pilot_se:  "시그마 랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_se_plural:  "시그마 랜드크루저 조종사 승무원"
+acot_heavy_armor_pilot_se_desc:  "이 Landcruiser 승무원들은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_heavy_armor:  "랜드크루저"
+acot_heavy_armor_plural:  "랜드크루저"
+acot_heavy_armor_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n랜드크루저는 본질적으로 행성 공격을 위해 설계된 코르벳함 크기의 선박입니다. 랜드크루저는 우주 전투에서는 쓸모가 없지만, 랜드크루저는 도시 전체와 군대 모두를 쉽게 초토화할 것입니다. 당연히 부수적인 피해가 우려된다면 배치해서는 안 됩니다.\n\nLandcruiser는 고려해야 할 전력이지만 제작과 유지 관리에 상당한 비용이 들고, 하나를 잃으면 전쟁 노력에 큰 타격이 될 것이 확실합니다. 더욱이 배에 탑승한 승무원들은 자랑스럽고 자신감이 넘치지만 배의 인상적인 내구성에 비해 그들의 사기는 쇠퇴합니다. 당황한 승무원은 살인 기계를 때리기를 기다리는 금속 상자로 빠르게 바꿀 수 있습니다. 현명하게 배포하세요."
+
+acot_heavy_armor_dm:  "델타 랜드크루저"
+acot_heavy_armor_dm_plural:  "델타 랜드크루저"
+acot_heavy_armor_dm_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n랜드크루저는 본질적으로 행성 공격을 위해 설계된 코르벳함 크기의 선박입니다. 랜드크루저는 우주 전투에서는 쓸모가 없지만, 랜드크루저는 도시 전체와 군대 모두를 쉽게 초토화할 것입니다. 당연히 부수적인 피해가 우려된다면 배치해서는 안 됩니다.\n\nLandcruiser는 고려해야 할 전력이지만 제작과 유지 관리에 상당한 비용이 들고, 하나를 잃으면 전쟁 노력에 큰 타격이 될 것이 확실합니다. 더욱이 배에 탑승한 승무원들은 자랑스럽고 자신감이 넘치지만 배의 인상적인 내구성에 비해 그들의 사기는 쇠퇴합니다. 당황한 승무원은 살인 기계를 때리기를 기다리는 금속 상자로 빠르게 바꿀 수 있습니다. 현명하게 배포하세요."
+
+acot_heavy_armor_ae:  "알파 랜드크루저"
+acot_heavy_armor_ae_plural:  "알파 랜드크루저"
+acot_heavy_armor_ae_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n랜드크루저는 본질적으로 행성 공격을 위해 설계된 코르벳함 크기의 선박입니다. 랜드크루저는 우주 전투에서는 쓸모가 없지만, 랜드크루저는 도시 전체와 군대 모두를 쉽게 초토화할 것입니다. 당연히 부수적인 피해가 우려된다면 배치해서는 안 됩니다.\n\nLandcruiser는 고려해야 할 전력이지만 제작과 유지 관리에 상당한 비용이 들고, 하나를 잃으면 전쟁 노력에 큰 타격이 될 것이 확실합니다. 더욱이 배에 탑승한 승무원들은 자랑스럽고 자신감이 넘치지만 배의 인상적인 내구성에 비해 그들의 사기는 쇠퇴합니다. 당황한 승무원은 살인 기계를 때리기를 기다리는 금속 상자로 빠르게 바꿀 수 있습니다. 현명하게 배포하세요."
+
+acot_heavy_armor_se:  "시그마 랜드크루저"
+acot_heavy_armor_se_plural:  "시그마 랜드크루저"
+acot_heavy_armor_se_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n랜드크루저는 본질적으로 행성 공격을 위해 설계된 코르벳함 크기의 선박입니다. 랜드크루저는 우주 전투에서는 쓸모가 없지만, 랜드크루저는 도시 전체와 군대 모두를 쉽게 초토화할 것입니다. 당연히 부수적인 피해가 우려된다면 배치해서는 안 됩니다.\n\nLandcruiser는 고려해야 할 전력이지만 제작과 유지 관리에 상당한 비용이 들고, 하나를 잃으면 전쟁 노력에 큰 타격이 될 것이 확실합니다. 더욱이 배에 탑승한 승무원들은 자랑스럽고 자신감이 넘치지만 배의 인상적인 내구성에 비해 그들의 사기는 쇠퇴합니다. 당황한 승무원은 살인 기계를 때리기를 기다리는 금속 상자로 빠르게 바꿀 수 있습니다. 현명하게 배포하세요."
+
+################ SPECIAL
+
+slave_army:  "전쟁 노예 연대"
+slave_army_plural:  "전쟁 노예 연대"
+slave_army_desc:  "§Y소모성 보병§!\n좋은 전투 감각과 유능한 신체를 갖춘 노예는 최전선 보병으로 투입되는 경우가 많습니다. 그들은 기본적인 훈련을 받고 그들의 신분에 맞는 값싼 장비를 착용합니다. 대부분의 적에 대해 매우 오래 지속될 것이라고 기대해서는 안 되지만, 노예라는 사실은 소모품이라는 것을 의미합니다. 그들의 삶은 더 나은 사람만큼 중요하지 않습니다.\n\n당연히 노예는 죽기를 원하지 않습니다. 열악한 훈련, 열악한 장비, 열악한 대우와 함께 노예들은 낮은 사기로 인해 손실을 입은 후 대량 이주되기 쉽습니다."
+
+acot_slave_army_dm:  "검투사 노예 연대"
+acot_slave_army_dm_plural:  "검투사 노예 연대"
+acot_slave_army_dm_desc:  "§Y소모용 보병§!\n은 단순한 노예가 아닙니다. 단지 오락용일지라도 일부 전투를 본 적이 있기 때문입니다. 다른 보병과 비교하여 글래디에이터즈는 장비와 함께 제공되는 공격 및 방어의 새로운 발전의 이점을 받지 못합니다. 그러나 그들은 적어도 자주 움츠러들거나 도망가지 않기 때문에 일반 노예들보다 훨씬 더 믿음직합니다."
+
+acot_undead_army_dm:  "불멸의 호드"
+acot_undead_army_dm_plural:  "불멸의 무리"
+acot_undead_army_dm_desc:  "§Y소모성 보병§!\n이름에도 불구하고 불멸은 여전히 ​​죽을 수 있으며, 작업을 완료하기 전에 죽을 가능성이 훨씬 적습니다."
+
+acot_army_stellarite_bomber:  "스텔라 스트라이커"
+acot_army_stellarite_bomber_desc:  "휘발성 성탄 폭탄으로 무장한 경장갑 자동화 항공기입니다. 대부분은 초기 폭격 이후 살아남지 못하지만, 그들이 입힌 피해는 상당히 심각합니다."
+ 
+tech_acot_army_stellarite_bomber:  "스텔라라이트 스트라이커"
+tech_acot_army_stellarite_bomber_desc:  "때때로 우리는 재래식 지상전을 벌일 여유가 없으며 어떤 대가를 치르더라도 적에 대한 승리를 거두어야 합니다. 신속하고 가벼운 장갑을 갖춘 소모성 자동화 항공기를 제작하여 휘발성 항성탄을 전장에 배치하여 적과 행성 표면을 빠르게 전멸시킬 수 있습니다."
+ 
+################ DROID
+
+tech_acot_army_robotic_dm:  "델타 공격 템플릿"
+tech_acot_army_robotic_dm_desc:  "선구자들이 로봇 기술에서 이러한 발전을 이루었다는 기록이 있다는 것은 놀라운 일입니다. 기록에 따르면 그들의 기계는 다른 유기체만큼 발전했지만... 그들은 독립에 대한 열망 없이 창조자에게 전적으로 충성합니다. 아마도 그들에게는 뭔가 독특한 것이 있지 않을까? 우리는 더 깊이 파고들어야 합니다."
+
+tech_acot_army_robotic_ae:  "알파 공격 템플릿"
+tech_acot_army_robotic_ae_desc:  "우리는 로봇공학을 포함한 모든 분야에서 이전 제품을 능가할 것입니다."
+
+tech_acot_army_robotic_se:  "시그마 공격 템플릿"
+tech_acot_army_robotic_se_desc:  "가장 원시적인 로봇조차도 전설에 불과하다는 사실을 알아 두십시오."
+
+acot_drone_army:  "전투 드론 떼"
+acot_drone_army_plural:  "전투 드로이드 떼"
+acot_drone_army_desc:  "전투 드론은 가벼운 무기를 갖춘 작고 단순한 기계 유닛입니다. 프레임은 매우 열악하지만 대량으로 만들 수 있고 고유한 로봇 템플릿을 따르지 않습니다. 즉, 기계적인 팝에 의존하여 생산하지 않습니다.\n\n전장에서 가장 신뢰할 수 있는 병력은 아닐 수 있지만 단순성과 함께 소모성 특성이 있어 대포 사료로서 확실한 선택이 됩니다."
+
+acot_drone_army_dm:  "델타 전투 드론 무리"
+acot_drone_army_dm_plural:  "델타 전투 드로이드 떼"
+acot_drone_army_dm_desc:  "전투 드론은 가벼운 무기를 갖춘 작고 단순한 기계 유닛입니다. 프레임은 매우 열악하지만 대량으로 만들 수 있고 고유한 로봇 템플릿을 따르지 않습니다. 즉, 기계적인 팝에 의존하여 생산하지 않습니다.\n\n전장에서 가장 신뢰할 수 있는 병력은 아닐 수 있지만 단순성과 함께 소모성 특성이 있어 대포 사료로서 확실한 선택이 됩니다."
+
+acot_drone_army_ae:  "알파 전투 드론 떼"
+acot_drone_army_ae_plural:  "알파 전투 드로이드 떼"
+acot_drone_army_ae_desc:  "전투 드론은 가벼운 무기를 갖춘 작고 단순한 기계 유닛입니다. 프레임은 매우 열악하지만 대량으로 만들 수 있고 고유한 로봇 템플릿을 따르지 않습니다. 즉, 기계적인 팝에 의존하여 생산하지 않습니다.\n\n전장에서 가장 신뢰할 수 있는 병력은 아닐 수 있지만 단순성과 함께 소모성 특성이 있어 대포 사료로서 확실한 선택이 됩니다."
+
+acot_drone_army_se:  "시그마 전투 드론 무리"
+acot_drone_army_se_plural:  "시그마 전투 드로이드 떼"
+acot_drone_army_se_desc:  "전투 드론은 가벼운 무기를 갖춘 작고 단순한 기계 유닛입니다. 프레임은 매우 열악하지만 대량으로 만들 수 있고 고유한 로봇 템플릿을 따르지 않습니다. 즉, 기계적인 팝에 의존하여 생산하지 않습니다.\n\n전장에서 가장 신뢰할 수 있는 병력은 아닐 수 있지만 단순성과 함께 소모성 특성이 있어 대포 사료로서 확실한 선택이 됩니다."
+
+######################
+
+robotic_army:  "어썰트 드로이드 유닛"
+robotic_army_plural:  "돌격 드로이드 유닛"
+robotic_army_desc:  "§Y기계 보병§!\n전투 드로이드에는 유기적 주인이 전장에서 싸우는 데 도움이 되는 기본 전투 소프트웨어가 장착되어 있습니다. 차갑고 계산적인 기계는 마음과 감정을 지니지 않으며 파괴될 때까지 싸울 것입니다. 예상만큼 투박하지는 않지만, 이 부대는 대부분의 노련한 군인들에게 그다지 위협적이지 않으며 그들의 성능은 신선하고 자신감 있는 군인보다 눈에 띄게 나쁩니다."
+
+acot_droid_army_dm:  "델타 어썰트 드로이드 유닛"
+acot_droid_army_dm_plural:  "델타 어썰트 드로이드 유닛"
+acot_droid_army_dm_desc:  "§Y기계 보병§!\n전투 드로이드에는 유기적 주인이 전장에서 싸우는 데 도움이 되는 기본 전투 소프트웨어가 장착되어 있습니다. 차갑고 계산적인 기계는 마음과 감정을 지니지 않으며 파괴될 때까지 싸울 것입니다. 예상만큼 투박하지는 않지만, 이 부대는 대부분의 노련한 군인들에게 그다지 위협적이지 않으며 그들의 성능은 신선하고 자신감 있는 군인보다 눈에 띄게 나쁩니다."
+
+acot_droid_army_ae:  "알파 어썰트 드로이드 유닛"
+acot_droid_army_ae_plural:  "알파 어썰트 드로이드 유닛"
+acot_droid_army_ae_desc:  "§Y기계 보병§!\n전투 드로이드에는 유기적 주인이 전장에서 싸우는 데 도움이 되는 기본 전투 소프트웨어가 장착되어 있습니다. 차갑고 계산적인 기계는 마음과 감정을 지니지 않으며 파괴될 때까지 싸울 것입니다. 예상만큼 투박하지는 않지만, 이 부대는 대부분의 노련한 군인들에게 그다지 위협적이지 않으며 그들의 성능은 신선하고 자신감 있는 군인보다 눈에 띄게 나쁩니다."
+
+acot_droid_army_se:  "시그마 어썰트 드로이드 유닛"
+acot_droid_army_se_plural:  "시그마 어썰트 드로이드 유닛"
+acot_droid_army_se_desc:  "§Y기계 보병§!\n전투 드로이드에는 유기적 주인이 전장에서 싸우는 데 도움이 되는 기본 전투 소프트웨어가 장착되어 있습니다. 차갑고 계산적인 기계는 마음과 감정을 지니지 않으며 파괴될 때까지 싸울 것입니다. 예상만큼 투박하지는 않지만, 이 부대는 대부분의 노련한 군인들에게 그다지 위협적이지 않으며 그들의 성능은 신선하고 자신감 있는 군인보다 눈에 띄게 나쁩니다."
+
+acot_droid_army_torso:  "손상된 돌격 드로이드 유닛"
+acot_droid_army_torso_plural:  "손상된 돌격 드로이드 유닛"
+acot_droid_army_torso_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_droid_army_torso_dm:  "손상된 델타 어썰트 드로이드 유닛"
+acot_droid_army_torso_dm_plural:  "손상된 델타 어썰트 드로이드 유닛"
+acot_droid_army_torso_dm_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_droid_army_torso_ae:  "손상된 알파 어썰트 드로이드 유닛"
+acot_droid_army_torso_ae_plural:  "손상된 알파 어썰트 드로이드 유닛"
+acot_droid_army_torso_ae_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_droid_army_torso_se:  "손상된 시그마 어썰트 드로이드 유닛"
+acot_droid_army_torso_se_plural:  "손상된 시그마 어썰트 드로이드 유닛"
+acot_droid_army_torso_se_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+######################
+
+acot_droid_mech:  "공성전 워멕"
+acot_droid_mech_plural:  "공성전 워멕"
+acot_droid_mech_desc:  "Siege Warmech는 본질적으로 자동화된 공격 워커입니다. 그들은 전투 탱크와 유사한 역할을 수행하지만 내구성이 뛰어나고 사기에 대한 우려가 없다는 추가적인 이점이 있습니다. 랜드크루저만큼 치명적이지는 않지만 여전히 강력하고 임무를 잘 수행합니다."
+
+acot_droid_mech_dm:  "델타 시즈 워메치"
+acot_droid_mech_dm_plural:  "델타 시즈 워메치"
+acot_droid_mech_dm_desc:  "Siege Warmech는 본질적으로 자동화된 공격 워커입니다. 그들은 전투 탱크와 유사한 역할을 수행하지만 내구성이 뛰어나고 사기에 대한 우려가 없다는 추가적인 이점이 있습니다. 랜드크루저만큼 치명적이지는 않지만 여전히 강력하고 임무를 잘 수행합니다."
+
+acot_droid_mech_ae:  "알파시즈 워멕"
+acot_droid_mech_ae_plural:  "알파시즈 워멕"
+acot_droid_mech_ae_desc:  "Siege Warmech는 본질적으로 자동화된 공격 워커입니다. 그들은 전투 탱크와 유사한 역할을 수행하지만 내구성이 뛰어나고 사기에 대한 우려가 없다는 추가적인 이점이 있습니다. 랜드크루저만큼 치명적이지는 않지만 여전히 강력하고 임무를 잘 수행합니다."
+
+acot_droid_mech_se:  "시그마 공성전 워멕"
+acot_droid_mech_se_plural:  "시그마 공성전 워멕"
+acot_droid_mech_se_desc:  "Siege Warmech는 본질적으로 자동화된 공격 워커입니다. 그들은 전투 탱크와 유사한 역할을 수행하지만 내구성이 뛰어나고 사기에 대한 우려가 없다는 추가적인 이점이 있습니다. 랜드크루저만큼 치명적이지는 않지만 여전히 강력하고 임무를 잘 수행합니다."
+ 
+########################################### SPECIAL ARMY ###########################################
+
+acot_special_force:  "특수부대"
+acot_special_force_plural:  "특수 부대"
+acot_special_force_desc:  "§Y특수 보병§!\n특수 작전 부대는 훨씬 더 나은 장비와 우수한 훈련을 갖춘 고도로 훈련된 전투 전문가입니다. 그들은 유난히 사기가 높습니다. 그러나 장비를 준비하고 유지하는 데 비용이 많이 듭니다."
+
+acot_special_force_dm:  "델타 특수부대"
+acot_special_force_dm_plural:  "델타 특수부대"
+acot_special_force_dm_desc:  "§Y특수 보병§!\n특수 작전 부대는 훨씬 더 나은 장비와 우수한 훈련을 갖춘 고도로 훈련된 전투 전문가입니다. 그들은 유난히 사기가 높습니다. 그러나 장비를 준비하고 유지하는 데 비용이 많이 듭니다."
+
+acot_special_force_ae:  "알파특수부대"
+acot_special_force_ae_plural:  "알파 특수 부대"
+acot_special_force_ae_desc:  "§Y특수 보병§!\n특수 작전 부대는 훨씬 더 나은 장비와 우수한 훈련을 갖춘 고도로 훈련된 전투 전문가입니다. 그들은 유난히 사기가 높습니다. 그러나 장비를 준비하고 유지하는 데 비용이 많이 듭니다."
+
+acot_special_force_se:  "시그마 특수부대"
+acot_special_force_se_plural:  "시그마 특수부대"
+acot_special_force_se_desc:  "§Y특수 보병§!\n특수 작전 부대는 훨씬 더 나은 장비와 우수한 훈련을 갖춘 고도로 훈련된 전투 전문가입니다. 그들은 유난히 사기가 높습니다. 그러나 장비를 준비하고 유지하는 데 비용이 많이 듭니다."
+
+acot_hero_ae:  "§Y블랙 가드§!"
+acot_hero_ae_plural:  "§Y블랙 가드§!"
+acot_hero_ae_desc:  "§Y영웅군§!\n\n흑위대(Black Guard)는 우리 특수부대 중 가장 정예화된 부대입니다. 그들 각자는 전쟁의 숙달을 위해 평생을 바쳤습니다. 그들은 대가로 아무것도 요구하지 않으며, 그들의 존재만으로도 제국의 단결을 고취합니다. Black Guard가 의심과 흔들림의 조짐을 보이기 전에 마지막 한 사람까지 싸우는 것은 드문 일이 아닙니다.\n\n이러한 충성심과 용기의 모범은 찾기 어렵고 새로운 후보자가 등장하는 데는 시간이 걸리므로 각 Black Guard는 신중하게 처리해야 합니다.\n§Y영웅 군대는 정기적으로 모집할 수 있습니다.§!"
+
+########################################### ETHOS ARMY ###########################################
+
+################ MILITARIST
+ 
+acot_army_mili:  "중기동보병"
+acot_army_mili_plural:  "중기동보병"
+acot_army_mili_desc:  "§Y특수 보병§!\n이 중무장 및 기갑 병사들은 추가 전투 훈련을 받아 군사적 요구에 따라 모든 전투 상황과 환경에서 탁월한 능력을 발휘할 수 있습니다."
+ 
+acot_army_mili_se:  "시그마 중기동 보병"
+acot_army_mili_se_plural:  "시그마 중기동 보병"
+acot_army_mili_se_desc:  "§Y특수 보병§!\n이 중무장 및 기갑 병사들은 추가 전투 훈련을 받아 군사적 요구에 따라 모든 전투 상황과 환경에서 탁월한 능력을 발휘할 수 있습니다."
+
+tech_acot_army_mili:  "기동보병사단"
+tech_acot_army_mili_desc:  "우리의 군사적 이상은 선구자의 군대보다 더 강력한 보병 사단을 요구합니다. 이를 위해 우리는 전면적인 침공을 위해 완전무장과 장갑을 갖춘 새로운 기동보병사단을 창설하겠습니다. 이 군인들은 우리가 앉아서 쓸데없는 조약을 맺는 것이 아니라 전쟁을 통해서만 평화를 이룰 수 있다는 증거가 될 것입니다."
+ 
+acot_army_mili_hero:  "전쟁의 신"
+acot_army_mili_hero_plural:  "전쟁의 신"
+acot_army_mili_hero_desc:  "§Y영웅 군대§!\n\n유전적으로 강화된 이 슈퍼 전사는 정의로운 분노를 뿜어내고 전장에 뛰어들어 적진에 큰 피해를 입힐 수 있습니다. 그는 죽음을 두려워하지 않습니다. 왜냐하면 그는 죽음 그 자체이기 때문입니다. 우리의 적들은 조심하십시오. 그들은 전쟁의 신과 맞서고 있습니다."
+ 
+tech_acot_army_mili_hero:  "전쟁의 신을 만세!"
+tech_acot_army_mili_hero_desc:  "적진에 공포를 불어넣기 위해서는 단순한 무기 이상의 것이 필요합니다. "전쟁의 신"이라는 칭호가 가장 잘 어울릴 만큼 용감하고 강력한 개인이 필요합니다. 우리는 우리 계층에서 후보자를 선발하고 이 프로젝트를 즉시 시작해야 합니다."
+ 
+god_limit_tooltip:  "신은 쉽게 태어나지 않는다. 언제든지 소수만이 나타날 수 있습니다."
+ 
+################ PACIFIST
+ 
+acot_army_paci:  "평화유지군"
+acot_army_paci_plural:  "평화유지군"
+acot_army_paci_desc:  "§Y특수 보병§!\n이러한 헌병대는 폭발물과 파괴 무기를 사용할 때 자제력을 발휘하도록 훈련을 받았습니다. 이들은 치명적이지 않은 수단을 통해 전투를 끝내는 데 탁월하지만 전쟁광에게는 자비를 베풀지 않습니다. 법은 그들에게서 그 목소리를 찾을 것입니다."
+ 
+acot_army_paci_se:  "시그마 평화 유지군"
+acot_army_paci_se_plural:  "시그마 평화 유지군"
+acot_army_paci_se_desc:  "§Y특수 보병§!\n이러한 헌병대는 폭발물과 파괴 무기를 사용할 때 자제력을 발휘하도록 훈련을 받았습니다. 이들은 치명적이지 않은 수단을 통해 전투를 끝내는 데 탁월하지만 전쟁광에게는 자비를 베풀지 않습니다. 법은 그들에게서 그 목소리를 찾을 것입니다."
+
+tech_acot_army_paci:  "평화, 자유, 정의 및 안보를 가져오는 사람"
+tech_acot_army_paci_desc:  "진정한 평화를 이루기 위해서는 최전선 군인이자 국경 내 경찰조직 역할을 하는 새로운 평화유지군을 조직해야 합니다. 우리는 평화의 새로운 장을 열 것이며, 전쟁과 평화는 근육이 아닌 두뇌로 승리할 수 있다는 것을 잘못된 군국주의 전쟁광들에게 증명할 것입니다."
+ 
+acot_army_paci_hero:  "캡틴 평화주의자"
+acot_army_paci_hero_plural:  "캡틴 평화주의자"
+acot_army_paci_hero_desc:  "§Y영웅 군대§!\n\n강력한 제트팩을 갖춘 캡틴 퍼시피스트(Captain Pacifist)는 전투에 뛰어들어 그의 황금빛 눈에서 나오는 강력한 에너지 기반 무기를 사용하여 전쟁광의 무기를 제거합니다. 선장은 그 야만인들에 비해 가장 강력하거나 가장 치명적인 군인이나 전쟁 기계는 아닐 수도 있지만, 모든 전쟁을 끝내기 위한 우리의 대의에 전적으로 헌신하고 있습니다."
+ 
+tech_acot_army_paci_hero:  "평화의 챔피언"
+tech_acot_army_paci_hero_desc:  "우리의 평화 유지군은 평화를 유지하는 데 적합하지만 항상 평화를 창조하는 데는 적합하지 않습니다. 다행스럽게도 우리 과학자 중 일부는 다른 사람들에게 평화가 유일한 길임을 확신시키는 데 적합한 상징적인 평화의 등대를 만들기 위한 계획 초안을 작성했습니다. 아주 어리석게 들리지만 예상된 데이터는 신뢰할 수 있는 것으로 입증되었습니다."
+ 
+captain_limit_tooltip:  "기술적으로 우리는 한 명 이상의 캡틴 평화주의자를 만드는 데 필요한 자원을 보유하고 있지만 실제로 그렇게까지 가고 싶어하는 개인을 찾을 수 없습니다."
+ 
+################ XENOPHILE
+ 
+acot_army_phile:  "유령요원"
+acot_army_phile_plural:  "유령 요원"
+acot_army_phile_desc:  "§Y경보병§!\n이 요원들은 외국인을 사랑하는 목적에 헌신하고 있습니다. 그들은 치명적이지 않은 주사로 전투에 효과적인 적만을 무력화하고 불필요한 유혈 사태와 부수적 피해를 어떻게 해서든지 방지하도록 훈련받았습니다."
+ 
+acot_army_phile_se:  "시그마 고스트 에이전트"
+acot_army_phile_se_plural:  "시그마 고스트 에이전트"
+acot_army_phile_se_desc:  "§Y경보병§!\n이 요원들은 외국인을 사랑하는 목적에 헌신하고 있습니다. 그들은 치명적이지 않은 주사로 전투에 효과적인 적만을 무력화하고 불필요한 유혈 사태와 부수적 피해를 어떻게 해서든지 방지하도록 훈련받았습니다."
+
+tech_acot_army_phile:  "고스트 디비전"
+tech_acot_army_phile_desc:  "우리는 모든 생명, 심지어 적의 생명도 소중히 여깁니다. 그들이 자신들의 방식의 오류를 볼 수 있도록 허용해야 하지만, 우리는 현재의 파괴적인 무기로는 그러한 대담한 작업을 수행할 수 없습니다. 이를 위해 우리는 극도의 효율성으로 적대적인 표적만을 제압할 수 있는 특수 장비를 갖춘 군대를 개발하고 훈련해야 합니다. 우리는 문명시대의 더욱 우아한 무기를 가져야만 합니다. 끝났어, 외국인 혐오자 - 우리는 높은 근거를 가지고 있습니다."
+ 
+acot_army_phile_hero:  "블랙 위도우"
+acot_army_phile_hero_plural:  "블랙 위도우즈"
+acot_army_phile_hero_desc:  "§Y영웅군§!\n\n블랙 위도우는 고스트 디비전의 가장 치명적인 요원입니다. 그들은 은밀하고 파괴적인 행위에 대해 잘 훈련받았으며 강력하지만 치명적이지 않은 다양한 무기고와 도구를 갖추고 있어 적 전투원을 쉽게 무력화할 수 있습니다."
+ 
+tech_acot_army_phile_hero:  "블랙 위도우즈"
+tech_acot_army_phile_hero_desc:  "우리는 생명을 죽이는 것을 좋아하지 않지만, 우리의 중립주의자들이 외국인 혐오증 편견의 위협을 종식시키는 것을 좋아한다는 점을 인정해야 합니다. 진정한 독립 부대로 Division을 공식적으로 구성하면 베테랑 유령을 활용하여 Black Widows가 될 수 있습니다."
+ 
+blackwidow_limit_tooltip:  "가장 치명적이고 가장 숙련된 고스트 에이전트만이 블랙 위도우 등급을 받을 수 있으므로 이러한 재능 있는 에이전트가 등장하는 데는 시간이 걸립니다."
+ 
+ 
+################ XENOPHOBE
+ 
+acot_army_phobe:  "죽음의 인도자 분대"
+acot_army_phobe_plural:  "죽음의 인도자 분대"
+acot_army_phobe_desc:  "§Y중보병§!\n이 무시무시하고 중무장한 군인들은 외국인 혐오증이 드러난 우리의 의지입니다. 그들은 세계에서 세계로 이동하며 제노의 모든 흔적을 지우는 반물질 대포로 모든 제노를 완전히 파괴합니다. 그것은 존재의 원자입니다. 누구도 우리의 고통의 불길에서 벗어날 수 없을 것입니다."
+ 
+acot_army_phobe_se:  "시그마 데스브링어"
+acot_army_phobe_se_plural:  "시그마 데스브링어"
+acot_army_phobe_se_desc:  "§Y중보병§!\n이 무시무시하고 중무장한 군인들은 외국인 혐오증이 드러난 우리의 의지입니다. 그들은 세계에서 세계로 이동하며 제노의 모든 흔적을 지우는 반물질 대포로 모든 제노를 완전히 파괴합니다. 그것은 존재의 원자입니다. 누구도 우리의 고통의 불길에서 벗어날 수 없을 것입니다."
+
+tech_acot_army_phobe:  "제노의 경멸"
+tech_acot_army_phobe_desc:  "우리 국민은 우리가 이 우주에서 유일하게 진정으로 문명화된 종이고, 다른 모든 종은 단순히 동물, 즉 정화되기 위해 존재한 짐승이라는 단순한 사실을 받아들였습니다. 하지만 이 짐승들을 정화하려면 더 치명적인 힘이 필요합니다. 그것은 제노의 오염을 정화하고 감히 우리에게 손을 뻗는 이들의 마음에 두려움을 심어줄 것입니다. 우리 군대가 오면 그들은 죽음을 구걸할 것이다."
+ 
+acot_army_phobe_hero:  "묵시록 삼중포 포병"
+acot_army_phobe_hero_plural:  "묵시록 삼중 대포 포병"
+acot_army_phobe_hero_desc:  "§Y영웅군§!\n\n이 거대한 포병에는 극한 범위에서 발사하여 파괴적인 피해를 입힐 수 있는 Apocalypse급 삼중포가 장착되어 있습니다. 적에 대한 최대의 부수적 피해와 완전한 파괴가 보장됩니다. 그들은 존재할 권리가 없다는 것을 이해해야 합니다."
+ 
+tech_acot_army_phobe_hero:  "그을린 대지"
+tech_acot_army_phobe_hero_desc:  "우리는 보호막 생성기로 행성을 공격하거나 곤충의 벌집을 습격하는 데 충분한 시간을 낭비했습니다. 우리의 군사 전략가들은 새로운 무기를 만들 것을 요청합니다. 우리의 적 쓰레기에게 살인과 대혼란을 쏟아부을 수 있는 거대한 포병입니다. 부수적 피해는 저주받을 것입니다. 왜냐하면 그들은 제노 쓰레기로 태어나기를 선택했기 때문입니다."
+ 
+xenoart_limit_tooltip:  "대부분의 내부 집단이 이 포병 건설에 동의하는 데 이미 많은 설득력이 필요했으며, 다른 포병을 취역하려면 시간이 걸릴 것입니다."
+ 
+ 
+################ EGALITARIAN
+ 
+acot_army_ega_pilot:  "알파 리버티 조종사 승무원"
+acot_army_ega_pilot_plural:  "알파 리버티 조종사 승무원"
+acot_army_ega_pilot_desc:  "§Y조종사 승무원§!\n이 Liberty Landcruiser 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_army_ega_pilot_se:  "시그마 리버티 파일럿 승무원"
+acot_army_ega_pilot_se_plural:  "시그마 리버티 파일럿 크루"
+acot_army_ega_pilot_se_desc:  "§Y조종사 승무원§!\n이 Liberty Landcruiser 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_army_ega:  "리버티 랜드크루저"
+acot_army_ega_plural:  "리버티 랜드크루저"
+acot_army_ega_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n이 거대하고 고도로 발전된 육상 순양함은 모든 압제자들에게 자유와 자유를 가져다주는 데 매우 적합합니다. 적군이 항복하도록 강력한 선전 메시지를 퍼뜨리는 동시에 최대 1337개의 서로 다른 목표를 동시에 조준할 수 있는 고급 무기를 갖추고 있습니다. 정의가 위에서 비처럼 쏟아질 것이다!"
+ 
+acot_army_ega_se:  "시그마 리버티 랜드크루저"
+acot_army_ega_se_plural:  "시그마 리버티 랜드크루저"
+acot_army_ega_se_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n이 거대하고 고도로 발전된 육상 순양함은 모든 압제자들에게 자유와 자유를 가져다주는 데 매우 적합합니다. 적군이 항복하도록 강력한 선전 메시지를 퍼뜨리는 동시에 최대 1337개의 서로 다른 목표를 동시에 조준할 수 있는 고급 무기를 갖추고 있습니다. 정의가 위에서 비처럼 쏟아질 것이다!"
+
+tech_acot_army_ega:  "공중 공간 지배"
+tech_acot_army_ega_desc:  "랜드크루저의 개념은 우리에게 새로운 것이 아닙니다. 우주로의 모험 이전부터 우리는 고향 행성의 하늘을 통제하고 토지순양함으로 민주주의를 받아들이지 않는 사람들을 파괴했습니다. 이제 우리가 획득한 새로운 기술을 사용하여 모든 유형의 행성에서 다시 그렇게 할 수 있습니다. 곧 우리는 하늘에서 모든 행성에 자유와 자유를 쏟아부을 것입니다."
+ 
+acot_army_ega_hero:  "리버티 프라임"
+acot_army_ega_hero_plural:  "리버티 프라임"
+acot_army_ega_hero_desc:  "§Y영웅군§!\n\nLiberty Prime은 진정한 평등주의의 궁극적인 힘을 상징하는 거대한 기계입니다. 전쟁터 위로 우뚝 솟아 민주주의에 대한 애국적인 인용문으로 동맹국들에게 영감을 주는 동시에 천둥 같은 목소리와 멸망의 광선으로 자유의 적들을 위협합니다. 민주주의가 아니면 죽음을 받아들여라!!!" 
+ 
+tech_acot_army_ega_hero:  "자유로움이 최고야"
+tech_acot_army_ega_hero_desc:  "공중이든 육로든 모두가 우리 손으로 민주주의에 굴복할 것입니다. 우리는 이미 건쉽으로 전장을 장악했습니다. 그러나 다수의 대공 포대를 갖춘 견고한 요새를 최종적으로 돌파하려면 더 강력한 공성 무기가 필요합니다. 자유와 민주주의를 제시하기에 합당한 무기!!"
+ 
+prime_limit_tooltip:  "Liberty Prime은 막대한 투자가 필요하며 가능한 모든 범법자를 적절하게 식별하고 필요에 따라 처벌 프로토콜을 관리하려면 수천 대의 복잡한 전투 컴퓨터가 필요합니다. 현재로서는 아직 또 다른 프라임을 구축할 수 없습니다."
+ 
+################ AUTHORITARIAN
+ 
+acot_army_auth:  "케르베로스 집행자"
+acot_army_auth_plural:  "케르베로스 집행자"
+acot_army_auth_desc:  "§Y특수 보병§!\n이 군 장교는 우리 권위의 궁극적인 표현입니다. 그들의 감동적인 존재는 우리 군대를 격려하고 적들에게 두려움을 안겨줍니다. 적은 우리의 규칙에 복종할 것이고, 그렇지 않으면 우리의 집행자들이 그렇게 하도록 만들 것입니다."
+ 
+acot_army_auth_se:  "시그마 케르베로스 집행자"
+acot_army_auth_se_plural:  "시그마 케르베로스 집행자"
+acot_army_auth_se_desc:  "§Y특수 보병§!\n이 군 장교는 우리 권위의 궁극적인 표현입니다. 그들의 감동적인 존재는 우리 군대를 격려하고 적들에게 두려움을 안겨줍니다. 적은 우리의 규칙에 복종할 것이고, 그렇지 않으면 우리의 집행자들이 그렇게 하도록 만들 것입니다."
+ 
+
+tech_acot_army_auth:  "절대적인 힘"
+tech_acot_army_auth_desc:  "우리는 우리의 신민이 될 운명의 사람들에게 절대적인 권위를 보여야 합니다. 군대는 전쟁에서 승리할 수 있지만, 신민들에게 그들의 운명은 우리의 궁극적인 의지에 달려 있다는 것을 상기시켜 줄 사람은 우리의 새로운 집행자들입니다."
+ 
+acot_army_auth_hero:  "커미사르 로드"
+acot_army_auth_hero_plural:  "커미사르 영주"
+acot_army_auth_hero_desc:  "§Y영웅군§!\n\n가장 훌륭하고 뛰어난 커미서들만이 커미서 로드의 직위를 부여받을 수 있습니다. 커미사르 군주(Commissar Lord)는 통치자의 무능함을 제외하면 누구라도 처형할 수 있는 권한을 갖고 있다는 것이 그들의 지위입니다. 그들은 커미사르 군주의 총애를 얻기 위해 경쟁하는 광적으로 충성스러운 병사들의 강력한 수행원을 지휘합니다."
+ 
+tech_acot_army_auth_hero:  "커미사르 대관식"
+tech_acot_army_auth_hero_desc:  "커미사르 계급 중에도 뛰어난 용기와 영감을 보여주는 개인이 있습니다. 노예 병사들이 직접 운동 포격을 받아 죽는 것을 멈추도록 영감을 줄 수 있는 특정 커미사르에 대한 이야기가 있습니다. 그러한 헌신과 기술은 보상받아야 하며, 첫 번째 커미사르 로드(Commissar Lord) 칭호의 대관식은 즉시 이루어져야 합니다."
+ 
+comlord_limit_tooltip:  "커미사르 로드(Commissar Lord)라는 칭호에 걸맞는 커미사르는 소수에 불과하며, 현재로서는 한 명 이상을 생산할 수 없습니다."
+ 
+
+################ MATERIALIST
+ 
+acot_army_mat_pilot:  "알파 데바스테이터 조종사 승무원"
+acot_army_mat_pilot_plural:  "알파 데바스테이터 조종사 승무원"
+acot_army_mat_pilot_desc:  "§Y파일럿 승무원§!\n이 데바스테이터 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_army_mat_pilot_se:  "시그마 데바스테이터 파일럿 승무원"
+acot_army_mat_pilot_se_plural:  "시그마 데바스테이터 파일럿 승무원"
+acot_army_mat_pilot_se_desc:  "§Y파일럿 승무원§!\n이 데바스테이터 탱크 승무원은 차량이 파괴되는 상황에서 가까스로 탈출했습니다. 숫자가 적고 화력과 방어력이 제한되어 있지만 귀중한 전장 경험을 갖고 있으며 전투에서 살아남으면 전투를 계획하고 계속할 수 있는 새로운 차량이 제공될 수도 있습니다."
+
+acot_army_mat:  "데바스테이터 탱크 사단"
+acot_army_mat_plural:  "데바스테이터 탱크 사단"
+acot_army_mat_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n실험용 블링크 팩과 단거리 점프 모듈을 갖춘 전투 탱크 설계의 특수 변형입니다. 데바스테이터 탱크는 어디에서나 공격할 수 있으며 같은 크기의 차량에 비해 놀라운 기동성을 갖추고 있습니다."
+ 
+acot_army_mat_se:  "시그마 데바스테이터 탱크 디비전"
+acot_army_mat_se_plural:  "시그마 데바스테이터 탱크 사단"
+acot_army_mat_se_desc:  "§Y승무원 차량§! §Y소형 보병 수비대§!\n실험용 블링크 팩과 단거리 점프 모듈을 갖춘 전투 탱크 설계의 특수 변형입니다. 데바스테이터 탱크는 어디에서나 공격할 수 있으며 같은 크기의 차량에 비해 놀라운 기동성을 갖추고 있습니다."
+ 
+
+tech_acot_army_mat:  "소형 점프 모델"
+tech_acot_army_mat_desc:  "사용된 MBT는 2100년대 초의 이전 모델보다 훨씬 더 유연하고 기동성이 있지만 보병이나 랜드크루저에 비해 여전히 눈에 띄게 느리고 기동하기가 어렵습니다. 나노 기술의 획기적인 발전을 통해 점멸 기술과 심지어 차원 점프 기술까지 활용할 수 있는 더욱 정교하면서도 강력한 MBT 변형을 만들 수 있습니다."
+ 
+acot_army_mat_hero:  "마르텔루스 랜드크루저"
+acot_army_mat_hero_plural:  "마르텔루스 랜드크루저"
+acot_army_mat_hero_desc:  "이 거대한 괴수들은 전함 무기를 사용하거나 엄청난 무게로 적을 분쇄하여 전장에 황폐화를 일으킬 수 있습니다. 그 멍청한 심령술사들이 우리의 힘에 어떻게 맞서는지 보도록 합시다!"
+ 
+tech_acot_army_mat_hero:  "랜드크루저"
+tech_acot_army_mat_hero_desc:  "§Y영웅군§!\n\n일부 심령술사 바보들은 전쟁 중에 '영혼 없는 기계'를 사용하는 것을 조롱하면서 바보 같은 믿음이 아니라 기계와 우수한 기술이 전쟁에서 승리한다는 사실을 무시합니다. 우리는 이 영적 바보들을 약속된 열반으로 재촉할 만큼 크고 강력한 "영혼 없는 기계"를 만들어 그들이 이 간단한 사실을 이해하도록 해야 합니다."
+ 
+megatank_limit_tooltip:  "Landcruiser는 많은 자원과 승무원 교육이 필요한 막대한 투자입니다. 주어진 시간에 우리는 단지 몇 개만 만들 수 있습니다."
+ 
+################ SPIRITUALIST
+ 
+acot_army_spirit:  "심문관 군대"
+acot_army_spirit_plural:  "심문관 군대"
+acot_army_spirit_desc:  "§Y특수 보병§!\n이 열정적인 성스러운 전사들은 축복받은 망치와 암흑 물질의 힘이 마법이 부여된 성스러운 갑옷을 들고 전쟁에 나섭니다. 그들은 해로움으로부터 자신을 보호하기 위해 내면의 믿음을 전달하도록 훈련 받았습니다. 인퀴지터들은 어떤 기술에도 의존하지 않고 고통과 두려움을 무시하도록 몸과 정신을 훈련합니다. 따라서 그들이 최후의 군대가 되는 것은 드문 일이 아닙니다."
+ 
+acot_army_spirit_se:  "시그마 인퀴지터 군대"
+acot_army_spirit_se_plural:  "시그마 인퀴지터 군대"
+acot_army_spirit_se_desc:  "§Y특수 보병§!\n이 열정적인 성스러운 전사들은 축복받은 망치와 암흑 물질의 힘이 마법이 부여된 성스러운 갑옷을 들고 전쟁에 나섭니다. 그들은 해로움으로부터 자신을 보호하기 위해 내면의 믿음을 전달하도록 훈련 받았습니다. 인퀴지터들은 어떤 기술에도 의존하지 않고 고통과 두려움을 무시하도록 몸과 정신을 훈련합니다. 따라서 그들이 최후의 군대가 되는 것은 드문 일이 아닙니다."
+
+tech_acot_army_spirit:  "인퀴지토리우스 조직 형성"
+tech_acot_army_spirit_desc:  "우리 제국에는 이미 우리 국민을 더 큰 목적으로 인도하는 데 도움을 주는 헌신적인 사제가 있지만, 우리는 이러한 새로운 암흑 물질 에너지를 사용하여 군대와 직접 협력하는 새로운 종교 종파를 만들 가능성을 봅니다."
+ 
+acot_army_spirit_hero:  "리빙 세인트"
+acot_army_spirit_hero_plural:  "살아있는 성도들"
+acot_army_spirit_hero_desc:  "살아있는 성도는 신앙의 순수성을 구현하는 사람들입니다. 그들은 정의와 순수의 기운을 발산하여 군대의 사기를 꺾을 수 없게 만듭니다. 구원은 죄인들에게 주어질 것입니다..절멸을 통해!"
+ 
+tech_acot_army_spirit_hero:  "신앙으로 선택됨"
+tech_acot_army_spirit_hero_desc:  "우리 민족 중 가장 충실한 사람들 중에도 신앙에 헌신할 뿐만 아니라 영들 자신의 호의와 선택을 받은 것처럼 보이는 사람들도 있습니다. 우리 시스템 전체에 퍼져 있는 거룩함의 기운을 보여주는 성인들의 이야기입니다. 우리는 그들을 신속히 찾아내어 우리 성직의 정당한 성인으로 올바로 성결시켜야 합니다."
+ 
+saint_limit_tooltip:  "살아있는 성인은 드문 존재이며, 일부 사제는 하나가 되겠다는 희망으로 신앙에 전적으로 헌신했지만 소용이 없었습니다. 아아, 우리 제국은 현재로서는 제대로 된 군대를 구성할 성자를 더 이상 찾을 수 없습니다."
+
+################ HIVE
+ 
+tech_acot_army_hive_3:  "강화된 전사 돌연변이"
+tech_acot_army_hive_3_desc:  "하이브의 전사들은 은하계가 가하는 새로운 위협에 끊임없이 적응해야 합니다. 더 빠르고, 더 강하고, 더 치명적이고, 더 좋습니다."
+
+tech_acot_army_hive_5:  "고급 전사 시퀀스"
+tech_acot_army_hive_5_desc:  "끊임없는 적응을 통해서만 군체는 생물학적 진화의 가장 위대한 표현을 실현할 수 있습니다."
+
+tech_acot_army_hive_dm:  "델타 균주 돌연변이"
+tech_acot_army_hive_dm_desc:  "과거 고대 군체의 유전자 서열을 적용하면 군체 전사의 힘이 향상됩니다."
+
+tech_acot_army_hive_ae:  "알파 마스터 균주"
+tech_acot_army_hive_ae_desc:  "과거 고대 군체의 유전자 서열을 적용하면 군체 전사의 힘이 향상됩니다."
+
+tech_acot_army_hive_se:  "시그마 마스터 균주"
+tech_acot_army_hive_se_desc:  "과거 고대 군체의 유전자 서열을 적용하면 군체 전사의 힘이 향상됩니다."
+
+################ DEFENSE
+
+acot_hive_defense_army_1:  "하이브 디펜더"
+acot_hive_defense_army_1_plural:  "하이브 디펜더스"
+acot_hive_defense_army_1_desc:  "방어자 계급은 적대적인 요소로부터 군체를 보호하도록 설계되었습니다. 그들은 프레데터 카스트보다 내구성이 더 뛰어나지만 속도가 느립니다."
+
+acot_hive_defense_army_dm:  "델타 하이브 디펜더스"
+acot_hive_defense_army_dm_plural:  "하이브 디펜더스"
+acot_hive_defense_army_dm_desc:  "방어자 계급은 적대적인 요소로부터 군체를 보호하도록 설계되었습니다. 그들은 프레데터 카스트보다 내구성이 더 뛰어나지만 속도가 느립니다."
+
+acot_hive_defense_army_ae:  "알파 하이브 디펜더"
+acot_hive_defense_army_ae_plural:  "알파 하이브 수비수"
+acot_hive_defense_army_ae_desc:  "방어자 계급은 적대적인 요소로부터 군체를 보호하도록 설계되었습니다. 그들은 프레데터 카스트보다 내구성이 더 뛰어나지만 속도가 느립니다."
+
+##########
+
+acot_hive_defense_army_light_1:  "하이브 가디언"
+acot_hive_defense_army_light_1_plural:  "하이브 가디언즈"
+acot_hive_defense_army_light_1_desc:  "Guardian-castes는 방어 전투에서 수비수를 이끈다. 그들의 튼튼한 갑각은 약한 사촌들로부터 보호해 줍니다."
+
+acot_hive_defense_army_light_dm:  "델타 하이브 가디언"
+acot_hive_defense_army_light_dm_plural:  "델타 하이브 수호자"
+acot_hive_defense_army_light_dm_desc:  "Guardian-castes는 방어 전투에서 수비수를 이끈다. 그들의 튼튼한 갑각은 약한 사촌들로부터 보호해 줍니다."
+
+acot_hive_defense_army_light_ae:  "알파 하이브 가디언"
+acot_hive_defense_army_light_ae_plural:  "하이브 가디언즈"
+acot_hive_defense_army_light_ae_desc:  "Guardian-castes는 방어 전투에서 수비수를 이끈다. 그들의 튼튼한 갑각은 약한 사촌들로부터 보호해 줍니다."
+
+##########
+
+acot_hive_defense_army_heavy_1:  "하이브 로얄 가드"
+acot_hive_defense_army_heavy_1_plural:  "하이브 로얄 가드"
+acot_hive_defense_army_heavy_1_desc:  "왕실 근위대는 가장 중요한 하이브 식민지를 방어하기 위해서만 등장합니다. 그들의 존재만으로도 열등한 사람들은 속까지 겁을 먹게 될 것입니다."
+
+acot_hive_defense_army_heavy_dm:  "델타 하이브 왕실 근위대"
+acot_hive_defense_army_heavy_dm_plural:  "델타 하이브 왕실 근위대"
+acot_hive_defense_army_heavy_dm_desc:  "왕실 근위대는 가장 중요한 하이브 식민지를 방어하기 위해서만 등장합니다. 그들의 존재만으로도 열등한 사람들은 속까지 겁을 먹게 될 것입니다."
+
+acot_hive_defense_army_heavy_ae:  "알파 하이브 로얄 가드"
+acot_hive_defense_army_heavy_ae_plural:  "하이브 로얄 가드"
+acot_hive_defense_army_heavy_ae_desc:  "왕실 근위대는 가장 중요한 하이브 식민지를 방어하기 위해서만 등장합니다. 그들의 존재만으로도 열등한 사람들은 속까지 겁을 먹게 될 것입니다."
+
+################ Offense
+
+acot_hive_infantry_1:  "벌집 포식자"
+acot_hive_infantry_1_plural:  "벌집 포식자"
+acot_hive_infantry_1_desc:  "프레데터는 군체의 다양한 무기와 기술을 활용할 수 있는 민첩한 척후병입니다. 그들에게는 기본적인 수준의 본능이 부여되어 필요할 때 엄폐하고 교전하는 방법을 배웁니다. 이들의 잔인함은 하급 인간의 마음에 공포를 불러일으킬 것이지만, 그들의 가벼운 외골격은 그들을 적의 공격에 취약하게 만들며, 특히 무리를 두려워하지 않는 이들에게는 더욱 그렇습니다."
+
+acot_hive_infantry_dm:  "델타 하이브 프레데터"
+acot_hive_infantry_dm_plural:  "델타 하이브 포식자"
+acot_hive_infantry_dm_desc:  "프레데터는 군체의 다양한 무기와 기술을 활용할 수 있는 민첩한 척후병입니다. 그들에게는 기본적인 수준의 본능이 부여되어 필요할 때 엄폐하고 교전하는 방법을 배웁니다. 이들의 잔인함은 하급 인간의 마음에 공포를 불러일으킬 것이지만, 그들의 가벼운 외골격은 그들을 적의 공격에 취약하게 만들며, 특히 무리를 두려워하지 않는 이들에게는 더욱 그렇습니다."
+
+acot_hive_infantry_ae:  "알파 하이브 프레데터"
+acot_hive_infantry_ae_plural:  "알파 하이브 포식자"
+acot_hive_infantry_ae_desc:  "프레데터는 군체의 다양한 무기와 기술을 활용할 수 있는 민첩한 척후병입니다. 그들에게는 기본적인 수준의 본능이 부여되어 필요할 때 엄폐하고 교전하는 방법을 배웁니다. 이들의 잔인함은 하급 인간의 마음에 공포를 불러일으킬 것이지만, 그들의 가벼운 외골격은 그들을 적의 공격에 취약하게 만들며, 특히 무리를 두려워하지 않는 이들에게는 더욱 그렇습니다."
+
+acot_hive_infantry_se:  "심가 하이브 프레데터"
+acot_hive_infantry_se_plural:  "Simga 벌집 포식자"
+acot_hive_infantry_se_desc:  "프레데터는 군체의 다양한 무기와 기술을 활용할 수 있는 민첩한 척후병입니다. 그들에게는 기본적인 수준의 본능이 부여되어 필요할 때 엄폐하고 교전하는 방법을 배웁니다. 이들의 잔인함은 하급 인간의 마음에 공포를 불러일으킬 것이지만, 그들의 가벼운 외골격은 그들을 적의 공격에 취약하게 만들며, 특히 무리를 두려워하지 않는 이들에게는 더욱 그렇습니다."
+
+#########
+
+acot_hive_light_1:  "하이브 워리어"
+acot_hive_light_1_plural:  "하이브 워리어"
+acot_hive_light_1_desc:  "§Y중형 군체 괴물§!\n전사형 드론은 적의 두려움과 정신적 약점을 노리는 데 탁월하며 예상치 못한 각도에서 공격하고 강력하고 무서운 비명을 지르며 적에게 공포를 선사합니다."
+
+acot_hive_light_dm:  "델타 하이브 전사"
+acot_hive_light_dm_plural:  "델타 하이브 워리어스"
+acot_hive_light_dm_desc:  "§Y중형 군체 괴물§!\n전사형 드론은 적의 두려움과 정신적 약점을 노리는 데 탁월하며 예상치 못한 각도에서 공격하고 강력하고 무서운 비명을 지르며 적에게 공포를 선사합니다."
+
+acot_hive_light_ae:  "알파 하이브 전사"
+acot_hive_light_ae_plural:  "알파 하이브 전사"
+acot_hive_light_ae_desc:  "§Y중형 군체 괴물§!\n전사형 드론은 적의 두려움과 정신적 약점을 노리는 데 탁월하며 예상치 못한 각도에서 공격하고 강력하고 무서운 비명을 지르며 적에게 공포를 선사합니다."
+
+acot_hive_light_se:  "심가 하이브 워리어스"
+acot_hive_light_se_plural:  "심가 하이브 워리어스"
+acot_hive_light_se_desc:  "§Y중형 군체 괴물§!\n전사형 드론은 적의 두려움과 정신적 약점을 노리는 데 탁월하며 예상치 못한 각도에서 공격하고 강력하고 무서운 비명을 지르며 적에게 공포를 선사합니다."
+
+#########
+
+
+acot_hive_clone_infantry_1:  "하이브 복제 포식자"
+acot_hive_clone_infantry_1_plural:  "하이브 복제 포식자"
+acot_hive_clone_infantry_1_desc:  "복제된 포식자는 전투 능력 측면에서 일반 포식자와 마찬가지로 치명적입니다. 그러나 그들은 단순한 변신 과정을 위해 무리의 결속력을 희생하여 심리전에서 덜 효과적입니다."
+
+acot_hive_clone_infantry_dm:  "델타 복제 포식자"
+acot_hive_clone_infantry_dm_plural:  "복제된 포식자"
+acot_hive_clone_infantry_dm_desc:  "복제된 포식자는 전투 능력 측면에서 일반 포식자와 마찬가지로 치명적입니다. 그러나 그들은 단순한 변신 과정을 위해 무리의 결속력을 희생하여 심리전에서 덜 효과적입니다."
+
+#########
+
+acot_hive_clone_light_1:  "하이브 복제 전사"
+acot_hive_clone_light_1_plural:  "하이브 복제 전사"
+acot_hive_clone_light_1_desc:  "복제 전사는 전투 능력 측면에서 일반 전사와 마찬가지로 치명적입니다. 그러나 그들은 단순한 변신 과정을 위해 무리의 결속력을 희생하여 심리전에서 덜 효과적입니다."
+
+acot_hive_clone_light_dm:  "델타 복제 전사"
+acot_hive_clone_light_dm_plural:  "델타 복제 전사"
+acot_hive_clone_light_dm_desc:  "복제 전사는 전투 능력 측면에서 일반 전사와 마찬가지로 치명적입니다. 그러나 그들은 단순한 변신 과정을 위해 무리의 결속력을 희생하여 심리전에서 덜 효과적입니다."
+
+acot_hive_clone_swarmer_1:  "하이브 복제된 떼"
+acot_hive_clone_swarmer_1_plural:  "하이브 복제된 떼떼"
+acot_hive_clone_swarmer_1_desc:  "이미 매우 간단한 시퀀스인 복제된 군집은 일반 군집보다 훨씬 작고 단순합니다. 군체는 그들을 덜 한심하게 만들 수 없습니다. 하지만 아마도 수량 자체가 품질일까요?"
+
+#########
+
+acot_hive_heavy_1:  "하이브 파괴자"
+acot_hive_heavy_1_plural:  "하이브 파괴자"
+acot_hive_heavy_1_desc:  "§Y대형 군체 괴물§!\n구축함은 군체군의 중공격 드론 역할을 합니다. 그들은 일반적으로 강력한 정수가 주입되어 있으며, 자체적으로 전체 요새를 파괴할 수 있을 만큼 강력합니다."
+
+acot_hive_heavy_dm:  "델타 하이브 구축함"
+acot_hive_heavy_dm_plural:  "델타 하이브 구축함"
+acot_hive_heavy_dm_desc:  "§Y대형 군체 괴물§!\n구축함은 군체군의 중공격 드론 역할을 합니다. 그들은 일반적으로 강력한 정수가 주입되어 있으며, 자체적으로 전체 요새를 파괴할 수 있을 만큼 강력합니다."
+
+acot_hive_heavy_ae:  "알파 하이브 파괴자"
+acot_hive_heavy_ae_plural:  "알파 하이브 구축함"
+acot_hive_heavy_ae_desc:  "§Y대형 군체 괴물§!\n구축함은 군체군의 중공격 드론 역할을 합니다. 그들은 일반적으로 강력한 정수가 주입되어 있으며, 자체적으로 전체 요새를 파괴할 수 있을 만큼 강력합니다."
+
+acot_hive_heavy_se:  "심가 하이브 파괴자"
+acot_hive_heavy_se_plural:  "심가 하이브 구축함"
+acot_hive_heavy_se_desc:  "§Y대형 군체 괴물§!\n구축함은 군체군의 중공격 드론 역할을 합니다. 그들은 일반적으로 강력한 정수가 주입되어 있으며, 자체적으로 전체 요새를 파괴할 수 있을 만큼 강력합니다."
+
+#########
+
+acot_hive_heavy_cocoon_1:  "하이브 파괴자 누에고치"
+acot_hive_heavy_cocoon_1_plural:  "하이브 파괴자 고치"
+acot_hive_heavy_cocoon_1_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_hive_heavy_cocoon_dm:  "델타 하이브 구축함 누에고치"
+acot_hive_heavy_cocoon_dm_plural:  "델타 하이브 구축함 고치"
+acot_hive_heavy_cocoon_dm_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_hive_heavy_cocoon_ae:  "알파 하이브 파괴자 누에고치"
+acot_hive_heavy_cocoon_ae_plural:  "알파 하이브 파괴자 고치"
+acot_hive_heavy_cocoon_ae_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_hive_heavy_cocoon_se:  "심가 하이브 파괴자 누에고치"
+acot_hive_heavy_cocoon_se_plural:  "심가 하이브 파괴자 고치"
+acot_hive_heavy_cocoon_se_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+##############################################
+
+acot_hive_swarmer_1:  "벌집 떼"
+acot_hive_swarmer_1_plural:  "벌집 떼떼"
+acot_hive_swarmer_1_desc:  "스워머는 단순한 유전적 구성을 지닌 매우 기본적인 드론으로 변신이 매우 쉽습니다. 그들은 본능이 없으며 생물학적 기반 공격을 사용하여 먹이를 대량으로 공격하기 위해 존재합니다."
+
+acot_hive_swarmer_dm:  "델타 하이브 스워머"
+acot_hive_swarmer_dm_plural:  "델타 하이브 스워머"
+acot_hive_swarmer_dm_desc:  "스워머는 단순한 유전적 구성을 지닌 매우 기본적인 드론으로 변신이 매우 쉽습니다. 그들은 본능이 없으며 생물학적 기반 공격을 사용하여 먹이를 대량으로 공격하기 위해 존재합니다."
+
+acot_hive_swarmer_ae:  "알파하이브 떼떼"
+acot_hive_swarmer_ae_plural:  "알파 하이브 스워머"
+acot_hive_swarmer_ae_desc:  "스워머는 단순한 유전적 구성을 지닌 매우 기본적인 드론으로 변신이 매우 쉽습니다. 그들은 본능이 없으며 생물학적 기반 공격을 사용하여 먹이를 대량으로 공격하기 위해 존재합니다."
+
+acot_hive_swarmer_se:  "심가 벌집 떼벌레"
+acot_hive_swarmer_se_plural:  "심가 하이브 스워머"
+acot_hive_swarmer_se_desc:  "스워머는 단순한 유전적 구성을 지닌 매우 기본적인 드론으로 변신이 매우 쉽습니다. 그들은 본능이 없으며 생물학적 기반 공격을 사용하여 먹이를 대량으로 공격하기 위해 존재합니다."
+
+#########
+
+acot_hive_broodling_1:  "벌집 공생충"
+acot_hive_broodling_1_plural:  "벌집 공생충"
+acot_hive_broodling_1_desc:  "더 큰 군체 드론은 종종 "죽음" 시 새끼를 생성합니다. 이 새끼는 약하지만 추가 먹이로 사용할 수 있습니다."
+
+acot_hive_broodling_dm:  "델타 하이브 새끼"
+acot_hive_broodling_dm_plural:  "델타 하이브 새끼"
+acot_hive_broodling_dm_desc:  "더 큰 군체 드론은 종종 "죽음" 시 새끼를 생성합니다. 이 새끼는 약하지만 추가 먹이로 사용할 수 있습니다."
+
+acot_hive_broodling_ae:  "우두머리 무리 새끼"
+acot_hive_broodling_ae_plural:  "우두머리 무리 새끼"
+acot_hive_broodling_ae_desc:  "더 큰 군체 드론은 종종 "죽음" 시 새끼를 생성합니다. 이 새끼는 약하지만 추가 먹이로 사용할 수 있습니다."
+
+acot_hive_broodling_se:  "심가 벌집 새끼"
+acot_hive_broodling_se_plural:  "심가 벌집 새끼"
+acot_hive_broodling_se_desc:  "더 큰 군체 드론은 종종 "죽음" 시 새끼를 생성합니다. 이 새끼는 약하지만 추가 먹이로 사용할 수 있습니다."
+
+#########
+
+acot_army_hive_gene:  "군체 정수 수집가"
+acot_army_hive_gene_plural:  "하이브 에센스 수집가"
+acot_army_hive_gene_desc:  "§Y미디엄 하이브 몬스터§!\n에센스 컬렉터는 에센스를 완전히 소비하여 자신의 에센스를 강화하기 전에 영리한 전술을 사용하여 적에게 공포를 선사하도록 설계된 유전적으로 강화된 전투 드론입니다."
+
+acot_army_hive_gene_ae:  "알파 에센스 수집가"
+acot_army_hive_gene_ae_plural:  "알파 에센스 수집가"
+acot_army_hive_gene_ae_desc:  "§Y미디엄 하이브 몬스터§!\n에센스 컬렉터는 에센스를 완전히 소비하여 자신의 에센스를 강화하기 전에 영리한 전술을 사용하여 적에게 공포를 선사하도록 설계된 유전적으로 강화된 전투 드론입니다."
+
+acot_army_hive_gene_se:  "시그마 에센스 콜렉터"
+acot_army_hive_gene_se_plural:  "시그마 에센스 컬렉터"
+acot_army_hive_gene_se_desc:  "§Y미디엄 하이브 몬스터§!\n에센스 컬렉터는 에센스를 완전히 소비하여 자신의 에센스를 강화하기 전에 영리한 전술을 사용하여 적에게 공포를 선사하도록 설계된 유전적으로 강화된 전투 드론입니다."
+
+#####
+
+acot_army_hive_gene_cocoon:  "정수 수집가 누에고치"
+acot_army_hive_gene_cocoon_plural:  "정수 수집가 고치"
+acot_army_hive_gene_cocoon_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_army_hive_gene_cocoon_dm:  "델타 에센스 콜렉터 코쿤"
+acot_army_hive_gene_cocoon_dm_plural:  "델타 에센스 수집기 고치"
+acot_army_hive_gene_cocoon_dm_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_army_hive_gene_cocoon_ae:  "알파 에센스 수집가 누에고치"
+acot_army_hive_gene_cocoon_ae_plural:  "알파 에센스 수집가 고치"
+acot_army_hive_gene_cocoon_ae_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_army_hive_gene_cocoon_se:  "심가 에센스 콜렉터 코쿤"
+acot_army_hive_gene_cocoon_se_plural:  "심가 에센스 콜렉터 코쿤"
+acot_army_hive_gene_cocoon_se_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+#########
+
+acot_army_hive_control:  "지도자"
+acot_army_hive_control_plural:  "마스터마인드"
+acot_army_hive_control_desc:  "§Y중형 군체 괴물§!\n마스터마인드는 지휘 계급과 유사한 인지 기능을 갖춘 고급 전사 드론입니다. 이는 적 전투원을 상대로 강력한 심리전을 수행할 뿐만 아니라 훨씬 더 효율적으로 수행할 수 있는 독특한 능력을 제공합니다. 단점은 압박을 받을 때 마스터마인드가 집중력을 잃어 전투 성능을 저하시킬 수 있다는 것입니다."
+ 
+acot_army_hive_control_se:  "시그마 마스터마인드"
+acot_army_hive_control_se_plural:  "시그마 마스터마인드"
+acot_army_hive_control_se_desc:  "§Y중형 군체 괴물§!\n마스터마인드는 지휘 계급과 유사한 인지 기능을 갖춘 고급 전사 드론입니다. 이는 적 전투원을 상대로 강력한 심리전을 수행할 뿐만 아니라 훨씬 더 효율적으로 수행할 수 있는 독특한 능력을 제공합니다. 단점은 압박을 받을 때 마스터마인드가 집중력을 잃어 전투 성능을 저하시킬 수 있다는 것입니다."
+
+acot_army_hive_control_cocoon:  "알파 마스터마인드 누에고치"
+acot_army_hive_control_cocoon_plural:  "알파 마스터마인드 고치"
+acot_army_hive_control_cocoon_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+acot_army_hive_control_cocoon_se:  "심가 마스터마인드 코쿤"
+acot_army_hive_control_cocoon_se_plural:  "심가 마스터마인드 코쿤"
+acot_army_hive_control_cocoon_se_desc:  "§Y군집 고치§!\n이 고치를 보호하면 전투 후 적절한 전사로 다시 부화할 수 있습니다. 그러나 그렇지 않으면 그들은 무방비 상태입니다."
+
+tech_acot_army_hive_control:  "이동 중인 마스터마인드"
+tech_acot_army_hive_control_desc:  "마스터마인드는 지휘 계층과 유사한 인지 기능을 갖춘 고급 전사 드론입니다. 이는 적 전투원을 상대로 강력한 심리전을 수행할 뿐만 아니라 훨씬 더 효율적으로 수행할 수 있는 독특한 능력을 제공합니다. 단점은 압박을 받을 때 마스터마인드가 집중력을 잃어 전투 성능을 저하시킬 수 있다는 것입니다."
+ 
+acot_army_hive_hero:  "너머로부터의 공포"
+acot_army_hive_hero_plural:  "너머로부터의 공포"
+acot_army_hive_hero_desc:  "하이브 마인드 자체와 연결된 Terror From Beyond의 유일한 목표는 유기체, 분할, 금속, 에너지 등 모든 것을 소비하는 것입니다. 그것은 자아의 확장으로 존재하며, 그것이 소비하는 모든 것은 하이브 마인드에 힘을 실어주고, 이는 다시 테러에 힘을 실어줍니다."
+ 
+tech_acot_army_hive_hero:  "위대한 배고픔"
+tech_acot_army_hive_hero_desc:  "자아는 지시를 따르고 적을 파괴하는 드론 이상의 것을 필요로 합니다. 아니, 자아는 직접 제어할 수 있는 아바타가 필요합니다. 이 공포의 화신으로부터 우리 집단은 분할된 금속이든 상대 군체이든 모든 적을 분쇄할 것입니다."
+ 
+terror_limit_tooltip:  "하이브 마인드는 테러를 직접 통제해야 하며, 이 끔찍한 유기체를 통제하기 위해 더 이상 사이오닉 연결을 전환할 수 없습니다."
+ 
+################ MACHINE
+ 
+tech_acot_army_machine_dm:  "델타 어썰트 플랫폼 템플릿"
+tech_acot_army_machine_dm_desc:  "군대의 전투 능력을 향상시키려면 모든 전투 플랫폼에 델타 수준 액세스를 다운로드해야 합니다."
+ 
+tech_acot_army_machine_ae:  "알파 어썰트 플랫폼 템플릿"
+tech_acot_army_machine_ae_desc:  "알파 레벨 액세스는 모든 전투 플랫폼을 최신 디자인으로 업그레이드하도록 요청했습니다."
+ 
+tech_acot_army_machine_se:  "시그마 어썰트 플랫폼 템플릿"
+tech_acot_army_machine_se_desc:  "모든 전투 플랫폼을 최고의 잠재력으로 끌어올리려면 시그마 수준 액세스가 필요합니다."
+ 
+##################################
+
+machine_defense:  "집행자 유닛"
+machine_defense_plural:  "집행자 단위"
+machine_defense_desc:  "집행자 유닛은 기계의 강력한 방어망 네트워크를 사용하여 지구를 순찰하고 방어하도록 설계된 경량 보안 유닛입니다."
+
+acot_defense_drone_dm:  "델타 집행자 유닛"
+acot_defense_drone_dm_plural:  "델타 집행자 유닛"
+acot_defense_drone_dm_desc:  "집행자 유닛은 기계의 강력한 방어망 네트워크를 사용하여 지구를 순찰하고 방어하도록 설계된 경량 보안 유닛입니다."
+
+acot_defense_drone_ae:  "알파 집행자 유닛"
+acot_defense_drone_ae_plural:  "알파 집행자 유닛"
+acot_defense_drone_ae_desc:  "집행자 유닛은 기계의 강력한 방어망 네트워크를 사용하여 지구를 순찰하고 방어하도록 설계된 경량 보안 유닛입니다."
+
+acot_defense_drone_light:  "센티넬 유닛"
+acot_defense_drone_light_plural:  "센티넬 유닛"
+acot_defense_drone_light_desc:  "센티넬 유닛은 우수한 전투 플랫폼을 보유할 뿐만 아니라 명령 모듈을 로드하여 소규모 집행 유닛을 제어할 수도 있습니다. 이를 통해 그들은 기계 방어 그리드를 방어하기 위해 함께 일할 수 있습니다."
+
+acot_defense_drone_light_dm:  "델타 센티넬 유닛"
+acot_defense_drone_light_dm_plural:  "델타 센티넬 유닛"
+acot_defense_drone_light_dm_desc:  "센티넬 드론은 우수한 전투 플랫폼을 보유할 뿐만 아니라 명령 모듈을 로드하여 소규모 집행 유닛을 제어할 수도 있습니다. 이를 통해 그들은 기계 방어 그리드를 방어하기 위해 함께 일할 수 있습니다."
+
+acot_defense_drone_light_ae:  "알파 센티넬 유닛"
+acot_defense_drone_light_ae_plural:  "알파 센티넬 유닛"
+acot_defense_drone_light_ae_desc:  "센티넬 드론은 우수한 전투 플랫폼을 보유할 뿐만 아니라 명령 모듈을 로드하여 소규모 집행 유닛을 제어할 수도 있습니다. 이를 통해 그들은 기계 방어 그리드를 방어하기 위해 함께 일할 수 있습니다."
+
+acot_defense_drone_heavy:  "머신 코어 유닛"
+acot_defense_drone_heavy_plural:  "머신 코어 유닛"
+acot_defense_drone_heavy_desc:  "머신 코어는 방어 전투에서 더 적은 유닛을 지휘하는 강력한 구형 플랫폼입니다. 코어는 숨겨진 무기 시스템으로 침략자를 파괴할 수 있는 그 자체로 강력합니다."
+
+acot_defense_drone_heavy_dm:  "델타 머신 코어 유닛"
+acot_defense_drone_heavy_dm_plural:  "델타 머신 코어 유닛"
+acot_defense_drone_heavy_dm_desc:  "머신 코어는 방어 전투에서 더 적은 유닛을 지휘하는 강력한 구형 플랫폼입니다. 코어는 숨겨진 무기 시스템으로 침략자를 파괴할 수 있는 그 자체로 강력합니다."
+
+acot_defense_drone_heavy_ae:  "알파 머신 코어 유닛"
+acot_defense_drone_heavy_ae_plural:  "알파 머신 코어 유닛"
+acot_defense_drone_heavy_ae_desc:  "머신 코어는 방어 전투에서 더 적은 유닛을 지휘하는 강력한 구형 플랫폼입니다. 코어는 숨겨진 무기 시스템으로 침략자를 파괴할 수 있는 그 자체로 강력합니다."
+
+################
+
+acot_army_machine_cyborg_defense:  "기계 사이보그 연대"
+acot_army_machine_cyborg_defense_plural:  "기계 사이보그 연대"
+acot_army_machine_cyborg_defense_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_defense_dm:  "델타 머신 사이보그 연대"
+acot_army_machine_cyborg_defense_dm_plural:  "델타 머신 사이보그 연대"
+acot_army_machine_cyborg_defense_dm_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_defense_ae:  "알파머신 사이보그 연대"
+acot_army_machine_cyborg_defense_ae_plural:  "알파 머신 사이보그 연대"
+acot_army_machine_cyborg_defense_ae_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_defense_light:  "머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_plural:  "머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_desc:  "사이보그 리퍼는 본질적으로 일반 보병보다 우월한 사이버네틱 워커입니다. 그들은 방어 전투에서 다른 사이보그를 이끌고 있습니다."
+
+acot_army_machine_cyborg_defense_light_dm:  "델타 머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_dm_plural:  "델타 머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_dm_desc:  "사이보그 리퍼는 본질적으로 일반 보병보다 우월한 사이버네틱 워커입니다. 그들은 방어 전투에서 다른 사이보그를 이끌고 있습니다."
+
+acot_army_machine_cyborg_defense_light_ae:  "알파 머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_ae_plural:  "알파 머신 사이보그 리퍼"
+acot_army_machine_cyborg_defense_light_ae_desc:  "사이보그 리퍼는 본질적으로 일반 보병보다 우월한 사이버네틱 워커입니다. 그들은 방어 전투에서 다른 사이보그를 이끌고 있습니다."
+
+acot_army_machine_cyborg_defense_heavy:  "머신사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_plural:  "머신 사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_desc:  "사이보그 사령관에게는 더 강력한 처리 능력이 부여되어 사이버네틱스 군대와 방어 계획을 효율적으로 조정할 수 있을 뿐만 아니라 더 발전된 무기 시스템을 활용할 수도 있습니다."
+
+acot_army_machine_cyborg_defense_heavy_dm:  "델타 머신 사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_dm_plural:  "델타 머신 사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_dm_desc:  "사이보그 사령관에게는 더 강력한 처리 능력이 부여되어 사이버네틱스 군대와 방어 계획을 효율적으로 조정할 수 있을 뿐만 아니라 더 발전된 무기 시스템을 활용할 수도 있습니다."
+
+acot_army_machine_cyborg_defense_heavy_ae:  "알파 머신 사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_ae_plural:  "알파 머신 사이보그 커맨더"
+acot_army_machine_cyborg_defense_heavy_ae_desc:  "사이보그 사령관에게는 더 강력한 처리 능력이 부여되어 사이버네틱스 군대와 방어 계획을 효율적으로 조정할 수 있을 뿐만 아니라 더 발전된 무기 시스템을 활용할 수도 있습니다."
+
+################
+
+machine_assault_1:  "경전투부대"
+machine_assault_1_plural:  "경전투부대"
+machine_assault_1_desc:  "경전투부대(Light Combat Units)는 전투에 투입되도록 개조된 국내 부대입니다. 이들은 대부분의 경량 표적에 효과적인 기본적인 보병 크기의 무기를 갖추고 있습니다. 내구성이 뛰어난 프레임 덕분에 전체 시스템이 실패하기 전에 일부 공격을 무시할 수 있지만 그다지 위협적이지 않으며 유능한 유기 병사에 비해 부족한 경향이 있습니다."
+
+acot_army_machine_dm:  "델타 경전투 유닛"
+acot_army_machine_dm_plural:  "델타 경전투 부대"
+acot_army_machine_dm_desc:  "경전투부대(Light Combat Units)는 전투에 투입되도록 개조된 국내 부대입니다. 이들은 대부분의 경량 표적에 효과적인 기본적인 보병 크기의 무기를 갖추고 있습니다. 내구성이 뛰어난 프레임 덕분에 전체 시스템이 실패하기 전에 일부 공격을 무시할 수 있지만 그다지 위협적이지 않으며 유능한 유기 병사에 비해 부족한 경향이 있습니다."
+ 
+acot_army_machine_ae:  "알파 경전투 유닛"
+acot_army_machine_ae_plural:  "알파 경전투 유닛"
+acot_army_machine_ae_desc:  "경전투부대(Light Combat Units)는 전투에 투입되도록 개조된 국내 부대입니다. 이들은 대부분의 경량 표적에 효과적인 기본적인 보병 크기의 무기를 갖추고 있습니다. 내구성이 뛰어난 프레임 덕분에 전체 시스템이 실패하기 전에 일부 공격을 무시할 수 있지만 그다지 위협적이지 않으며 유능한 유기 병사에 비해 부족한 경향이 있습니다."
+ 
+acot_army_machine_se:  "시그마 경전투부대"
+acot_army_machine_se_plural:  "시그마 경전투 유닛"
+acot_army_machine_se_desc:  "경전투부대(Light Combat Units)는 전투에 투입되도록 개조된 국내 부대입니다. 이들은 대부분의 경량 표적에 효과적인 기본적인 보병 크기의 무기를 갖추고 있습니다. 내구성이 뛰어난 프레임 덕분에 전체 시스템이 실패하기 전에 일부 공격을 무시할 수 있지만 그다지 위협적이지 않으며 유능한 유기 병사에 비해 부족한 경향이 있습니다."
+ 
+acot_army_machine_torso:  "손상된 소형 전투 유닛"
+acot_army_machine_torso_plural:  "손상된 경전투 유닛"
+acot_army_machine_torso_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_torso_dm:  "손상된 소형 전투 유닛"
+acot_army_machine_torso_dm_plural:  "손상된 경전투 유닛"
+acot_army_machine_torso_dm_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_torso_ae:  "손상된 소형 전투 유닛"
+acot_army_machine_torso_ae_plural:  "손상된 경전투 유닛"
+acot_army_machine_torso_ae_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_torso_se:  "손상된 소형 전투 유닛"
+acot_army_machine_torso_se_plural:  "손상된 경전투 유닛"
+acot_army_machine_torso_se_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+######### SPM
+
+acot_army_machine_spm:  "SPM 유닛"
+acot_army_machine_spm_plural:  "SPM 유닛"
+acot_army_machine_spm_desc:  "SPM 유닛은 매우 기본적인 디자인과 처리 능력을 갖춘 대량 생산형 단순 전투 유닛입니다. 그들은 대부분의 경우 공격해야 할 것과 하지 말아야 할 것을 알 만큼 약간 지능적입니다."
+
+acot_army_machine_spm_dm:  "델타 SPM 장치"
+acot_army_machine_spm_dm_plural:  "델타 SPM 단위"
+acot_army_machine_spm_dm_desc:  "SPM 유닛은 매우 기본적인 디자인과 처리 능력을 갖춘 대량 생산형 단순 전투 유닛입니다. 그들은 대부분의 경우 공격해야 할 것과 하지 말아야 할 것을 알 만큼 약간 지능적입니다."
+ 
+acot_army_machine_spm_ae:  "알파 SPM 유닛"
+acot_army_machine_spm_ae_plural:  "알파 SPM 단위"
+acot_army_machine_spm_ae_desc:  "SPM 유닛은 매우 기본적인 디자인과 처리 능력을 갖춘 대량 생산형 단순 전투 유닛입니다. 그들은 대부분의 경우 공격해야 할 것과 하지 말아야 할 것을 알 만큼 약간 지능적입니다."
+ 
+acot_army_machine_spm_se:  "시그마 SPM 유닛"
+acot_army_machine_spm_se_plural:  "시그마 SPM 장치"
+acot_army_machine_spm_se_desc:  "SPM 유닛은 매우 기본적인 디자인과 처리 능력을 갖춘 대량 생산형 단순 전투 유닛입니다. 그들은 대부분의 경우 공격해야 할 것과 하지 말아야 할 것을 알 만큼 약간 지능적입니다."
+
+#########
+
+machine_assault_2:  "능숙한 전투 유닛"
+machine_assault_2_plural:  "능숙한 전투 유닛"
+machine_assault_2_desc:  "전투용으로 프로그래밍된 Adept는 대부분의 지상 전투에 적합하며 빠르게 적에게 접근하여 끔찍한 피해를 입힐 수 있습니다. 그들은 심지어 탱크나 항공기와도 정면으로 맞설 수 있을 만큼 강합니다."
+
+acot_army_machine_light_dm:  "델타 숙련 전투 유닛"
+acot_army_machine_light_dm_plural:  "델타 숙련 전투 유닛"
+acot_army_machine_light_dm_desc:  "전투용으로 프로그래밍된 Adept는 대부분의 지상 전투에 적합하며 빠르게 적에게 접근하여 끔찍한 피해를 입힐 수 있습니다. 그들은 심지어 탱크나 항공기와도 정면으로 맞설 수 있을 만큼 강합니다."
+ 
+acot_army_machine_light_ae:  "알파 능숙한 전투 유닛"
+acot_army_machine_light_ae_plural:  "알파 능숙한 전투 유닛"
+acot_army_machine_light_ae_desc:  "전투용으로 프로그래밍된 Adept는 대부분의 지상 전투에 적합하며 빠르게 적에게 접근하여 끔찍한 피해를 입힐 수 있습니다. 그들은 심지어 탱크나 항공기와도 정면으로 맞설 수 있을 만큼 강합니다."
+ 
+acot_army_machine_light_se:  "시그마 능숙한 전투 유닛"
+acot_army_machine_light_se_plural:  "시그마 능숙한 전투 유닛"
+acot_army_machine_light_se_desc:  "전투용으로 프로그래밍된 Adept는 대부분의 지상 전투에 적합하며 빠르게 적에게 접근하여 끔찍한 피해를 입힐 수 있습니다. 그들은 심지어 탱크나 항공기와도 정면으로 맞설 수 있을 만큼 강합니다."
+
+##########################
+
+acot_army_machine_light_torso:  "손상된 숙련된 전투 유닛"
+acot_army_machine_light_torso_plural:  "손상된 숙련된 전투 유닛"
+acot_army_machine_light_torso_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_light_torso_dm:  "손상된 델타 숙련 전투 유닛"
+acot_army_machine_light_torso_dm_plural:  "손상된 델타 숙련 전투 유닛"
+acot_army_machine_light_torso_dm_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+ 
+acot_army_machine_light_torso_ae:  "손상된 알파 숙련 전투 유닛"
+acot_army_machine_light_torso_ae_plural:  "손상된 알파 숙련 전투 유닛"
+acot_army_machine_light_torso_ae_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+ 
+acot_army_machine_light_torso_se:  "손상된 시그마 숙련 전투 유닛"
+acot_army_machine_light_torso_se_plural:  "손상된 시그마 숙련 전투 유닛"
+acot_army_machine_light_torso_se_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+#########
+
+machine_assault_3:  "메가 워폼"
+machine_assault_3_plural:  "거대 전쟁 형태"
+machine_assault_3_desc:  "작은 유닛보다 우뚝 솟은 Mega War-Form은 무시무시한 화력과 거의 무너지지 않는 방어력으로 적 진형을 무너뜨리도록 설계된 기계 제국의 공성 유닛입니다."
+
+acot_army_machine_heavy_dm:  "델타 메가 워폼"
+acot_army_machine_heavy_dm_plural:  "델타 메가 전쟁 형태"
+acot_army_machine_heavy_dm_desc:  "작은 유닛보다 우뚝 솟은 Mega War-Form은 무시무시한 화력과 거의 무너지지 않는 방어력으로 적 진형을 무너뜨리도록 설계된 기계 제국의 공성 유닛입니다."
+ 
+acot_army_machine_heavy_ae:  "알파 메가 전쟁 형태"
+acot_army_machine_heavy_ae_plural:  "알파 메가 전쟁 형태"
+acot_army_machine_heavy_ae_desc:  "작은 유닛보다 우뚝 솟은 Mega War-Form은 무시무시한 화력과 거의 무너지지 않는 방어력으로 적 진형을 무너뜨리도록 설계된 기계 제국의 공성 유닛입니다."
+ 
+acot_army_machine_heavy_se:  "시그마 메가 워폼"
+acot_army_machine_heavy_se_plural:  "시그마 메가 워폼"
+acot_army_machine_heavy_se_desc:  "작은 유닛보다 우뚝 솟은 Mega War-Form은 무시무시한 화력과 거의 무너지지 않는 방어력으로 적 진형을 무너뜨리도록 설계된 기계 제국의 공성 유닛입니다."
+
+#########
+
+acot_army_machine_cyborg:  "기계 사이보그 연대"
+acot_army_machine_cyborg_plural:  "기계 사이보그 연대"
+acot_army_machine_cyborg_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_dm:  "델타 머신 사이보그 연대"
+acot_army_machine_cyborg_dm_plural:  "델타 머신 사이보그 연대"
+acot_army_machine_cyborg_dm_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_ae:  "알파머신 사이보그 연대"
+acot_army_machine_cyborg_ae_plural:  "알파 머신 사이보그 연대"
+acot_army_machine_cyborg_ae_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+acot_army_machine_cyborg_se:  "시그마 머신 사이보그 연대"
+acot_army_machine_cyborg_se_plural:  "시그마 머신 사이보그 연대"
+acot_army_machine_cyborg_se_desc:  "머신 사이보그는 자신의 의식을 머신 게슈탈트에 연결하는 사이버네틱 임플란트를 접목한 유기체 군인입니다. 이를 통해 일반 기계에는 부적합할 수 있는 능력으로 기계 마스터의 대의를 위해 봉사할 수 있습니다."
+
+##########################
+
+acot_army_machine_cyborg_torso:  "손상된 기계 사이보그 연대"
+acot_army_machine_cyborg_torso_plural:  "손상된 기계 사이보그 연대"
+acot_army_machine_cyborg_torso_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_cyborg_torso_dm:  "손상된 델타 머신 사이보그 연대"
+acot_army_machine_cyborg_torso_dm_plural:  "손상된 델타 머신 사이보그 연대"
+acot_army_machine_cyborg_torso_dm_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_cyborg_torso_ae:  "손상된 알파머신 사이보그 연대"
+acot_army_machine_cyborg_torso_ae_plural:  "손상된 알파 머신 사이보그 연대"
+acot_army_machine_cyborg_torso_ae_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+acot_army_machine_cyborg_torso_se:  "손상된 시그마 머신 사이보그 연대"
+acot_army_machine_cyborg_torso_se_plural:  "손상된 시그마 머신 사이보그 연대"
+acot_army_machine_cyborg_torso_se_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+#########
+
+acot_army_machine_special:  "적응력 유닛"
+acot_army_machine_special_plural:  "적응력 단위"
+acot_army_machine_special_desc:  "AFU는 다른 기계 유닛과 달리 전장에서 매우 독립적이며 적의 패턴과 행동에 적응하여 새로운 공격 계획을 수립하고 분석할 수 있습니다. 이는 적을 혼란시키기 위해 색다른 전술을 활용할 수 있기 때문에 심리전에서 어느 정도 우위를 점할 수 있습니다. 이 설계의 단점은 AFU가 압도될 경우 혼란에서 벗어나기 위한 전략을 급히 생각해내려고 시도하면서 회로에 과부하가 걸릴 수 있다는 것입니다."
+ 
+acot_army_machine_special_se:  "시그마 적응력 유닛"
+acot_army_machine_special_se_plural:  "시그마 적응력 단위"
+acot_army_machine_special_se_desc:  "AFU는 다른 기계 유닛과 달리 전장에서 매우 독립적이며 적의 패턴과 행동에 적응하여 새로운 공격 계획을 수립하고 분석할 수 있습니다. 이는 적을 혼란시키기 위해 색다른 전술을 활용할 수 있기 때문에 심리전에서 어느 정도 우위를 점할 수 있습니다. 이 설계의 단점은 AFU가 압도될 경우 혼란에서 벗어나기 위한 전략을 급히 생각해내려고 시도하면서 회로에 과부하가 걸릴 수 있다는 것입니다."
+
+tech_acot_army_machine_special:  "적응형 단위 논리"
+tech_acot_army_machine_special_desc:  "소규모 부대에 명령을 내리기 위해 핵심 지휘 부대에 의존하는 대신, 컨센서스는 전장 상황에 독립적으로 적응할 수 있는 특수 특수 부대의 이점을 누릴 수 있습니다."
+ 
+acot_army_machine_hero:  "말소자 갓머신"
+acot_army_machine_hero_plural:  "근절자 신 기계"
+acot_army_machine_hero_desc:  "우리는 "신"이라고 알려진 이 순수하게 유기체로 만들어진 존재의 개념을 믿지 않지만, 분석에 따르면 이 거대 전쟁 기계에 이름을 붙이면 유기체에 대한 위협이 69.34% 더 효과적으로 생성되는 것으로 추정됩니다. 이 기계의 단일 에너지 랜스는 건물 전체를 쉽게 녹여 재로 만들 수 있습니다." 
+ 
+tech_acot_army_machine_hero:  "궁극의 전쟁 기계"
+tech_acot_army_machine_hero_desc:  "유기물은 비정통적인 전략에 있어서 우리가 설정한 매개변수를 초과하는 일을 멈추지 않습니다. 우리는 <사이오닉>, <유전자 강화 슈퍼 군인> 또는 <초대형 전투 차량>에 관한 데이터를 받습니다. 우리는 그들의 디자인을..복제하지 않을 것입니다. 대신, 우리는 <사이오닉>이든 아니든 가능한 모든 저항을 중단시키는 우리만의 궁극의 전쟁 기계를 만들 것입니다."
+ 
+godmech_limit_tooltip:  "Eradicator God-Machine은 중앙 프로세서 자체에 직접 연결되어 있습니다. 우리는 그러한 기계 중 하나만 직접 제어할 수 있다고 가정할 수 있습니다."
+ 
+##########################
+
+acot_army_machine_special_torso:  "손상된 적응력 유닛"
+acot_army_machine_special_torso_plural:  "손상된 적응력 유닛"
+acot_army_machine_special_torso_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+ 
+acot_army_machine_special_torso_se:  "손상된 시그마 적응형 포스 유닛"
+acot_army_machine_special_torso_se_plural:  "손상된 시그마 적응형 힘 장치"
+acot_army_machine_special_torso_se_desc:  "이 전투 유닛의 기동성은 치명타 피해를 입은 후 불구가 되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리하여 최대 성능으로 작동할 수 있습니다."
+
+################ GENETIC
+ 
+clone_army:  "클론군"
+clone_army_plural:  "클론 군대"
+clone_army_desc:  "클론 병사들은 본질적으로 인공 생물학적 "로봇"으로, 가장 최적의 유전자 코드를 사용하여 신속하게 살인 기계로 조립되도록 설계되었습니다. 이렇게 하면 모집 시간이 상당히 단축되지만 복제 과정에 드는 비용은 저렴하지 않습니다.\n\n일부 믿음과 달리 클론은 출산 후 빠른 성장을 거치지 않고 단순히 성인으로 태어나며 군대에 복무할 수 있도록 미리 정의된 정신 상태를 갖습니다."
+
+tech_acot_army_clone_dm:  "엘리트 클론군 프로젝트"
+tech_acot_army_clone_dm_desc:  "클론의 유전자 코드를 업데이트하고 새로운 기술을 장착하면 새로운 군대에 맞서 경쟁력을 유지할 수 있습니다."
+
+acot_army_clone_dm:  "엘리트 클론군"
+acot_army_clone_dm_plural:  "엘리트 클론군"
+acot_army_clone_dm_desc:  "클론 병사들은 본질적으로 인공 생물학적 "로봇"으로, 가장 최적의 유전자 코드를 사용하여 신속하게 살인 기계로 조립되도록 설계되었습니다. 이렇게 하면 모집 시간이 상당히 단축되지만 복제 과정에 드는 비용은 저렴하지 않습니다.\n\n일부 믿음과 달리 클론은 출산 후 빠른 성장을 거치지 않고 단순히 성인으로 태어나며 군대에 복무할 수 있도록 미리 정의된 정신 상태를 갖습니다."
+
+acot_army_gene:  "진 코만도 분대"
+acot_army_gene_plural:  "진 코만도 분대"
+acot_army_gene_desc:  "이 강화된 특공대는 우리 제국이 보유할 수 있는 가장 강력한 유전적 특성을 유전적으로 조작했을 뿐만 아니라 다른 군대를 비교할 수 없을 만큼 최고의 최첨단 장비를 갖추고 있습니다."
+ 
+acot_army_gene_se:  "시그마 진 코만도 분대"
+acot_army_gene_se_plural:  "시그마 진 코만도 분대"
+acot_army_gene_se_desc:  "이 강화된 특공대는 우리 제국이 보유할 수 있는 가장 강력한 유전적 특성을 유전적으로 조작했을 뿐만 아니라 다른 군대를 비교할 수 없을 만큼 최고의 최첨단 장비를 갖추고 있습니다."
+
+tech_acot_army_gene:  "유전자 씨앗을 받은 완벽함"
+tech_acot_army_gene_desc:  "우리가 획득한 기술을 통해 우리는 현재의 유전자 병사들을 우리 종이 적응할 수 있는 최고의 특성으로 더욱 강화하여 그들의 전투 능력을 크게 향상시킬 수 있습니다. 그런 다음 최신 암흑 물질 무기와 장비를 받게 됩니다."
+ 
+acot_army_gene_hero:  "제니스 전사"
+acot_army_gene_hero_plural:  "제니스 워리어스"
+acot_army_gene_hero_desc:  "제니스 워리어는 우리 제국이 추구하는 유전자 순도의 궁극적인 정점입니다. 선구자들의 최고의 특성으로 유전적으로 강화된 전사는 우리의 일반 병사들보다 우뚝 솟아 있고 엄청난 힘을 가지고 있어 함선 크기의 무기를 쉽게 운반할 수 있습니다."
+ 
+tech_acot_army_gene_hero:  "전구체 유전적 구현"
+tech_acot_army_gene_hero_desc:   "우리는 이미 우리 종의 유전적 잠재력의 최종 정점에 도달했지만 여전히 조상보다 열등합니다. 우리의 생물학자들은 은하계에서 가장 강력한 군인 중 하나를 만들기 위해 전구체의 가장 치명적이고 가장 강력한 특성 중 일부를 구현하는 것이 가능할 수 있다고 제안합니다."
+ 
+doomguy_limit_tooltip:  "수백만 명의 지원자 중에서 지금까지 단 한 명만이 광범위한 유전 공학을 통해 긍정적인 결과를 얻었습니다. 현재로서는 다른 Zenith Warrior를 생산할 수 없습니다."
+ 
+
+################ PSIONIC
+ 
+acot_army_psi:  "어둠의 제자"
+acot_army_psi_plural:  "어둠의 제자"
+acot_army_psi_desc:  "이 제자들은 무기에 능숙할 뿐만 아니라 적에게 직접적으로 파괴적인 사이오닉 공격을 가할 수도 있습니다."
+
+acot_army_psi_se:  "시그마 어둠의 제자"
+acot_army_psi_se_plural:  "시그마 다크 제자"
+acot_army_psi_se_desc:  "이 제자들은 무기에 능숙할 뿐만 아니라 적에게 직접적으로 파괴적인 사이오닉 공격을 가할 수도 있습니다."
+
+tech_acot_army_psi:  "어둠의 제자"
+tech_acot_army_psi_desc:  "사이오닉 전사는 텔레파시로 의사소통하고 적의 사기를 파괴하는 능력으로 인해 이미 강력한 존재이지만 여전히 기계 또는 유전병 병사에게 취약합니다. 우리는 사이오닉 능력을 보다 직접적인 방식으로 사용하여 적을 공격할 수 있는 새로운 세대의 사이오닉 전사 훈련을 시작해야 합니다."
+ 
+acot_army_psi_hero:  "다크 사이온"
+acot_army_psi_hero_plural:  "다크 사이온"
+acot_army_psi_hero_desc:  "슈라우드의 가장 뛰어난 제자인 암흑 사이온의 물리적 힘은 선택받은 자보다 낮습니다. 사이온은 사이오닉 존재가 사전에 목격하지 못하는 사이에 파괴적인 사이오닉 폭풍을 일으켜 전장에 대혼란과 파괴를 일으킬 수 있습니다."
+ 
+acot_army_psi_se_hero:  "다크 사이온"
+acot_army_psi_se_hero_plural:  "다크 사이온"
+acot_army_psi_se_hero_desc:  "슈라우드의 가장 뛰어난 제자인 암흑 사이온의 물리적 힘은 선택받은 자보다 낮습니다. 사이온은 사이오닉 존재가 사전에 목격하지 못하는 사이에 파괴적인 사이오닉 폭풍을 일으켜 전장에 대혼란과 파괴를 일으킬 수 있습니다."
+
+tech_acot_army_psi_hero:  "두 번째 선물"
+tech_acot_army_psi_hero_desc:  "우리는 흥미로운 소식을 받았습니다. 최근 슈라우드가 우리의 어둠의 제자 중 다른 인물을 또 다른 아바타로 선택했다는 보고가 있었습니다. 원래 선택된 것만큼 강력하지는 않지만 훨씬 더 파괴적인 힘을 가지고 있습니다. 우리는 지체 없이 이 제자를 찾아내야 합니다."
+ 
+psion_limit_tooltip:  "슈라우드는 지금까지 단 하나의 사이온에게만 그렇게 놀라운 힘을 부여했으며, 우리는 아직 그에 필적하는 사이오닉 능력을 가진 다른 사람을 발견하지 못했습니다."
+ 
+################ CYBERNETIC
+
+acot_army_cyborg:  "사이버맨"
+acot_army_cyborg_plural:  "사이버맨"
+acot_army_cyborg_desc:  "사이버맨은 어떤 상황에도 적응할 수 있는 다양한 무기 시스템을 갖춘 사이버네틱스적으로 강화된 고급 슈퍼 군인입니다."
+ 
+acot_army_cyborg_se:  "시그마 사이버맨"
+acot_army_cyborg_se_plural:  "시그마 사이버맨"
+acot_army_cyborg_se_desc:  "사이버맨은 어떤 상황에도 적응할 수 있는 다양한 무기 시스템을 갖춘 사이버네틱스적으로 강화된 고급 슈퍼 군인입니다."
+
+acot_army_cyborg_torso:  "손상된 사이버맨"
+acot_army_cyborg_torso_plural:  "손상된 사이버맨"
+acot_army_cyborg_torso_desc:  "이 사이버맨의 기동성은 심각한 피해를 입은 후 불구가 되었지만, 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리되어 최대 성능으로 작동할 수 있습니다."
+ 
+acot_army_cyborg_torso_se:  "손상된 시그마 사이버맨"
+acot_army_cyborg_torso_se_plural:  "손상된 시그마 사이버맨"
+acot_army_cyborg_torso_se_desc:  "이 사이버맨의 기동성은 심각한 피해를 입은 후 불구가 되었지만, 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리되어 최대 성능으로 작동할 수 있습니다."
+
+tech_acot_army_cyborg:  "사이버화된 군대"
+tech_acot_army_cyborg_desc:  "기술적으로 말하면 사이버네틱 임플란트를 장착한 모든 군인을 사이보그라고 부를 수 있지만 이제는 용어가 변경되었습니다. 단순한 임플란트는 이제 보철물이라고 불리며, 실제 사이보그 또는 사이버맨은 이제 유기체에 광범위한 변형을 거친 사람들을 의미합니다. 그들은 자신의 신체와 마찬가지로 신경 연결을 통해 기계 부품을 제어할 수 있습니다. 결과적으로 중요한 유기 부품이 줄어들어 군인의 내구성과 생존 가능성이 크게 향상됩니다."
+ 
+acot_army_cyborg_hero:  "사이보그 코만도"
+acot_army_cyborg_hero_plural:  "사이보그 특공대"
+acot_army_cyborg_hero_desc:  "사이보그 특공대(Cyborg Commandoes)는 극도로 숙련되고 치명적인 사이버맨으로, 사이버네틱 변형으로 인해 더 이상 정상적인 유기체와 거의 닮지 않게 되었으며, 뇌와 심장을 잃어도 더 이상 죽지 않을 정도입니다. 각 특공대의 유전학과 기억망은 이제 전장 외부의 중앙 네트워크 시스템에 연결되어 전투에서 파괴되기가 훨씬 더 어려워지고, 결과적으로 훨씬 더 초자연적인 업적을 달성할 수 있게 됩니다."
+ 
+tech_acot_army_cyborg_hero:  "사이보그 특공대"
+tech_acot_army_cyborg_hero_desc:  "사이보그 특공대(Cyborg Commandoes)는 극도로 숙련되고 치명적인 사이버맨으로, 사이버네틱 변형으로 인해 더 이상 정상적인 유기체와 거의 닮지 않게 되었으며, 뇌와 심장을 잃어도 더 이상 죽지 않을 정도입니다. 각 특공대의 유전학과 기억망은 이제 전장 외부의 중앙 네트워크 시스템에 연결되어 전투에서 파괴되기가 훨씬 더 어려워지고, 결과적으로 훨씬 더 초자연적인 업적을 달성할 수 있게 됩니다." 
+ 
+cyborgcommando_limit_tooltip:  "사이보그 코만도는 나무에서 자라지 않습니다. 생물학적, 기계적 구성 요소 모두와 완벽하게 동기화되어 작동할 수 있는 사이버맨은 소수에 불과합니다. 사이보그 코만도가 물리적 형태가 파괴된 후에도 살아남을 수 있다고 하더라도 그들의 유전자 및 뇌 데이터를 재구성하고 새로운 신체로 다시 매핑하려면 엄청난 노력과 시간이 필요합니다."
+
+################ SYTNEHTHIC
+ 
+acot_army_synth:  "신디사이저 전투 플랫폼"
+acot_army_synth_plural:  "신디사이저 전투 플랫폼"
+acot_army_synth_desc:  "신스 전투 플랫폼(SCP)은 진정한 지능을 보여주는 진정한 합성 군인입니다. 이를 통해 대부분의 적 전투원을 쉽게 압도할 수 있습니다. SCP에는 일반적으로 이전의 유기적 형태와 매우 다른 특수한 물리적 플랫폼이 제공됩니다. 모든 구성 요소가 부서진 경우에도 작동할 수 있으며, 남은 손 하나라도 유기체의 목을 졸라 죽일 수 있습니다."
+ 
+acot_army_synth_se:  "시그마 SCP"
+acot_army_synth_se_plural:  "시그마 SCP"
+acot_army_synth_se_desc:  "신스 전투 플랫폼(SCP)은 진정한 지능을 보여주는 진정한 합성 군인입니다. 이를 통해 대부분의 적 전투원을 쉽게 압도할 수 있습니다. SCP에는 일반적으로 이전의 유기적 형태와 매우 다른 특수한 물리적 플랫폼이 제공됩니다. 모든 구성 요소가 부서진 경우에도 작동할 수 있으며, 남은 손 하나라도 유기체의 목을 졸라 죽일 수 있습니다."
+
+acot_army_synth_torso:  "손상된 신디사이저 전투 플랫폼"
+acot_army_synth_torso_plural:  "손상된 신디사이저 전투 플랫폼"
+acot_army_synth_torso_desc:  "이 신디사이저의 기동성은 치명적인 피해를 입은 후 무력화되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리되어 최대 성능으로 작동할 수 있습니다."
+ 
+acot_army_synth_torso_se:  "손상된 시그마 SCP"
+acot_army_synth_torso_se_plural:  "손상된 시그마 SCP"
+acot_army_synth_torso_se_desc:  "이 신디사이저의 기동성은 치명적인 피해를 입은 후 무력화되었지만 전투 능력은 어느 정도 온전한 상태로 남아 있습니다. 전투에서 살아남는다면 아직 수리되어 최대 성능으로 작동할 수 있습니다."
+
+tech_acot_army_synth:  "신디사이저 전투 플랫폼"
+tech_acot_army_synth_desc:  "옴니드로이드는 유연하고 복잡한 움직임이 가능하지만 여전히 거추장스러운 크기와 특정 AI 결함으로 인해 제한됩니다. 아마도 사기 저하에 취약함에도 불구하고 실제 합성을 사용한다면 훨씬 더 효과적인 군인이 될 수 있을 것입니다."
+ 
+acot_army_synth_hero:  "신스 리퍼"
+acot_army_synth_hero_plural:  "신스 리퍼"
+acot_army_synth_hero_desc:  "신스 리퍼는 모든 신스 인격 매트릭스가 지휘할 수 있는 가장 치명적인 전투 플랫폼입니다. 대부분의 다른 유닛보다 우뚝 솟아 압도적인 화력으로 적들을 빠르게 처리합니다."
+ 
+tech_acot_army_synth_hero:  "신스 리퍼"
+tech_acot_army_synth_hero_desc:  "신스 리퍼는 모든 신스 인격 매트릭스가 지휘할 수 있는 가장 치명적인 전투 플랫폼입니다. 대부분의 다른 유닛보다 우뚝 솟아 압도적인 화력으로 적들을 빠르게 처리합니다." 
+ 
+synthcommando_limit_tooltip:  "Synth Reapers는 매우 정교하고 제작 비용이 매우 비쌉니다. 과거의 생물학적 기억망이 100% 온전하게 살아남은 신디사이저만이 하나가 될 가능성이 있습니다."
+
+ 
+################
+ 
+tech_ae_army_armor:  "고급 전투복"
+tech_ae_army_armor_desc:  "우리는 우주 출현 초기부터 꽤 오랫동안 보병 규모의 개인 보호막 생성기를 사용해왔지만 내구성 측면에서 크게 제한되었습니다. 이제 나노기술과 차원 시스템이 더욱 널리 보급됨에 따라 우리는 마침내 대부분의 표준 군대 전투복에 설치할 수 있는 차량 규모의 방어 시스템을 만들 수 있게 되었습니다. 가장 큰 이점은 조종사가 차량 파괴 시 생존할 수 있는 능력을 대폭 향상시킨다는 것입니다."
+tech_ae_army_armor_tooltip:  "조종사가 차량이 파괴되어도 항상 살아남을 수 있도록 조종 차량을 업그레이드하고 다른 보병 수비대의 생존 가능성도 높입니다."
+ 
+
+tech_infantry_alpha_capacitor:  "알파 오토슈트"
+tech_infantry_alpha_capacitor_desc:  "오토슈트는 제한된 AI 또는 지휘 센터의 원격 제어 시스템을 통해 착용자와 협력하여 갑옷을 착용하는 다소 새로운 개념입니다. Autosuits는 유지 관리 및 수리를 자체적으로 처리하여 유지 비용을 절감할 수 있습니다. 그러나 진정한 이점은 전쟁 중에 군인의 갑작스러운 죽음에도 불구하고 슈트가 제대로 작동한다면 여전히 기계화 부대로서 계속해서 싸울 수 있다는 것입니다."
+tech_infantry_alpha_capacitor_tooltip:  "모든 비소모성 보병 유닛은 이제 전투복이 죽어도 살아남아 계속해서 싸울 수 있는 기회를 갖게 됩니다. 오토슈트의 능력치는 보병의 유형에 따라 달라지며, 라이트(Light)가 가장 약하고 헤비(Heavy)가 가장 강합니다. 그러나 착용자의 개인적인 힘은 슈트의 성능에 영향을 미치지 않으므로 비슷한 갑옷을 공유하는 일반 병사와 특수 유닛은 동일한 자동 슈트 유형을 생성합니다."
+ 
+tech_infantry_ferocity:  "불굴의 잔인함"
+tech_infantry_ferocity_desc:  "우리는 공허 속으로 조용히 들어가지 않을 것이다! 우리를 반대하는 모든 사람은 조심하십시오. 우리 국민은 우리의 고귀한 목표를 위해 그들의 삶을 바칠 것이기 때문입니다. 우리의 대의는 정의롭기 때문입니다!"
+
+tech_ae_army_hive_supercell:  "향상된 재구성 시퀀스"
+tech_ae_army_hive_supercell_desc:  "유전학과 서열 회전에 대한 뛰어난 이해 덕분에 물리적 바이오매스가 크게 파괴된 후에도 더 큰 벌집 전사들이 살아남는 것이 곧 가능해질 것입니다. 치명적인 피해를 입으면 새끼들은 고치로 합쳐져 근처의 생물량을 끌어와 새로운 하이브 전사로 부활하려고 시도합니다. 비록 그 과정이 완벽하지는 않지만, 우리 전사들에게 추가적인 생존 가능성을 제공할 것입니다."
+tech_ae_army_hive_supercell_tooltip:  "대형 군체 유닛은 이제 고치로 생존할 수 있는 기회를 가집니다. 이 고치는 공격력이 거의 없지만, 살아남으면 무료로 원래 유닛으로 다시 변신합니다."
+
+tech_ae_army_machine_durability:  "어벤저 시스템"
+tech_ae_army_machine_durability_desc:  "대부분의 전투 플랫폼은 일부 기계 팔다리와 관절이 파괴된 상태에서도 살아남을 수 있지만 현재 그 가능성은 상대적으로 낮습니다."
+tech_ae_army_machine_durability_tooltip:  "모든 보병 유닛 플랫폼이 손상된 상대 플랫폼으로 생존하여 전투를 계속하고 나중에 수리할 가능성이 증가합니다."
+
+
+##################### FE STUFFS
+
+
+acot_army_fe_spirit:  "고대 수호자"
+acot_army_fe_spirit_plural:  "고대 수호자"
+acot_army_fe_spirit_desc:  "고대 수호자"
+acot_defense_army_fe_spirit:  "고대 수호자"
+acot_defense_army_fe_spirit_plural:  "고대 수호자"
+acot_defense_army_fe_spirit_desc:  "고대 수호자"
+
+acot_army_fe_mat:  "고대 수호자"
+acot_army_fe_mat_plural:  "고대 수호자"
+acot_army_fe_mat_desc:  "고대 수호자"
+acot_defense_army_fe_mat:  "고대 수호자"
+acot_defense_army_fe_mat_plural:  "고대 수호자"
+acot_defense_army_fe_mat_desc:  "고대 수호자"
+
+acot_army_fe_phile:  "고대 중재자"
+acot_army_fe_phile_plural:  "고대 중재자"
+acot_army_fe_phile_desc:  "고대 중재자"
+acot_defense_army_fe_phile:  "고대 중재자"
+acot_defense_army_fe_phile_plural:  "고대 중재자"
+acot_defense_army_fe_phile_desc:  "고대 중재자"
+
+acot_army_fe_phobe:  "고대 질서사"
+acot_army_fe_phobe_plural:  "고대 주문자"
+acot_army_fe_phobe_desc:  "고대 주문자"
+acot_defense_army_fe_phobe:  "고대 질서사"
+acot_defense_army_fe_phobe_plural:  "고대 주문자"
+acot_defense_army_fe_phobe_desc:  "고대 주문자"
+
+acot_army_fe_machine:  "고대 관리인"
+acot_army_fe_machine_plural:  "고대 관리인"
+acot_army_fe_machine_desc:  "고대 관리인"
+acot_defense_army_fe_machine:  "고대 관리인"
+acot_defense_army_fe_machine_plural:  "고대 관리인"
+acot_defense_army_fe_machine_desc:  "고대 관리인"
