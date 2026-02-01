@@ -1,0 +1,733 @@
+﻿l_korean:
+
+############################################################ WEAPON SECTION TECH ############################################################
+
+SHIP_GRAPHICS_ACOT_ISC_DESC:  "독립 타격정은 속도와 민첩성에 의존하는 전문화된 FTL 가능 타격정 편대입니다. 그들은 적을 약화시키기 위해 단거리 간섭 매트릭스를 장착할 수 있습니다."
+SHIP_GRAPHICS_ACOT_CORVETTE_1_DESC:  "코르벳함은 §Y소형 전투함§! 명칭에 속하는 함급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_DESTROYER_1_DESC:  "구축함은 §Y중형 전투함§! 명칭에 속하는 함급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_CRUISER_1_DESC:  "순양함은 §Y중전투함§! 명칭에 속하는 함급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_SUPPORT_1_DESC:  "순양함은 §Y중전투함§! 명칭에 속하는 함급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_BATTLESHIP_1_DESC:  "전함은 §Y주함함§! 명칭에 속하는 함급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_TITAN_1_DESC:  "타이탄은 §Y기함§! 명칭에 속하는 선박 등급 중 하나입니다."
+SHIP_GRAPHICS_ACOT_BEHEMOTH_DESC:  "베헤모스는 §YCommand Ship§! 명칭에 속하는 함선 등급 중 하나입니다."
+SHIP_GRAPHICS_MILITARY_STATION_SMALL_DESC:  ""
+SHIP_GRAPHICS_MILITARY_STATION_MEDIUM_DESC:  ""
+SHIP_GRAPHICS_MILITARY_STATION_LARGE_DESC:  ""
+SHIP_GRAPHICS_MINING_STATION_DESC:  ""
+SHIP_GRAPHICS_RESEARCH_STATION_DESC:  ""
+SHIP_GRAPHICS_STARBASE_STARPORT_DESC:  ""
+SHIP_GRAPHICS_ION_CANNON_DESC:  ""
+SHIP_GRAPHICS_ACOT_TITAN_KILLER_DESC:  ""
+
+MOD_SHIP_ACCURACY_ADD:  "정확성"
+
+tech_acot_ship_unlock_al:  "우주 포병 플랫폼"
+tech_acot_ship_unlock_al_desc:  "더 강력한 장거리 포병 무기를 배치하려면 가장 효과적인 결과를 얻기 위해 기존 Type-L 포탑을 일부 수정해야 합니다.\n\n최대한의 안전성을 보장하려면 이러한 무기를 배치할 것으로 예상되는 모든 선박도 추가 선체 보강재를 갖도록 개선되어야 합니다."
+
+tech_acot_ship_unlock_xl:  "척추 활 구현"
+tech_acot_ship_unlock_xl_desc:  "XL급 무기 시스템을 배치하는 데 필요한 예상 전력 급증은 우리 전함의 활을 척추 창으로 수정하지 않고는 수행할 수 없습니다. 이러한 변경은 방어 구성 요소를 희생하지 않고 무기를 사용할 수 있는 유일한 방법입니다.\n\n최대한의 안전성을 보장하려면 이러한 무기를 배치할 것으로 예상되는 모든 선박도 추가 선체 보강재를 갖도록 개선되어야 합니다."
+
+tech_acot_ship_unlock_xl_turret:  "XL급 마이크로랜스 포탑"
+tech_acot_ship_unlock_xl_turret_desc:  "이제 우리는 무기 시스템에 더 익숙해졌으므로 마침내 다른 선박 섹션을 조정하여 AL 포탑을 XL 포탑으로 교체할 수 있습니다. 그러나 이는 사용 가능한 방어 시스템의 수를 줄이는 대가를 치르게 됩니다.\n\n최대한의 안전성을 보장하려면 이러한 무기를 배치할 것으로 예상되는 모든 선박도 추가 선체 보강재를 갖도록 개선되어야 합니다."
+
+tech_acot_ship_unlock_t:  "타이탄 척추창"
+tech_acot_ship_unlock_t_desc:  "현재의 타이탄 설계는 이론적으로 이미 타이타닉급 무기의 막대한 화력을 발사할 수 있습니다. 지금까지의 테스트 결과는 엇갈렸습니다. 실제로 필요한 전력 수준이 쌍발 전함 척추 무기 수준과 동일할 것이라는 것은 우리의 잘못된 계산이었습니다. 그럼에도 불구하고 우리는 조심해야 하며 타이탄 선체를 더욱 강화해야 합니다."
+
+tech_acot_ship_unlock_t_turret:  "T급 마크로랜스 포탑"
+tech_acot_ship_unlock_t_turret_desc:  "이것은 매우 훌륭하거나 끔찍한 아이디어일 수 있지만 일부 과학 팀은 선박 내부 자체를 거대한 축전기로 사용하여 척추 활이 필요 없는 거대한 크기의 무기 버전을 만들 수 있다고 믿습니다. 이전과 마찬가지로 이로 인해 대부분의 방어 시스템이 구역에 설치되지 않지만 아마도 화력은 그만한 가치가 있을 것입니다. 게다가 이 이론에 따르면 전함의 척추 돌격도 타이타닉 무기를 지원하기 위해 같은 방식으로 변경될 수 있습니다."
+
+ # Ship sizes
+mod_shipsize_science_hull_add:  "과학선 선체점"
+mod_shipsize_science_disengage_chance_mult:  "과학선 분리 확률"
+mod_shipsize_science_evasion_mult:  "과학선 회피"
+
+#tech_space_exploration:  "우주 탐험"
+#tech_space_exploration_desc:  "빛보다 빠른 여행의 실현은 우주 탐사의 새로운 시작입니다. 이제 다른 항성계에 대한 탐사가 가능할 뿐만 아니라 필요합니다."
+
+#tech_automated_exploration:  "개량된 과학선"
+#tech_automated_exploration_desc:  "개량된 과학선"
+
+#tech_experimental_subspace_navigation:  "첨단 과학 선박"
+#tech_experimental_subspace_navigation_desc:  "첨단 과학 선박"
+
+tech_acot_ship_science_5:  "복제 과학 용기"
+tech_acot_ship_science_5_desc:  "복제 과학 용기"
+
+ # Space Mining
+
+mod_shipsize_constructor_hull_add:  "생성자 헐포인트"
+mod_shipsize_constructor_build_speed_mult:  "생성자 빌드 속도"
+
+#tech_space_construction:  "우주건설"
+#tech_space_construction_desc:  "우주에서의 건설은 우리 엔지니어들에게 다른 세계 위에 궤도 정거장을 건설하기 전에 해결해야 할 새로운 설계 과제를 제시합니다."
+
+tech_acot_ship_constructor_1:  "향상된 생성자"
+tech_acot_ship_constructor_1_desc:  "건설 선박의 새로운 모델은 내구성이 뛰어나고 더 빠르게 작업할 수 있는 반응성이 뛰어난 건설 서버를 사용합니다."
+
+tech_acot_ship_constructor_3:  "고급 생성자"
+tech_acot_ship_constructor_3_desc:  "고급 재료 및 나노 조립 장치를 통해 기존 건설업체가 효율적으로 작업을 수행할 수 있도록 개선하고 전반적인 선체 무결성을 향상할 수 있습니다."
+
+tech_acot_ship_constructor_5:  "복제 생성자"
+tech_acot_ship_constructor_5_desc:  "하드라이트 조립 장치와 더욱 강력한 AI의 도입은 우리의 새로운 생성자 모델에 큰 도움이 될 것입니다."
+
+ # Colonizing
+
+mod_shipsize_colonizer_hull_add:  "식민지 개척자 헐포인트"
+
+#tech_colonization_1:  "우주 식민지화"
+#tech_colonization_1_desc:  "행성 식민지를 건설하는 데 필요한 자원과 장비를 계산하는 것은 지평선 너머의 새로운 집을 찾기 위해 용감한 개척자들을 더 넓은 곳으로 모으는 데 필요합니다."
+
+tech_acot_ship_colony_1:  "향상된 식민지 개척자"
+tech_acot_ship_colony_1_desc:  "향상된 식민지 개척자"
+TECH_UNLOCK_COLONIZATION_1_TITLE:  "향상된 식민지 개척자"
+TECH_UNLOCK_COLONIZATION_1_DESC:  "향상된 식민지 개척자"
+
+tech_acot_ship_colony_3:  "고급 식민지 개척자"
+tech_acot_ship_colony_3_desc:  "고급 식민지 개척자"
+TECH_UNLOCK_COLONIZATION_3_TITLE:  "고급 식민지 개척자"
+TECH_UNLOCK_COLONIZATION_3_DESC:  "고급 식민지 개척자"
+
+tech_acot_ship_colony_5:  "리플리컨트 콜로나이저"
+tech_acot_ship_colony_5_desc:  "리플리컨트 콜로나이저"
+TECH_UNLOCK_COLONIZATION_5_TITLE:  "리플리컨트 콜로나이저"
+TECH_UNLOCK_COLONIZATION_5_DESC:  "리플리컨트 콜로나이저"
+
+#tech_colossus:  "거상"
+#tech_colossus_desc:  "거대 공학의 발전으로 현실과 환상 사이의 경계가 모호해졌고, 버튼 하나만 누르면 전 세계를 말살하거나 근본적으로 변화시킬 수 있는 무기를 탑재한 콜로서스급 군함을 건조할 수 있게 되었습니다."
+  
+ # Ships upgrades
+ # no titan is the same... they dont have a build speed tech!
+ 
+acot_flotilla_worldship:  "월드십"
+acot_flotilla_worldship_plural:  "월드십"
+ACOT_FLOTILLA_SECTION:  "소함대 월드쉽"
+
+decision_acot_release_worldship:  "월드쉽 출시"
+decision_acot_release_worldship_desc:  "짐을 싸다"
+decision_acot_deploy_worldship:  "월드십 배포"
+decision_acot_deploy_worldship_desc:  "설정"
+############################################################ SHIP TECH AND SECTION ############################################################
+
+tech_acot_ship_isc:  "소형 Strikecraft FTL 시스템"
+tech_acot_ship_isc_desc:  "기본적으로 타격선은 표준 FTL 시스템을 장착하기에는 너무 작으며 성간 여행을 위해 모항모함에 의존해야 합니다. 하지만 FTL 컴퓨터를 약간만 수정할 수 있다면 독립적인 타격 항공기를 자체 대형으로 배치할 수 있을 것입니다."
+tech_acot_ship_isc_upgrade_1:  "표준화된 ISC 패턴"
+tech_acot_ship_isc_upgrade_1_desc:  "ISC의 모델링 및 구성을 위한 새로운 표준을 확립하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+tech_acot_ship_isc_upgrade_2:  "최종 ISC 패턴"
+tech_acot_ship_isc_upgrade_2_desc:  "ISC의 모델링 및 구성에 대한 표준을 마무리하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+tech_acot_ship_isc_squad_1:  "향상된 ISC 선체"
+tech_acot_ship_isc_squad_1_desc:  "건축 기술의 발전으로 더 견고하고 내구성이 뛰어난 ISC를 만들 수 있습니다."
+tech_acot_ship_isc_squad_2:  "고급 ISC 선체"
+tech_acot_ship_isc_squad_2_desc:  "최신 세대의 ISC 선체는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+
+mod_shipsize_acot_isc_hull_add:  "ISC 헐포인트"
+mod_shipsize_acot_isc_build_speed_mult:  "ISC 빌드 속도"
+
+mod_shipsize_acot_isc_2_hull_add:  "건쉽 헐포인트"
+mod_shipsize_acot_isc_2_build_speed_mult:  "건쉽 제작 속도"
+
+mod_shipsize_acot_isc_3_hull_add:  "ISO 헐포인트"
+mod_shipsize_acot_isc_3_build_speed_mult:  "ISO 빌드 속도"
+
+acot_isc:  "아웃사이더 ISC 소대"
+acot_isc_plural:  "IOutsider SC 편대"
+
+ACOT_ISC_SM:  "경폭격기대대"
+ACOT_ISC_M2:  "중폭격기대대"
+ACOT_ISC_S3:  "중전투비행대"
+ACOT_ISC_XS3:  "경전투비행대"
+
+acot_isc_2:  "아웃사이더 건쉽"
+acot_isc_2_plural:  "아웃사이더 건쉽"
+
+ACOT_ISC_2_1M:  "돌격 건쉽"
+ACOT_ISC_2_2S:  "피켓 건쉽"
+
+acot_isc_3:  "아웃사이더 ISO 소대"
+acot_isc_3_plural:  "아웃사이더 ISO 대대"
+ACOT_ISC3_S1XS2:  "스펙옵스 인터셉터 편대"
+ACOT_ISC3_S1:  "스펙옵스 파이터 스쿼드론"
+
+########### VETTE ###########
+
+#tech_corvettes:  "무장경함선"
+#tech_corvettes_desc:  "FTL의 혁신을 통해 전통적인 지대우주 왕복선 프레임을 군사 응용 분야에 적용하려는 초기 시도가 가능해 마침내 제한된 화력으로 상대적으로 작고 빠르며 기동성이 뛰어난 선박을 만들 수 있었습니다."
+#TECH_UNLOCK_LIGHT_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 경전투함"
+#TECH_UNLOCK_LIGHT_SHIP_DESC:  "§H경전투함§!\n경전투함은 가장 기본적인 군함이며 무장되어 적과의 접촉 시 대비할 수 있습니다."
+#tech_corvette_hull_1:  "향상된 라이트 헐"
+#tech_corvette_hull_1_desc:  "건축 기술의 발전으로 더욱 견고하고 내구성이 뛰어난 경량 선박을 제작할 수 있게 되었습니다."
+#tech_corvette_hull_2:  "고급 라이트 헐"
+#tech_corvette_hull_2_desc:  "최신 세대의 경량 선박 선체는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+
+#tech_corvette_build_speed:  "표준화된 경량 선박 패턴"
+#tech_corvette_build_speed_desc:  "경량 선박의 모델링 및 건조에 대한 새로운 표준을 확립하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+#tech_corvette_build_speed_2:  "최종 경량 선박 패턴"
+#tech_corvette_build_speed_2_desc:  "경량 선박의 모델링 및 건설에 대한 표준을 확정하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+  
+mod_shipsize_acot_corvette_1_build_speed_mult:  "코르벳 함 제작 속도"
+mod_shipsize_acot_corvette_2_build_speed_mult:  "레이더 빌드 속도"
+mod_shipsize_acot_corvette_3_build_speed_mult:  "순찰선 제작 속도"
+mod_shipsize_acot_corvette_1_hull_add:  "코르벳 함선체점"
+mod_shipsize_acot_corvette_2_hull_add:  "레이더 헐포인트"
+mod_shipsize_acot_corvette_3_hull_add:  "순찰선 선체점"
+
+acot_corvette_1:  "아웃사이더 콜벳"
+acot_corvette_1_plural:  "아웃사이더 콜벳"
+acot_corvette_2:  "아웃사이더 레이더"
+acot_corvette_2_plural:  "아웃사이더 레이더스"
+acot_corvette_3:  "외부인 순찰선"
+acot_corvette_3_plural:  "외부인 순찰 공예"
+
+ACOT_CORVETTE_MID_M1S2:  "포함"
+ACOT_CORVETTE_MID_S4:  "요격선"
+ACOT_CORVETTE_MID_SH4:  "마이크로캐리어"
+ACOT_CORVETTE_MID_M1SH2:  "폭행 격납고"
+ACOT_CORVETTE_MID_S2SH2:  "센티넬 격납고"
+
+########### DEST ###########
+
+#tech_destroyers:  "상호 연결된 섹션"
+#tech_destroyers_desc:  "두 섹션을 함께 연결하면 더욱 강력한 군함을 배치할 수 있습니다. 이 새로운 군함 계열은 제국의 중형 전투함 역할을 할 것입니다."
+#TECH_UNLOCK_MEDIUM_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 중형 전투함"
+#TECH_UNLOCK_MEDIUM_SHIP_DESC:  "§H중형 전투함§!\n중형 전투함은 다양한 역할을 수행할 수 있는 2단 군함입니다."
+#tech_destroyer_hull_1:  "향상된 중형 선체"
+#tech_destroyer_hull_1_desc:  "건조 기술의 발전으로 더욱 견고하고 내구성이 뛰어난 중형 전투함을 건조할 수 있게 되었습니다."
+#tech_destroyer_hull_2:  "고급 중형 선체"
+#tech_destroyer_hull_2_desc:  "최신 세대의 중형 전투함 선체는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+#tech_destroyer_build_speed:  "표준화된 중형 선박 패턴"
+#tech_destroyer_build_speed_desc:  "중형 전투함의 모델링 및 건조에 대한 새로운 표준을 확립하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+#tech_destroyer_build_speed_2:  "완성된 중형 선박 패턴"
+#tech_destroyer_build_speed_2_desc:  "중형 전투함의 모델링 및 건조에 대한 표준을 확정하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+   
+mod_shipsize_acot_destroyer_1_build_speed_mult:  "구축함 건설 속도"
+mod_shipsize_acot_destroyer_2_build_speed_mult:  "프리깃 제작 속도"
+mod_shipsize_acot_destroyer_3_build_speed_mult:  "빌드 속도 모니터링"
+mod_shipsize_acot_destroyer_1_hull_add:  "구축함 선체점"
+mod_shipsize_acot_destroyer_2_hull_add:  "프리깃 선체점"
+mod_shipsize_acot_destroyer_3_hull_add:  "헐포인트 모니터링"
+
+acot_destroyer_1:  "아웃사이더 파괴자"
+acot_destroyer_1_plural:  "외부인 파괴자"
+acot_destroyer_2:  "아웃사이더 프리깃"
+acot_destroyer_2_plural:  "아웃사이더 프리깃"
+acot_destroyer_3:  "외부인 모니터"
+acot_destroyer_3_plural:  "외부인 모니터"
+
+ACOT_DESTROYER_BOW_M1S2:  "건쉽 활"
+ACOT_DESTROYER_BOW_S4:  "인터셉터 보우"
+ACOT_DESTROYER_BOW_MH1SH2:  "캐리어 보우"
+ACOT_DESTROYER_BOW_M1SH2:  "폭행 격납고 활"
+ACOT_DESTROYER_BOW_L1:  "무거운 활"
+
+ACOT_DESTROYER_STERN_M1:  "건쉽 스턴"
+ACOT_DESTROYER_STERN_S2:  "인터셉터 스턴"
+ACOT_DESTROYER_STERN_SH2:  "격납고 선미"
+ACOT_DESTROYER_STERN_MH1:  "캐리어 스턴"
+ACOT_DESTROYER_STERN_L1:  "헤비 스턴"
+
+########### CRUIS ###########
+
+#tech_cruisers:  "중전함 구현"
+#tech_cruisers_desc:  "더 강한 선박에 대한 더 강한 무기 수요. 우리 제국이 진정으로 우주 지배력을 발휘하려면 함대의 중추를 형성할 더욱 강력한 함선을 만들어야 합니다."
+#TECH_UNLOCK_HEAVY_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 중전투함"
+#TECH_UNLOCK_HEAVY_SHIP_DESC:  "§H중전투함§!\n중전투함은 대규모 우주 작전의 중추 역할을 하는 3개 부분으로 구성된 군함입니다."
+#tech_cruiser_hull_1:  "향상된 대형 선체"
+#tech_cruiser_hull_1_desc:  "건조 기술의 발전으로 더 튼튼하고 내구성이 뛰어난 중전투함을 건조할 수 있게 되었습니다."
+#tech_cruiser_hull_2:  "고급 중형 선체"
+#tech_cruiser_hull_2_desc:  "최신 세대의 중전투함은 구조적 완전성 필드를 최적화하고 격벽을 개선했습니다."
+#tech_cruiser_build_speed:  "표준화된 대형 선박 패턴"
+#tech_cruiser_build_speed_desc:  "중전투함의 모델링 및 건조에 대한 새로운 표준을 확립하면 생산 파이프라인의 효율성이 크게 향상될 것입니다."
+#tech_cruiser_build_speed_2:  "완성된 대형 선박 패턴"
+#tech_cruiser_build_speed_2_desc:  "중전투함의 모델링 및 건조에 대한 표준을 확정하면 생산 파이프라인의 효율성이 크게 향상될 것입니다."
+  
+mod_shipsize_acot_cruiser_1_build_speed_mult:  "크루저 제작 속도"
+mod_shipsize_acot_cruiser_2_build_speed_mult:  "가디언 빌드 속도"
+mod_shipsize_acot_cruiser_3_build_speed_mult:  "경항공모함 제작 속도"
+mod_shipsize_acot_cruiser_1_hull_add:  "크루저 헐포인트"
+mod_shipsize_acot_cruiser_2_hull_add:  "가디언 헐포인트"
+mod_shipsize_acot_cruiser_3_hull_add:  "경항공모함 선체점"
+
+acot_cruiser_1:  "아웃사이더 크루저"
+acot_cruiser_1_plural:  "아웃사이더 크루저"
+acot_cruiser_2:  "아웃사이더 가디언"
+acot_cruiser_2_plural:  "외부인 수호자"
+acot_cruiser_3:  "아웃사이더 라이트 캐리어"
+acot_cruiser_3_plural:  "아웃사이더 라이트 캐리어"
+
+ACOT_CRUISER_BOW_L1M1S2:  "표준 활"
+ACOT_CRUISER_BOW_L2:  "무거운 활"
+ACOT_CRUISER_BOW_L1S4:  "가디언 보우"
+ACOT_CRUISER_BOW_AL2:  "포병 활"
+ACOT_CRUISER_BOW_M2S4:  "돌격 활"
+ACOT_CRUISER_BOW_M4:  "공격자 활"
+ACOT_CRUISER_BOW_M2SH4:  "격납고 활"
+ACOT_CRUISER_BOW_MH4:  "캐리어 보우"
+ACOT_CRUISER_BOW_L4:  "유리대포 활"
+ACOT_CRUISER_BOW_XL:  "척추 캐리어 활"
+ACOT_CRUISER_BOW_LH1MH2L:  "척추 캐리어 활"
+
+ACOT_CRUISER_MID_L2S4:  "가디언 코어"
+ACOT_CRUISER_MID_MH6:  "캐리어 코어"
+ACOT_CRUISER_MID_L2M2:  "헤비코어"
+ACOT_CRUISER_MID_M4MH2:  "돌격 캐리어 코어"
+ACOT_CRUISER_MID_M2MH4:  "라이트 캐리어 코어"
+ACOT_CRUISER_MID_M6:  "공격자 코어"
+ACOT_CRUISER_MID_M4S4:  "어썰트 코어"
+ACOT_CRUISER_BOW_LH1MH2:  "헤비 캐리어 코어"
+ACOT_CRUISER_MID_L3:  "헤비 코어"
+ACOT_CRUISER_MID_AL1L2:  "포병 핵심"
+ACOT_CRUISER_MID_XL1AL2:  "유리대포 코어"
+
+ACOT_CRUISER_STERN_M1S2:  "어썰트 스턴"
+ACOT_CRUISER_STERN_M2:  "공격자 스턴"
+ACOT_CRUISER_STERN_L1:  "헤비 스턴"
+ACOT_CRUISER_STERN_S4:  "파수꾼 스턴"
+ACOT_CRUISER_STERN_AL1:  "포병 선미"
+ACOT_CRUISER_STERN_MH2:  "격납고 선미"
+ACOT_CRUISER_STERN_M4:  "글래스캐논 스턴"
+
+########### SUPPORTORUS ###########
+
+tech_acot_ship_support:  "함대 지원 선박"
+tech_acot_ship_support_desc:  "지원 주문이 승인되었습니다."
+TECH_UNLOCK_SUPPORT_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 함대 지원 선박"
+TECH_UNLOCK_SUPPORT_SHIP_DESC:  "§H함대 지원 선박§!\n이 3개 섹션 선박은 일반적으로 강력한 오라로 함대를 지원하도록 설계되었습니다."
+
+tech_acot_ship_support_hull_1:  "향상된 지원 선체"
+tech_acot_ship_support_hull_1_desc:  "건조 기술의 발전으로 더욱 견고하고 내구성이 뛰어난 함대 지원 선박을 건조할 수 있습니다."
+tech_acot_ship_support_hull_2:  "고급 지원 선체"
+tech_acot_ship_support_hull_2_desc:  "최신 세대의 함대 지원 선박은 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+tech_acot_ship_support_build_speed:  "표준화된 지원 선박 패턴"
+tech_acot_ship_support_build_speed_desc:  "함대 지원 선박의 모델링 및 건조에 대한 새로운 표준을 확립하면 생산 파이프라인의 효율성이 크게 향상될 것입니다."
+tech_acot_ship_support_build_speed_2:  "최종 지원 선박 패턴"
+tech_acot_ship_support_build_speed_2_desc:  "함대 지원 선박의 모델링 및 건조에 대한 표준을 마무리하면 생산 파이프라인의 효율성이 크게 향상됩니다."
+
+mod_shipsize_acot_support_1_build_speed_mult:  "인터딕터 빌드 속도"
+mod_shipsize_acot_support_2_build_speed_mult:  "수호자 제작 속도"
+mod_shipsize_acot_support_3_build_speed_mult:  "조작기 빌드 속도"
+mod_shipsize_acot_support_1_hull_add:  "인터딕터 헐포인트"
+mod_shipsize_acot_support_2_hull_add:  "프로텍터 헐포인트"
+mod_shipsize_acot_support_3_hull_add:  "매니퓰레이터 헐포인트"
+
+acot_support_1:  "외부인 차단자"
+acot_support_1_plural:  "외부인 차단자"
+acot_support_2:  "외부인 수호자"
+acot_support_2_plural:  "외부인 수호자"
+acot_support_3:  "외부인 조작자"
+acot_support_3_plural:  "외부인 조작자"
+
+ACOT_SUPPORT_BOW_L2:  "무거운 활"
+ACOT_SUPPORT_BOW_M2S4:  "돌격 활"
+ACOT_SUPPORT_BOW_M4:  "공격자 활"
+ACOT_SUPPORT_BOW_M2SH4:  "격납고 활"
+
+ACOT_SUPPORT_MID_L2M2:  "헤비 코어"
+ACOT_SUPPORT_MID_M2MH4:  "격납고 코어"
+ACOT_SUPPORT_MID_M6:  "공격자 코어"
+ACOT_SUPPORT_MID_M4S4:  "어썰트 코어"
+
+ACOT_SUPPORT_STERN_M2:  "어썰트 스턴"
+ACOT_SUPPORT_STERN_L1:  "헤비 스턴"
+ACOT_SUPPORT_STERN_S4:  "파수꾼 스턴"
+
+########### BB ###########
+
+#tech_battleships:  "주력함 소개"
+#tech_battleships_desc:  "표준 군함 중 가장 큰 주력함은 공성전이나 항공모함 작전 등 다양한 임무를 수행하는 데 이상적인 강력한 전투함입니다."
+#TECH_UNLOCK_CAPITAL_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 주력선"
+#TECH_UNLOCK_CAPITAL_SHIP_DESC:  "§H주함선§!\n주함함은 다양한 작업을 위해 건조할 수 있는 4개 구역의 함선으로, 일반적으로 건조를 위해 스타포트리스가 필요합니다."
+#tech_battleship_hull_1:  "개선된 주력함 선체"
+#tech_battleship_hull_1_desc:  "건조 기술의 발전으로 더 튼튼하고 내구성이 뛰어난 주력함을 건조할 수 있습니다."
+#tech_battleship_hull_2:  "고급 주력함 선체"
+#tech_battleship_hull_2_desc:  "최신 세대의 주력함 선체는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+#tech_battleship_build_speed:  "표준화된 자본 선박 패턴"
+#tech_battleship_build_speed_desc:  "주력함을 설계하고 제작하는 방법에 대한 새로운 표준을 확립하면 조립 속도가 크게 향상됩니다."
+#tech_battleship_build_speed_2:  "최종 자본 선박 패턴"
+#tech_battleship_build_speed_2_desc:  "주력함을 설계하고 건조하는 방법에 대한 표준을 확정하면 조립 속도가 크게 향상됩니다."
+
+mod_shipsize_acot_battleship_1_build_speed_mult:  "전함 건조 속도"
+mod_shipsize_acot_battleship_2_build_speed_mult:  "전투순양함 제작 속도"
+mod_shipsize_acot_battleship_3_build_speed_mult:  "항공모함 제작 속도"
+mod_shipsize_acot_battleship_1_hull_add:  "전함 선체점"
+mod_shipsize_acot_battleship_2_hull_add:  "전투순양함 헐포인트"
+mod_shipsize_acot_battleship_3_hull_add:  "캐리어 헐포인트"
+
+acot_battleship_1:  "아웃사이더 전함"
+acot_battleship_1_plural:  "아웃사이더 전함"
+acot_battleship_2:  "아웃사이더 전투순양함"
+acot_battleship_2_plural:  "외부인 전투순양함"
+acot_battleship_3:  "아웃사이더 캐리어"
+acot_battleship_3_plural:  "외부 운송업체"
+
+ACOT_BATTLESHIP_BOW_L2M2S4:  "공격자 활"
+ACOT_BATTLESHIP_BOW_L4S8:  "파수꾼 활"
+ACOT_BATTLESHIP_BOW_L4:  "무거운 활"
+ACOT_BATTLESHIP_BOW_AL4:  "포병 활"
+ACOT_BATTLESHIP_BOW_L1M2MH4:  "격납고 활"
+ACOT_BATTLESHIP_BOW_L2MH4:  "돌격 캐리어 활"
+ACOT_BATTLESHIP_BOW_XL:  "척추 활"
+ACOT_BATTLESHIP_BOW_M6S4:  "집행자 활"
+ACOT_BATTLESHIP_BOW_M1S2MH6:  "캐리어 보우"
+ACOT_BATTLESHIP_BOW_LH4:  "척추 격납고 활"
+ACOT_BATTLESHIP_BOW_LH2MH4:  "척추 캐리어 활"
+
+ACOT_BATTLESHIP_MID_L4S8:  "센티넬 코어"
+ACOT_BATTLESHIP_MID_L2M8:  "어썰트 코어"
+ACOT_BATTLESHIP_MID_L4M4:  "공격자 코어"
+ACOT_BATTLESHIP_MID_L6:  "헤비 코어"
+ACOT_BATTLESHIP_MID_AL6:  "포병 핵심"
+ACOT_BATTLESHIP_MID_M8LH2:  "격납고 코어"
+ACOT_BATTLESHIP_MID_XL3:  "공성파괴자 코어"
+ACOT_BATTLESHIP_MID_XL4AL4:  "유리대포 코어"
+ACOT_BATTLESHIP_MID_LH6:  "캐리어 코어"
+ACOT_BATTLESHIP_MID_M4LH4:  "폭행 격납고 코어"
+
+ACOT_BATTLESHIP_STERN_S8:  "파수꾼 스턴"
+ACOT_BATTLESHIP_STERN_M2S4:  "어썰트 스턴"
+ACOT_BATTLESHIP_STERN_L2:  "헤비 스턴"
+ACOT_BATTLESHIP_STERN_AL1:  "포병 선미"
+ACOT_BATTLESHIP_STERN_M4:  "공격자 스턴"
+ACOT_BATTLESHIP_STERN_XL:  "공성파괴자 스턴"
+ACOT_BATTLESHIP_STERN_MH4:  "격납고 선미"
+ACOT_BATTLESHIP_STERN_LH4:  "캐리어 스턴"
+ACOT_BATTLESHIP_STERN_L4:  "글래스캐논 스턴"
+ACOT_BATTLESHIP_STERN_AL4:  "유리 포병 선미"
+ACOT_BATTLESHIP_STERN_AL2L2:  "하이브리드 유리대포 선미"
+
+
+########### TITARAN ###########
+
+#tech_titans:  "압도적인 함대 지배력"
+#tech_titans_desc:  "우리 함대는 너무 많이 확장되어 우리 제독이 개인 선박 없이 지휘하는 것이 상당히 번거롭습니다. 이 문제를 해결하기 위해 현재 최초의 플래그십을 제작할 계획이 수립되고 있습니다. 이 함선은 우리 제독의 자리일 뿐만 아니라 적을 압도하는 강력한 공성 파괴자 역할도 할 것입니다."
+#TECH_UNLOCK_FLAG_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 기함"
+#TECH_UNLOCK_FLAG_SHIP_DESC:  "§H기함§!\n기함은 일반적으로 함대를 이끌고 시스템 규모의 아우라 또는 압도적인 화력으로 지원을 제공하도록 배정되는 5개 섹션의 선박입니다."
+
+#tech_titan_hull_1:  "향상된 기함 선체"
+#tech_titan_hull_1_desc:  "건축 기술의 발전으로 더욱 견고하고 내구성이 뛰어난 기함을 제작할 수 있습니다."
+#tech_titan_hull_2:  "고급 기함 선체"
+#tech_titan_hull_2_desc:  "최신 세대의 주력 선체는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+#tech_titan_build_speed:  "표준화된 플래그십 패턴"
+#tech_titan_build_speed_desc:  "플래그십을 설계하고 제작하는 방법에 대한 새로운 표준을 확립하면 조립 속도가 크게 향상됩니다."
+#tech_titan_build_speed_2:  "최종 플래그십 패턴"
+#tech_titan_build_speed_2_desc:  "플래그십 디자인 및 제작 방법에 대한 표준을 확정하면 플래그십 조립 속도가 크게 향상됩니다."
+
+mod_shipsize_acot_titan_1_build_speed_mult:  "타이탄 빌드 속도"
+mod_shipsize_acot_titan_2_build_speed_mult:  "드레드노트 제작 속도"
+mod_shipsize_acot_titan_3_build_speed_mult:  "슈퍼캐리어 제작 속도"
+mod_shipsize_acot_titan_1_hull_add:  "타이탄 헐포인트"
+mod_shipsize_acot_titan_2_hull_add:  "드레드노트 헐포인트"
+mod_shipsize_acot_titan_3_hull_add:  "슈퍼캐리어 선체점"
+
+acot_titan_1:  "아웃사이더 타이탄"
+acot_titan_1_plural:  "아웃사이더타이탄"
+acot_titan_2:  "아웃사이더 드레드노트"
+acot_titan_2_plural:  "아웃사이더 드레드노트"
+acot_titan_3:  "아웃사이더 슈퍼캐리어"
+acot_titan_3_plural:  "외부인 슈퍼캐리어"
+
+ACOT_TITAN_BOW_T:  "아치 척추 활"
+ACOT_TITAN_BOW_2XL:  "이중 척추 활"
+ACOT_TITAN_BOW_4LH:  "슈퍼캐리어 활"
+ACOT_TITAN_BOW_2L3M2S:  "돌격 활"
+ACOT_TITAN_BOW_EMPTY:  "강화된 활"
+
+ACOT_TITAN_8AL:  "포병 핵심"
+ACOT_TITAN_MID_8L:  "헤비 코어"
+ACOT_TITAN_MID_4AL4L:  "하이브리드 코어"
+ACOT_TITAN_MID_4AL4LH:  "돌격 캐리어 코어"
+ACOT_TITAN_MID_8LH:  "슈퍼캐리어 코어"
+ACOT_TITAN_MID_4XL:  "공성파괴자 코어"
+ACOT_TITAN_MID_2XL4AL:  "해머 코어"
+
+ACOT_TITAN_STERN_L4:  "헤비 스턴"
+ACOT_TITAN_STERN_AL4:  "포병 선미"
+ACOT_TITAN_STERN_L2LH2:  "돌격모함 스턴"
+ACOT_TITAN_STERN_XL2:  "공성파괴자 스턴"
+ACOT_TITAN_STERN_AL2LH2:  "중형 캐리어 스턴"
+ACOT_TITAN_STERN_LH4:  "슈퍼캐리어 스턴"
+
+########### BEHEMOTH ###########
+
+tech_acot_ship_behemoth:  "기동지휘본부"
+tech_acot_ship_behemoth_desc:  "기함은 우리 제독이 함대를 이끌기에 매우 적합하지만, 우리는 훨씬 더 높은 고도를 찾아야 합니다. 우리는 행성이나 움직이지 않는 거대 구조물에 영원히 자리잡기를 바랄 수 없습니다. 우리의 미래는 우리의 불멸의 빛의 상징 역할을 하는 이동 지휘선인 비콘을 만들어서만 확보할 수 있습니다."
+tech_acot_ship_behemoth_hull_1:  "향상된 커맨드 헐"
+tech_acot_ship_behemoth_hull_1_desc:  "건조 기술의 발전으로 더욱 견고하고 내구성이 뛰어난 지휘함을 건조할 수 있게 되었습니다."
+tech_acot_ship_behemoth_hull_2:  "고급 명령 선체"
+tech_acot_ship_behemoth_hull_2_desc:  "Command Ships의 새로운 업그레이드는 구조적 무결성 필드를 최적화하고 격벽을 개선했습니다."
+tech_acot_ship_behemoth_upgrade_pack_1:  "전문화된 거대 구성요소"
+tech_acot_ship_behemoth_upgrade_pack_1_desc:  "Command Ship Hulls의 최신 세대 업그레이드는 더 높은 개선을 위한 더 많은 요새와 용량을 갖추고 있습니다."
+TECH_UNLOCK_COMMAND_SHIP_TITLE:  "§H선박 유형 잠금 해제:§! 사령선"
+TECH_UNLOCK_COMMAND_SHIP_DESC:  "§H지휘선§!\n6개 구역으로 구성된 이 거대 함선은 이동 지휘 부대 역할을 합니다. 그들은 경제 시스템에 필요한 내부 생활 공간을 부여받고 행성 없이도 제국이 살아남을 수 있도록 할 수 있습니다."
+
+mod_shipsize_acot_behemoth_build_speed_mult:  "거대 건설 속도"
+mod_shipsize_acot_behemoth_2_build_speed_mult:  "슈퍼 드레드노트 제작 속도"
+mod_shipsize_acot_behemoth_3_build_speed_mult:  "모선 건설 속도"
+mod_shipsize_acot_behemoth_hull_add:  "베헤모스 헐포인트"
+mod_shipsize_acot_behemoth_2_hull_add:  "슈퍼 드레드노트 헐포인트"
+mod_shipsize_acot_behemoth_3_hull_add:  "모선 선체점"
+
+acot_behemoth:  "거대한 짐승"
+acot_behemoth_plural:  "베히모스"
+acot_behemoth_2:  "슈퍼 드레드노트"
+acot_behemoth_2_plural:  "슈퍼 드레드노트"
+acot_behemoth_3:  "모선"
+acot_behemoth_3_plural:  "모선"
+
+ACOT_BEHEMOTH_BOW_1W2T:  "트윈 아치 척추 활"
+ACOT_BEHEMOTH_BOW_1W4XL:  "쿼드 척추 활"
+ACOT_BEHEMOTH_BOW_1W8HL:  "슈퍼캐리어 활"
+ACOT_BEHEMOTH_BOW_EMPTY:  "강화된 활"
+ACOT_BEHEMOTH_MID_16L:  "헤비 코어"
+ACOT_BEHEMOTH_MID_16AL:  "포병 핵심"
+ACOT_BEHEMOTH_MID_8AL8LH:  "헤비 캐리어 코어"
+ACOT_BEHEMOTH_MID_8XL:  "공성파괴자 코어"
+ACOT_BEHEMOTH_MID_4T:  "타이탄킬러 코어"
+ACOT_BEHEMOTH_HUB_13XL:  "커맨드 허브"
+ACOT_BEHEMOTH_STERN_8L:  "헤비 스턴"
+ACOT_BEHEMOTH_STERN_2T:  "타이탄킬러 스턴"
+ACOT_BEHEMOTH_STERN_4XL:  "공성파괴자 스턴"
+ACOT_BEHEMOTH_STERN_8AL:  "포병 선미"
+ACOT_BEHEMOTH_STERN_2AL6LH:  "슈퍼캐리어 스턴"
+
+ACOT_BEHEMOTH3_BOW_2T:  "트윈 아치 척추 활"
+ACOT_BEHEMOTH3_BOW_4XL:  "쿼드 척추 활"
+ACOT_BEHEMOTH3_BOW_8HL:  "슈퍼캐리어 활"
+ACOT_BEHEMOTH3_BOW_EMPTY:  "강화된 활"
+ACOT_BEHEMOTH3_MID_16L:  "헤비 코어"
+ACOT_BEHEMOTH3_MID_16AL:  "포병 핵심"
+ACOT_BEHEMOTH3_MID_8AL8LH:  "헤비 캐리어 코어"
+ACOT_BEHEMOTH_HUB3_1XL12L:  "헤비 커맨드 허브"
+ACOT_BEHEMOTH_HUB3_1XL12AL:  "포병 지휘 허브"
+ACOT_BEHEMOTH3_STERN_8L:  "헤비 스턴"
+ACOT_BEHEMOTH3_STERN_8AL:  "포병 선미"
+ACOT_BEHEMOTH3_STERN_2AL6LH:  "슈퍼캐리어 스턴"
+
+########### JUGG ###########
+
+ACOT_CORE_JUGGERNAUT_SECTION:  "거대괴수 섹션"
+ACOT_CORE_JUGGERNAUT_SECTION_TORP:  "미사일 거대괴수 섹션"
+
+########### TITANKILLER ###########
+
+acot_titan_killer:  "타이탄 킬러"
+acot_titan_killer_plural:  "타이탄 킬러"
+
+ACOT_ION_CANNON_TITAN:  "타이탄 킬러"
+ACOT_ION_CANNON_MID:  "타이탄 디펜더"
+ACOT_ION_CANNON_CORE:  "타이탄 요새"
+
+########### PLATFORM ###########
+
+tech_acot_platform_resource_section_1:  "Starbase 자원 플랫폼"
+tech_acot_platform_resource_section_1_desc:  "우리는 필요한 자원을 공급하기 위해 항상 행성에 의존할 수는 없습니다. 단지 바보들만이 대규모 경제 네트워크를 만들기 위해 광대한 공간을 활용해서는 안 된다고 생각합니다."
+
+tech_acot_platform_resource_section_3:  "고급 자원 플랫폼"
+tech_acot_platform_resource_section_3_desc:  "우리는 더욱 발전해야 합니다. 우리의 자원 스테이션은 행성의 생산량과 제국의 수요를 따라잡아야 합니다. 우리는 단지 행성에만 의존했기 때문에 죽은 일부 오래된 제국과 같지 않을 것입니다."
+
+tech_acot_platform_resource_section_5:  "리플리컨트 리소스 플랫폼"
+tech_acot_platform_resource_section_5_desc:  "일부 제국이 행성 생산에만 의존했기 때문에 실제로 멸망했다고 생각하는 것은 매우 재미있고 애처롭습니다. 우주가 거기 있고, 은하계가 거기에 있다. 어떤 종류의 원시적이고 낡은 사고가 그들의 경제를 제한된 것에 국한시키게 만들까요?"
+
+tech_acot_platform_resource_node_3:  "고급 리소스 노드"
+tech_acot_platform_resource_node_3_desc:  "우리는 더욱 효율적이어야 합니다. 우리는 자원 스테이션 내의 모든 사용 가능한 공간을 활용하고 최대의 생산성을 얻어야 합니다."
+
+tech_acot_platform_resource_node_5:  "복제 자원 노드"
+tech_acot_platform_resource_node_5_desc:  "Hard-Light 기술을 사용하면 스테이션을 위한 더욱 강력한 리소스 노드를 만들 수 있습니다."
+
+ACOT_MINING_STATION_SECTION:  "광산 스테이션"
+ACOT_RESEARCH_STATION_SECTION:  "연구 스테이션"
+
+ACOT_RESOURCE_STATION_SECTION:  "기본 자원 생성기"
+ACOT_RESOURCE_STATION_SECTION_3:  "고급 자원 생성기"
+ACOT_RESOURCE_STATION_SECTION_5:  "복제 자원 생성기"
+
+ACOT_SCIENCE_STATION_SECTION:  "기초과학시설"
+ACOT_SCIENCE_STATION_SECTION_3:  "첨단과학시설"
+ACOT_SCIENCE_STATION_SECTION_5:  "리플리컨트 과학 시설"
+
+ACOT_GOVERNMENT_STATION_SECTION:  "기본 백화점"
+ACOT_GOVERNMENT_STATION_SECTION_3:  "고급 백화점"
+ACOT_GOVERNMENT_STATION_SECTION_5:  "복제 상점"
+
+ACOT_XL_MILITARY_STATION_SECTION:  "Glasscannon 스테이션 섹션"
+
+ACOT_LIGHT_MILITARY_STATION_SECTION:  "경방위과"
+ACOT_PD_MILITARY_STATION_SECTION:  "센티넬 방어과"
+ACOT_SPD_MILITARY_STATION_SECTION:  "가디언 방어과"
+ACOT_MEDIUM_MILITARY_STATION_SECTION:  "중방위과"
+ACOT_MISSILE_MILITARY_STATION_SECTION:  "미사일방어과"
+ACOT_TM_MILITARY_STATION_SECTION:  "하이브리드방어과"
+ACOT_HEAVY_MILITARY_STATION_SECTION:  "포병방어과"
+ACOT_HANGAR_MILITARY_STATION_SECTION:  "격납고방어과"
+ACOT_XL_MILITARY_STATION_SECTION:  "유리대포 방어과"
+
+ACOT_LIGHT_LARGE_MILITARY_STATION_SECTION:  "가벼운 요새 섹션"
+ACOT_MEDIUM_LARGE_MILITARY_STATION_SECTION:  "중형 요새 구역"
+ACOT_MISSILE_LARGE_MILITARY_STATION_SECTION:  "미사일 요새 섹션"
+ACOT_TM_LARGE_MILITARY_STATION_SECTION:  "팀 포트리스 섹션"
+ACOT_HEAVY_LARGE_MILITARY_STATION_SECTION:  "포병 요새 구역"
+ACOT_HANGAR_LARGE_MILITARY_STATION_SECTION:  "격납고 요새 구역"
+ACOT_XL_LARGE_MILITARY_STATION_SECTION:  "글래스캐넌 요새 구역"
+
+acot_bulwark_station:  "불워크역"
+acot_bulwark_station_plural:  "불워크 역"
+
+ACOT_BULWARK_SECTION:  "방벽 유조선"
+ACOT_BULWARK_XL_SECTION:  "Bulwark DPS-워너비 탱커"
+ACOT_OUTPOST_STARBASE_SECTION:  "고든 프리먼"
+ACOT_STARPORT_STARBASE_SECTION:  "토마스 웨인"
+ACOT_STARHOLD_STARBASE_SECTION:  "소련 러시아"
+ACOT_STARFORTRESS_STARBASE_SECTION:  "TF2 스카웃 짜증나"
+ACOT_CITADEL_STARBASE_SECTION:  "요새에서 가장 좋아하는 장소"
+
+########### RESOURCE STATION ###########
+
+acot_science_station:  "연구기지"
+acot_science_station_plural:  "연구 기지"
+
+acot_resource_station:  "자원 생성기"
+acot_resource_station_plural:  "자원 생성기"
+
+acot_government_station:  "제작자"
+acot_government_station_plural:  "제작자"
+
+########### TRANSPORT ###########
+
+COMBAT_COMPUTER_TRANSPORT:  "고급 운송 선박 컴퓨터"
+TRANSPORT_BEHAVIOR_DESC:  "수송선은 총격전을 무시하며 적군을 피하기 위해 멀리 이동하거나 행성에 착륙하라는 명령을 받을 수 있습니다. 명령이 내리지 않는 한 수송선은 전투에서 뒤쳐지지 않으므로 세밀한 관리가 필요합니다."
+ 
+FLEE_COMPUTER_TRANSPORT:  "회피 수송 선박 컴퓨터"
+COWARD_TRANSPORT_BEHAVIOR_DESC:  "수송선은 교전을 해제하고 전투 공간 밖으로 도주하려고 시도합니다. 이를 통해 잠재적으로 범위와 속도가 부족한 적 함대를 떨쳐버릴 수 있습니다. 수송선이 시스템 공간 외부로 계속 도망가기 때문에 불규칙한 동작이 발생할 수 있습니다."
+ 
+FOLLOW_COMPUTER_TRANSPORT:  "분산형 수송선 컴퓨터"
+FOLLOW_TRANSPORT_BEHAVIOR_DESC:  "수송선은 더 큰 원으로 분산되어 가능한 한 그룹화를 피하려고 노력하지만 그렇지 않으면 전투 지역에 남아 있습니다."
+ 
+SIMPLE_COMBAT_COMPUTER_TRANSPORT:  "기본 운송 선박 컴퓨터"
+SIMPLE_TRANSPORT_BEHAVIOR_DESC:  "수송선은 누군가가 자신들을 구해 주기를 바라며 뒤에 남아 공황 상태에 빠져 주위를 돌 것입니다. 그들은 촘촘한 원 형태를 유지하므로 전체적으로 쉽게 죽일 수 있습니다."
+ 
+HEAVY_TRANSPORT_SECTION:  "침공 바지선 선체"
+SUPER_TRANSPORT_SECTION:  "고대 탐구자 선체"
+ 
+tech_reinforced_transport:  "고급 운송 청사진"
+tech_reinforced_transport_desc:  "우리 순양함의 설계를 바탕으로 이제 기동성이 떨어지더라도 내구성이 향상된 새로운 강력한 수송선 라인을 만들 수 있습니다. 업데이트된 디자인은 기존 운송 패턴도 업그레이드합니다."
+
+tech_advanced_transport:  "리플리컨트 전송 청사진"
+tech_advanced_transport_desc:  "특정 리플리컨트 설계를 수송선과 바지선에 적용하면 생존 가능성이 크게 높아집니다."
+
+tech_noah_transport:  "고대 탐구자 설계도"
+tech_noah_transport_desc:  "진보된 수수께끼의 기술의 발명으로 우리는 이제 은하계에서 목격한 가장 강력한 수송 섀시 중 하나를 만들 수 있습니다."
+
+acot_heavy_transport:  "침공 바지선"
+acot_heavy_transport_plural:  "침공 바지선"
+
+acot_precursor_transport:  "고대 탐구자"
+acot_precursor_transport_plural:  "고대 탐구자"
+
+mod_shipsize_transport_hull_add:  "운송 선체 지점"
+
+######################################### STARBASE #########################################
+
+########### DEFENSE MODULES ###########
+
+sm_acot_spaceport_module_defense_small:  "가디언 모듈"
+sm_acot_spaceport_module_defense_small_desc:  "8개의 소형 무기와 4개의 중형 방어 슬롯이 있는 섹션을 추가합니다."
+
+sm_acot_spaceport_module_defense_medium:  "중형 무기 모듈"
+sm_acot_spaceport_module_defense_medium_desc:  "4개의 중간 크기 무기와 2개의 중간 크기 방어 슬롯이 있는 섹션을 추가합니다."
+
+sm_acot_spaceport_module_defense_large:  "헤비 헤비 모듈"
+sm_acot_spaceport_module_defense_large_desc:  "두 개의 대형 무기와 하나의 중형 방어 슬롯이 있는 섹션을 추가합니다."
+
+sm_acot_spaceport_module_defense_artillery:  "포병 무기 모듈"
+sm_acot_spaceport_module_defense_artillery_desc:  "두 개의 포병 무기가 있는 섹션을 추가합니다."
+
+sm_acot_spaceport_module_defense_hangar:  "격납고 모듈"
+sm_acot_spaceport_module_defense_hangar_desc:  "두 개의 대형 격납고와 하나의 중간 크기 방어 슬롯이 있는 섹션을 추가합니다."
+
+sm_acot_spaceport_module_defense_fortress:  "강화된 섹션"
+sm_acot_spaceport_module_defense_fortress_desc:  "4개의 대형 방어 슬롯이 있는 강화된 섹션을 추가합니다."
+
+########### RESOURCE MODULES ###########
+
+sm_acot_spaceport_module_resource_minerals:  "광업 길드"
+sm_acot_spaceport_module_resource_minerals_desc:  "우주 광물 조달을 전담하는 길드 또는 네트워크입니다."
+
+sm_acot_spaceport_module_resource_energy:  "에너지 교류"
+sm_acot_spaceport_module_resource_energy_desc:  "에너지 크레딧을 만들 수 있는 곳입니다."
+
+sm_acot_spaceport_module_resource_food:  "식량 비축량"
+sm_acot_spaceport_module_resource_food_desc:  "우주에서의 농업 수확에 관한 섹션입니다."
+
+sm_acot_spaceport_module_resource_unity:  "우주 박물관"
+sm_acot_spaceport_module_resource_unity_desc:  "사람들에게 제국의 위대함을 일깨워주는 역사적 중요성을 지닌 기록 보관소입니다."
+
+sm_acot_spaceport_module_resource_alloys:  "궤도 제작기"
+sm_acot_spaceport_module_resource_alloys_desc:  "합금 생산을 전담하는 제조 단위 섹션입니다."
+
+sm_acot_spaceport_module_resource_goods:  "스페이스팩토리움"
+sm_acot_spaceport_module_resource_goods_desc:  "상품이 만들어지고 유통되는 다양한 워크샵."
+
+sm_acot_spaceport_module_resource_science:  "우주 과학 회사"
+sm_acot_spaceport_module_resource_science_desc:  "과학자와 연구원이 탐사와 발견을 수행하는 워크스테이션입니다."
+
+sm_acot_spaceport_module_resource_silo:  "사일로 확장"
+sm_acot_spaceport_module_resource_silo_desc:  "사일로가 필요합니다. 우리는 추가 사일로를 건설해야 합니다. 해당 사일로는 Starbase 모듈에 배치되어야 합니다. 더 많은 사일로가 필요합니다."
+
+#sm_solar_panel_network:  "태양광 패널 네트워크"
+#sm_solar_panel_network_desc:  "별에서 원시 에너지를 수확하는 태양 전지판 배열입니다."
+
+########### Shipyard MODULES ###########
+
+sm_acot_spaceport_module_shipyard_2:  "조선소"
+sm_acot_spaceport_module_shipyard_2_desc:  "조선소에서는 선박을 건조할 수 있습니다. 또한 4개의 중형 방어 모듈이 추가됩니다."
+
+sm_acot_spaceport_module_shipyard_2:  "중조선소"
+sm_acot_spaceport_module_shipyard_2_desc:  "중형 조선소에서는 모듈당 두 척의 함선을 동시에 건조할 수 있습니다. 또한 두 개의 중형 방어 모듈을 추가합니다."
+
+sm_acot_spaceport_module_shipyard_3:  "고급 조선소"
+sm_acot_spaceport_module_shipyard_3_desc:  "고급 조선소에서는 모듈당 4척의 함선을 동시에 건조할 수 있습니다."
+
+########### Starbase Buildings ###########
+
+sm_acot_spaceport_building_resource_alloys:  "합금 제조 매트릭스"
+sm_acot_spaceport_building_resource_alloys_desc:  "합금 제조 매트릭스"
+
+sm_acot_spaceport_building_resource_energy:  "궤도 에너지 넥서스"
+sm_acot_spaceport_building_resource_energy_desc:  "궤도 에너지 넥서스"
+
+sm_acot_spaceport_building_resource_food:  "궤도 농업 센터"
+sm_acot_spaceport_building_resource_food_desc:  "궤도 농업 센터"
+
+sm_acot_spaceport_building_resource_goods:  "마스터 팩토리엄"
+sm_acot_spaceport_building_resource_goods_desc:  "마스터 팩토리엄"
+
+sm_acot_spaceport_building_resource_minerals:  "궤도 광물 프로세서"
+sm_acot_spaceport_building_resource_minerals_desc:  "궤도 광물 프로세서"
+
+sm_acot_spaceport_building_resource_science:  "아카이브 허브"
+sm_acot_spaceport_building_resource_science_desc:  "아카이브 허브"
+
+sm_acot_spaceport_building_resource_unity:  "우주 컨소시엄"
+sm_acot_spaceport_building_resource_unity_desc:  "우주 컨소시엄"
+
+sm_acot_spaceport_building_solar_network:  "태양광 패널 네트워크"
+sm_acot_spaceport_building_solar_network_desc:  "별에서 원시 에너지를 수확하는 강력한 태양 전지판 배열입니다."
+
+#sm_titan_yards:  "고급조립장"
+#sm_titan_yards_desc:  "조립야드는 조선소에 특화된 자재를 제공하여 조선소의 효율성을 향상시킵니다. 건물은 강력한 드라이독으로도 기능하며 추가적인 선박 개선 작업도 이곳에서 수행할 수 있습니다."
+
+#sm_defense_grid:  "보조 플랫폼 관리 시스템"
+#sm_defense_grid_desc:  "Starbase 기본 슈퍼컴퓨터는 보조 시스템으로 강화되어 더 많은 플랫폼을 지원하는 능력을 높일 수 있습니다."
+
+sm_acot_spaceport_building_assembly_network:  "조립 네트워크"
+sm_acot_spaceport_building_assembly_network_desc:  "Assembly Network는 각 조선소 간의 신경망을 제공하여 두 배의 효율성으로 작업을 수행할 수 있도록 합니다."
+
+cannot_jump_to_system_due_to_component:  "활성 항성기지 무효화 효과로 인해 이 시스템으로 이동할 수 없습니다."
+
+#sm_warp_fluctuator:  "내부 매스 릴레이"
+#sm_warp_fluctuator_desc:  "아군 함대가 정확한 FTL 점프를 수행하고 점프 능력을 향상하도록 지원합니다. 릴레이는 심각한 피해를 입은 선박의 비상 탈출 지점 역할도 합니다."
+
+#sm_communications_jammer:  "갭 생성기"
+#sm_communications_jammer_desc:  "Gap Generator는 인공 성운장을 활용하여 적의 센서를 차단하고 표적 시스템을 방해합니다. 다른 제국에서는 이 시스템을 성운이 가리고 있는 것처럼 볼 수 없습니다."
+
+#sm_command_center:  "궤도 지휘 센터"
+#sm_command_center_desc:  "합동 노력을 통해 침입자를 격퇴하기 위해 방어 함대를 더 잘 조정하도록 설계된 로컬 명령 허브입니다."
+
