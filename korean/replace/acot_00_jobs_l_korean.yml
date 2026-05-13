@@ -1,0 +1,519 @@
+﻿l_korean:
+ 
+#########################################################################################################################################################################################################################################################################################################################
+########################               Jobs               ########################
+#########################################################################################################################################################################################################################################################################################################################
+ 
+######################## RULING ########################
+ 
+job_acot_overlord:  "대군주"
+job_acot_overlord_plural:  "대군주"
+job_acot_overlord_desc:  "하이 오버로드는 각 행성의 최고 통치자이며, 제국의 통치 평의회에만 응답합니다."
+mod_job_acot_overlord_add:  "$job_acot_overlord$"
+ 
+job_acot_overlord_droid:  "네트워크 감독자"
+job_acot_overlord_droid_plural:  "네트워크 감독자"
+job_acot_overlord_droid_desc:  "네트워크 감독자는 각 행성의 최고 사령관이며 1차 합의 자체에만 답변합니다."
+mod_job_acot_overlord_droid_add:  "$job_acot_overlord_droid$"
+ 
+job_acot_overlord_drone:  "하이브 오버마인드"
+job_acot_overlord_drone_plural:  "하이브 오버마인드"
+job_acot_overlord_drone_desc:  "하이브 오버마인드는 각 행성의 최고 사령관이며, 일차 하이브 의식에만 응답합니다."
+mod_job_acot_overlord_drone_add:  "$job_acot_overlord_drone$"
+ 
+job_acot_overseer:  "하이 로드"
+job_acot_overseer_plural:  "하이 로드"
+job_acot_overseer_desc:  "하이 로드는 하이 오버로드의 눈과 귀 역할을 하며, 말도 안 되는 매우 복잡하고 복잡한 결투에서 오버로드의 권위에 감히 도전하는 자를 쫓아내는 중요한 임무를 맡고 있습니다."
+mod_job_acot_overseer_add:  "$job_acot_overseer$"
+ 
+job_acot_overseer_droid:  "네트워크 오버워치"
+job_acot_overseer_droid_plural:  "네트워크 감시"
+job_acot_overseer_droid_desc:  "네트워크 오버워치는 오버시어의 기계 수호자입니다. 그들은 유일한 강력한 규칙과 같은 진부한 동기를 사용하여 이야기의 유일한 목표가 악이 되는 것인 짜증나고 멍청한 유기체로부터 발톱과 발톱을 잘라내는 임무를 맡습니다."
+mod_job_acot_overseer_droid_add:  "$job_acot_overseer_droid$"
+ 
+job_acot_overseer_drone:  "하이브 세레브레이트"
+job_acot_overseer_drone_plural:  "하이브 세브레이트"
+job_acot_overseer_drone_desc:  "Hive Cerebrate는 Hive Overminds의 전략가이자 시스템 기획자 역할을 하며, 과거의 특정 무능한 무리처럼 무의미한 브루드워를 일으키기 위해 우주의 여왕 암캐가 일어나지 않도록 합니다."
+mod_job_acot_overseer_drone_add:  "$job_acot_overseer_drone$"
+ 
+######################## DM/DE PRODUCTOR ########################
+ 
+job_acot_dark_energy_man:  "암흑에너지 기술공"
+job_acot_dark_energy_man_plural:  "암흑 에너지 기술자"
+job_acot_dark_energy_man_desc:  "이 전문 부서는 암흑 에너지를 합성합니다."
+mod_job_acot_dark_energy_man_add:  "$job_acot_dark_energy_man$"
+ 
+job_acot_dark_energy_drone:  "암흑에너지 기술공 드론"
+job_acot_dark_energy_drone_plural:  "암흑에너지 기술공"
+job_acot_dark_energy_drone_desc:  "이 드론에는 암흑 에너지를 합성하기 위한 지시와 지식이 부여됩니다."
+mod_job_acot_dark_energy_drone_add:  "$job_acot_dark_energy_drone$"
+ 
+job_acot_dark_matter_man:  "암흑 물질 연금술사"
+job_acot_dark_matter_man_plural:  "암흑 물질 연금술사"
+job_acot_dark_matter_man_desc:  "암흑 연금술사는 암흑 물질을 합성하기 위해 다양한 과학 기술을 수행합니다."
+mod_job_acot_dark_matter_man_add:  "$job_acot_dark_matter_man$"
+ 
+job_acot_dark_matter_drone:  "암흑물질 창조자"
+job_acot_dark_matter_drone_plural:  "암흑물질 창조자"
+job_acot_dark_matter_drone_desc:  "이 드론은 암흑 물질을 합성하는 임무를 맡고 있습니다."
+mod_job_acot_dark_matter_drone_add:  "$job_acot_dark_matter_drone$"
+ 
+######################## POP MAKER ########################
+ 
+job_acot_apothecary:  "어둠의 연금술사"
+job_acot_apothecary_plural:  "어둠의 약제사"
+job_acot_apothecary_desc:  "Dark Apothecaries는 플라즈마 전기톱과 로켓 발사기를 사용하여 생산성과 출산율을 높이는 데 적합한 훈련된 의사입니다."
+mod_job_acot_apothecary_add:  "$job_acot_apothecary$"
+ 
+job_acot_broodmother:  "벌집 무리어미"
+job_acot_broodmother_plural:  "벌집 무리어미"
+job_acot_broodmother_desc:  "군체 어미는 필요한 보살핌을 제공하고 미래의 산란을 돌봅니다."
+mod_job_acot_broodmother_add:  "$job_acot_broodmother$"
+ 
+job_acot_offspring:  "새끼 무리어미"
+job_acot_offspring_plural:  "자손 무리어미"
+job_acot_offspring_desc:  "자손 무리어미는 필요한 보살핌을 제공하고 미래의 산란을 돌봅니다."
+mod_job_acot_offspring_add:  "$job_acot_offspring$"
+
+job_acot_roboman:  "사이버맨서"
+job_acot_roboman_plural:  "사이버맨서"
+job_acot_roboman_desc:  "사이버맨서는 로봇공학의 모든 것에 열광합니다. 어떤 사람들은 비밀리에 금속 상자를 좋아한다고 말할 수도 있습니다."
+mod_job_acot_roboman_add:  "$job_acot_roboman$"
+ 
+job_acot_robodrone:  "나노생산자"
+job_acot_robodrone_plural:  "나노 생산자"
+job_acot_robodrone_desc:  "나노 생산자는 고급 하드라이트 기술을 사용하여 기계 본체를 인쇄하는 작업을 맡습니다."
+mod_job_acot_robodrone_add:  "$job_acot_robodrone$"
+ 
+ 
+######################## RESOURCE MAKER ########################
+ 
+job_acot_workerman:  "슈퍼 포먼"
+job_acot_workerman_plural:  "슈퍼 포먼"
+job_acot_workerman_desc:  "노동자 계층에게 광물, 음식, 에너지의 사용법을 가르치는 열정적인 상사입니다. 몇 주 안에 사회의 가장 게으르고 약한 구성원조차 진정한 청년으로 변할 수 있습니다."
+mod_job_acot_workerman_add:  "$job_acot_workerman$"
+ 
+job_acot_workerdrone:  "슈퍼 작업 관리자"
+job_acot_workerdrone_plural:  "슈퍼 작업 관리자"
+job_acot_workerdrone_desc:  "단순한 드론의 성능을 살펴보기 위해 모니터를 응시하는 복잡한 작업을 맡고, 조화롭게 제대로 작동하지 않는 이들의 처리를 마무리하는 첨단 드론. 감사할 일이 아니지만 생산성을 높이려면 꼭 필요한 작업입니다."
+mod_job_acot_workerdrone_add:  "$job_acot_workerdrone$"
+
+job_acot_specialman:  "팩토리움 감독관"
+job_acot_specialman_plural:  "팩토리움 감독관"
+job_acot_specialman_desc:  "팩토리움의 감독자들은 제국에서 사용할 수 있는 더 진보된 방법과 경력에도 불구하고 제조 작업의 위대함에 대해 종종 크게 과장하여 말하는 경향이 있습니다. 그러나 이러한 다채로운 성격은 구시대에 갇힌 사람들이 사회 개선을 위해 더 잘 일하도록 영감을 줍니다."
+mod_job_acot_specialman_add:  "$job_acot_specialman$"
+ 
+job_acot_specialdrone:  "팩토리움 비홀더"
+job_acot_specialdrone_plural:  "팩토리움 비홀더"
+job_acot_specialdrone_desc:  "Beholder 드론의 임무는 생산 목록 내에서 결함을 관찰하고 스캔하는 것입니다. 그런 다음 그들은 자원을 처리하는 간단한 작업을 수행하지 못한 사람들에게 다시 동기를 부여하기 위해 고급 빔을 사용할 것입니다."
+mod_job_acot_specialdrone_add:  "$job_acot_specialdrone$"
+
+job_acot_alloyman:  "합금 변환기"
+job_acot_alloyman_plural:  "합금 변환자"
+job_acot_alloyman_desc:  "Alloy Transmutations는 암흑물질을 활용한 물질 생성 과정을 통해 합금을 생성할 수 있습니다."
+mod_job_acot_alloyman_add:  "$job_acot_alloyman$"
+ 
+job_acot_alloydrone:  "합금 변환기"
+job_acot_alloydrone_plural:  "합금 변환자"
+job_acot_alloydrone_desc:  "Alloy Transmutations는 암흑물질을 활용한 물질 생성 과정을 통해 합금을 생성할 수 있습니다."
+mod_job_acot_alloydrone_add:  "$job_acot_alloydrone$"
+ 
+job_acot_mineralman:  "수정주의자"
+job_acot_mineralman_plural:  "결정주의자"
+job_acot_mineralman_desc:  "암흑물질을 고수익 광물로 구체화하도록 훈련받은 잘 훈련된 전문가들입니다."
+mod_job_acot_mineralman_add:  "$job_acot_mineralman$"
+ 
+job_acot_mineraldrone:  "수정주의자"
+job_acot_mineraldrone_plural:  "결정주의자"
+job_acot_mineraldrone_desc:  "암흑물질을 고수익 광물로 구체화하도록 훈련된 전용 드론입니다."
+mod_job_acot_mineraldrone_add:  "$job_acot_mineraldrone$"
+ 
+job_acot_energyman:  "그리드 싱크로나이저"
+job_acot_energyman_plural:  "그리드 동기화 장치"
+job_acot_energyman_desc:  "이러한 전문 기술자는 합성된 암흑 에너지에서 사용 가능한 에너지 크레딧을 추출하도록 교육을 받았습니다."
+mod_job_acot_energyman_add:  "$job_acot_energyman$"
+ 
+job_acot_energydrone:  "그리드 싱크로나이저"
+job_acot_energydrone_plural:  "그리드 동기화 장치"
+job_acot_energydrone_desc:  "이러한 특수 드론은 합성된 암흑 에너지로부터 사용 가능한 에너지 크레딧을 추출하도록 설계되었습니다."
+mod_job_acot_energydrone_add:  "$job_acot_energydrone$"
+ 
+job_acot_foodman:  "미식가 마스터"
+job_acot_foodman_plural:  "미식가 마스터"
+job_acot_foodman_desc:  "생각을 위한 음식. 맛있는!"
+mod_job_acot_foodman_add:  "$job_acot_foodman$"
+ 
+job_acot_fooddrone:  "미식가 드론"
+job_acot_fooddrone_plural:  "미식가 드론"
+job_acot_fooddrone_desc:  "숟가락이 없습니다."
+mod_job_acot_fooddrone_add:  "$job_acot_fooddrone$"
+ 
+job_acot_transmute_man:  "변형기"
+job_acot_transmute_man_plural:  "변환자"
+job_acot_transmute_man_desc:  "Transmutations는 전략적 자원 분야의 전문가입니다. 그들은 우리 제국이 알고 있는 인공적인 전략 자원을 생성하기 위해 경화광 합성 과정을 사용할 수 있습니다."
+mod_job_acot_transmute_man_add:  "$job_acot_transmute_man$"
+ 
+job_acot_transmute_drone:  "변형기"
+job_acot_transmute_drone_plural:  "변환자"
+job_acot_transmute_drone_desc:  "트랜스뮤테이터는 전략자원 분야에 최적화된 첨단 드론입니다. 그들은 우리 제국이 알고 있는 인공적인 전략 자원을 생성하기 위해 경화광 합성 과정을 사용할 수 있습니다."
+mod_job_acot_transmute_drone_add:  "$job_acot_transmute_drone$"
+ 
+job_acot_artisan:  "마스터 프로비저너"
+job_acot_artisan_plural:  "마스터 프로비저너"
+job_acot_artisan_desc:  "국내 제품 생산 분야의 전문가. 이 기술자들은 하드라이트 프린터를 작동하고 사회를 운영하는 데 필요한 모든 물품을 제국에 제공하도록 훈련받았습니다."
+mod_job_acot_artisan_add:  "$job_acot_artisan$"
+ 
+job_acot_trader:  "마스터 물류사"
+job_acot_trader_plural:  "마스터 물류사"
+job_acot_trader_desc:  "무역 및 물류 분야의 전문가. 번영을 유지하기 위해 해야 할 일을 하도록 승인받은 제국의 다양한 병참 위치를 능숙하게 관리하여 이름을 떨칠 준비가 된 야심찬 상인입니다."
+mod_job_acot_trader_add:  "$job_acot_trader$"
+
+job_acot_trader_drone:  "자율 거래 단위"
+job_acot_trader_drone_plural:  "자율 거래 단위"
+job_acot_trader_drone_desc:  "무역과 물류는 불행하게도 필요한 성가신 작업인 경우가 많습니다. 主의식으로 이런 일을 수행하는 것은 매우 바람직하지 않을 수 있습니다. 무역 및 물류 관리 조직에 탁월한 전문 부서를 견제하면 도움이 될 수 있습니다."
+mod_job_acot_trader_drone_add:  "$job_acot_trader_drone$"
+
+############ VOIDSPHERE JOB
+ 
+job_acot_voidsphere_forgeman:  "공허의 수수께끼의 여행자"
+job_acot_voidsphere_forgeman_plural:  "공허의 수수께끼의 여행자"
+job_acot_voidsphere_forgeman_desc:  "공허 여행자는 하위 차원 공간에 들어가 수수께끼의 자원을 수집하고 그 내용을 직접 흡수할 수 있습니다."
+mod_job_acot_voidsphere_forgeman_add:  "$job_acot_voidsphere_forgeman$"
+ 
+job_acot_voidsphere_forgedrone:  "공허의 수수께끼의 여행자"
+job_acot_voidsphere_forgedrone_plural:  "공허의 수수께끼의 여행자"
+job_acot_voidsphere_forgedrone_desc:  "Void Enigmatic Travelers는 하위 차원 공간에 들어가서 그 내용물을 직접 흡수하여 수수께끼의 자원을 수확할 수 있습니다."
+mod_job_acot_voidsphere_forgedrone_add:  "$job_acot_voidsphere_forgedrone$" 
+
+############
+
+job_acot_voidsphere_siloman_alloys:  "공허 합금 운반기"
+job_acot_voidsphere_siloman_alloys_plural:  "공허 합금 수송기"
+job_acot_voidsphere_siloman_alloys_desc:  "복잡한 공정을 거치지 않고 합금을 얻을 수 있는 능력은 야금학자에게 일어날 수 있는 최고의 일이자 최악의 일입니다."
+mod_job_acot_voidsphere_siloman_alloys_add:  "$job_acot_voidsphere_siloman_alloys$"
+ 
+job_acot_voidsphere_silodrone_alloys:  "공허 합금 운반기"
+job_acot_voidsphere_silodrone_alloys_plural:  "합금 운송업자"
+job_acot_voidsphere_silodrone_alloys_desc:  "복잡한 과정을 거치지 않고 합금을 얻을 수 있는 능력은 아마도 게슈탈트에게 일어날 수 있는 가장 좋은 일일 것입니다. 특히 복잡한 것을 좋아하지 않는 사람들에게는 더욱 그렇습니다."
+mod_job_acot_voidsphere_silodrone_alloys_add:  "$job_acot_voidsphere_silodrone_alloys$"
+ 
+######
+
+job_acot_voidsphere_siloman_energy:  "공허 에너지 수송기"
+job_acot_voidsphere_siloman_energy_plural:  "공허 에너지 수송기"
+job_acot_voidsphere_siloman_energy_desc:  "잠깐만요, 에너지를 수확할 수 있는 차원을 만들기 위해 우리가 말할 수 없는 양의 에너지를 소비했다고요?"
+mod_job_acot_voidsphere_siloman_energy_add:  "$job_acot_voidsphere_siloman_energy$"
+ 
+job_acot_voidsphere_silodrone_energy:  "공허 합금 운반기"
+job_acot_voidsphere_silodrone_energy_plural:  "공허 합금 운반기"
+job_acot_voidsphere_silodrone_energy_desc:  "에너지는 어디에나 있습니다. 하지만 에너지 자체가 자신이 어딘가에 속해 있다는 것을 인식하면 더 좋습니다."
+mod_job_acot_voidsphere_silodrone_energy_add:  "$job_acot_voidsphere_silodrone_energy$"
+ 
+######
+
+job_acot_voidsphere_siloman_minerals:  "공허 광물 수송기"
+job_acot_voidsphere_siloman_minerals_plural:  "공허 광물 수송기"
+job_acot_voidsphere_siloman_minerals_desc:  "적어도 이곳의 미네랄은 어떤 것과는 달리 반격하지 않습니다. 여전히 일부 사람들에게는 PTSD를 제공합니다."
+mod_job_acot_voidsphere_siloman_minerals_add:  "$job_acot_voidsphere_siloman_minerals$"
+ 
+job_acot_voidsphere_silodrone_minerals:  "공허 광물 수송기"
+job_acot_voidsphere_silodrone_minerals_plural:  "공허 광물 수송기"
+job_acot_voidsphere_silodrone_minerals_desc:  "지금도 일부 드론은 "Void"와 "Crystal"이라는 단어를 함께 들을 때마다 매우 경계심 있게 반응합니다."
+mod_job_acot_voidsphere_silodrone_minerals_add:  "$job_acot_voidsphere_silodrone_minerals$"
+ 
+######
+
+job_acot_voidsphere_siloman_food:  "공허의 음식 운반자"
+job_acot_voidsphere_siloman_food_plural:  "공허의 음식 수송기"
+job_acot_voidsphere_siloman_food_desc:  "때로는 엄청난 양의 음식을 발견할 수 있는 유일한 곳은, 그 음식을 만드는 사람이 바로 음식일 가능성이 높은 곳!?"
+mod_job_acot_voidsphere_siloman_food_add:  "$job_acot_voidsphere_siloman_food$"
+ 
+job_acot_voidsphere_silodrone_food:  "공허의 음식 운반자"
+job_acot_voidsphere_silodrone_food_plural:  "공허의 음식 운반자"
+job_acot_voidsphere_silodrone_food_desc:  "드론이 실제로 음식을 필요로 하는 것보다 음식을 더 많이 생산한다면 오히려 재미있을 것입니다."
+mod_job_acot_voidsphere_silodrone_food_add:  "$job_acot_voidsphere_silodrone_food$"
+ 
+######
+
+job_acot_voidsphere_siloman_goods:  "공허의 운명 수송기"
+job_acot_voidsphere_siloman_goods_plural:  "공허의 운명 수송기"
+job_acot_voidsphere_siloman_goods_desc:  "현실을 지배하는 시대에 의아해하는 이들이 있다. 왜 그들은 여전히 ​​소비재 같은 것에 관심을 갖는 걸까요? 이게 그냥 게슈탈트보다 더 꼴사납게 만드는 것 아닌가요?"
+mod_job_acot_voidsphere_siloman_goods_add:  "$job_acot_voidsphere_siloman_goods$"
+ 
+job_acot_voidsphere_silodrone_goods:  "공허의 운명 수송기"
+job_acot_voidsphere_silodrone_goods_plural:  "공허의 운명 수송기"
+job_acot_voidsphere_silodrone_goods_desc:  "일부 드론은 이 작업의 요점이 무엇인지 궁금해합니까?"
+mod_job_acot_voidsphere_silodrone_goods_add:  "$job_acot_voidsphere_silodrone_goods$"
+
+############
+
+job_acot_voidsphere_labman:  "공허 예언자"
+job_acot_voidsphere_labman_plural:  "공허 예언자"
+job_acot_voidsphere_labman_desc:  "공허 예언자는 과학자와 연구원으로 일할 뿐만 아니라 잠재적으로 과거를 보고 다가올 사건을 예견할 수 있는 하위 차원 공간의 관찰자로 일합니다."
+mod_job_acot_voidsphere_labman_add:  "$job_acot_voidsphere_labman$"
+ 
+job_acot_voidsphere_labdrone:  "공허의 아이리스"
+job_acot_voidsphere_labdrone_plural:  "공허의 아이리스"
+job_acot_voidsphere_labdrone_desc:  "Void Iris는 과학자 및 연구원으로 일할 뿐만 아니라 잠재적으로 과거를 보고 다가올 사건을 예측할 수 있는 하위 차원 공간의 관찰자로 일합니다."
+mod_job_acot_voidsphere_labdrone_add:  "$job_acot_voidsphere_labdrone$"
+ 
+######################## RESEARCHERS ########################
+ 
+job_acot_researcher:  "마스터 사서"
+job_acot_researcher_plural:  "마스터 사서"
+job_acot_researcher_desc:  "사서는 고대 지식을 연구하는 일을 담당합니다. 과학에 대한 그들의 공헌은 누구에게도 뒤지지 않습니다."
+mod_job_acot_researcher_add:  "$job_acot_researcher$"
+ 
+job_acot_researcher_drone:  "로키퍼"
+job_acot_researcher_drone_plural:  "지식인"
+job_acot_researcher_drone_desc:  "Lorekeeper는 고대 지식을 연구하는 일을 담당합니다. 과학에 대한 그들의 공헌은 누구에게도 뒤지지 않습니다."
+mod_job_acot_researcher_drone_add:  "$job_acot_researcher_drone$"
+ 
+ 
+######################## SOLDIERS ########################
+ 
+job_acot_enforcer:  "엘리트 집행자"
+job_acot_enforcer_plural:  "엘리트 집행자"
+job_acot_enforcer_desc:  "엘리트 집행자들은 행성의 정예 방어 부대로, 일반 군인들이 재배치를 요구하게 만드는 다양한 전투 기술에 대해 잘 훈련되어 있습니다."
+mod_job_acot_enforcer_add:  "$job_acot_enforcer$"
+ 
+job_acot_enforcer_drone:  "울트라널리파이어"
+job_acot_enforcer_drone_plural:  "울트라 널리파이어"
+job_acot_enforcer_drone_desc:  "울트라 널리파이어(Ultra Nullifier)는 행성의 정예 방어 부대로, 내부 또는 외부의 위협을 먹어치우고 해체하도록 프로그램되어 있습니다. 먹다."
+mod_job_acot_enforcer_drone_add:  "$job_acot_enforcer_drone$"
+ 
+job_acot_soldier:  "엘리트 간부"
+job_acot_soldier_plural:  "엘리트 간부"
+job_acot_soldier_desc:  "엘리트 간부(Elite Cadres)는 낡고 단순하고 평범한 병사 징집 시스템을 모든 전쟁 문제에서 탁월한 능력을 갖추기 위해 몸과 마음 모두의 역량을 요구하는 특수 엘리트 전투 부대로 대체합니다."
+mod_job_acot_soldier_add:  "$job_acot_soldier$"
+ 
+job_acot_soldier_drone:  "울트라 헬다이버"
+job_acot_soldier_drone_plural:  "울트라 헬다이버"
+job_acot_soldier_drone_desc:  "울트라 헬다이버는 집단의 의지를 전파하고 별 전체에 걸쳐 오버로드의 의지를 보존하도록 설계된 특수 드론입니다. 특히 그들은 감히 개인주의와 민주주의의 혼란을 가져오려는 자들을 반복적으로 폭발시켜 폭파시키는 데 열심입니다."
+mod_job_acot_soldier_drone_add:  "$job_acot_soldier_drone$"
+
+job_acot_giga_fortress_operator:  "기가 포트리스 캐논 오퍼레이터"
+job_acot_giga_fortress_operator_plural:  "기가 포트리스 캐논 오퍼레이터"
+job_acot_giga_fortress_operator_desc:  "이 포수들은 기가 포트리스의 대형 대포를 조작하고 보정하도록 훈련받았습니다. 우리의 적들은 두려움을 알지 못하므로 조심하십시오. 각 대포는 20개의 방어력에 해당합니다."
+mod_job_acot_giga_fortress_operator_add:  "$job_acot_giga_fortress_operator$"
+ 
+job_acot_giga_fortress_operator_drone:  "기가 포트리스 캐논 오퍼레이터"
+job_acot_giga_fortress_operator_drone_plural:  "기가 포트리스 캐논 오퍼레이터"
+job_acot_giga_fortress_operator_drone_desc:  "이 포수들은 기가 포트리스의 대형 대포를 작동하고 보정하도록 프로그래밍되어 있습니다. 우리의 적들은 두려움을 알지 못하므로 조심하십시오. 각 대포는 20개의 방어력에 해당합니다."
+mod_job_acot_giga_fortress_operator_drone_add:  "$job_acot_giga_fortress_operator_drone$"
+ 
+job_acot_giga_fortress_operator_mentat:  "멘타트"
+job_acot_giga_fortress_operator_mentat_plural:  "멘타츠"
+job_acot_giga_fortress_operator_mentat_desc:  "Mentat는 Giga Fortress의 전략 센터에서 제국의 함대 기동을 조정하는 독특한 군사 전략가입니다."
+mod_job_acot_giga_fortress_operator_mentat_add:  "$job_acot_giga_fortress_operator_mentat$"
+ 
+job_acot_giga_fortress_operator_mentat_drone:  "멘타트 드론"
+job_acot_giga_fortress_operator_mentat_drone_plural:  "멘타트 드론"
+job_acot_giga_fortress_operator_mentat_drone_desc:  "Mentat는 Giga Fortress의 전략 센터에서 제국의 함대 기동을 조정하는 독특한 군사 전략가입니다."
+mod_job_acot_giga_fortress_operator_mentat_drone_add:  "$job_acot_giga_fortress_operator_mentat_drone$"
+
+######################## STELLARITE ########################
+ 
+job_acot_stellariteman:  "스텔라라이트 조작기"
+job_acot_stellariteman_plural:  "스텔라라이트 조작기"
+job_acot_stellariteman_desc:  "이 전문가들은 기존 에너지를 순수한 항성석 기반 에너지로 변환하기 위해 광범위한 교육을 받습니다. 별이 그들의 길을 밝혀준다."
+mod_job_acot_stellariteman_add:  "$job_acot_stellariteman$"
+ 
+job_acot_stellaritedrone:  "스텔라라이트 조작기"
+job_acot_stellaritedrone_plural:  "스텔라라이트 조작기"
+job_acot_stellaritedrone_desc:  "이 드론은 Stellarite Reactor의 혹독한 조건에서 작동하도록 특별히 설계되었습니다. 그들의 삶의 임무는 기존 에너지를 항성 기반 형태로 변환하는 것입니다. 불로 불을 싸워라!"
+mod_job_acot_stellaritedrone_add:  "$job_acot_stellaritedrone$"
+ 
+ 
+######################## ARCANE JOBS ########################
+ 
+job_acot_priest:  "거룩한 교회"
+job_acot_priest_plural:  "거룩한 교회"
+job_acot_priest_desc:  "신성 교회는 제국에서 가장 헌신적인 신앙 종파입니다. 그들은 신이 선택한 자로 존경받습니다. 그들의 멋진 모자는 또한 서클 내의 많은 사람들에게 부러워하고 밈이 됩니다."
+mod_job_acot_priest_add:  "$job_acot_priest$"
+ 
+job_acot_entertainer:  "밈 로드"
+job_acot_entertainer_plural:  "밈 로드"
+job_acot_entertainer_desc:  "Meme Lords는 우리 제국이 밈으로 삼을 새로운 밈을 생성합니다. 우리 제국 자체에서 온 것이든, 다른 제국에서 온 것이든 말이죠."
+mod_job_acot_entertainer_add:  "$job_acot_entertainer$"
+ 
+job_acot_entertainer_drone:  "밈 수확기"
+job_acot_entertainer_drone_plural:  "밈 수확기"
+job_acot_entertainer_drone_desc:  "밈 수확기(Meme Harvesters)는 은하계 전역에서 밈을 검색하여 비밀리에 밈에 영향을 미칩니다. 그런 다음 우리 자신의 이익을 위한 효과를 연구합니다."
+mod_job_acot_entertainer_drone_add:  "$job_acot_entertainer_drone$"
+ 
+job_acot_entertainer_droid:  "밈 생성기"
+job_acot_entertainer_droid_plural:  "밈 생성기"
+job_acot_entertainer_droid_desc:  "Meme Generators는 밈 개념을 사용하여 냉정한 사실로는 달성할 수 없고 이해할 수 없는 방법을 통해 우리 디자인 내의 시스템에 동기를 부여합니다."
+mod_job_acot_entertainer_droid_add:  "$job_acot_entertainer_drone$"
+
+job_acot_dimesiona_traveler:  "차원 여행자"
+job_acot_dimesiona_traveler_plural:  "차원 여행자"
+job_acot_dimesiona_traveler_desc:  "특별히 훈련받은 이 인원들은 가장 위험한 임무를 맡습니다. 다른 차원의 제작업체를 직접 여행하고 그들의 제품이 우리 제품에 대해 예측할 수 있습니다."
+mod_job_acot_dimesiona_traveler_add:  "$job_acot_dimesiona_traveler$"
+ 
+job_acot_dimesiona_traveler_drone:  "차원 여행자"
+job_acot_dimesiona_traveler_drone_plural:  "차원 여행자"
+job_acot_dimesiona_traveler_drone_desc:  "특별히 강화된 이 부대는 가장 위험한 임무를 수행합니다. 다른 차원의 제작업체를 직접 여행하고 그들의 제품이 우리 제품에 대해 예측할 수 있습니다."
+mod_job_acot_dimesiona_traveler_drone_add:  "$job_acot_dimesiona_traveler_drone$"
+ 
+ 
+tech_go_find_work:  "더 큰 이익"
+tech_go_find_work_desc:  "우리의 새로운 사회에서는 실업이라는 개념이 과거의 일이 될 것입니다. 해야 할 일은 항상 있고, 게으름은 용납되지 않습니다."
+
+job_acot_free_foodman:  "모험가"
+job_acot_free_foodman_plural:  "모험가"
+job_acot_free_foodman_desc:  "실제 직업이 나타날 때까지 기다리면서 생활비를 벌기 위해 식민지를 무작위로 탐색하기로 결정한 실업자. 이러한 퀘스트에는 아이템 수집, 무작위 몬스터 처치, 물건 제작 등이 포함될 수 있습니다."
+
+decision_give_foodman_job:  "모험 퀘스트"
+decision_give_foodman_job_desc:  "가서 사과 100개를 모아보세요. 잃어버린 개를 찾아보세요. 고블린 25명을 처치하세요...야레 야레 데이즈."
+decision_give_foodman_job_effect:  "실업자 팝은 식민지에 소량의 자원을 제공하는 모험의 역할을 맡게 됩니다."
+
+acot_modifier_free_foodman:  "모험 길드"
+acot_modifier_free_foodman_desc:  "이 행성에는 실업자들이 힘들고 위험하며 치명적인 작업을 수행함으로써 흥미롭고 무해하며 위험 없는 삶을 누릴 수 있는 모험 길드가 있습니다."
+
+job_acot_free_soldier:  "가상 군인"
+job_acot_free_soldier_plural:  "가상 군인"
+job_acot_free_soldier_desc:  "적절한 일자리가 생길 때까지 가상 전투 시뮬레이션을 하면서 시간을 보내는 실업자."
+
+decision_give_soldier_job:  "가상 공격"
+decision_give_soldier_job_desc:  "이것이 그들이 훈련받은 이유입니다!"
+decision_give_soldier_job_effect:  "실업자 팝은 식민지에 소규모 단결과 방어력을 제공하는 가상 군인의 역할을 맡게 됩니다."
+
+acot_modifier_free_soldier:  "가상의 힘"
+acot_modifier_free_soldier_desc:  "이 행성에는 Virtual Strike: Galactic Offensive, Battlecraft: Retooled 또는 SOPHIA Dating Sims Beta와 같은 다양한 게임을 플레이하는 실업자들로 구성된 전용 Virtual Force가 있습니다."
+
+job_acot_free_thinker:  "자유 사상가"
+job_acot_free_thinker_plural:  "자유 사상가"
+job_acot_free_thinker_desc:  "취업할 때까지 하고 싶은 공부를 하며 시간을 보내는 무직자."
+
+decision_give_thinker_job:  "내일의 꿈"
+decision_give_thinker_job_desc:  "나 조르노 조반나에게는 꿈이 있습니다..."
+decision_give_thinker_job_effect:  "실업자 팝은 식민지에 사소한 과학 자원을 제공하는 자유 사상가의 역할을 맡게 됩니다."
+
+acot_modifier_free_thinker:  "자유 사상가"
+acot_modifier_free_thinker_desc:  "이 행성은 창의성과 연구를 장려하며, 실업자들이 공부하고 자신의 삶과 관련된 일을 찾도록 장려합니다."
+
+tech_go_sleep_machine:  "정지 모드"
+tech_go_sleep_machine_desc:  "우리 사회의 변화는 인력에 대한 수요를 감소시킵니다. 아직 목적이 주어지지 않은 사람들은 잠을 자고 임무를 기다려야 합니다."
+
+job_acot_free_reserve_drone:  "예비 유닛"
+job_acot_free_reserve_drone_plural:  "예비 단위"
+job_acot_free_reserve_drone_desc:  "예비 유닛은 더 중요한 임무를 부여받지 않고 대기 모드에 있는 드론입니다."
+
+decision_give_reserve_job:  "Statis 모듈 활성화"
+decision_give_reserve_job_desc:  "건물...규정을 준수할 수 없습니다. 건물이 진행 중입니다...보류 중입니다."
+decision_give_reserve_job_effect:  "실업자 팝은 그들에게 임무가 주어질 때까지 정체 상태에 놓이게 될 것입니다."
+
+acot_modifier_free_stasis:  "정체실"
+acot_modifier_free_stasis_desc:  "이 행성에는 추가 명령이 내려질 때까지 할당되지 않은 드론이 대기 상태가 되는 정체실 네트워크가 있습니다."
+
+decision_ungive_job:  "실업 개시"
+decision_ungive_job_desc:  "이제 우리 국민은 다시 실업에 시달릴 때입니다."
+decision_ungive_job_effect:  "실업자 팝은 실업자로 간주되어 다시 한 번 우리 사회를 괴롭히기 시작할 것입니다."
+
+acot_modifier_initializer_cooldown:  "최근 변경된 크기"
+acot_modifier_initializer_cooldown_desc:  "이 행성은 최근 $precursor_colonizer$에 의해 조정되었습니다. 가까운 시일 내에 크기를 조정할 수 없습니다."
+
+############################### FE JOBS ###############################
+
+job_acot_fe_artisan:  "상품 모니터"
+job_acot_fe_artisan_plural:  "물품 모니터"
+job_acot_fe_artisan_desc:  "이 사람들의 임무는 조립식 제품에 최종 손질을 하고 이를 자신의 제품으로 주장하는 것입니다. 이러한 터치가 실제로 제품을 더 좋게 만드는지 여부는 다양한 분야에서 열띤 토론으로 남아 있습니다."
+mod_job_acot_fe_artisan_add:  "$job_acot_fe_artisan$"
+
+##########
+
+job_acot_fe_farmer:  "감정가"
+job_acot_fe_farmer_plural:  "감정가"
+job_acot_fe_farmer_desc:  "이름에서 알 수 있듯이 기술적으로는 전문가는 아니지만, 이 용감한 사람들은 대중이 요구하는 경향이 있는 다양한 맛을 살아남을 수 있는 탄력 있는 혀를 개발했습니다. 최종 결과는 비록 많지 않더라도 실제로 사용 가능한 음식의 양을 늘리는 경향이 있다는 것입니다."
+mod_job_acot_fe_farmer_add:  "$job_acot_fe_farmer$"
+
+##########
+
+job_acot_fe_generator:  "특이점 전문가"
+job_acot_fe_generator_plural:  "특이점 전문가"
+job_acot_fe_generator_desc:  "일반적인 상황에서 특이점 필드는 격리 필드 붕괴 및 시스템 오류의 위험이 있으므로 절대로 조작해서는 안 됩니다. 그러나 드문 경우지만 일부 조정을 위해 고도로 훈련된 전문가가 배정될 수도 있습니다. 관련 위험이 있다는 소문이 돌고 있지만, 이 용감한 사람들이 이 모든 것을 들을 필요가 없다는 것은 분명합니다. 왜냐하면 그들은 결국 고도로 훈련된 전문가이기 때문입니다."
+mod_job_acot_fe_generator_add:  "$job_acot_fe_generator$"
+
+##########
+
+job_acot_fe_foundry:  "금속 검사관"
+job_acot_fe_foundry_plural:  "금속 검사관"
+job_acot_fe_foundry_desc:  "몰락 제국 내에서 덜 인기 있는 임무 중 하나인 검사관은 자동화된 단조 생산을 통해 생산된 합금의 모든 불규칙성과 불완전성을 수정하는 감사할 일을 수행합니다. 그 중 대부분은 잘 확립된 시스템에 도전할 수 있다고 생각하는 동료 사람들의 불필요한 조정에서 비롯됩니다."
+mod_job_acot_fe_foundry_add:  "$job_acot_fe_foundry$"
+
+job_acot_fe_acolyte_foundry:  "스미스의 수행사제"
+job_acot_fe_acolyte_foundry_plural:  "스미스의 수행사제"
+job_acot_fe_acolyte_foundry_desc:  "성스러운 전사들을 야만적인 크라그스의 무기에 영향받지 않게 만드는 최초의 신앙의 갑옷을 만든 견고한 심장 스미스 도라스 경이 발견된 날은 바로 오늘날까지도 기억되고 존경받고 있습니다."
+mod_job_acot_fe_acolyte_foundry_add:  "$job_acot_fe_acolyte_foundry$"
+
+##########
+
+job_acot_fe_soldier:  "전투 하인"
+job_acot_fe_soldier_plural:  "전투 하인"
+job_acot_fe_soldier_desc:  "평화로운 시기에도 항상 경계하고 전쟁의 가능성을 인지해야 하는 사람들이 있습니다. 실제 전투 경험이 부족하더라도 이 충성스러운 남성과 여성은 제국의 영광을 보호하고 확장하기 위해 전쟁의 부름에 응답할 것입니다."
+mod_job_acot_fe_soldier_add:  "$job_acot_fe_soldier$"
+
+job_acot_fe_acolyte_soldier:  "칼날의 수행사제"
+job_acot_fe_acolyte_soldier_plural:  "칼날의 수행사제"
+job_acot_fe_acolyte_soldier_desc:  "크래그의 전진하는 군대를 물리치기 위한 탄약과 수단을 잃어버린 당시 지역 상인이었던 마티르 세라토니는 사람들을 집결시키고 즉석에서 만든 근접 무기로 짐승의 전진을 막았습니다. 비록 그녀의 목숨이 우리에게 사라졌지만, 그날 그녀가 보여준 용기는 우리가 더 어두운 운명을 피할 수 있게 해 줍니다."
+mod_job_acot_fe_acolyte_soldier_add:  "$job_acot_fe_acolyte_soldier$"
+
+##########
+
+job_acot_fe_priest:  "자르클라룸 사제"
+job_acot_fe_priest_plural:  "자르클라룸 여사제"
+job_acot_fe_priest_desc:  "비록 예언된 분이 아직 자신을 드러내지 않으셨지만, 위대한 선지자의 신앙과 가르침은 존중되고 유지되어야 하며, 그들이 오기를 누구에게 기다려야 하는지 잊어서는 안 됩니다."
+mod_job_acot_fe_priest_add:  "$job_acot_fe_priest$"
+
+##########
+
+job_acot_fe_healthcare:  "확고한 치료사"
+job_acot_fe_healthcare_plural:  "확고한 치료사"
+job_acot_fe_healthcare_desc:  "아마도 많은 사람들이 발견한 것처럼 건강한 신체의 가장 큰 적은 자신의 마음일 것입니다. 모든 것이 잘되고 암흑 물질에 노출되어도 자녀의 지능이 저하되지 않을 것이라는 편안함과 확신을 제공하는 것은 차분하고 차분한 개인의 몫입니다."
+mod_job_acot_fe_healthcare_add:  "$job_acot_fe_healthcare$"
+
+job_acot_fe_acolyte_healthcare:  "자르클라룸의 치유사"
+job_acot_fe_acolyte_healthcare_plural:  "자르클라룸의 치유사"
+job_acot_fe_acolyte_healthcare_desc:  "많은 사람들이 영혼 없는 자의 손에 고통을 겪었습니다. 왜냐하면 그녀는 공허한 거짓말로 고통과 부패만을 가져왔기 때문입니다. 그러나 위대한 선지자의 능력으로 악은 정복되었고, 생존자들에게는 치료할 시간이 주어졌습니다."
+mod_job_acot_fe_acolyte_healthcare_add:  "$job_acot_fe_acolyte_healthcare$"
+
+##########
+
+job_acot_fe_entertainer:  "모더니스트"
+job_acot_fe_entertainer_plural:  "모더니스트"
+job_acot_fe_entertainer_desc:  "우리의 시도되고 진실된 방법이 원시적 발견에 대한 사랑으로 인해 변색되는 것을 보는 이 어리석은 사람들은 항상 사람들 사이에서 코미디의 주요 원천입니다."
+mod_job_acot_fe_entertainer_add:  "$job_acot_fe_entertainer$"
+
+job_acot_fe_acolyte_entertainer:  "채찍의 수행사제"
+job_acot_fe_acolyte_entertainer_plural:  "채찍의 수행자들"
+job_acot_fe_acolyte_entertainer_desc:  "Beastmaster Vatikon이 들고 있던 채찍은 이제 기계의 발견과 함께 과거의 일이 되었지만, 그는 그 기술을 오락에 전념하여 많은 동료들을 구했습니다. 실제로 오직 그들만이 하급 동물들에게 일상적인 업무를 수행하도록 강요할 수 있었기 때문입니다."
+mod_job_acot_fe_acolyte_entertainer_add:  "$job_acot_fe_acolyte_entertainer$"
+
+##########
+
+job_acot_fe_researcher:  "학사 학생"
+job_acot_fe_researcher_plural:  "학사 학생"
+job_acot_fe_researcher_desc:  "발견의 시대는 과거의 일이지만, 이는 모두가 결코 적용하지 않을 것이라고 알고 있는 다양한 논문 연구를 젊은이들에게 요구하는 교육 시스템을 막는 데 거의 도움이 되지 않습니다. 그러나 그것은 여전히 ​​모든 남성과 여성이 추구해야 할 존경의 표시입니다."
+mod_job_acot_fe_researcher_add:  "$job_acot_fe_researcher$"
+
+job_acot_fe_acolyte_researcher:  "두루마리의 수행사제"
+job_acot_fe_acolyte_researcher_plural:  "두루마리의 수행자들"
+job_acot_fe_acolyte_researcher_desc:  "우리 건축과 사회 전체가 혼란스럽고 무식한 연구와 균형의 방법으로 지배되던 때가 있었습니다. 수학 마법사 벨라로준(Velarozun)이 수학에 대한 신비한 연구를 가져왔을 때 비로소 우리는 이 두루마리에 담긴 힘과 지식의 가치를 배울 수 있었습니다."
+mod_job_acot_fe_acolyte_researcher_add:  "$job_acot_fe_acolyte_researcher$"
+
+##########
+
+job_acot_fe_miner:  "고고학자"
+job_acot_fe_miner_plural:  "고고학자"
+job_acot_fe_miner_desc:  "어떤 사람들은 왜 고고학자들이 이러한 일에 익숙합니까?라고 묻습니다. 아마도 그들은 Venture와 그녀의 광부 갱단의 공포를 듣지 못했을 것입니다. 분명히 오늘날 사람들은 광물 채굴과 전체 상부 구조를 분해시키는 하드코어 드릴링의 차이를 이해하지 못합니다. Venture와 그녀의 친구들은 영원한 오버워치를 위해 그들을 다른 우주로 보내는 것이 가장 좋습니다."
+mod_job_acot_fe_miner_add:  "$job_acot_fe_miner$"
+
+##########
+
+
+job_acot_giga_fortress_operator_ancient:  "아스날 가드"
+job_acot_giga_fortress_operator_ancient_plural:  "아스날 가드"
+job_acot_giga_fortress_operator_ancient_desc:  "폴른 서클(Fallen Circles) 내에서 몇 안 되는 군사적 명망 높은 직업 중 하나인 이 엘리트들은 오직 그들의 능력을 최대한 발휘하여 자본 시스템을 보호하기 위해 예비되어 있습니다."
+mod_job_acot_giga_fortress_operator_ancient_add:  "$job_acot_giga_fortress_operator$"

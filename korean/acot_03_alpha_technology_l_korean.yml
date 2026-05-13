@@ -1,0 +1,512 @@
+﻿l_korean:
+
+### SHIP TEXTS
+BASE_COMBAT_COMPUTER_COLOSSUS_AE:  "바이오닉 헤라클레스 거상 컴퓨터"
+BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC:  "어둠이 부른다." 
+ 
+HERCULEAN_COMBAT_COMPUTER_AE:  "바이오닉 인터페이스 헤라클레스 컴퓨터" 
+HERCULEAN_COMBAT_COMPUTER_AE_DESC:  "이 첨단 함선은 승무원과 생체 공학적 연결을 형성하는 독특한 전투 컴퓨터를 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+ 
+################################################
+ 
+################################################
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_AE:  "바이오닉 인터페이스 캐리어 컴퓨터(회피)"
+PAC_COMBAT_COMPUTER_DEFENSE_AE_DESC:  "이 첨단 함선은 승무원 및 모든 타격 항공기와 생체 공학적 연결을 형성하는 독특한 전투 컴퓨터를 활용합니다."
+ 
+PAC_COMBAT_COMPUTER_OFFENSE_AE:  "바이오닉 인터페이스 캐리어 컴퓨터(고정식)"
+PAC_COMBAT_COMPUTER_OFFENSE_AE_DESC:  "이 첨단 함선은 승무원 및 모든 타격 항공기와 생체 공학적 연결을 형성하는 독특한 전투 컴퓨터를 활용합니다."
+ 
+ 
+### WEAPONS CHECK OK #####
+SMALL_ACOT_LASER_AE:  "소형 알파 레이저"
+MEDIUM_ACOT_LASER_AE:  "중간 알파 레이저"
+LARGE_ACOT_LASER_AE:  "대형 알파 레이저"
+ACOT_LASER_AE:  "알파레이저"
+ACOT_LASER_AE_DESC:  "델타 레이저 포커싱 렌즈에 대한 추가 보정을 통해 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+tech_laser_ae:  "알파레이저"
+tech_laser_ae_desc:  "델타 레이저 포커싱 렌즈에 대한 추가 보정을 통해 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+ 
+ 
+SMALL_ACOT_PLASMA_AE:  "소형 알파 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_AE:  "중형 알파 플라즈마 캐논"
+LARGE_ACOT_PLASMA_AE:  "대형 알파 플라즈마 캐논"
+ACOT_PLASMA_AE:  "알파 플라즈마 캐논"
+ACOT_PLASMA_AE_DESC:  "암흑 전력 기술의 개선으로 우리는 훨씬 더 강력하고 파괴적인 더욱 치명적인 암흑 에너지 플라즈마를 생성할 수 있습니다."
+tech_plasma_ae:  "알파 플라즈마 캐논"
+tech_plasma_ae_desc:  "암흑 전력 기술의 개선으로 우리는 훨씬 더 강력하고 파괴적인 더욱 치명적인 암흑 에너지 플라즈마를 생성할 수 있습니다."
+ 
+SMALL_ACOT_DISRUPTOR_AE:  "소형 알파 파괴자"
+MEDIUM_ACOT_DISRUPTOR_AE:  "중간 알파 분열기"
+LARGE_ACOT_DISRUPTOR_AE:  "대형 알파 분열기"
+ACOT_DISRUPTOR_AE:  "알파 디스럽터"
+ACOT_DISRUPTOR_AE_DESC:  "Alpha Disruptor는 전작보다 더 강한 매우 강력한 암흑 에너지 광선으로 적 함선을 프라이합니다."
+tech_disruptor_ae:  "알파 디스럽터"
+tech_disruptor_ae_desc:  "Alpha Disruptor는 전작보다 더 강한 매우 강력한 암흑 에너지 광선으로 적 함선을 프라이합니다."
+ 
+ACOT_ENERGY_CANNON_AE:  "알파 에너지 캐논"
+ACOT_ENERGY_CANNON_AE_DESC:  "델타 에너지 캐논의 업그레이드되고 강력한 버전입니다."
+tech_energy_cannon_ae:  "알파 에너지 캐논"
+tech_energy_cannon_ae_desc:  "Alpha Design을 기반으로 한 강력한 에너지 증폭기를 설치하면 에너지 대포의 파괴력이 향상됩니다."
+ 
+ACOT_ENERGY_TORPEDO_AE:  "알파 에너지 어뢰"
+ACOT_ENERGY_TORPEDO_AE_DESC:  "암흑 에너지는 조직을 녹이는 강력한 무기로 변신할 수 있습니다. Alpha 변종은 이전 Delta 변종보다 더 세련되고 강력합니다."
+tech_energy_torpedo_ae:  "알파 에너지 어뢰"
+tech_energy_torpedo_ae_desc:  "암흑 에너지 기반 무기의 원리를 바탕으로 한 이 세대의 에너지 캐논은 에너지의 부정적인 특성을 플라즈마 같은 발사체에 집중시켜 적함의 선체를 빠르게 파괴합니다."
+
+ACOT_POINT_DEFENSE_AE:  "알파 지점 방어"
+SMALL_ACOT_POINT_DEFENSE_AE:  "알파 지점 방어"
+MEDIUM_ACOT_POINT_DEFENSE_AE:  "중간 알파 지점 방어"
+ACOT_POINT_DEFENSE_AE_DESC:  "이 암흑 에너지 지점 방어는 순수한 암흑 에너지의 집중 광선을 발사하여 적 미사일을 무력화합니다.\n\nPD가 아닌 포탑에 추가된 지점 방어는 미사일에만 발사됩니다."
+tech_point_defense_ae:  "알파 지점 방어"
+tech_point_defense_ae_desc:  "이 암흑 에너지 지점 방어는 순수한 암흑 에너지의 집중 광선을 발사하여 적 미사일을 무력화합니다.\n\nPD가 아닌 포탑에 추가된 지점 방어는 미사일에만 발사됩니다."
+ 
+SMALL_ACOT_MASS_DRIVER_AE:  "소형 알파 키네틱 블래스터"
+MEDIUM_ACOT_MASS_DRIVER_AE:  "중형 알파 키네틱 블래스터"
+LARGE_ACOT_MASS_DRIVER_AE:  "대형 알파 키네틱 블래스터"
+ACOT_MASS_DRIVER_AE:  "알파 키네틱 블래스터"
+ACOT_MASS_DRIVER_AE_DESC:  "알파급 캐논은 내장된 물질 생성기를 활용하여 발사체의 효율성을 더욱 높여 실드를 쉽게 관통할 수 있습니다."
+tech_mass_driver_ae:  "알파 캐논"
+tech_mass_driver_ae_desc:  "알파급 캐논은 내장된 물질 생성기를 활용하여 발사체의 효율성을 더욱 높여 실드를 쉽게 관통할 수 있습니다."
+ 
+ACOT_AUTOCANNON_AE:  "스몰 알파 자동포"
+MEDIUM_ACOT_AUTOCANNON_AE:  "중형 알파 자동포"
+LARGE_ACOT_AUTOCANNON_AE:  "대형 알파 기관포"
+ACOT_AUTOCANNON_AE_DESC:  "알파 자동포는 경광 발사체를 사용하여 적의 방패를 빠르게 꿰뚫고 차체의 약점을 목표로 삼습니다."
+tech_autocannons_ae:  "알파급 타겟팅 센서"
+tech_autocannons_ae_desc:  "중요한 약점을 정확히 찾아내는 특화된 타겟팅 소프트웨어로 Delta Autocannon을 업데이트하면 데미지 출력이 크게 증가합니다."
+ 
+ACOT_ARTILLERY_AE:  "알파 키네틱 포병"
+ACOT_ARTILLERY_AE_DESC:  "알파급 키네틱 포병은 뛰어난 설계로 가능해진 더욱 강력한 경광성 소재를 활용합니다. 이 업데이트된 템플릿은 이전 포병에서 나타난 많은 결함을 제거합니다."
+tech_kinetic_artillery_ae:  "알파 키네틱 포병"
+tech_kinetic_artillery_ae_desc:  "알파급 키네틱 포병은 뛰어난 설계로 가능해진 더욱 강력한 경광성 소재를 활용합니다. 이 업데이트된 템플릿은 이전 포병에서 나타난 많은 결함을 제거합니다."
+ 
+ACOT_FLAK_CANNON_AE:  "알파 방어 매트릭스"
+SMALL_ACOT_FLAK_CANNON_AE:  "알파 방어 매트릭스"
+MEDIUM_ACOT_FLAK_CANNON_AE:  "중간 알파 방어 매트릭스"
+ACOT_FLAK_CANNON_AE_DESC:  "Alpha Defense Matrix는 검증된 Delta 변형에 비해 개선된 것으로, 훨씬 더 뛰어난 화력과 정확도로 대공격 기능을 유지합니다."
+tech_flak_batteries_ae:  "알파 방어 매트릭스"
+tech_flak_batteries_ae_desc:  "Alpha Defense Matrix는 검증된 Delta 변형에 비해 개선된 것으로, 훨씬 더 뛰어난 화력과 정확도로 대공격 기능을 유지합니다."
+ 
+ACOT_MISSILE_AE:  "알파 미사일"
+MEDIUM_ACOT_MISSILE_AE:  "알파 미사일"
+ACOT_MISSILE_AE_DESC:  "알파 미사일은 소형화된 암흑 에너지를 탄두로 활용하므로 이전 세대보다 우수합니다. 추진기의 개선으로 인해 속도도 크게 향상되었습니다."
+tech_missile_ae:  "알파 미사일"
+tech_missile_ae_desc:  "알파 미사일은 소형화된 암흑 에너지를 탄두로 활용하므로 이전 세대보다 우수합니다. 추진기의 개선으로 인해 속도도 크게 향상되었습니다."
+ 
+ACOT_TORPEDO_AE:  "알파 어뢰"
+ACOT_TORPEDO_AE_DESC:  "Delta Torpedoes보다 개선된 Alpha Torpedoes는 극도로 강력하고 정제된 암흑 에너지 탄두와 경광 재료를 사용하여 적 함대 대형을 파괴합니다."
+tech_torpedo_ae:  "알파 어뢰"
+tech_torpedo_ae_desc:  "Delta Torpedoes보다 뛰어난 Alpha Torpedoes는 매우 강력하고 정제된 암흑 에너지 탄두와 경화성 물질을 사용하여 적 함대 대형에 큰 피해를 입힙니다."
+ 
+ 
+ACOT_SWARMER_MISSILES_AE:  "알파 클러스터 미사일"
+ACOT_SWARMER_MISSILES_AE_DESC:  "알파 클러스터 미사일은 바이오닉 센서보다 뛰어난, 기원을 알 수 없는 매우 오래된 전구체 날짜를 기반으로 한 프로토타입 컴퓨팅 시스템을 활용합니다."
+tech_swarmer_missile_ae:  "알파 클러스터 미사일"
+tech_swarmer_missile_ae_desc:  "클러스터 미사일의 델타 변형이 약간 조정되었습니다. 알파CM은 중형 재래식 미사일과 겹치는 특성으로 인해 마지막 세대가 될 가능성이 크다. 앞으로 군사 과학자들은 두 가지 유형의 미사일의 측면을 결합하는 방법을 모색하고 있습니다."
+ 
+ 
+ACOT_MISSILE_BARRAGE_AE:  "알파 미사일 사격 시스템"
+ACOT_MISSILE_BARRAGE_AE_DESC:  "화력을 높이기 위해 추적 기능을 희생하는 4연장 발사대에서 발사되는 치명적인 장거리 로켓 시스템입니다."
+tech_barrage_missile_ae:  "알파급 MBS"
+tech_barrage_missile_ae_desc:  "Delta MBS는 탄탄한 시작이었습니다. 이제 우리는 폭발물의 다음 경기장으로 이동합니다. Alpha 버전은 이전 버전의 독창성과 새로운 Alpha 기술로 가능해진 증가된 화력을 결합합니다."
+ 
+ACOT_MISSILE_XL_AE:  "알파 SMBS"
+ACOT_MISSILE_XL_AE_DESC:  "높은 추적 능력을 갖춘 한 쌍의 고속, 치명적이고 정확한 미사일을 발사하는 강력한 척추 기반 미사일 시스템입니다."
+tech_xl_missile_ae:  "알파 SMBS"
+tech_xl_missile_ae_desc:  "Alpha Project의 성공과 폭발 및 유도 기술의 업그레이드에 따라. 이제 이전 Delta 기반 Quicksilver에 동일한 원칙을 적용할 수 있습니다. 과학자들은 무기 이름에 대한 아이디어가 부족하여 투표를 했고 그것이 주요 프로젝트의 아이디어이기 때문에 Alpha가 승리했습니다."
+ 
+ACOT_MISSILE_NUKE_AE:  "알파 기가 탄두 발사기"
+ACOT_MISSILE_NUKE_AE_DESC:  "무거운 명령을 통해 주력함을 제거하도록 설계된 대규모 탄두 발사기입니다."
+tech_missile_nuke_ae:  "알파 기가 탄두 발사기"
+tech_missile_nuke_ae_desc:  "Giga-Warhead Weapon System의 다음 에피소드입니다. 혼합에 암흑 에너지를 더 많이 할당하면 훨씬 더 파괴적인 힘이 생성됩니다."
+ 
+ACOT_PARTICLE_LANCE_AE:  "알파랜스"
+ACOT_PARTICLE_LANCE_AE_DESC:  "암흑 물질과 에너지를 개선하면 더욱 강력한 암흑 에너지 랜스를 만들 수 있습니다. 적은 알파 랜스의 부정적인 에너지로 불타오를 것입니다."
+tech_energy_lance_ae:  "알파랜스"
+tech_energy_lance_ae_desc:  "암흑 물질과 에너지를 개선하면 더욱 강력한 암흑 에너지 랜스를 만들 수 있습니다. 적은 알파 랜스의 부정적인 에너지로 불타오를 것입니다."
+ 
+ 
+ACOT_ARC_EMITTER_AE:  "알파 이미터"
+ACOT_ARC_EMITTER_AE_DESC:  "Nova Emitter는 Dark Energy Emitter를 개선하여, 그 무시무시한 빛이 우리 고향의 하늘을 검게 만드는 폭풍처럼 적 함대를 꿰뚫을 것입니다."
+tech_arc_emitter_ae:  "알파 이미터"
+tech_arc_emitter_ae_desc:  "Alpha Emitter는 Dark Energy Emitter를 개선하여, 그 무시무시한 빛이 마치 폭풍처럼 우리 고향의 하늘을 검게 만드는 적 함대를 꿰뚫을 것입니다."
+ 
+ 
+ACOT_MASS_ACCELERATOR_AE:  "알파 질량가속기포"
+ACOT_MASS_ACCELERATOR_AE_DESC:  "Alpha Cannon은 하드 라이트 및 암흑 에너지 기술의 완벽함으로 인해 가능해진 훨씬 더 큰 척추 포병 플랫폼을 사용합니다. 가장 발전된 방패라도 이 거대 괴물의 직접적인 공격을 오랫동안 견딜 수는 없습니다."
+tech_mass_accelerator_ae:  "알파 질량가속기포"
+tech_mass_accelerator_ae_desc:  "Alpha Cannon은 하드 라이트 및 암흑 에너지 기술의 완벽함으로 인해 가능해진 훨씬 더 큰 척추 포병 플랫폼을 사용합니다. 가장 발전된 방패라도 이 거대 괴물의 직접적인 공격을 오랫동안 견딜 수는 없습니다."
+ 
+ 
+ACOT_PERDITION_BEAM_AE:  "알파 기가빔 캐논"
+ACOT_PERDITION_BEAM_AE_DESC:  "이름에 걸맞게 알파급 대포는 함선 전체를 완전히 파괴할 수 있는 완전 집중형 암흑 에너지 빔을 발사합니다."
+tech_perdition_beam_ae:  "알파 기가빔 캐논"
+tech_perdition_beam_ae_desc:  "이름에 걸맞게 알파급 대포는 함선 전체를 완전히 파괴할 수 있는 완전 집중형 암흑 에너지 빔을 발사합니다."
+ 
+ACOT_FIGHTERS_HANGAR_AE:  "알파 파이터"
+ACOT_FIGHTERS_HANGAR_AE_DESC:  "강력한 자동 대포를 장착한 이 새로운 요격체는 적의 공격 항공기를 제거하고 적의 방패에 과부하를 걸 수 있습니다."
+ACOT_SCOUT_HANGAR_AE:  "알파 인터셉터"
+ACOT_SCOUT_HANGAR_AE_DESC:  "빠른 발사 지점 방어 기능으로 소규모 항공기도 빠르게 작업할 수 있는 고성능 스크리너입니다."
+ACOT_BOMBERS_HANGAR_AE:  "알파 폭격기"
+ACOT_BOMBERS_HANGAR_AE_DESC:  "강력한 폭발 에너지 어뢰로 무장한 이 새로운 폭격기는 대형 선박을 빠르게 공격할 수 있습니다."
+ACOT_GUNSHIP_HANGAR_AE:  "알파 건쉽"
+ACOT_GUNSHIP_HANGAR_AE_DESC:  "알파 건쉽은 장거리 화력 지원을 통해 대형 함선을 지원하는 데 탁월한 특수 타격 함선입니다. 그러나 소수의 숫자로 배치되며 강화하는 데 훨씬 더 오랜 시간이 걸립니다."
+tech_strike_craft_scout_ae:  "알파 인터셉터"
+tech_strike_craft_scout_ae_desc:  "이제 알파 원자로, 추진기 및 방어 시스템을 도입하여 공격 항공기를 추가로 업그레이드할 수 있습니다."
+tech_strike_craft_fighter_ae:  "알파 파이터"
+tech_strike_craft_fighter_ae_desc:  "이제 알파 원자로, 추진기 및 방어 시스템을 도입하여 공격 항공기를 추가로 업그레이드할 수 있습니다."
+tech_strike_craft_bomber_ae:  "알파 폭격기"
+tech_strike_craft_bomber_ae_desc:  "이제 알파 원자로, 추진기 및 방어 시스템을 도입하여 공격 항공기를 추가로 업그레이드할 수 있습니다."
+tech_strike_craft_gunship_ae:  "알파 건쉽"
+tech_strike_craft_gunship_ae_desc:  "이제 알파 원자로, 추진기 및 방어 시스템을 도입하여 공격 항공기를 추가로 업그레이드할 수 있습니다."
+ 
+ACOT_MASS_ACCELERATOR_AE_LARGE:  "알파 매크로캐논"
+ACOT_MASS_ACCELERATOR_AE_LARGE_DESC:  "향상된 탄약과 조준 시스템으로 인해 이 알파 변종은 이전보다 더욱 강력해졌습니다."
+tech_macrocannon_ae:  "알파 매크로캐논"
+tech_macrocannon_ae_desc:  "매크로캐논은 틀에 얽매이지 않는 만큼 특정 틈새 상황에서는 상당히 유용한 것 같습니다. 적어도 일부에서는 추가 개선을 제안하기에 충분합니다."
+ 
+ACOT_TITAN_EMITTER_AE:  "알파 타이탄 안정화 이미터"
+ACOT_TITAN_EMITTER_AE_DESC:  "이전 모델과 마찬가지로 이 타이타닉 이미터는 신뢰성에 아무런 문제가 없는 관통력을 제공합니다."
+tech_titan_emitter_ae:  "알파 타이탄 안정화 이미터"
+tech_titan_emitter_ae_desc:  "새로운 전원을 통해 이미 강력한 타이탄 이미터가 새롭게 개선되었습니다."
+ 
+ACOT_TITAN_ACCELERATOR_AE:  "알파타이탄 가속포"
+ACOT_TITAN_ACCELERATOR_AE_DESC:  "극한 거리에 있는 목표물을 공격하여 막대한 피해를 입힐 수 있는 타이타닉 규모의 질량 가속기입니다."
+tech_titan_accelerator_ae:  "쿼드 가속기 철도"
+tech_titan_accelerator_ae_desc:  "이제 고급 하드라이트 엔지니어링의 출현으로 선체 손상 위험 없이 안전하게 레일건 가속기를 두 배로 늘릴 수 있습니다."
+ 
+######## ARMOR HERE
+SMALL_ACOT_ARMOR_AE:  "소형 알파 하드라이트 아머"
+MEDIUM_ACOT_ARMOR_AE:  "미디엄 알파 하드라이트 아머"
+LARGE_ACOT_ARMOR_AE:  "대형 알파 하드라이트 아머"
+ACOT_ARMOR_AE:  "알파 하드라이트 아머"
+ACOT_ARMOR_AE_DESC:  "알파 하드 라이트 아머(Alpha Hard-Light Armor)는 추가 채널링된 암흑 에너지로 인해 밀도가 훨씬 더 높습니다."
+tech_armor_ae:  "알파 하드라이트 아머"
+tech_armor_ae_desc:  "알파 하드 라이트 아머(Alpha Hard-Light Armor)는 추가 채널링된 암흑 에너지로 인해 밀도가 훨씬 더 높습니다."
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_AE:  "소형 알파 에너지 쉴드"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE:  "중간 알파 에너지 보호막"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE:  "대형 알파 에너지 쉴드"
+ACOT_ENIGMATIC_SHIELD_AE:  "알파 에너지 쉴드"
+ACOT_ENIGMATIC_SHIELD_AE_DESC:  "Alpha Energy Shields는 암흑 물질에 대해서는 덜 인식하고 암흑 에너지에 대해서는 더 많이 인식하므로 Delta 변형보다 강력합니다."
+tech_dark_matter_deflector_ae:  "알파 암흑 에너지 보호막"
+tech_dark_matter_deflector_ae_desc:  "Alpha Energy Shields는 암흑 물질에 대해서는 덜 인식하고 암흑 에너지에 대해서는 더 많이 인식하므로 Delta 변형보다 강력합니다."
+ 
+ 
+######## OTHER STUFFS HERE
+SHIP_THRUSTER_AE:  "알파 추진기"
+SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+DESTROYER_SHIP_THRUSTER_AE:  "알파 추진기"
+DESTROYER_SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+CRUISER_SHIP_THRUSTER_AE:  "알파 추진기"
+CRUISER_SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+BATTLESHIP_SHIP_THRUSTER_AE:  "알파 추진기"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+TITAN_SHIP_THRUSTER_AE:  "알파 추진기"
+TITAN_SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+COLOSSUS_SHIP_THRUSTER_AE:  "알파 추진기"
+COLOSSUS_SHIP_THRUSTER_AE_DESC:  "이 깨끗하고 완벽하게 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며, 이전 세대의 모든 세대를 쉽게 능가할 것입니다."
+ 
+tech_thrusters_ae:  "암흑 물질 추진 개선"
+tech_thrusters_ae_desc:  "몰락제국이 사용하는 추진기는 꽤 오래되었으며 예상만큼 강력하지 않습니다. 이 추진기의 내부 작동을 개선할 수 있다면 우리의 힘에 걸맞는 진정으로 강력한 선박 엔진을 다시 가져올 수 있을 것입니다."
+TECH_UNLOCK_AE_THRUSTER_TITLE:  "§H구성요소 잠금 해제:§! 알파 추진기"
+TECH_UNLOCK_AE_THRUSTER_DESC:  "§H알파 추진기§!\n완전히 최적화된 이 순수하고 최적화된 암흑 에너지 추진 시스템은 아마도 은하계에서 가장 강력한 추진기일 것이며 이전 세대의 모든 세대보다 성능이 훨씬 뛰어납니다."
+ 
+ 
+CORVETTE_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+DESTROYER_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+CRUISER_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+TITAN_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+TITAN_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+COLOSSUS_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+PLATFORM_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+ION_CANNON_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+STARBASE_DARK_MATTER_REACTOR_AE:  "알파 원자로"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC:  "Alpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 간의 균형을 재조정하여 1세대 Delta Reactor를 개선하여 훨씬 더 강력한 발전기를 만듭니다."
+ 
+tech_dark_matter_power_core_ae:  "알파급 수수께끼의 힘"
+tech_dark_matter_power_core_ae_desc:  "Delta Technologies는 암흑 에너지 기반 기술의 잠재적 미래에 관한 많은 통찰력을 제공했습니다. 암흑 물질과 암흑 에너지가 서로 연결되어 있다는 이전 가정이 완전히 정확하지 않았을 수 있다고 믿을 만한 더 많은 이유가 있지만 이름이 충격적이므로 우리는 당분간 여전히 암흑 에너지로 언급할 것입니다.\n\n 그럼에도 불구하고 우리 과학자들은 새롭고 신선한 관점에서 시작하여 원자로의 다음 단계의 코드명이 §H"알파"§!가 될 것입니다. 이 문서에서는 암흑 물질의 균형을 맞추기 위해 암흑 에너지 SR의 사용이 증가하는 것을 볼 수 있습니다.\n\n§R이 기술을 연구하면 기본적으로 기술을 능가할 것이므로 몰락한 제국을 동요시킬 수 있습니다.§!"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE:  "§H구성요소 잠금 해제:§! Alpha Enigmatic Reactor"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC:  "§HAlpha Enigmatic Reactor§!\nAlpha Enigmatic Reactor는 암흑 물질과 암흑 에너지 사이의 균형을 재조정하여 훨씬 더 강력한 발전기를 만들어 1세대 Delta Reactor를 개선합니다."
+ 
+######################################################################################
+###
+#####################################################################################
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER:  "공격형 생체공학 전투 컴퓨터(소형 선박)"
+AE_OFFENSIVE_COMBAT_COMPUTER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 공격적인 전술에 최적화되어 있습니다."
+ 
+AE_BALANCE_COMBAT_COMPUTER:  "균형 잡힌 생체공학 전투 컴퓨터(소형 선박)"
+AE_BALANCE_COMBAT_COMPUTER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다."
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER:  "방어용 생체공학 전투 컴퓨터(소형 선박)"
+AE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 방어 전술에 최적화되어 있습니다."
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "공격형 생체공학 전투 컴퓨터(대형 선박)"
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 공격적인 전술에 최적화되어 있습니다."
+ 
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER:  "균형 잡힌 생체공학 전투 컴퓨터(대형 선박)"
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다."
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER:  "방어용 생체공학 전투 컴퓨터(대형 선박)"
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 방어 전술에 최적화되어 있습니다."
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN:  "공격적인 생체공학 전투 컴퓨터(타이타닉 선박)"
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 공격적인 전술에 최적화되어 있습니다."
+ 
+AE_BALANCE_COMBAT_COMPUTER_TITAN:  "균형 잡힌 생체 공학 전투 컴퓨터(타이타닉 선박)"
+AE_BALANCE_COMBAT_COMPUTER_TITAN_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다."
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN:  "방어용 생체공학 전투 컴퓨터(타이타닉 선박)"
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 방어 전술에 최적화되어 있습니다."
+ 
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH:  "공격형 생체공학 전투 컴퓨터(주력함)"
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 공격적인 전술에 최적화되어 있습니다."
+ 
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH:  "균형 잡힌 생체 공학 전투 컴퓨터(주력함)"
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다."
+ 
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH:  "방어용 생체공학 전투 컴퓨터(주력함)"
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 방어 전술에 최적화되어 있습니다."
+ 
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER:  "공격형 생체공학 전투 컴퓨터(스테이션)"
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 공격적인 전술에 최적화되어 있습니다."
+ 
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER:  "방어형 생체공학 전투 컴퓨터(플랫폼 스테이션 XBOX One)"
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC:  "알파급 생체 공학 전투 컴퓨터는 유기체(또는 합성) 운영자와 함선의 델픽 컴퓨터 사이에 강력한 연결을 형성하는 극도로 발전된 생체 공학 전투 컴퓨터입니다. 이 네트워크를 사용하면 가동 중지 시간이 거의 또는 전혀 없이 명령을 실행할 수 있습니다. 이 특정 버전은 방어 전술에 최적화되어 있습니다."
+ 
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! 생체 공학 인터페이스 전투 컴퓨터"
+TECH_UNLOCK_BIONIC_COMPUTER_DESC:  "유기적 네트워크, 합성 네트워크, 델픽 네트워크 사이에 생체공학적 연결을 형성하는 독특한 전투 컴퓨터입니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+tech_bionic_interface:  "바이오닉 인터페이스 시스템"
+tech_bionic_interface_desc:  "유기적 정신과 합성 정신의 특성을 결합하면 차세대 전투 컴퓨터에 대한 새로운 가능성이 열립니다."
+ 
+################################################
+
+AE_NAVY_ENGINEER_OFFICER:  "마스터 엔지니어 워크샵"
+AE_NAVY_ENGINEER_OFFICER_DESC:  "선박을 유지 관리하고 선박 내구성과 수리를 향상시키기 위해 마스터 엔지니어와 승무원을 위한 전용 워크샵입니다."
+tech_onbaord_engineer:  "온보드 엔지니어링 승무원"
+tech_onbaord_engineer_desc:  "선박에 추가 엔지니어링 승무원을 할당함으로써 이제 우리는 다가오는 전투를 위해 선박의 선체가 안전하게 수리되고 선박 시스템을 유지하는 데 필요한 유지 관리 비용을 절감할 수 있다는 사실을 쉽게 알 수 있습니다."
+AE_NAVY_ENGINEER_OFFICER_TOOLTIP:  "§Y신속한 회수:§! 이 구성품을 갖춘 선박이 격추된 후 선체의 §G25%§!를 수리하며 §Y10%§!의 확률로 선체를 완전히 복원합니다. 또한 함선은 10일 동안 선체와 장갑 재생이 §G10%§! 증가합니다.\n\n§Y보안 원자로:§! 이 구성 요소는 교란 펄스 특수 무기에 면역이 됩니다."
+
+
+AE_NAVY_COMMMISSAR_OFFICER:  "해군위원회 사무소"
+AE_NAVY_COMMMISSAR_OFFICER_DESC:  "해군 커미서리(Commissary)가 승무원들에게 규율 마법을 부리는 전용 사무실입니다. 그들의 감독하에, 최고 사령부의 명령이 내려지기 전에는 누구도 후퇴하지 않을 것입니다."
+tech_navy_commissar:  "함대 커미사르 검사"
+tech_navy_commissar_desc:  "우리 함대 제독은 우리의 우수한 함선 설계를 반영해야 합니다. 우리는 특별위원을 훈련시켜 우리 함대에 배정할 것입니다. 우리는 적들 앞에서 나약함이나 비겁함을 보이지 않을 것입니다! 우리 함선은 적에 맞서 흔들리지 않을 것입니다."
+AE_NAVY_COMMMISSAR_OFFICER_TOOLTIP:  "§Y가차 없음:§! 이 구성 요소를 갖춘 함선이 사살을 기록한 후 30일 동안 추가로 §G25%§! 발사 속도 증가를 얻습니다.\n\n§Y마지막까지:§! 해군 커미사르는 군국주의 제국의 발사 속도 증가를 추가로 §G25%§! 부여합니다." 
+
+AE_PRIEST_OFFICER:  "공허사제 명상실"
+AE_PRIEST_OFFICER_DESC:  "공허 사제는 자신이 배정된 함선의 결의를 강화하여 전투 및 FTL 시스템 모두에서 정확성을 높입니다."
+tech_onboard_priest:  "공허의 신권"
+tech_onboard_priest_desc:  "해군 내에는 신앙을 가진 사람들도 있지만, 배에서 직접 봉사할 적절한 종교적 종파를 아직 조직하지 못했습니다. 약간의 자금 지원과 훈련을 통해 우리는 해군에서 봉사할 사제를 배정함으로써 해군에 강력한 병력을 추가할 수 있습니다."
+AE_PRIEST_OFFICER_TOOLTIP:  "§Y교회에 대한 신앙:§! 제국이 심령술에 전념하는 한 이 구성 요소의 모든 보너스 수정치는 두 배가 됩니다.\n\n§Y복수자:§! 이 구성 요소가 포함된 선박이 파괴되면 이 구성 요소가 포함된 다른 모든 선박은 30일 동안 §G15%§! 피해 보너스를 얻습니다. 이 구성 요소와 함께 제공되면 이 효과가 두 배가 됩니다. 제국이 심령술사인 경우에만 작동합니다."
+
+################################################
+ 
+AE_PSI_MENTAT_OFFICER:  "멘타트 코디네이터 챔버"
+AE_PSI_MENTAT_OFFICERR_DESC:  "Mentat 코디네이터는 엄청난 전투 명상 기술로 함선을 지원하고, 함선의 에너지 신호를 가리고, 이동성을 증폭시키며, 자체 사이오닉 장벽 기술로 함선의 보호막을 강화합니다."
+ 
+TECH_UNLOCK_PSI_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! Mentat 코디네이터 챔버"
+TECH_UNLOCK_PSI_COMPUTER_DESC:  ""멘타트 코디네이터는 엄청난 전투 명상 기술로 함선을 지원하고, 함선의 에너지 신호를 가리고, 이동성을 증폭시키며, 자체 사이오닉 장벽 기술로 함선의 보호막을 강화합니다."
+tech_ae_psi_computer:  "멘타트 코디네이터"
+tech_ae_psi_computer_desc:  "기계가 아무리 발전해도 항상 신뢰할 수 있는 것은 아닙니다. 물질에 대한 마음. 우리는 강력한 사이온 그룹을 훈련시켜 추가 보호, 향상된 이동성 및 향상된 회피 기능을 제공하는 데 탁월한 멘타트(Mentats)가 되도록 훈련할 것입니다. 그들은 함선 내 단일 보조 모듈의 공간을 차지하는 특수 사이오닉 챔버에서 작업합니다."
+ 
+################################################
+ 
+AE_HIVE_OVERSEER_OFFICER:  "대군주 전략가 덴"
+AE_HIVE_OVERSEER_OFFICER_DESC:  "오버로드 전략가(Overlord Strategizer)는 상위 독립체에 의존하지 않고 스스로 명령을 내릴 수 있는 반지성 전장 사령관입니다. 함선의 조준 시스템을 강화하는 능력은 매우 중요할 수 있습니다."
+
+TECH_UNLOCK_HIVE_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! Overlord Strategizer Den"
+TECH_UNLOCK_HIVE_COMPUTER_DESC:  "오버로드 전략가(Overlord Strategizer)는 상위 독립체에 의존하지 않고 스스로 명령을 내릴 수 있는 반지성 전장 사령관입니다. 함선의 조준 시스템을 강화하는 능력은 매우 중요할 수 있습니다."
+tech_ae_hive_computer:  "온보드 하이브 오버로드"
+tech_ae_hive_computer_desc:  "Hive는 우주선을 운용하기 위해 오랫동안 기계와 특수 드론 그룹에 의존해 왔지만 이는 비효율적이며 Hive의 집중력을 저하시킵니다. 반독립적인 전장 지휘관 역할을 하는 오버로드를 구상하는 계획은 기존 전투 컴퓨터를 향상시키기 위해 공식화될 수 있습니다."
+ 
+################################################################################################################################################
+ 
+ACOT_AFTERBURNERS_AE:  "알파 애프터버너"
+ACOT_AFTERBURNERS_AE_DESC:  "스러스터만으로는 선박이 빠르게 움직일 수 없는 경우. 알파 애프터버너를 사용하면 함선의 최고 속도를 높일 수 있습니다."
+tech_darkmatter_afterburners_ae:  "알파급 애프터버너"
+tech_darkmatter_afterburners_ae_desc:  "스러스터만으로는 선박이 빠르게 움직일 수 없는 경우. 알파 애프터버너를 사용하면 함선의 최고 속도를 높일 수 있습니다."
+ 
+ 
+ACOT_HYPERCHARGED_JUMPER_AE:  "슈퍼차지 하이퍼드라이브 증폭기"
+ACOT_HYPERCHARGED_JUMPER_AE_DESC:  "성능을 높이기 위해 점프 드라이브의 모듈식 터빈에 추가 보조 증폭기를 설치할 수 있습니다. 그러나 모듈은 FTL 구성 요소에서 전력을 끌어와 선박의 FTL 와인드업 시간을 늦춥니다."
+ACOT_AURA_HYPERJUMPDRIVE_AE:  "점프 안정기"
+ACOT_AURA_HYPERJUMPDRIVE_AE_DESC:  "점프 안정기는 적절한 모듈을 갖춘 주력함에 설치하여 함대의 점프 범위를 늘릴 수 있습니다."
+tech_darkmatter_hyper_jump_drive_ae:  "고급 하이퍼드라이브 강화"
+tech_darkmatter_hyper_jump_drive_ae_desc:  "성능을 높이기 위해 FTL 드라이브의 모듈식 터빈에 추가 보조 증폭기를 설치할 수 있습니다. 그러나 모듈은 FTL 시스템에서 전력을 끌어와 선박의 FTL 와인드업 시간을 늦춥니다."
+friendly_jumpdrive_aura:  "점프 안정기"
+friendly_jumpdrive_aura_desc:  "함대의 점프 범위가 증가합니다."
+ 
+ 
+ACOT_REPAIR_COUNTERMEASURES_AE:  "알파 대응 대응 드론"
+ACOT_REPAIR_COUNTERMEASURES_AE_DESC:  "알파급 대응 대응 드론은 더 높은 장갑 저항과 더 뛰어난 수리 능력을 제공합니다."
+tech_darkmatter_reactive_drone_ae:  "알파 대응 대응 시스템"
+tech_darkmatter_reactive_drone_ae_desc:  "제한된 Delphic Intelligence를 드론에 적용하여 선박 기술자의 생체 공학 링크를 읽으면 더 효율적으로 작동할 수 있습니다."
+ 
+ 
+ACOT_REACTOR_BOOSTER_AE:  "알파 보조 전력 증폭기"
+ACOT_REACTOR_BOOSTER_AE_DESC:  "AAPA는 주 원자로가 충분히 강력하지 않은 경우 추가 백업 전력을 제공합니다. Delta 변형과 마찬가지로 증폭기는 방패가 제공되는 경우 함선 성능 향상 및 방패 재생 계수의 작은 마진을 제공합니다."
+tech_darkmatter_reactor_booster_ae:  "알파급 보조 전력 증폭기"
+tech_darkmatter_reactor_booster_ae_desc:  "AAPA는 주 원자로가 충분히 강력하지 않은 경우 추가 백업 전력을 제공합니다. Delta 변형과 마찬가지로 증폭기는 방패가 제공되는 경우 함선 성능 향상 및 방패 재생 계수의 작은 마진을 제공합니다."
+ 
+ 
+ACOT_SHIELD_BOOSTER_AE:  "알파 슈퍼차지 장벽"
+ACOT_SHIELD_BOOSTER_AE_DESC:  "과급 보호막은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 증가시킵니다. 또한 쉴드에 경화 효과를 제공합니다."
+tech_darkmatter_shield_supercharger_ae:  "알파 슈퍼차지 장벽"
+tech_darkmatter_shield_supercharger_ae_desc:  "과급 보호막은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 증가시킵니다. 또한 쉴드에 경화 효과를 제공합니다."
+ 
+ACOT_ARMOR_BOOSTER_AE:  "알파 강화 운동 장벽"
+ACOT_ARMOR_BOOSTER_AE_DESC:  "강화된 키네틱 배리어는 함선의 장갑과 키네틱 흡수 능력을 향상시킬 뿐만 아니라 강화 효과도 제공합니다."
+tech_darkmatter_armor_supercharger_ae:  "알파 강화 운동 장벽"
+tech_darkmatter_armor_supercharger_ae_desc:  "강화된 키네틱 배리어는 함선의 장갑과 키네틱 흡수 능력을 향상시킬 뿐만 아니라 강화 효과도 제공합니다."
+ 
+ACOT_STARCHARTER_AE:  "알파스타 헌장"
+ACOT_STARCHARTER_AE_DESC:  "시스템 탐색 및 무기 추적을 위해 함선의 센서를 확장하는 여러 센서 장치가 포함된 특수 보조 챔버입니다."
+tech_darkmatter_star_charter_ae:  "알파스타 헌장 모듈"
+tech_darkmatter_star_charter_ae_desc:  "시스템 탐색 및 무기 추적을 위해 함선의 센서를 확장하는 여러 센서 장치가 포함된 특수 보조 챔버입니다."
+ 
+ 
+ACOT_AURA_TECH_INHIBITOR_AE:  "수수께끼의 네트워크 억제제"
+ACOT_AURA_TECH_INHIBITOR_AE_DESC:  "이 강력한 장치는 적 시스템을 방해하여 그 힘을 빼앗아 아군 함선에 부여합니다. 당신의 모든 권한은 우리에게 속합니다."
+tech_darkmatter_aura_energy_drainer_ae:  "수수께끼의 네트워크 억제제"
+tech_darkmatter_aura_energy_drainer_ae_desc:  "이 강력한 장치는 적 시스템을 방해하여 그 힘을 빼앗아 아군 함선에 부여합니다. 당신의 모든 권한은 우리에게 속합니다."
+TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE:  "§H구성요소 잠금 해제:§! 수수께끼의 네트워크 억제제"
+TECH_UNLOCK_ENERGY_DRAINER_AE_DESC:  "§H수수께끼의 네트워크 억제제§!\n이 강력한 장치는 적 시스템을 방해하여 적의 힘을 빼앗아 아군 선박에 부여합니다. 당신의 모든 권한은 우리에게 속합니다."
+ 
+ 
+ 
+AE_SENSOR_SHIP:  "알파 센서"
+AE_SENSOR_SHIP_DESC:  "생체 공학 링크 기술을 사용하여 적 선박을 탐지하는 고급 센서입니다. 이 시스템은 유기물과 무기물을 모두 감지할 수 있습니다."
+tech_sensor_ae:  "알파 센서"
+tech_sensor_ae_desc:  "생체 공학 링크 기술을 사용하여 적 선박을 탐지하는 고급 센서입니다. 이 시스템은 유기물과 무기물을 모두 감지할 수 있습니다."
+TECH_UNLOCK_FE_SENSOR_TITLE:  "§H잠금 해제 구성요소:§! 생체공학 센서"
+TECH_UNLOCK_FE_SENSOR_DESC:  "§H생체공학 센서§!\n$FE_SENSOR_SHIP$"
+ 
+ 
+ENIGMATIC_DRIVE:  "알파 변환기 드라이브"
+ENIGMATIC_DRIVE_DESC:  "Delta Variant보다 뛰어난 차세대 Translocator Drive는 더 뛰어난 FTL 탐색 기능과 더 강력한 점프 시스템을 제공합니다."
+tech_enigmatic_drive_ae:  "고급 전좌"
+tech_enigmatic_drive_ae_desc:  "이제 차원 이상으로 인한 잠재적인 위험을 모아서 해결함으로써 전위 방법의 개선이 가능해졌습니다."
+TECH_UNLOCK_ENIG_DRIVE:  "§H구성요소 잠금 해제:§! Alpha Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE_DESC:  "§HAlpha Translocator 드라이브§!\n$ENIGMATIC_DRIVE_DESC$"
+ 
+ 
+ 
+#####WEAPON CORES###
+ 
+WEAPON_EXPLOSIVE_CORE:  "고폭 미사일 탑재량"
+WEAPON_EXPLOSIVE_CORE_DESC:  "모든 표준 지급 미사일 무기 시스템은 전용 보조 시스템으로 강화되어 화력을 더욱 향상시킬 수 있습니다."
+tech_missile_core_ae:  "고폭 미사일 탑재량"
+tech_missile_core_ae_desc:  "모든 표준 지급 미사일 무기 시스템은 전용 보조 시스템으로 강화되어 화력을 더욱 향상시킬 수 있습니다."
+ 
+WEAPON_KINETIC_CORE:  "하드라이트 키네틱 페이로드"
+WEAPON_KINETIC_CORE_DESC:  "더 강력하고 빠른 경화탄을 빠르게 생성하는 복잡한 마이크로 공장입니다."
+tech_kinetic_core_ae:  "하드라이트 발사체 운동 시스템"
+tech_kinetic_core_ae_desc:  "Hard-Light 재료는 내구성이 뛰어나고 생산 속도가 빠릅니다. 아마도 우리가 그것들을 작동하는 데 필요한 추가 전력을 투자할 의향이 있다면 그것들은 우리 포병의 운동 포탄으로 사용될 수 있을 것입니다."
+ 
+WEAPON_ENERGY_CORE:  "에너지 카운터 왜곡 매니폴드"
+WEAPON_ENERGY_CORE_DESC:  "이 미세 구체에는 시공간을 왜곡하고 다양한 물리 법칙을 무시함으로써 함선의 에너지 무기 시스템을 직접적으로 향상시키는 강력한 수수께끼의 에너지가 들어 있습니다."
+tech_energy_core_ae:  "에너지 카운터 왜곡 매트릭스"
+tech_energy_core_ae_desc:  "대부분의 에너지 무기는 중력으로 인해 왜곡되어 초점이 맞지 않고 불안정해집니다. 시공간을 구부리고 모든 왜곡 효과를 무력화할 수 있는 구형 장치의 발명으로 우리의 에너지 무기는 더 큰 잠재력을 발휘할 것입니다."
+ 
+WEAPON_FIGHTER_CORE:  "고성능 격납고 지원"
+WEAPON_FIGHTER_CORE_DESC:  "전용 고성능 유지 보수 보조 장치로 기존 격납고를 업그레이드하면 항공모함의 전투 중 공격기 관리 및 유지 능력이 크게 향상됩니다."
+tech_fighter_core_ae:  "고성능 격납고 지원"
+tech_fighter_core_ae_desc:  "전용 고성능 유지 보수 보조 장치로 기존 격납고를 업그레이드하면 항공모함의 전투 중 공격기 관리 및 유지 능력이 크게 향상됩니다."
+ 
+tech_darkmatter_stealth_generator_ae:  "알파 스텔스 생성기"
+tech_darkmatter_stealth_generator_ae_desc:  "더 나은 스텔스 기술은 많은 새롭고 흥미로운 전략으로 이어집니다. 머지않아 우리는 즉각적인 기습 공격을 넘어서 유용한 클로킹 메커니즘을 고안할 수 있을 것입니다."
+tech_darkmatter_stealth_dimensional:  "차원 단계"
+tech_darkmatter_stealth_dimensional_desc:  "새로운 스텔스 기술과 관련된 것은 차원적 위상입니다. 배를 실제 공간 바깥의 포켓 차원으로 단계적으로 이동시켜 가장 강력한 탐지를 제외하고 배를 탐지하는 것을 거의 불가능하게 만드는 새로운 은폐 방법입니다. 단계적으로 선박을 무형의 형태로 요구하므로 장갑과 선체에 의존하지 않을 수 있으므로 이는 단점이 있습니다."
+
+
+ACOT_CLOAKING_LIGHT_AE_TOOLTIP:  "§ELight Stealth Generator는 교전 중 실드 패널티가 없지만 제한된 클로킹 기능을 제공합니다.§!\n\n"
+ACOT_CLOAKING_HEAVY_AE_TOOLTIP:  "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R80%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$는 델타 등급 이상의 실드 증폭기 보조 구성요소를 장착한 경우 절반으로 줄일 수 있습니다.§!\n\n"
+
+ACOT_CLOAKING_LIGHT_AE:  "알파라이트 스텔스 생성기"
+ACOT_CLOAKING_LIGHT_AE_DESC:  "알파라이트 스텔스 생성기"
+ACOT_CLOAKING_FULL_AE:  "알파 슈퍼 스텔스 생성기"
+ACOT_CLOAKING_FULL_AE_DESC:  "알파 슈퍼 스텔스 생성기"
+ 
+##############PSIO STUFFIOSU
+ 
+SHROUD_DRIVE:  "슈라우드 점프 드라이브"
+SHROUD_DRIVE_DESC:  "이 신비한 유물은 배와 슈라우드 엔터티 사이에 조약을 맺습니다. 독립체는 에너지와 광물을 증가시키는 대가로 우리 선박에 극도로 강력한 점프 기술을 부여합니다. 승무원의 영혼도 배가 파괴될 경우 주사위를 굴려야 합니다. 주사위가 균등하게 굴리면 그들은 평화롭게 죽지만, 불리한 상황이라면 그들은 소멸되고, 미친 듯이 타락한 무형의 존재들만 남게 될 것입니다."
+tech_shroud_jump_drive:  "그림자의 페리"
+tech_shroud_jump_drive_desc:  "그런데 또 한 슈라우드 독립체가 우리와 접촉했습니다. 이것은 스스로를 "The Ferry of Shadow"라고 불렀으며 매우 간단한 거래를 제공합니다. 적당한 에너지와 미네랄을 위한 우수한 선박 여행 방법. Shroud 개체에 대한 다소 간단한 거래입니다. 유일한 주의 사항은 배가 파괴되면 탑승한 사람들의 영혼이 주사위를 굴려 독립체에 의해 먹히거나 죽음의 평화를 얻을 것이라는 점입니다."
+TECH_UNLOCK_SHROUDDRIVE:  "§H구성요소 잠금 해제:§! 슈라우드 점프 드라이브"
+TECH_UNLOCK_SHROUDDRIVE_DESC:  "§H슈라우드 점프 드라이브§!\n$SHROUD_DRIVE_DESC$"
+ 
+tech_shroud_barrier:  "고통의 여주인"
+tech_shroud_barrier_desc:  "우리의 슈라우드 사이온들은 스스로를 고통의 여주인이라고 부르는 좀 더 모호한 슈라우드 서약단과 접촉하게 되었습니다. 그녀는 고통의 기쁨을 다시 경험할 수 있도록 우리 함선에 가해진 피해를 그녀의 무형의 형태와 연결하는 특별한 유물을 배치하겠다는 작은 계약을 제안합니다. 우리가 알고 있는 다른 계약과는 달리 특별한 계약이지만 대부분 무해한 것으로 보입니다."
+ 
+ACOT_SHROUD_BARRIER:  "장막 사이오닉 방벽"
+SMALL_ACOT_SHROUD_BARRIER:  "작은 장막 사이오닉 방벽"
+MEDIUM_ACOT_SHROUD_BARRIER:  "중간 장막 사이오닉 방벽"
+LARGE_ACOT_SHROUD_BARRIER:  "대형 장막 사이오닉 방벽"
+ACOT_SHROUD_BARRIER_DESC:  "고통의 여주인은 그녀의 존재에 더 많은 치명적인 상처를 요구하고 있으며, 우리는 그녀의 그 소원을 들어주어야 합니다. 이 장벽은 강력하지만 그 잊혀지지 않는 영향으로 인해 함선의 선체가 손상되므로 보존하려는 장벽을 파괴하지 않도록 조심해야 합니다."
+
+ACOT_PSIONIC_REPEL:  "슈라우드 리펠러"
+ACOT_PSIONIC_REPEL_DESC:  "고통의 여주인과 맺은 강력한 계약을 통해 우리는 일부 피해를 흡수하기에 충분한 순간 동안 지속되는 일시적으로 강력한 장벽을 만들 수 있습니다."
+
+ACOT_PSI_STORM:  "슈라우드 폭풍"
+ACOT_PSI_STORM_DESC:  "우리는 적들에 대한 증오심을 매우 강력한 죽음의 폭풍으로 몰아넣습니다. 힘! 무제한의 힘!!!"
+ 
+ACOT_CLOUDBALL_SHROUD:  "사이오닉 노예"
+ACOT_CLOUDBALL_SHROUD_DESC:  "우리의 의지에 영향을 받는 작은 사이오닉 구름입니다. 적에게 충격을 주고 모양을 만들 것입니다."
+ 
+ACOT_MISSILE_SHROUD_XL:  "장막 떼"
+ACOT_MISSILE_SHROUD_XL_DESC:  "사이오닉 능력에 대한 우리의 숙달로 인해 우리는 이제 하급 슈라우드 독립체가 우리의 의지에 그 힘을 빌려주도록 강요할 수 있습니다. 그런데 XL슬롯이라 6개를 한번에 던질 수 있으니 굉장하죠?"
+ 
+ACOT_MISSILE_SHROUD:  "슈라우드 볼트"
+ACOT_MISSILE_SHROUD_DESC:  "사이오닉 능력에 대한 우리의 숙달로 인해 우리는 이제 하급 슈라우드 독립체가 우리의 의지에 그 힘을 빌려주도록 강요할 수 있습니다."
+ 
+tech_shroud_missile:  "구속력 있는 의지"
+tech_shroud_missile_desc:  "우리는 진정한 사이오닉 능력을 익히기 시작했으며, 작은 슈라우드 독립체를 지배하는 방법을 빠르게 배우고 있습니다. 우리는 그들의 힘을 사용하여 순전히 파괴적인 의지로 만들어진 강력한 사이오닉 볼트를 만들 수 있습니다."
+ 
+tech_shroud_hanger:  "죽음의 공"
+tech_shroud_hanger_desc:  "강자가 약자를 지배하는 것이 본성이다. 우리는 아직 슈라우드의 진정한 본질을 이해하지 못하지만, 그 존재에 대해서는 충분히 알고 있습니다. 우리의 현재 힘으로 우리는 공허 속의 작은 존재들을 지배하고 그들이 우리의 목적에 봉사하도록 만들 수 있을 것입니다."
+ 
+tech_shroud_storm:  "파괴의 바람"
+tech_shroud_storm_desc:  "마스터는 명령을 내리고 슈라우드는 부름에 응답해야 합니다. 우리의 엄청난 힘으로 적은 증발해버릴 것이다."
+ 
+#################
+ 
+tech_reinforced_starbase:  "델타급 스타베이스 도금"
+tech_reinforced_starbase_desc:  "무기가 더욱 치명적이고 강력해짐에 따라 우리 기지는 무기를 처리하는 데 점점 더 효과적이지 않게 됩니다. 추가 하드라이트 재료로 외부 레이어를 보완하고 무기 시스템을 업그레이드하여 수명을 늘리기 위한 특정 개선이 이루어질 수 있습니다."
+tech_reinforced_starbase_ae:  "알파급 항성베이스 도금"
+tech_reinforced_starbase_ae_desc:  "암흑 물질과 암흑 에너지에 대한 숙달을 통해 우리는 항성 기지의 하드라이트 도금과 무기를 더욱 개선하여 그들의 강인함과 수명을 늘릴 수 있습니다."
+tech_reinforced_starbase_se:  "시그마급 스타베이스 도금"
+tech_reinforced_starbase_se_desc:  "우리의 요새는 하찮은 적들에게 굴복하지 않을 것입니다. 그들은 우리에게 코르벳함 떼를 던질 수 있고 우리는 여전히 그들을 먹을 것입니다."
+ 
+ 
+#################
+
+edict_acot_enable_shroud_barrier_activation:  "슈라우드 리펠러 활성화 활성화"
+edict_acot_enable_shroud_barrier_activation_desc:  "슈라우드 리펠러 부품을 보유한 함대에서 자동으로 활성화되어, 추가로 10000 실드 포인트, 10% 쉴드 보너스, 2500 쉴드 재생을 30일 동안 부여하며, 활성화 후 90일 쿨다운이 시작됩니다. \n\n각 개별 함대가 전투에 돌입할 때 활성화되므로, 주요 전투 전에 사용하는 것이 가장 좋습니다."
+
+edict_acot_forced_shroud_barrier_activation:  "즉각적인 슈라우드 리펠러 활성화"
+edict_acot_forced_shroud_barrier_activation_desc:  "Shroud Repeller 구성 요소가 포함된 모든 적격 함선에 명령하여 효과를 즉시 활성화합니다. 추가로 10000 쉴드 포인트, 10% 쉴드 보너스, 30일 동안 2500 쉴드 재생성을 부여하며 활성화 후 90일의 쿨다운이 시작됩니다."

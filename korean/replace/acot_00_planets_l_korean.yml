@@ -1,0 +1,292 @@
+﻿l_korean:
+
+planet_pops_energy_upkeep_mult:  "식량 유지 승수"
+planet_pops_food_upkeep_mult:  "에너지 유지 승수"
+
+########################## MODIFIERS ##########################
+ 
+acot_modifier_fractured_mutants:  "공허 돌연변이"
+acot_modifier_fractured_mutants_desc:  "이 버려진 땅에서 가까스로 살아남은 불행한 유기물 희생자들. 이들은 지상군이 반드시 제거해야 할 요새를 보유하고 있습니다.\n\n§R방어가 제대로 이루어지지 않으면 식민지를 주기적으로 공격합니다.§!\n§E이러한 공격을 저지하거나 방지하기 위해 전초 기지 구역을 건설합니다.§!"
+ 
+acot_void_mutants_army:  "공허 돌연변이"
+acot_void_mutants_army_plural:  "공허 돌연변이"
+acot_void_mutants_army_desc:  "이 버려진 땅에서 가까스로 살아남은 불행한 유기물 희생자들. 그들은 부족이나 무법자와 유사한 다양한 수수께끼의 장비를 작동하기 위한 기본적인 지능만 보유하고 있습니다. 비록 특별히 숙련되지는 않았지만 대부분의 무기에 대한 저항력과 인상적인 재생력 덕분에 그들은 강력한 적입니다."
+ 
+acot_void_mutants_hero:  "공허의 전쟁군주"
+acot_void_mutants_hero_plural:  "공허의 전쟁군주"
+acot_void_mutants_hero_desc:  "이 버려진 땅에서 가까스로 살아남은 불행한 유기물 희생자들. 그들은 부족이나 무법자와 유사한 다양한 수수께끼의 장비를 작동하기 위한 기본적인 지능만 보유하고 있습니다. 치프틴은 전술적 전투와 새로운 힘에 대한 숙달에 있어 눈에 띄게 더 능숙합니다."
+ 
+ 
+decision_acot_kill_void_mutant:  "돌연변이 요새 공격"
+decision_acot_kill_void_mutant_desc:  "모든 주요 돌연변이 거점에 대한 공격을 시작하여 작전 기지를 무너뜨리고 행성에서 제거하려는 시도를 하십시오."
+ 
+##########################
+ 
+acot_modifier_fractured_lifeforms:  "공허 마귀"
+acot_modifier_fractured_lifeforms_desc:  "이 혹독한 환경에서 번성했던 지역 야생동물로부터 돌연변이가 발생한 혐오스러운 생물체의 둥지는 지상군에 의해 불태워져야 합니다.\n\n§R방어가 제대로 이루어지지 않으면 식민지를 주기적으로 공격합니다.§!\n§E이러한 공격을 저지하거나 방지하기 위해 전초 기지 구역을 건설합니다.§!"
+ 
+acot_void_fiends_army:  "공허 마귀"
+acot_void_fiends_army_plural:  "공허 마귀"
+acot_void_fiends_army_desc:  "이 혹독한 환경에서 번성했던 지역 야생동물이 돌연변이를 일으킨 괴물입니다. 그들 중 다수는 암흑 에너지와 암흑 물질을 모두 사용하여 강력한 공격을 생성할 수 있는 것으로 보입니다."
+ 
+acot_void_fiends_hero:  "공허 분쇄기"
+acot_void_fiends_hero_plural:  "공허 분쇄기"
+acot_void_fiends_hero_desc:  "이 혹독한 환경에서 번성했던 현지 야생동물이 돌연변이를 일으킨 거대 어보미네이션입니다. 보이드 크러셔는 건물 위로 우뚝 솟아 있으며 매우 위험합니다."
+ 
+ 
+decision_acot_kill_void_lifeform:  "악마 둥지 침입"
+decision_acot_kill_void_lifeform_desc:  "침입을 정화하고 행성에서 제거하기 위해 모든 주요 악마 둥지에 대한 공격을 시작하십시오."
+ 
+##########################
+ 
+acot_modifier_fractured_sentient_crystal:  "공허 수정"
+acot_modifier_fractured_sentient_crystal_desc:  "행성의 불안정하고 불가사의한 에너지에 의해 생기를 얻은 것으로 보이는 지역 광물 클러스터와 암석층, 지하 동굴은 지상군에 의해 파괴되어야 합니다.\n\n§R방어가 제대로 이루어지지 않으면 식민지를 주기적으로 공격합니다.§!\n§E이러한 공격을 억제하거나 방지하기 위해 전초 기지 구역을 건설합니다.§!"
+ 
+acot_void_crystal_army:  "공허의 수정"
+acot_void_crystal_army_plural:  "공허 수정"
+acot_void_crystal_army_desc:  "행성의 불안정한 수수께끼의 에너지에 의해 애니메이션된 것으로 보이는 지역 광물 클러스터와 암석층은 사실상 거대한 파괴력을 지닌 지각 있는 골렘으로 변모합니다...KONO POWAH?"
+ 
+acot_void_crystal_hero:  "공허 거상"
+acot_void_crystal_hero_plural:  "공허의 거신"
+acot_void_crystal_hero_desc:  "행성의 불안정한 수수께끼의 에너지에 의해 생기를 얻은 것으로 보이는 지역 광물 클러스터와 암석층은 사실상 그들을 어리석고 거대한 파괴력을 지닌 지각 있는 거인으로 변화시킵니다...KONO POWAH?"
+ 
+ 
+decision_acot_kill_void_crystal:  "루트 크리스탈 동굴"
+decision_acot_kill_void_crystal_desc:  "확산을 막고 행성에서 제거하기 위해 모든 주요 공허 수정 클러스터에 대한 공격을 시작하십시오."
+ 
+##########################
+ 
+acot_modifier_fractured_machines:  "공허 기계"
+acot_modifier_fractured_machines_desc:  "암흑 에너지로 인해 오염된 남은 기계와 장치. 공장은 지상군에 의해 파괴되어야 합니다.\n\n§R방어가 허술할 경우 식민지를 주기적으로 공격합니다.§!\n§E이러한 공격을 저지하거나 방지하기 위해 전초기지 지구를 건설합니다.§!"
+ 
+acot_void_machine_army:  "보이드 머신"
+acot_void_machine_army_plural:  "공허 기계"
+acot_void_machine_army_desc:  "암흑 에너지로 인해 오염된 남은 기계와 장치. 일반적으로 약하기는 하지만, 그들의 막대한 숫자는 준비가 잘 안 된 군대를 빠르게 압도할 수 있습니다."
+ 
+acot_void_machine_hero:  "공허 지우개"
+acot_void_machine_hero_plural:  "공허 지우개"
+acot_void_machine_hero_desc:  "암흑 에너지로 인해 오염된 남은 기계와 장치. 지우개는 연약한 상대보다 훨씬 더 발전되고 치명적인 것으로 보입니다."
+ 
+decision_acot_kill_void_machine:  "폭행 공허 공장"
+decision_acot_kill_void_machine_desc:  "생산을 중단하고 행성에서 제거하기 위해 모든 주요 보이드 팩토리에 대한 공격을 시작하십시오."
+ 
+##########################
+ 
+acot_modifier_fractured_plants:  "공허의 식물상"
+acot_modifier_fractured_plants_desc:  "암흑물질의 영향을 받아 식민지에 큰 위협이 되는 식물과 나무. 숲은 지상군에 의해 불태워져야 합니다.\n\n§R방어가 허술한 경우 식민지를 주기적으로 공격합니다.§!\n§E이러한 공격을 저지하거나 방지하기 위해 전초기지 구역을 건설합니다.§!"
+ 
+acot_void_plant_army:  "공허의 식물상"
+acot_void_plant_army_plural:  "공허의 식물상"
+acot_void_plant_army_desc:  "암흑 물질의 영향을 받아 식민지에 큰 위협이 되는 식물과 나무. 그들은 방패와 갑옷을 녹일 수 있는 치명적인 부식성 물질을 생성할 수 있으며 가시는 고주파 칼날만큼 날카롭습니다."
+ 
+acot_void_plant_hero:  "공허의 공포"
+acot_void_plant_hero_plural:  "공허의 공포"
+acot_void_plant_hero_desc:  "암흑 물질의 영향을 받아 식민지에 큰 위협이 되는 식물과 나무. 테러는 특히 거대하고 치명적이어서 단 한 번의 휘둘러 폭풍의 여러 영웅을 동시에 죽일 수 있습니다."
+ 
+ 
+decision_acot_kill_void_flora:  "공허 정원 굽기"
+decision_acot_kill_void_flora_desc:  "모든 주요 보이드 가든을 불태워 행성에서 제거하기 위해 공격을 시작하세요."
+ 
+##########################
+ 
+d_acot_void_terrain:  "변화하는 지형"
+d_acot_void_terrain_desc:  "이 세계의 지형은 강력한 수수께끼의 힘에 의해 크게 변경되어 끊임없이 변화하고 있습니다. 확인하지 않고 놔두면 건물과 구역이 손상되거나 파괴될 수 있습니다."
+ 
+tech_acot_end_shifting_ground:  "지형 안정화"
+tech_acot_end_shifting_ground_desc:  "합성된 암흑 물질과 암흑 에너지로 지형을 테라포밍하고 안정화하여 구조가 추가로 변경되는 것을 방지하세요."
+ 
+ 
+##########################
+ 
+d_acot_void_rift:  "불안정한 공허 균열"
+d_acot_void_rift_desc:  "이 황폐화된 세계에 남은 폭격으로 인해 불안정한 공허 균열이 나타났습니다. 이 균열은 경로에 있는 모든 것을 빨아들이고 소비합니다. 확인하지 않고 방치하면 대중에게 큰 위험을 초래할 수 있습니다."
+ 
+tech_acot_end_rift:  "균열을 무너뜨려라"
+tech_acot_end_rift_desc:  "암흑 에너지의 집중된 광선은 거대한 암흑 물질이 주입된 물체에 발사될 수 있으며, 이는 균열로 이동하여 두 독립체를 불안정하게 만들고 결국 균열을 붕괴시킬 수 있습니다."
+ 
+##########################
+ 
+d_acot_void_chasm:  "공허의 틈"
+d_acot_void_chasm_desc:  "지속적으로 확장되고 공간을 잠식하며 구역 건설을 방해하는 거대한 틈입니다. 확인하지 않고 놔두면 구역이 파괴되고 건축 공간이 줄어들 수 있습니다."
+ 
+tech_acot_end_chasm:  "투명한 공허 틈"
+tech_acot_end_chasm_desc:  "공허 틈은 하드 라이트 기술을 사용하여 틈의 확장을 무효화하고 결국 멈추게 하는 합성 포장 도로를 생성하여 거대한 포장 도로를 만들어 제거할 수 있습니다."
+ 
+############################# EVENTS #############################
+ 
+acot_planets.300.name:  "보이드 머신 어택!"
+acot_planets.300.desc:  "손상된 공허 기계가 [root.GetName]에 있는 우리 식민지를 공격했습니다! 그들을 몰아내지 않으면 식민지가 사라질 수 있습니다!"
+acot_planets.300.a:  "그들은 [root.GetRulerName]에 반대합니다!"
+ 
+acot_planets.301.name:  "돌연변이 공격을 무효화하세요!"
+acot_planets.301.desc:  "미친 공허 돌연변이가 [root.GetName]에 있는 우리 식민지를 공격했습니다! 그들을 몰아내지 않으면 식민지가 사라질 수 있습니다!"
+acot_planets.301.a:  "돌연변이를 죽여라!"
+ 
+acot_planets.302.name:  "보이드 플로라 공격!"
+acot_planets.302.desc:  "적대적인 Void Floras가 [root.GetName]에 있는 우리 식민지를 공격했습니다! 그들을 몰아내지 않으면 식민지가 사라질 수 있습니다!"
+acot_planets.302.a:  "산채로 불태워버려라!"
+ 
+acot_planets.303.name:  "공허 마귀의 공격!"
+acot_planets.303.desc:  "맹렬한 공허 장이 [root.GetName]에 있는 우리 식민지를 공격했습니다! 그들을 몰아내지 않으면 식민지가 사라질 수 있습니다!"
+acot_planets.303.a:  "그들은 죽어야만 해!"
+ 
+acot_planets.304.name:  "크리스탈 공격을 무효화하세요!"
+acot_planets.304.desc:  "동요하는 공허 수정이 [root.GetName]에 있는 우리 식민지를 공격했습니다! 그들을 몰아내지 않으면 식민지가 사라질 수 있습니다!"
+acot_planets.304.a:  "그들을 제거하세요!"
+
+acot_planets.305.name:  "[root.GetName]이(가) 손실되었습니다!"
+acot_planets.305.desc:  "[root.GetName] 행성의 적들이 도시를 점령했고 식민지는 사실상 사라졌습니다."
+acot_planets.305.a:  "우리는 너무 늦었어..."
+################################################ VOID SPHERE ########################
+ 
+acot_planets.1.name:  "감염이 정화되었습니다!"
+acot_planets.1.desc.mutant:  "우리는 [FROMFROM.GetName]에서 공허 돌연변이를 상대로 승리했습니다! 이제 청소팀이 남은 낙오자를 제거하고 있습니다!"
+acot_planets.1.desc.lifeform:  "우리는 [FROMFROM.GetName]에서 공허 생명체에 맞서 승리했습니다! 이제 청소팀이 남은 낙오자를 제거하고 있습니다!"
+acot_planets.1.desc.machine:  "우리는 [FROMFROM.GetName]에서 보이드 머신을 상대로 승리했습니다! 이제 청소팀이 남은 낙오자를 제거하고 있습니다!"
+acot_planets.1.desc.crystals:  "우리는 [FROMFROM.GetName]에 공허 수정을 상대로 승리했습니다! 이제 청소팀이 남은 구조물을 제거하고 있습니다!"
+acot_planets.1.desc.plants:  "우리는 [FROMFROM.GetName]에 Void Floras를 상대로 승리했습니다! 이제 청소팀이 남은 식물을 제거하고 있습니다!"
+acot_planets.1.a.mutant:  "어떤 단순한 돌연변이도 우리의 힘에 맞설 수 없습니다!"
+acot_planets.1.a.lifeform:  "그러나 도살을 위한 짐승들!"
+acot_planets.1.a.machine:  "부서진 기계는 우리를 막을 수 없습니다!"
+acot_planets.1.a.crystals:  "크리스탈은 채굴하기 위해 존재했습니다!"
+acot_planets.1.a.plants:  "이 식물군은 약해요!"
+ 
+acot_planets.2.name:  "공격 실패!"
+acot_planets.2.desc:  "[FromFrom.GetName]에 대한 공격이 실패했습니다! 양측이 초래한 막대한 피해는 세계를 더욱 불안정하게 만들었고, 마침내 폭발하게 만들었습니다!"
+acot_planets.2.a:  "우리는 위협을 과소평가했습니다..."
+ 
+################################################ PLANET SHOWER ########################
+
+decision_acot_declare_exterminatus:  "익스터미나투스 선언"
+decision_acot_declare_exterminatus_desc:  "선택한 행성에 우선 익스터미나투스를 선언하면 해당 행성이 파문되고 더 이상 우리 제국의 일부가 아닌 것으로 간주됩니다. 이를 통해 우리는 지구에 아무런 처벌도 받지 않고 폭격을 가할 수 있습니다."
+ 
+decision_acot_declare_exterminatus_effect:  "행성은 §R적대적§!이 되고 궤도 폭격에 취약해집니다.\n\n궤도 대포나 행성 보호막 생성기와 같은 행성 방어 시스템을 먼저 제거하는 것이 좋습니다."
+ 
+
+decision_acot_final_word_protocol:  "최종 단어 프로토콜"
+decision_acot_final_word_protocol_desc:  "선택한 행성에 최종 워드 프로토콜을 발행합니다. 테라포밍 장비가 준비되어 빠르고 통제된 방식으로 행성을 파괴하거나 녹일 준비를 할 수 있습니다."
+decision_acot_final_word_protocol_effect:  "행성을 분열시키거나 파괴하기 위해 특별 프로젝트가 추가됩니다.\n\n기존 분열된 세계를 초균열된 세계로 변환하는 것은 다른 유형의 세계보다 저렴합니다.\n\n이 방법을 통해 분열된 행성은 공허 생명체를 생성하지 않으며 방해물을 덜 생성합니다."
+ 
+ACOT_FINAL_WORD_PLANET:  "§H[FromFrom.GetName]§!에 대한 마지막 말씀"
+ACOT_FINAL_WORD_PLANET_DESC:  "우리 대제국의 명령에 따라 §H[FromFrom.GetName]§!의 세계는 최종 명령 프로토콜을 선고받았습니다. 제어된 폭발을 유발하기 위해 주요 위치에 탄두를 전략적으로 배치하려면 과학선이 주둔해야 합니다.\n\n타이머가 만료되면 영향력 비용의 절반이 환불됩니다."
+
+ACOT_STABLIZE_PLANET:  "§H[FromFrom.GetName]§!의 안정화 프로젝트"
+ACOT_STABLIZE_PLANET_DESC:  "§H[FromFrom.GetName]§!의 세계는 격렬한 공허 폭풍으로 가득 차 있으므로 행성 표면을 시각적으로 스캔하기 전에 안정화되어야 합니다."
+
+decision_acot_fractured_stablize:  "부서진 세계를 안정화하세요"
+decision_acot_fractured_stablizee_desc:  "분열된 세계의 격렬한 폭풍을 안정시키기 위한 절차를 준비하십시오."
+
+decision_stellarite_reactor_detonation:  "명예제대"
+decision_stellarite_reactor_detonation_desc:  "선택한 행성에 명예 방전 프로토콜을 발행하여 원자로 용해에 대한 카운트다운을 시작하고 행성을 파괴하고 궤도를 도는 모든 선박을 파괴할 항성 에너지의 대규모 폭발을 방출합니다."
+ 
+decision_stellarite_reactor_detonation_effect:  "피해량은 행성에 있는 스텔라라이트 생성기의 수에 따라 결정됩니다.\n\n그 후 스텔라라이트 에너지 폭탄이 행성 궤도 위에 형성되어 파괴되지 않으면 몇 달 내에 폭발하여 시스템 전체에 피해를 입힙니다."
+
+################################################ VOID SPHERE ########################
+
+ACOT_CREATE_ENIGMATIC_WORLD:  "차원 재구성"
+ACOT_CREATE_ENIGMATIC_WORLD_DESC:  "분열된 세계가 다시 안정되고 안전한 곳이 되려면 행성 표면을 재구성할 뿐만 아니라 고유한 차원 앵커 특성을 유지하는 데 자원과 적절한 절차가 필요합니다."
+ 
+tech_acot_create_enigmatic_world:  "수수께끼의 세계 창조"
+tech_acot_create_enigmatic_world_desc:  "이제 새로운 미래를 시작해야 할 때입니다. 우리는 진정으로 시대의 경이로움을 창조하는 데 필요한 모든 지식과 기술을 갖추고 있습니다. 제국의 새로운 시대를 열 거대한 에큐메노폴리스인 보이드 스피어(Void Sphere)입니다."
+
+ACOT_CREATE_ENIGMAPOLIS:  "공허 구체 생성"
+ACOT_CREATE_ENIGMAPOLIS_DESC:  "Voidsphere로 다듬기 위해서는 행성에 여러 개의 전구체 아치 길을 설치해야 합니다."
+ 
+tech_acot_create_enigmapolis:  "내부에는 공허, 외부에는 공허"
+tech_acot_create_enigmapolis_desc:  "이제 새로운 미래를 시작해야 할 때입니다. 우리는 진정으로 시대의 경이로움을 창조하는 데 필요한 모든 지식과 기술을 갖추고 있습니다. 제국의 새로운 시대를 열 거대한 에큐메노폴리스인 보이드 스피어(Void Sphere)입니다."
+ 
+decision_transform_into_enigmatic_planet:  "차원 재구성"
+decision_transform_into_enigmatic_planet_desc:  "분열된 세계가 다시 안정되고 안전한 곳이 되려면 행성 표면을 재구성할 뿐만 아니라 고유한 차원 앵커 특성을 유지하는 데 자원과 적절한 절차가 필요합니다."
+
+decision_transform_into_super_awesome:  "공허 구체 생성"
+decision_transform_into_super_awesome_desc:  "이 행성을 공허 구체로 다듬을 준비를 하세요. 막대한 자원과 노력이 필요할 것이다."
+ 
+acot_planets.4.name:  "골절된 재구성"
+acot_planets.4.desc:  "이제 [root.GetName]을(를) 재구성하는 프로세스가 시작됩니다. 과학선을 보내 행성 궤도를 돌며 테라포밍 프로세스를 지원할 것입니다."
+acot_planets.4.a:  "진행하다."
+ 
+acot_planets.5.name:  "[FROMFROM.GetName] 재구성이 완료되었습니다!"
+acot_planets.5.desc:  "[FROMFROM.GetName]의 재구성이 완료되었습니다! 행성은 더욱 실제적인 상태로 복원되었으며 대부분의 위험한 효과는 최소 수준으로 감소되었습니다."
+acot_planets.5.a:  "잘하셨어요."
+ 
+acot_planets.6.name:  "공허 구체 건설"
+acot_planets.6.desc:  "[root.GetName] 정리를 시작하려면 건설선과 과학선을 보내 행성 주위에 구체를 만들고 테라포밍할 행성 궤도를 돌도록 하세요."
+acot_planets.6.a:  "낭비할 시간이 없습니다."
+ 
+acot_planets.7.name:  "공허 구체 완성!"
+acot_planets.7.desc:  "[FROMFROM.GetName]에 공허 구체 생성이 완료되었습니다! 모든 시스템이 완전히 작동하고 행성은 이제 별들의 부러움과 공허의 보석으로 서 있습니다."
+acot_planets.7.a:  "우리의 힘은 최고입니다."
+ 
+
+acot_void_sphere_ship:  "해방된 공허 구체"
+acot_void_sphere_ship_plural:  "해방된 공허 구체"
+ACOT_VOIDSPHERE_SECTION:  "공허 구체"
+
+############### PLANETS UPGRADE ########################
+ 
+decision_upgrade_gen_growth:  "복제기 주입"
+decision_upgrade_gen_growth_desc:  "이 행성의 대기에 강력한 유전 인자를 주입하여 성행위와 자연적 성장의 필요성을 완전히 우회하여 인구가 마음대로 스스로를 복제할 수 있는 능력을 허용하고 성장률을 크게 높일 수 있습니다."
+ 
+acot_modifier_upgrade_gen_growth:  "복제기"
+acot_modifier_upgrade_gen_growth_desc:  "이 행성의 모든 인구는 자신의 복제 기관 시스템을 보유하여 성장률을 크게 높입니다."
+ 
+decision_upgrade_gen_adapt:  "공허 영양 흡수"
+decision_upgrade_gen_adapt_desc:  "하위 차원의 영양 흡수 장 과정을 통해 음식에 대한 필요성을 완전히 부정할 수 있는 유전적 서열을 이 행성의 인구에 주입하십시오."
+ 
+acot_modifier_upgrade_gen_adapt:  "공허 영양 흡수"
+acot_modifier_upgrade_gen_adapt_desc:  "이 행성의 모든 인구는 개인적인 하위 차원 장을 생성하여 영양분을 흡수할 수 있으므로 대부분의 생계가 필요하지 않습니다."
+ 
+decision_upgrade_synth_extra_space:  "동적 차체 선택 시스템"
+decision_upgrade_synth_extra_space_desc:  "이 행성의 모든 인구를 고급 합성 신체로 업그레이드하여 원하는 대로 육체와 주변 구조물을 재구성할 수 있습니다. 여유 공간이 늘어나면 행성에 추가 구역 공간이 부여됩니다. (Ringworld는 추가로 하나를 얻습니다)"
+ 
+acot_modifier_upgrade_synth_extra_space:  "동적 본체 선택"
+acot_modifier_upgrade_synth_extra_space_desc:  "고급 합성 덕분에 이 행성의 모든 팝은 자신의 육체를 재형성하고 주변을 마음대로 구성할 수 있어 행성에 다른 것보다 훨씬 더 많은 구역을 수용할 수 있습니다."
+ 
+acot_modifier_upgrade_synth_extra_space_ringworld:  "동적 본체 선택"
+acot_modifier_upgrade_synth_extra_space_ringworld_desc:  "고급 합성 덕분에 이 행성의 모든 팝은 자신의 육체를 재형성하고 주변을 마음대로 구성할 수 있어 행성에 다른 것보다 훨씬 더 많은 구역을 수용할 수 있습니다."
+ 
+decision_upgrade_synth_assemble:  "독립적인 엑소 사지"
+decision_upgrade_synth_assemble_desc:  "이 행성의 인구를 독립적인 엑소 사지(Exo-Limb)를 사용하도록 업그레이드하여 전신이 없어도 작업을 수행할 수 있도록 하고 물리적 시스템을 조립하는 데 필요한 시간을 줄입니다."
+ 
+acot_modifier_upgrade_synth_assemble:  "독립적인 엑소 사지"
+acot_modifier_upgrade_synth_assemble_desc:  "이 행성의 합성 인구는 일상 생활에서 작동하기 위해 전신을 가질 필요가 없으며 물리적 시스템을 조립하는 데 필요한 시간을 줄입니다."
+ 
+decision_upgrade_psi_manipulate:  "염동력의 진실"
+decision_upgrade_psi_manipulate_desc:  "신중하게 표현된 영감 메시지를 통해 텔레파시를 통해 이 행성의 인구를 연결하고 윤리적 매력을 높이고 강등 타이머를 완전히 제거합니다."
+ 
+acot_modifier_upgrade_psi_manipulate:  "염동력의 진실"
+acot_modifier_upgrade_psi_manipulate_desc:  "이 행성의 인구는 신중하게 표현된 영감 메시지와 텔레파시를 통해 연결되어 충성도를 높이고 필요할 경우 더 큰 이익을 위해 헌신해야 할 필요성을 높입니다."
+ 
+decision_upgrade_psi_telekinesis:  "염동력 공학"
+decision_upgrade_psi_telekinesis_desc:  "지구상의 모든 건물에 인구의 마음을 읽고 건축 자재를 스스로 옮기는 강력한 염동력을 부여하는 동시에 사람들에게 강력한 사이오닉 방어막을 제공합니다."
+ 
+acot_modifier_upgrade_psi_telekinesis:  "염동력 공학"
+acot_modifier_upgrade_psi_telekinesis_desc:  "행성은 사람들의 마음을 읽고 건축 자재를 스스로 옮기는 동시에 사람들에게 강력한 사이오닉 방어막을 제공하는 강력한 염동력으로 가득 차 있습니다."
+ 
+decision_upgrade_hive_harvest:  "초적응 시퀀스"
+decision_upgrade_hive_harvest_desc:  "초적응형 시퀀스로 인구를 진화시켜 생산성과 반응성을 크게 높입니다."
+ 
+acot_modifier_upgrade_hive_harvest:  "초적응 시퀀스"
+acot_modifier_upgrade_hive_harvest_desc:  "이 행성의 인구는 모든 작업을 수행하기 위해 신체적으로나 정신적으로 빠르게 적응할 수 있으므로 생산성과 대응력이 크게 향상됩니다."
+ 
+decision_upgrade_hive_growth:  "곱셈 요소"
+decision_upgrade_hive_growth_desc:  "치유 요소를 인구에게 입힌 상처를 더 많은 상처로 변환하는 능력으로 대체하여 행성의 인구 증가를 개선합니다."
+ 
+acot_modifier_upgrade_hive_growth:  "곱셈 요소"
+acot_modifier_upgrade_hive_growth_desc:  "부상으로 인한 피해를 치유하는 대신, 이 행성의 인구에게 입힌 상처는 단순히 더 많은 상처로 변해 성장을 크게 증가시킵니다."
+ 
+decision_upgrade_machine_cyberspace:  "차원 사이버 공간 네트워크"
+decision_upgrade_machine_cyberspace_desc:  "인구가 스스로 만든 하위 차원 공간에 들어가 자동으로 육체를 저장할 수 있도록 하여 인구의 주택 요구를 제거합니다."
+ 
+acot_modifier_upgrade_machine_cyberspace:  "차원 사이버 공간 네트워크"
+acot_modifier_upgrade_machine_cyberspace_desc:  "이 행성의 인구는 거주할 필요가 없습니다. 그들의 육체가 시스템을 복구하기 위해 자동으로 자체 생성된 하위 차원 공간에 들어가기 때문입니다."
+ 
+decision_upgrade_machine_upkeep:  "시간 프레임 시스템"
+decision_upgrade_machine_upkeep_desc:  "신체의 특정 부분을 지속적이고 영원한 상태로 유지하여 유지 관리의 필요성을 없애는 작지만 기본적이지만 유용한 시간적 장을 생성하여 인구 유지를 줄입니다."
+ 
+acot_modifier_upgrade_machine_upkeep:  "시간 프레임 시스템"
+acot_modifier_upgrade_machine_upkeep_desc:  "이 행성의 인구는 몸의 특정 부분을 지속적이고 영원한 상태로 유지하여 유지할 필요성을 없애는 작지만 기본적이지만 유용한 시간장을 만들 수 있습니다."
+ 
+
+
+ACOT_COLONIZATION_IMPOSSIBLE_NEED_FRACTURED_TECH:  "§R이 행성을 식민지화하려면 적절한 기술이 필요합니다.§!"

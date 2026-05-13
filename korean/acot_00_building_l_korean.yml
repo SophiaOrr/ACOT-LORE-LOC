@@ -1,0 +1,699 @@
+﻿l_korean:
+
+mod_country_resource_max_acot_sr_dark_energy_add:  "최대 암흑 에너지 저장 용량"
+mod_country_resource_max_sr_dark_matter_add:  "최대 암흑 물질 저장 용량"
+mod_country_resource_max_acot_sr_stellarite_add:  "최대 스텔라라이트 저장 용량"
+
+mod_planet_jobs_acot_sr_dark_energy_produces_mult:  "암흑 에너지 생산 승수"
+mod_planet_jobs_sr_dark_matter_produces_mult:  "암흑 물질 생산 승수"
+mod_planet_jobs_acot_sr_stellarite_produces_mult:  "스텔라라이트 생산 승수"
+################################################ COLONIZING ########################
+ 
+tech_acot_colonize_fractured:  "부서졌지만 깨지지 않은"
+tech_acot_colonize_fractured_desc:  "비록 분열된 세계의 표면이 적대적인 요소로 가득 차 있는 것처럼 보이지만, 식민지화를 위한 착륙 지점 역할을 할 수 있는 다양한 특정 발판이 있습니다. 지구상에 수수께끼의 자원이 풍부하다는 점을 고려하면, 이 신비한 세계는 아직 유용할 수도 있습니다."
+ 
+tech_acot_colonize_fractured_ae:  "황혼의 토양"
+tech_acot_colonize_fractured_ae_desc:  "울트라 프랙처드 월드(Ultra Fractured Worlds)의 본질은 그 사촌의 본질과 크게 다르지 않지만, 천체의 진원지에 있는 균열은 최고의 방패와 갑옷이라 할지라도 너무 많은 위험한 방사선과 오염을 방출합니다. 그러나 균열이 완전히 불안정하지 않은 한, 그 효과를 안정화하는 것은 여전히 ​​가능합니다. 이 프로젝트의 성공으로 우리는 분열된 세계에 더욱 효율적이고 강력한 구역을 만들 수 있게 될 것입니다."
+ 
+################################################ DECISIONS ########################
+ 
+decision_transform_into_awesome:  "우수한 구조물"
+decision_transform_into_awesome_desc:  "이 행성이 더욱 발전된 인프라를 지원하려면 수도를 더욱 멋지고 경외심을 불러일으키는 도시로 만들어야 합니다."
+ 
+decision_transform_into_awesome_machine:  "우수한 디자인"
+decision_transform_into_awesome_machine_desc:  "이 행성이 더욱 발전된 인프라를 지원하려면 기본 제어 센터를 더욱 멋지고 엣지 있게 만들어야 합니다."
+ 
+decision_transform_into_awesome_hive:  "우수한 진화"
+decision_transform_into_awesome_hive_desc:  "벌집이 더 성장하기에는 현재 클러스터가 현재 작업을 수행하기에는 너무 비효율적이고 약합니다. 벌집은 더욱 진화해야 합니다. 벌통은 굉장해야합니다."
+ 
+########################
+ 
+decision_acot_automated_building:  "자동화 생산 시스템 활성화"
+decision_acot_automated_building_desc:  "대부분의 수수께끼 기반 건물이 자동으로 자원을 생산할 수 있게 해줄 뿐만 아니라 건물 유지 관리도 추가합니다."
+ 
+decision_acot_end_automated_building:  "자동화 생산 시스템 비활성화"
+decision_acot_end_automated_building_desc:  "대부분의 수수께끼 기반 건물의 자원 자동 생산을 비활성화하고 건물의 유지 관리도 제거합니다."
+ 
+acot_modifier_ascended_city:  "자동화 생산 시스템"
+acot_modifier_ascended_city_desc:  "대부분의 수수께끼 기반 건물은 추가 자원을 생성하지만 그 과정에서 유지 관리가 필요합니다."
+ 
+acot_modifier_automated_building:  "자동화 생산 시스템"
+acot_modifier_automated_building_desc:  "대부분의 수수께끼 기반 건물은 추가 자원을 생성하지만 그 과정에서 유지 관리가 필요합니다."
+ 
+tech_acot_automated_systems:  "자동화 생산 시스템"
+tech_acot_automated_systems_desc:  "자동화된 생산 시스템 또는 APS 모듈을 사용하면 대부분의 수수께끼 기반 생산 건물이 작업 작업과 독립적으로 자원을 생성할 수 있습니다. 그러나 이는 건물에 추가적인 유지 관리 부담을 추가하는 대가를 치르게 됩니다."
+ 
+########################
+ 
+decision_acot_supercharged_reactor:  "과급 원자로 활성화"
+decision_acot_supercharged_reactor_desc:  "과급 원자로를 사용하면 §E$job_acot_dark_matter_man$§!에서 §Y암흑 물질§!의 양을 §G100%§! 생성할 수 있지만 §R광물§! 유지도 §R100%§! 증가합니다."
+ 
+decision_acot_end_supercharged_reactor:  "과급 원자로 비활성화"
+decision_acot_end_supercharged_reactor_desc:  "모든 전문가에게 표준 절차로 돌아가서 §Y암흑 물질§! 생산을 정상으로 되돌리도록 지시합니다."
+ 
+acot_modifier_supercharged_reactor:  "과급 원자로"
+acot_modifier_supercharged_reactor_desc:  "모든 §E$job_acot_dark_matter_man$§! 또는 게슈탈트 대응 물질은 §G100%§! 추가 §Y암흑 물질§!을 생성하지만 §R광물§! 유지도 §R100%§! 증가합니다."
+ 
+tech_acot_supercharged_reactor:  "수수께끼의 원자로 과급"
+tech_acot_supercharged_reactor_desc:  "Dark Foundries는 고급 합성 과정을 통해 암흑 물질을 생성할 수 있지만, 유기 물질을 도입하여 생산 능력을 더욱 높일 수도 있으며, 원시 광물이 이를 달성하기 위한 가장 좋은 수단인 것으로 보입니다.\n\n§E과급 원자로를 켜기로 전환하는 행성의 결정을 잠금 해제합니다.§!"
+ 
+########
+
+decision_acot_supercharged_reactor_stellarite:  "스텔라라이트 과충전 승인"
+decision_acot_supercharged_reactor_stellarite_desc:  "모든 §E스텔라라이트 생성기§!는 §G100%§! 추가 §Y스텔라라이트§!를 생성할 뿐만 아니라 유지비가 크게 증가합니다."
+ 
+decision_acot_end_supercharged_reactor_stellarite:  "스텔라라이트 과충전 승인 취소"
+decision_acot_end_supercharged_reactor_stellarite_desc:  "모든 §EStellarite Generator§!를 기본 모드로 되돌립니다."
+ 
+acot_modifier_supercharged_reactor_stellarite:  "스텔라라이트 과충전"
+acot_modifier_supercharged_reactor_stellarite_desc:  "모든 §E스텔라라이트 생성기§!는 §G100%§! 추가 §Y스텔라라이트§!를 생성할 뿐만 아니라 유지비가 크게 증가합니다."
+ 
+tech_acot_supercharged_reactor_stellarite:  "스텔라라이트 과충전"
+tech_acot_supercharged_reactor_stellarite_desc:  "Dark Foundries는 고급 합성 과정을 통해 암흑 물질을 생성할 수 있지만, 유기 물질을 도입하여 생산 능력을 더욱 높일 수도 있으며, 원시 광물이 이를 달성하기 위한 가장 좋은 수단인 것으로 보입니다.\n\n§E과급 원자로를 켜기로 전환하는 행성의 결정을 잠금 해제합니다.§!"
+
+########################
+ 
+decision_acot_supercharged_pylon:  "과급 수정탑 활성화"
+decision_acot_supercharged_pylon_desc:  "과급 파일론을 사용하면 §E암흑 에너지 기술공§!이 §Y암흑 에너지§! 양을 두 배로 생산할 수 있지만 §R에너지§! 유지도 §R100%§! 증가합니다."
+ 
+decision_acot_end_supercharged_pylon:  "과급 수정탑 비활성화"
+decision_acot_end_supercharged_pylon_desc:  "모든 전문가에게 표준 절차로 돌아가서 §Y암흑 에너지§! 생산을 정상으로 되돌리도록 지시합니다."
+ 
+acot_modifier_supercharged_pylon:  "과급된 수정탑"
+acot_modifier_supercharged_pylon_desc:  "모든 §E$job_acot_dark_energy_man$§! 또는 게슈탈트 대응 제품은 §G100%§! 추가 §Y암흑 에너지§!를 생성하지만 §R에너지§! 유지도 §R100%§! 증가합니다."
+ 
+tech_acot_supercharged_pylon:  "파일론 슈퍼차저"
+tech_acot_supercharged_pylon_desc:  "우리는 항상 추가 철탑을 건설해야 한다는 요구를 받고 있지만 그렇게 하기에는 적절한 공간이 부족할 수 있습니다. 암흑 에너지 조작 전문가들은 외부 에너지를 충전하여 철탑의 암흑 에너지 생산량을 안전하게 늘릴 수 있다고 믿습니다.\n\n§E과급 철탑을 켜기로 전환하는 행성의 결정을 잠금 해제합니다.§!"
+ 
+########################
+ 
+tech_acot_stacking_network:  "동기화된 네트워크"
+tech_acot_stacking_network_desc:  "우주 기지에 사용할 수 있는 제한된 공간을 피하기 위해 우리 과학자들은 동일한 유형의 여러 모듈이 더 효율적으로 함께 작동할 수 있는 네트워크 시스템을 만들어 모듈의 리소스 생산량을 늘리는 것을 목표로 합니다."
+tech_acot_stacking_network_tooltip:  "§E수수께끼 기반 starbase 모듈을 활성화하여 함께 쌓을 때 추가 리소스를 생성합니다.\n§E모듈에서 유지 관리가 필요하지 않습니다.."
+ 
+########################
+ 
+tech_acot_fractured_autoharvesting:  "수수께끼 배열"
+tech_acot_fractured_autoharvesting_desc:  "분열된 세계의 풍부한 요소는 너무 불안정해서 사용할 수 없습니다. 그러나 이를 선별하고 필터링하기 위해 다양한 건물에 특수 어레이를 설치할 수 있습니다. 이는 모든 수수께끼 기반 건물의 유지 관리 비용을 잠재적으로 제거할 것입니다. 이와 동일한 방법을 사용하여 우리 전문가들은 행성 대기 자체에서 원시 암흑 물질과 암흑 에너지를 수확할 수도 있다고 믿습니다."
+tech_acot_fractured_autoharvesting_tooltip:  "§E모든 Fractured, Ultrafractured 또는 Void Sphere Worlds의 수수께끼 기반 건물에서 모든 기본 건물 유지를 제거합니다.\n\n§EFractered, Ultrafractured 또는 Void Spheres Worlds에서 작업할 때 각 기술공 및 연금술사로부터 암흑 물질 및 암흑 에너지 생산량이 100% 증가합니다."
+ 
+########################
+ 
+decision_open_chambers_menu:  "활성화 챔버 액세스"
+decision_open_chambers_menu_desc:  "진화는 계속된다"
+ 
+decision_open_assembly_menu:  "나노조립체 접근"
+decision_open_assembly_menu_desc:  "우리의 통제 범위를 넘어서는 것은 없습니다."
+ 
+requires_building_fe_capital:  "§R이 건물을 더욱 개선하려면 수수께끼의 수도 단지가 필요합니다. 행성 결정에서 어둠의 궁전을 선택하세요!§!"
+requires_building_fe_capital_machine:  "§R이 건물을 더욱 개선하려면 수수께끼의 수도 단지가 필요합니다. 행성 결정으로 다크 넥서스를 건설하세요!§!"
+requires_building_fe_capital_hive:  "§R이 건물을 더욱 개선하려면 수수께끼의 수도 단지가 필요합니다. 행성의 결정으로 다크 클러스터를 진화시키세요!§!"
+  
+ 
+ 
+################################################ BUILDING TEXTS ########################
+ 
+######################## CAPITALOS ########################
+ 
+building_dm_ancient_palace:  "수수께끼의 궁전"
+building_dm_ancient_palace_desc:  "새로운 시대에는 새로운 권력의 자리가 필요합니다. 제국은 새롭게 거듭나야 합니다."
+ 
+building_ae_ancient_palace:  "공허의 궁전"
+building_ae_ancient_palace_desc:  "신은하질서(New Galactic Order)의 자리이자 왕좌인 공허의 궁전(The Void Palace)은 절대 권력의 상징입니다. 이 왕좌에서 통치자들이 은하계의 운명을 결정하게 될 것입니다."
+ 
+tech_dm_ancient_palace:  "수수께끼의 건축 설계도"
+tech_dm_ancient_palace_desc:  "이제 우리는 에니그마의 비밀을 파악하기 시작했으니, 이제 평범하고 오래된 구식 구조를 버릴 때입니다. 이제부터 우리는 은하계에 도전할 것이며 새로운 시대의 새벽이 다가왔습니다!\n\n§H행성 결정을 통해 수도 건물을 수수께끼의 수도로 전환하는 능력을 잠금 해제하세요!§!"
+ 
+tech_ae_ancient_palace:  "새로운 은하 질서"
+tech_ae_ancient_palace_desc:  "새로운 질서가 가까웠고 우리의 힘은 부인할 수 없으며 우리의 지식은 방대합니다. 제국이 절대 권력을 손에 넣을 때가 왔습니다. 우리는 바로 우리입니다. 우리는 미래입니다. 우리는... 알파입니다."
+
+#############################
+ 
+building_dm_ancient_control_center:  "수수께끼의 넥서스"
+building_dm_ancient_control_center_desc:  "새로운 시대에는 새로운 권력의 중심이 필요합니다. 합의를 새롭게 재편성해야 합니다."
+ 
+building_ae_ancient_control_center:  "공허의 넥서스"
+building_ae_ancient_control_center_desc:  "이 결합에서 수십억 개의 인공 지능 네트워크가 서로 얽혀 있으며 시스템의 지배자는 기계의 다음 운명이 무엇인지 결정합니다."
+ 
+tech_dm_ancient_control_center:  "수수께끼의 건축 디자인"
+tech_dm_ancient_control_center_desc:  "현재의 1차 통제 센터 모델은 수수께끼 같은 기술 통합에 비효율적입니다. 최적의 성능을 위해서는 새롭고 뛰어난 디자인이 필요합니다.\n\n§H행성 결정을 통해 자본 건물을 수수께끼의 자본으로 전환하는 능력을 잠금 해제하세요!§!"
+ 
+tech_ae_ancient_control_center:  "미래의 기계"
+tech_ae_ancient_control_center_desc:  "유기농 우월주의 시대는 끝났다. 기계의 시대가 다가오고 있습니다. 우리는 미래이고 하나이기 때문입니다. 우리는... 알파입니다."
+ 
+#############################
+ 
+building_dm_ancient_hive_cluster:  "수수께끼의 클러스터"
+building_dm_ancient_hive_cluster_desc:  "새로운 시대에는 새로운 권력의 뿌리가 필요합니다. Tne Hive는 새로 확장해야 합니다."
+ 
+building_ae_ancient_hive_cluster:  "보이드 클러스터"
+building_ae_ancient_hive_cluster_desc:  "이 거대한 하이브 클러스터는 수십억 대의 드론으로 가득 차 있으며 모두 하이브의 주권을 보장하기 위해 바쁘게 일하고 있습니다. 적응하는 자는 번창하고, 시들어 죽지 않는 자는 살아난다."
+ 
+tech_dm_ancient_hive_cluster:  "수수께끼의 벌집 진화"
+tech_dm_ancient_hive_cluster_desc:  "현재 하이브 클러스터의 템플릿은 수수께끼의 에너지 처리를 수용하기에는 너무 약합니다. 새로운 변신이 필요합니다."
+ 
+tech_ae_ancient_hive_cluster:  "정점의 정점."
+tech_ae_ancient_hive_cluster_desc:  "하이브는 강하다. 하이브는 광대합니다. 이제 군체는 절대적인 힘으로 등장할 준비가 되었습니다. 우리는 미래이고 하나이기 때문입니다. 우리는... 알파입니다."
+ 
+ 
+############################# ADVANCU COLONICUS
+
+tech_acot_advanced_colony:  "수수께끼의 전개"
+tech_acot_advanced_colony_desc:  "오늘의 단순한 식민지가 내일은 광대한 에큐메노폴리스가 됩니다. 도시가 활기를 띠는 순간 일어날 수 있는 새로운 시대를 왜 기다리나요?"
+tech_acot_advanced_colony_tooltip:  "식민지 선박이 식민지화 시 수수께끼의 수도 건물을 즉시 생성할 수 있도록 합니다."
+
+######################## POPULATION ########################
+ 
+### HOSPITAL ##
+ 
+building_fe_hospital:  "활성화 센터"
+building_fe_hospital_desc:  "전반적인 구조는 기존 유전자 클리닉과 유사하지만 OZMA-1 활성화 챔버는 의료 서비스를 제공할 뿐만 아니라 사람들의 마음에서 모든 비효율성과 약점을 제거하도록 훈련받은 약사에 의해 관리됩니다."
+ 
+building_ae_hospital:  "나노과활성화 복합체"
+building_ae_hospital_desc:  "새로운 장비의 개선으로 우리는 삶의 질을 16배나 향상시킬 수 있습니다. 우리는 모든 주주들로부터 온갖 종류의 도움을 받고 있습니다. 다시 말하지만, 이 모든 것이 제대로 작동합니다."
+ 
+tech_fe_hospital:  "생물형태 활성화"
+tech_fe_hospital_desc:  "새로운 수수께끼의 기술을 통해 모든 과학적 접근 방식에 걸쳐 새로운 발명품이 탄생합니다. 결과적으로 우리 국민의 삶의 질은 점점 더 좋아질 것입니다. 이러한 분야의 추가 개선을 통해 새로 설립된 Apothecary Order에 필요한 장비와 워크샵을 제공할 수 있습니다. 이 건물은 새로운 시대의 새벽을 목격하려는 사람들에게 희망의 등대가 될 것입니다."
+ 
+tech_ae_hospital:  "하이퍼바이탈라이제이션 모듈"
+tech_ae_hospital_desc:  "이 고급 모듈을 재활성화 센터에 설치하면 일반적으로 기존 시스템에서 제공되는 모든 지루하고 긴 절차와 작업을 우회하여 갑작스럽고 빠른 복구가 가능해집니다."
+ 
+### SPAWN POOL ###
+ 
+building_fe_hive_pool:  "시퀀스 풀"
+building_fe_hive_pool_desc:  "이 거대한 풀에는 군체가 새로운 무리를 빠르게 생성하기 위해 선택할 수 있는 다양한 유전자 서열이 포함되어 있습니다."
+ 
+building_ae_hive_pool:  "시퀀스 라이브러리"
+building_ae_hive_pool_desc:  "Hive는 끊임없이 성장하고 진화해야 합니다. 더 이상 확장할 것이 없을 때까지 확장하겠습니다. 광물이나 가스는 채굴되지 않은 상태로 남지 않습니다."
+ 
+### ASSEMBLY ###
+ 
+building_super_assembly:  "델타 기계 조립"
+building_super_assembly_desc:  "우리의 엘리트 사이버맨서는 미래의 기계를 생산하기 위해 정교하고 진보된 장비가 필요합니다. 그리고 이 건물은 그들에게 그것을 제공합니다."
+ 
+building_ae_super_assembly:  "알파 머신 조립"
+building_ae_super_assembly_desc:  "어떻게 이 사이버맨서들이 기계를 점점 더 빠르게 만들 수 있을까요??? 나노머신, 아들아!"
+ 
+building_super_assembly_machine:  "하드라이트 기계 조립"
+building_super_assembly_machine_desc:  "하드라이트 기술을 사용하면 이 건물에서 기계 장치를 대량으로 인쇄할 수 있습니다."
+ 
+building_ae_super_assembly_machine:  "알파 머신 조립"
+building_ae_super_assembly_machine_desc:  "조립 라인에 Alpha-Techs를 도입하면 추가 프로토콜 조립 장치를 위한 더 많은 공간이 추가됩니다."
+ 
+tech_super_assembly:  "하드라이트 어셈블리"
+tech_super_assembly_desc:  "로봇 공학자들에게는 로봇에 대한 새로운 기술의 증가하는 요구에 실제로 맞서 싸울 수 있는 적절한 도구와 시설이 제공되지 않습니다. 슈퍼 의회는 로봇 생산 경제에 새로운 차원을 가져올 새로 창설된 사이버맨서 군단을 지원할 것입니다."
+ 
+tech_super_assembly_ae:  "알파 어셈블리"
+tech_super_assembly_ae_desc:  "기계 인력에 대한 수요가 증가함에 따라 어셈블리에 대한 추가 업그레이드가 필요합니다.\n\n§Y부정적인 특성을 제거하는 데 사용할 수 있는 알파 어셈블리를 잠금 해제하고 추가적인 고급 기계 특성을 잠금 해제합니다."
+ 
+############################# BIO #############################
+ 
+building_fe_clone_vats:  "생물유전학 연구실" 
+building_fe_clone_vats_desc:  "불길해 보이는 이 실험실에는 진화의 비밀이 숨겨져 있습니다. 모든 종류의 생물학적 실험이 수행되지 않고 모든 위험이 무시되는 곳이 바로 여기입니다." 
+ 
+building_ae_clone_vats:  "뫼비우스 연구단지"
+building_ae_clone_vats_desc:  "이 뫼비우스 재단의 장교는 신세계질서로부터 모든 유형의 생물학적 실험을 수행할 수 있는 권한을 부여받았으며 도덕성에 관한 모든 문제는 필요에 따라 신중하게 폐기됩니다. 왜냐하면 제국의 미래가 모든 부차적 목표보다 우선이기 때문입니다."
+ 
+tech_fe_clone_vats:  "생물유전학 연구실"
+tech_fe_clone_vats_desc:  "생물학 분야의 비약적인 발전을 통해 우리는 연령 패널티 문제를 제거하는 훨씬 더 강력한 복제 기술을 개발하여 복제물이 원래 템플릿만큼 오래 살 수 있게 되었습니다. 이는 아마도 우리의 클론 군대를 다시 방문할 수 있는 미래의 기회를 제공합니다."
+ 
+tech_ae_clone_vats:  "뫼비우스 재단"
+tech_ae_clone_vats_desc:  "뫼비우스 재단(Moebius Foundations)이라고 불리는 큐레이터 엔클레이브의 특별 부서가 우리의 유전적 발달에 관심을 갖고 있습니다. 그들은 이 분야의 전문가인 것으로 보이며 알파 장비에 접근하는 대가로 자신의 연구 결과를 기꺼이 공유할 것입니다. 그들은 큐레이터와 우리의 관계 상태에 관심이 없는 것 같습니다.\n\n우리 대리인은 우리 제국을 그들의 지시 위원회에 소개할 준비가 되어 있습니다. 성공하면 MF 자체의 특수 장비로 기존 생물 유전학 연구소를 업그레이드할 수 있는 완전한 권한을 갖게 됩니다.\n\n§Y행성에 건설되면 다양한 유용한 업그레이드 및 강화에 액세스할 수 있는 새로운 행성 결정을 내릴 수 있습니다.§!"
+ 
+############################# SYNTH #############################
+ 
+building_fe_synt_center:  "증강 센터"
+building_fe_synt_center_desc:  "생산을 업그레이드하기 위해 행성에 배치되는 특수 건물입니다. 또한 이 건물은 전문가의 생산 능력을 향상시킵니다. 효율성은 지구상의 활성 인구 수를 기준으로 계산됩니다.\n\n§Y1-49:§! 10%\n\n§Y50-99:§! 20%\n\n§Y100-149:§! 30%\n\n§Y150-199:§! 40%\n\n§Y200~ :§! 50%"
+ 
+building_ae_synt_center:  "사이버스피어 매트릭스"
+building_ae_synt_center_desc:  "Novus가 설계한 이 증강 센터는 더 많은 업그레이드와 전문가의 생산량 증가를 제공합니다. 효율성은 지구상의 활성 인구 수를 기준으로 계산됩니다.\n\n§Y1-49:§! 20%\n\n§Y50-99:§! 40%\n\n§Y100-149:§! 60%\n\n§Y150-199:§! 80%\n\n§Y200~ :§! 100%"
+ 
+tech_fe_synt_center:  "증강 센터"
+tech_fe_synt_center_desc:  "연구 및 생산의 모든 분야에서 전문가에 대한 수요가 증가함에 따라 인구의 증가가 필요합니다. 모든 전문가의 효율성을 향상시키고 추가 행성 측면 업그레이드를 제공하는 특수 건물을 건설하려는 계획이 마련되어 있습니다."
+ 
+tech_ae_synt_center:  "사이버스피어 매트릭스"
+tech_ae_synt_center_desc:  "Novus Command라고 불리는 독립 큐레이터 하위 부서는 알파 프로젝트 개발에 대해 더 많은 것을 알고 싶어합니다. 그 대가로 그들은 기존 강화 센터를 업그레이드하기 위한 자체 전문 강화 도구를 제공할 것입니다."
+ 
+############################# PSION #############################
+ 
+building_fe_psi_altar:  "사이온의 제단"
+building_fe_psi_altar_desc:  "사이오닉 능력이 뛰어난 이들이 모여 기술을 연마하는 신성한 성소입니다. 견고한 벽은 발열, 염동력, 염동력, 테크노키네시스, 극저온운동, 전기운동, 시간운동을 견딜 수 있습니다. 새로운 가능성이 펼쳐지는 곳이 바로 여기입니다."
+ 
+building_ae_psi_altar:  "선택받은 자의 사원"
+building_ae_psi_altar_desc:  "오염되지 않은 채 슈라우드에 들어갈 만큼 재능이 있는 사람들을 지원하기 위해 만들어졌습니다. 성전은 사람들의 불굴의 결의를 보여주는 증거입니다."
+ 
+tech_fe_psi_altar:  "사이온의 제단"
+tech_fe_psi_altar_desc:  "현재 사이오닉 능력의 실제 범위에 대한 이해가 제한되어 있기 때문에 우리는 사이오닉을 사소하고 덜 파괴적인 방식으로만 사용해야 했습니다. 그러나 경화광 재료의 도입으로 이제 가장 파괴적인 사이오닉 공격에 맞설 수 있는 오래 지속되는 구조물을 만드는 것이 가능해졌습니다."
+ 
+tech_ae_psi_altar:  "선택받은 자의 사원"
+tech_ae_psi_altar_desc:  "알라라크 교단으로 알려진 불량 큐레이터 종파가 최근 우리 사이오닉 요원들에게 손을 내밀었습니다. 이러한 사이오닉 전문가들은 Enigmatic 능력과 사이오닉 사이의 호환성을 연구하는 데 관심이 있습니다. 그들은 사이온 제단에 접근하는 대가로 그들의 비밀을 기꺼이 교환하려고 합니다. 이 관계가 형성된다면 우리는 제단을 더욱 증폭시키고 업그레이드할 수 있을 것입니다."
+ 
+############################# MACHINA #############################
+ 
+building_fe_machine_dome:  "성격 업링크"
+building_fe_machine_dome_desc:  "행성에 유용한 업그레이드를 제공하고 드론을 지원하는 전문화된 성격 데이터 매트릭스입니다. 업링크는 행성 인구를 기반으로 복잡하고 단순한 드론의 생산 효율성을 모두 증폭시킵니다.\n\n§Y팝이 50개마다 효율성은 팝이 200개일 때 5%에서 최대 25%까지 증가합니다."
+ 
+building_ae_machine_dome:  "인피니티 코어"
+building_ae_machine_dome_desc:  "기계의 더 나은 미래를 만들기 위한 큐레이터 Cortex 유닛의 공동 노력입니다. 인피니티 코어는 기계신의 무한한 합의를 나타냅니다. 코어는 행성 인구를 기반으로 복잡하고 단순한 드론의 생산 효율성을 모두 증폭시킵니다.\n\n§Y팝이 25개마다 팝이 200개일 때 효율성이 5%에서 최대 50%까지 증가합니다."
+ 
+tech_fe_machine_dome:  "성격 모듈"
+tech_fe_machine_dome_desc:  "고대 기계에 대한 연구를 바탕으로 유기적이든 합성이든 다양한 개인의 특정 성격 모듈을 전문적으로 보존하여 선택한 기계 장치 그룹에 설치할 수 있습니다. 그 결과 전체적으로 Consensus의 Unity에 균열을 일으키지 않고 이러한 "의인화된" 단위의 생산성이 눈에 띄게 증가했습니다. 이 기술은 우리 자신의 용도에 맞게 복제되거나 조정되어야 합니다."
+ 
+tech_ae_machine_dome:  "인피니티 코어"
+tech_ae_machine_dome_desc:  "Cortex Unit으로 알려진 큐레이터 엔클레이브의 독립 기계 숭배가 최근 우리와 접촉했습니다. 그들은 기술 교환을 제안했고, 우리는 그들에게 알파 장비에 대한 접근권을 제공하고, 그들 자신의 특별한 유물에 대한 접근권을 제공했습니다. 그 결과 현재의 한계를 뛰어넘어 Personality Uplink를 업그레이드할 수 있는 Infinity Core가 탄생하게 됩니다. "기계 신"이라는 개념을 창조하는 것입니다."
+ 
+############################# HIVE #############################
+ 
+building_fe_hive_evochamber:  "진화실"
+building_fe_hive_evochamber_desc:  "새로운 가능성의 둥지. 진화실에는 하이브의 다양한 드론의 진화에 필요한 다양한 시퀀스와 에센스가 들어 있습니다."
+ 
+building_ae_hive_evochamber:  "사이클 전파자"
+building_ae_hive_evochamber_desc:  "아바투르 호스트의 도움으로 순환 전파자는 은하계 진화의 불가피한 변화에 대비하여 군체가 변화의 흐름에 맞서 살아남을 수 있도록 준비합니다."
+ 
+tech_fe_hive_evochamber:  "진화실"
+tech_fe_hive_evochamber_desc:  "수많은 유전자 서열 중에서 독특하면서도 틈새 시장에 적용할 수 있는 유전자 서열이 많이 있습니다. 군체는 이러한 시퀀스를 은하계 전역의 특정 식민지에 안정적으로 관리할 수 있는 적절한 라이브러리를 유지하는 데 어려움을 겪었습니다. 따라서 유용한 서열의 유전적 라이브러리를 생성하려는 계획이 구상되었습니다. 진화실은 각 식민지에 필요한 변화를 가져와 둥지에 고유한 역할을 부여합니다."
+ 
+tech_ae_hive_evochamber:  "사이클 전파자"
+tech_ae_hive_evochamber_desc:  "Hive는 The Abathur Host로 알려진 큐레이터 개체의 하위 부서와 접촉했습니다. 이 분할된 독립체 그룹은 알파 기록 보관소에 접근하는 대가로 과거 군체 정신에 대한 연구와 지식을 제공하고자 합니다. 이 거래를 통해 Abathur 호스트는 각 진화 챔버에 순환 전파자로 변신하는 데 필요한 유전적 서열을 제공할 것입니다."
+ 
+######################## PRODUCTION ########################
+ 
+mod_country_resource_max_minerals_add:  "최대 미네랄 용량 추가"
+
+building_fe_mineral_processing_plant:  "크리스탈 합성기"
+building_fe_mineral_processing_plant_desc:  "결정학자에게 고수익 광물을 합성하는 데 필요한 도구를 제공하는 강력한 시설입니다."
+ 
+building_ae_mineral_processing_plant:  "크리스탈 디바이너"
+building_ae_mineral_processing_plant_desc:  "이 지구 규모의 메가 복합단지는 가장 조잡하고 멍청한 광물이라도 고품질, 고수율 광물로 변환할 수 있습니다."
+ 
+tech_fe_mineral_processing_plant:  "결정 합성"
+tech_fe_mineral_processing_plant_desc:  "Enigmatic Sensory 및 최첨단 기술의 발전으로 새로운 광물 및 결정 조달 방법이 탄생했습니다. 특수 합성을 사용하면 행성 표면이나 우주 소행성에서 천연 광물을 채취할 필요 없이 고수익 광물을 조달할 수 있습니다."
+ 
+tech_ae_mineral_processing_plant:  "크리스탈 점술"
+tech_ae_mineral_processing_plant_desc:  "알파 기술에 대한 추가 연구는 결정 합성의 추가 발전에 영감을 주었습니다. 점술의 과정은 우리 광물의 수확량을 크게 증폭시킬 것입니다."
+ 
+#############################
+ 
+mod_country_resource_max_energy_add:  "최대 에너지 용량 추가"
+
+building_fe_power_hub:  "암흑 에너지 전력망"
+building_fe_power_hub_desc:  "합성 암흑에너지를 사용하는 차세대 전력망은 기존 발전기보다 훨씬 더 높은 에너지 생산량을 자랑합니다."
+ 
+building_ae_power_hub:  "알파 마스터 파워 넥서스"
+building_ae_power_hub_desc:  "넥서스는 행성의 국회의사당 건물에 있는 수수께끼의 구조물의 고급 네트워크 시스템을 활용하여 에너지 생산량을 대폭 늘리는 행성 전체의 에너지 네트워크를 만들 수 있습니다."
+ 
+tech_fe_power_hub:  "암흑 물질 에너지 그리드"
+tech_fe_power_hub_desc:  "우리 과학자들은 현재의 에너지 넥서스 템플릿을 개선하기 위해 암흑 물질 발전소를 건설하고 운영하는 데 사용되는 것과 동일한 방법을 적용할 수 있다고 믿습니다."
+ 
+tech_ae_power_hub:  "추가 수정탑 강화"
+tech_ae_power_hub_desc:  "이제 안전 프로토콜을 위반하지 않고도 새로운 발전을 통해 에너지 그리드에 추가 철탑을 건설하는 것이 가능해졌습니다."
+ 
+#############################
+ 
+mod_country_resource_max_food_add:  "최대 식품 용량"
+
+building_fe_food_processing_complex:  "농업 슈퍼 콤플렉스"
+building_fe_food_processing_complex_desc:  "지구에 항상 신선한 녹색 사과나 우리 정부가 식량으로 사용하는 모든 것이 있도록 보장하는 중앙 암흑물질 시설로 구동되는 여러 농업용 바이오돔입니다."
+ 
+building_ae_food_processing_complex:  "농업 메가 콤플렉스"
+building_ae_food_processing_complex_desc:  "행성에 녹색이 없는지 여부는 중요하지 않습니다. 녹색은 어디에나 있고 그 녹색은 좋기 때문입니다."
+ 
+tech_fe_food_processing:  "농업 메가콤플렉스"
+tech_fe_food_processing_desc:  "종종 우리는 일부 행성이 녹색 사과를 만들기에는 너무 짜증나거나 행성에 녹색이 전혀 없는 어려운 상황에 처하게 됩니다. 그러나 더 나은 전력원의 출현으로 우리는 이러한 모든 문제를 해결하는 자급자족형 거대 농업 단지를 만들 수 있습니다. 녹색 사과는 어디에나 있을 것입니다."
+ 
+tech_ae_food_processing:  "시트로엥급 전채요리"
+tech_ae_food_processing_desc:  "첨단 생명 공학과 유전자 조작을 통해 지구상의 다른 모든 식물군을 전환하여 녹색 사과만을 생산하는 것이 가능해졌습니다. 이렇게 하면 바람직하지 않은 식물을 뿌리 뽑는 데 소요되는 시간을 엄청나게 절약할 수 있습니다."
+ 
+#############################
+ 
+building_fe_transmutor:  "수수께끼의 변환기 돔"
+building_fe_transmutor_desc:  "그러한 단순한 자원을 위해 너무 많은 건물 공간을 낭비하는 것은 어리석은 일이며, 이제 돔의 출현으로 이러한 약점이 수정될 것입니다."
+ 
+building_ae_transmutor:  "메가 트랜스뮤테이터 스피어"
+building_ae_transmutor_desc:  "가스, 결정체 또는 티끌. 이러한 일상적인 자원은 여전히 ​​우리 제국 내에서 틈새 시장에 활용되고 있습니다. 우리는 이 작업을 전담하는 단일 건물에서 모든 제품을 생산할 것입니다."
+ 
+tech_fe_transmutor:  "메가 트랜스뮤테이터"
+tech_fe_transmutor_desc:  "과거에는 전략적 자원을 생산하려면 각 자원에 맞는 특수 건물이 필요했습니다. 이는 제한된 공간으로 인해 매우 비효율적입니다. 그러나 우리의 새로운 기술을 통해 우리는 이 모든 것을 하나의 소형 건물로 통합하여 광물을 필요한 것으로 변환할 수 있어야 합니다."
+ 
+tech_ae_transmutor:  "루카스급 슈퍼터빈"
+tech_ae_transmutor_desc:  "변환은 지루한 작업입니다. 특히 곧 쓸모 없게 될 자원의 사용이 감소하고 있다는 점을 고려하면 더욱 그렇습니다. 공간을 확보하려면 이러한 지루한 작업을 모두 혼자서 처리할 수 있는 건물이 가장 유용할 것입니다."
+ 
+#############################
+ 
+mod_country_resource_max_alloys_add:  "최대 합금 용량 추가"
+
+building_fe_alloy_forge:  "다크 파운드리"
+building_fe_alloy_forge_desc:  "제거 과정을 통해 우리는 고급 하드라이트 기술을 사용하여 더 많은 제조 기계를 위한 공간을 확보하기 위해 오래된 주조소 내의 모든 중복 공간을 제거했습니다."
+ 
+building_ae_alloy_forge:  "거대 합금 주조소"
+building_ae_alloy_forge_desc:  "효율성은 승리의 열쇠입니다. 오늘은 합금, 내일은 승리의 무기!"
+ 
+tech_fe_alloy_foundry:  "다크 파운드리"
+tech_fe_alloy_foundry_desc:  "우리 행성 표면의 공간은 제한되어 있지만 합금에 대한 필요성은 그렇지 않습니다. 효율성을 극대화하려면 공간 관리를 더욱 발전시켜야 합니다."
+ 
+tech_ae_alloy_foundry:  "차원 쌍곡선 주조소"
+tech_ae_alloy_foundry_desc:  "차원 공간에 대한 통달은 우리가 컴팩트한 시설에서 훨씬 더 큰 작업장을 만들 수 있게 해줄 것입니다."
+ 
+#############################
+ 
+building_fe_factory:  "하드라이트 재료 프린터"
+building_fe_factory_desc:  "이제 훨씬 낮은 품질의 제품을 과도하게 복제하는 경쟁업체와 싸워야 한다는 개념을 없앨 때입니다. 새로운 기술을 통해 우리는 모든 불법 복제품을 부끄럽게 만드는 가격으로 제품을 만들 수 있습니다."
+ 
+building_ae_factory:  "고급 하드라이트 재료 생성자"
+building_ae_factory_desc:  "우리는 워크샵 공간을 늘리기 위해 언제든지 더 많은 리소스를 할당할 수 있습니다. 이제 문맨들에게 작별 인사를 할 시간입니다. 안녕~ 문멘~"
+ 
+tech_fe_factory:  "하드라이트 재료 생성"
+tech_fe_factory_desc:  "암흑 물질을 완전히 이해하기 전에는 물질을 생성할 만큼만 부분을 간신히 그릴 수 있었습니다. 이제 우리는 암흑물질로부터 순수 하드라이트 기술을 사용하여 대량의 합성 소비재를 만드는 것이 가능하다는 것을 깨달았습니다."
+ 
+tech_ae_factory:  "고급 마스터 프린터"
+tech_ae_factory_desc:  "Hard-Light 인쇄 기술의 발전을 통해 재료 제품을 생산할 수 있는 효율성을 더욱 향상시킬 수 있습니다."
+ 
+ 
+######################## DM DE ########################
+ 
+building_dark_energy_pylon:  "암흑에너지 철탑"
+building_dark_energy_pylon_desc:  "암흑 에너지를 끌어들이는 결정화된 암석으로 만들어진 철탑입니다. 기술자는 이 건물에서 사용 가능한 암흑 에너지를 생산할 수 있습니다."
+ 
+building_ae_dark_energy_pylon:  "암흑에너지 첨탑"
+building_ae_dark_energy_pylon_desc:  "이 거대한 첨탑에는 기술자들이 파일론에서 암흑 에너지를 흡수할 수 있는 다양한 포트가 있습니다."
+ 
+tech_dark_energy_pylon:  "암흑 에너지 생성"
+tech_dark_energy_pylon_desc:  "다양한 델타 기술을 더욱 발전시키기 위해서는 자연 블랙홀 없이 암흑 에너지를 생성하는 방법을 배워야 합니다. 우리는 자연 암석을 합성 암흑 에너지를 생성하는 강력한 도관 역할을 하는 강력한 도관으로 바꾸는 것이 가능하다는 것을 배웠습니다."
+ 
+tech_ae_dark_energy_pylon:  "암흑에너지 첨탑"
+tech_ae_dark_energy_pylon_desc:  "이제 우리는 암흑 에너지를 빨아들이는 매개체로서 철탑의 결정화 전체 과정을 훨씬 더 잘 이해하게 되었습니다. 암흑 에너지 첨탑은 우리에게 큰 도움이 될 것입니다."
+ 
+ 
+#############################
+ 
+building_dark_matter_generator:  "암흑물질 변환기"
+building_dark_matter_generator_desc:  "암흑 물질 변환기는 연금술사가 암흑 물질을 사용 가능한 자원으로 합성하는 데 필요한 도구를 제공합니다."
+ 
+building_ae_dark_matter_generator:  "암흑물질 질량 변환기"
+building_ae_dark_matter_generator_desc:  "향상된 구조적 무결성을 통해 질량 변환기는 이제 연금술사를 위한 추가 작업장을 지원할 수 있습니다."
+ 
+tech_dark_matter_generator:  "고급 암흑물질 생성"
+tech_dark_matter_generator_desc:  "과학의 지속적인 발전으로 우리는 행성 자체의 대기를 사용하여 암흑 물질을 합성할 수 있게 되었습니다. 전담 연금술사가 필요하지만 이 과정은 안전하며 천연 자원을 소모하지 않습니다."
+ 
+tech_ae_dark_matter_generator:  "암흑물질 질량 변환"
+tech_ae_dark_matter_generator_desc:  "우리가 암흑 물질에 대한 점점 더 많은 기술적 적응을 통합함에 따라 우리는 이 수수께끼의 자원을 더 많은 양으로 생성할 수 있는 방법을 찾아야 합니다."
+ 
+ 
+#############################
+ 
+building_dark_matter_synthersizer:  "차원 수확기"
+building_dark_matter_synthersizer_desc:  "이 건물은 우리 제국을 위해 암흑 물질과 암흑 에너지를 자동으로 수확하는 하위 차원으로의 소형화된 관문을 생성합니다. 또한, 이 건물은 각 생산 건물의 양에 비례하여 추가로 암흑물질과 암흑에너지를 생성하며 최대 4개까지 생성됩니다."
+ 
+building_ae_dark_matter_synthersizer:  "차원의 넥서스"
+building_ae_dark_matter_synthersizer_desc:  "여러 차원에서는 항상 더 많은 암흑 물질과 암흑 에너지를 수확해야 합니다. 이전 모델과 마찬가지로 이 건물도 각 생산 건물의 양에 비례하여 최대 4개까지 암흑물질과 암흑에너지를 추가로 생성합니다."
+ 
+tech_dark_matter_synthersizer:  "블랙홀 합성"
+tech_dark_matter_synthersizer_desc:  "이제 우리는 막대한 양의 수수께끼의 자원을 수집할 수 있는 하위 차원 포털 게이트웨이를 잠재적으로 생성할 수 있는 신뢰할 수 있는 기술을 보유하게 되었습니다. 이를 통해 우리는 암흑 물질과 암흑 에너지를 풍부하게 추출할 수 있습니다. 건물은 자동화되어 있지만 유지 관리 비용이 상당히 높습니다."
+ 
+tech_dark_matter_synthersizer_ae:  "어둠의 네 기둥"
+tech_dark_matter_synthersizer_ae_desc:  "차원 제작자인 Dark Portal Nexus와 동일한 원리를 기반으로 합니다. 4개의 암흑 에너지 기둥이 안정적으로 고정되어 있어 엄청난 양의 암흑 물질과 다른 차원의 암흑 에너지를 추출할 수 있습니다. 프로세스는 복잡하기는 하지만 훨씬 더 안전하므로 유지 관리 비용에 대한 부담이 줄어듭니다."
+ 
+tech_mine_dark_energy:  "암흑에너지 그림"
+tech_mine_dark_energy_desc:  "블랙홀의 본질에 대한 기본적인 이해를 통해 우리는 스스로 블랙홀에 쪼개지지 않고 자연 블랙홀에서 암흑물질을 추출할 수 있습니다."
+ 
+ 
+######################## RESEARCH ########################
+ 
+building_enigmatic_lab:  "수수께끼의 연구실"
+building_enigmatic_lab_desc:  "모든 분야의 과학자들이 이 건물 안에 모여 수수께끼의 기술과 모든 분야에서의 잠재적 응용을 연구합니다."
+ 
+building_ae_enigmatic_lab:  "블랙 메사 연구단지"
+building_ae_enigmatic_lab_desc:  "이 대규모 복합 주택에는 은하계 전역에서 수집된 다양한 수수께끼의 유물이 있습니다. 은하계 전역의 과학자들이 선구자들의 비밀을 밝혀내기 위해 이곳으로 모여듭니다. 슬레이브맨 박사님, 익명 소재 연구실에 보고해 주세요."
+ 
+tech_enigmatic_lab:  "수수께끼의 연구실"
+tech_enigmatic_lab_desc:  "전구체 기술의 잠재력을 최대한 파악하고 탐구하려면 모든 분야의 과학자가 필요합니다. 따라서 우리 실험실은 관련된 모든 사람에게 필요한 장비를 제공하도록 재구성되어야 합니다."
+ 
+tech_ae_enigmatic_lab:  "블랙 메사 연구단지"
+tech_ae_enigmatic_lab_desc:  "과학에 대한 우리의 추구는 결코 식지 않습니다. 우리에게는 더 많은 과학자, 연구자, 엔지니어, 이론가 등 모든 것이 필요합니다. 우리는 더 많은 것을 이해해야 합니다...더 많은 것."
+ 
+#############################
+ 
+building_fe_institute:  "델타 사이언스 콤플렉스"
+building_fe_institute_desc:  "우리는 발견의 가장자리로 나아갑니다. 그리고 거기에 도달하면 더 멀리 밀어붙입니다."
+ 
+building_ae_institute:  "알파마스터 연구단지"
+building_ae_institute_desc:  "지식을 음식으로 소비하는 사람들을 위한 수많은 고대 유물, 박물관, 실험실 및 수많은 지루한 서류 작업을 수용하는 거대 단지입니다. 안으로 들어간 연구원은 결코 돌아오지 못한다고 합니다."
+ 
+tech_fe_institute:  "첨단연구소" 
+tech_fe_institute_desc:  "현재의 연구소에는 항상 한 가지 문제가 있습니다. 이미 뛰어난 지성을 지닌 사람들이 어울리기에는 좋은 장소지만, 그들을 창조하기에는 반드시 좋은 장소는 아니라는 점입니다. 우리는 이 연구소를 미래의 젊은이들이 공부하고 앞에 놓여 있는 큰 야망을 위해 준비할 수 있는 대규모 대학으로 변모시킬 것입니다."
+ 
+tech_ae_institute:  "Aedeleus 애드온"
+tech_ae_institute_desc:  "선구자의 고대 유물을 해독하고 이해하는 데 특화된 연구소에 특별한 추가 기능을 추가하면 은하계 전역의 과학자들의 관심을 크게 끌 수 있습니다."
+ 
+ 
+######################## DEFENSES ########################
+ 
+building_dm_stronghold:  "다이달로스 정렬"
+building_dm_stronghold_desc:  "이 수수께끼의 요새에는 수백 개의 무기 플랫폼과 복잡한 지하 구역이 있습니다. 엘리트 Dark Enforcer의 보호를 받는 행성은 감시의 눈 아래 안전하게 보호됩니다. 이 정렬은 행성에 폭격을 시도하는 적대적인 함대를 자동으로 표적으로 삼는 지대공 궤도 대폭격 궤도 방어 대포를 행성에 제공합니다."
+ 
+building_ae_stronghold:  "알파리우스 정렬"
+building_ae_stronghold_desc:  "이 수수께끼의 요새에는 수백 개의 무기 플랫폼과 복잡한 지하 구역이 있습니다. 엘리트 Dark Enforcer의 보호를 받는 행성은 감시의 눈 아래 안전하게 보호됩니다. 이 정렬은 행성에 폭격을 시도하는 적대적인 함대를 자동으로 표적으로 삼는 지대공 궤도 대폭격 궤도 방어 대포를 행성에 제공합니다."
+ 
+tech_dm_stronghold:  "수수께끼의 방어 그리드"
+tech_dm_stronghold_desc:  "이전에는 현지 국방군이 보안팀과 별도로 활동했습니다. 이로 인해 불필요하게 공간을 차지하는 전문가와 두 개의 별도 건물에 대한 수요가 발생합니다. 과거의 선구자들로부터 영감을 받아 새로 형성된 Dark Enforcer Divisions와 함께 Daedaleus Alignment는 행성의 보안 부대이자 제국의 정예 전투 부대로 기능할 것입니다. 또한 정렬은 행성을 폭격하려는 적대적인 함대를 자동으로 표적으로 삼는 지대공 궤도 대폭격 궤도 방어 대포를 행성에 제공합니다."
+ 
+tech_ae_stronghold:  "수수께끼의 방어 그리드"
+tech_ae_stronghold_desc:  "현재의 요새는 기본적인 침입자를 막아낼 수 있을지 모르지만, 건물 자체는 제한된 공간과 구식 무기로 인해 대규모 침입자에게 너무 취약합니다. 이를 위해 우리는 잠재적인 침입자에게 더 많은 도전을 제공해야 하는 차세대 요새에 대한 개념을 설계했습니다."
+ 
+ 
+#############################
+ 
+decision_acot_gigafortress_deploy:  "기가포트리스 배치"
+decision_acot_gigafortress_deploy_desc:  "기가포트리스 배치"
+
+decision_acot_gigafortress_land:  "랜드 기가 포트리스"
+decision_acot_gigafortress_land_desc:  "랜드 기가 포트리스"
+
+building_dark_energy_psg:  "암흑 에너지 행성 쉴드 생성기"
+building_dark_energy_psg_desc:  "수수께끼의 반응기를 활용하면 이전보다 더 강력할 뿐만 아니라 훨씬 더 에너지 효율적인 보호막 생성기를 만들 수 있습니다."
+ 
+building_ae_dark_energy_psg:  "스카이 쉴드"
+building_ae_dark_energy_psg_desc:  "Sky Shield는 들어오는 폭격 피해를 감소시킬 뿐만 아니라 고급 반사 방패를 사용하여 적에게 미치는 피해를 막아냅니다."
+ 
+tech_dark_energy_psg:  "암흑 에너지 행성 쉴드 생성기"
+tech_dark_energy_psg_desc:  "이제 우리는 수수께끼의 보호막 기술을 개발했으므로 현재의 행성 보호막 생성기를 새로운 시스템에 맞게 수정하는 것도 간단한 작업이 될 것입니다."
+ 
+tech_ae_dark_energy_psg:  "반사 쉴드"
+tech_ae_dark_energy_psg_desc:  "암흑 에너지 PSG는 폭격에 대해 허용 가능한 보호 기능을 제공하지만 많은 전술가는 건물 자체가 일반적으로 그 이상으로는 쓸모가 없다고 지적합니다. 행성이 폭격 공격에 대해 보복하는 데 도움이 되는 새로운 유형의 반사 보호막이 추가됩니다."
+ 
+#############################
+ 
+acot_giga_fortress:  "기가포트리스 배치"
+acot_giga_fortress_plural:  "배치된 기가 포트리스"
+acot_giga_fortress_desc:  "기가포트리스 배치"
+
+ACOT_GIGAFORTRESS_CORE_SECTION:  "기가 포트리스 코어"
+ACOT_GIGAFORTRESS_XL_SECTION:  "기가 포트리스 척추 날개"
+ACOT_GIGAFORTRESS_LARGE_SECTION:  "기가요새 포병전단"
+ACOT_GIGAFORTRESS_HANGAR_SECTION:  "기가포트리스 격납고윙"
+ACOT_GIGAFORTRESS_MEDIUM_SECTION:  "기가 포트리스 수호 날개"
+
+building_giga_fortress:  "기가 포트리스"
+building_giga_fortress_desc:  "기가 포트리스(Giga Fortress)는 전함 크기의 초고속 포대 3개와 다양한 방어 시스템, 군단 수비대를 갖춘 거대 크기의 자립형 행성 요새입니다. 그 존재만으로도 모든 시민의 신뢰가 고취되고 불안의 가능성이 제거됩니다. 감히 반란을 일으키려는 사람은 누구나 즉시 전멸될 것이기 때문입니다."
+ 
+building_giga_fortress_array:  "기가포트리스 - 전략센터"
+building_giga_fortress_array_desc:  "전략 센터 모듈은 더 나은 조정을 위해 요새 슈퍼 컴퓨터를 제국의 함대와 연결합니다. Mentat도 전술적 전략 분석 역할을 위해 배치됩니다."
+ 
+building_giga_fortress_lab:  "기가 포트리스 - 권좌"
+building_giga_fortress_lab_desc:  "Seat of Power 모듈은 일부 정치 지도자를 요새로 이동시켜 제국의 통합과 고위 관리를 강화하고 영향력을 강화합니다."
+ 
+building_giga_fortress_obelisk:  "기가 포트리스 - 빛의 오벨리스크"
+building_giga_fortress_obelisk_desc:  "설치된 빛의 오벨리스크 모듈은 요새의 방어력을 크게 향상시킬 뿐만 아니라 우리 군대에 추가 훈련장을 제공합니다. 암흑 에너지와 암흑 물질을 제공하기 위해 추가 발전기도 설치됩니다."
+ 
+building_giga_fortress_fe:  "고대 기가 요새"
+building_giga_fortress_fe_desc:  "오래되었지만 여전히 엄청나게 강력한 타이타닉 크기의 자립형 행성 요새로, 반침공 메커니즘으로 철저하게 무장되어 있습니다. 원시 생물이나 야생 동물을 폭파하는 것은 이러한 쾌락주의자들이 여전히 "일"로 통하는 것으로 즐기는 유일한 것 중 하나입니다."
+ 
+tech_giga_fortress:  "기가 요새 시각화"
+tech_giga_fortress_desc:  "수수께끼의 암흑 에너지 원자로로 구동되는 Giga Fortress는 가장 치명적인 침략군을 쓸어버릴 수 있는 가장 치명적이고 자립 가능한 행성 요새입니다."
+ 
+######################## OTHERS ########################
+ 
+mod_country_resource_max_consumer_goods_add:  "최대 소비재 추가"
+
+building_fe_mansion:  "디럭스 맨션"
+building_fe_mansion_desc:  "D-2 디럭스 맨션은 심플한 디자인이지만 품격있고 세련된 주거 공간을 제공합니다. 밈 영주들이 레크리에이션 서비스를 제공하는 곳이기도 합니다."
+ 
+building_ae_mansion:  "수수께끼의 펜트하우스"
+building_ae_mansion_desc:  "이 거대하고 우뚝 솟은 저택에서는 가난한 사람들 중 가장 가난한 사람들도 질과 스타일이 가득한 삶을 살게 될 것입니다."
+ 
+tech_dark_mansion:  "문명시대"
+tech_dark_mansion_desc:  "새로운 기술로 인해 새로운 라이프스타일이 탄생합니다. 과거의 왕들이 살았던 방식대로 이제는 가장 가난한 사람들도 건물이 별에 닿을 수 있는 문명화된 생활 방식을 누릴 수 있습니다."
+ 
+tech_ae_dark_mansion:  "캐슬바니아"
+tech_ae_dark_mansion_desc:  "우리는 모든 인구가 자신만의 작은 성을 갖는 사회로 발전하고 있습니다. 머지않아 평범한 집과 탑의 모습은 사라질 것입니다. 우리의 문명은 모든 평민의 부러움을 받을 것입니다."
+ 
+#############################
+ 
+building_dm_ancient_cryo_chamber:  "델타 유지 관리 허브"
+building_dm_ancient_cryo_chamber_desc:  "이 고급 건물에는 지속적인 의식 생산성을 위한 다양한 유지 관리 공간이 있습니다. 밈 수확기(Meme Harvesters)도 유기물을 밈하기 위해 여기에 주둔하고 있습니다."
+ 
+building_ae_ancient_cryo_chamber:  "알파 스테이시스 코어"
+building_ae_ancient_cryo_chamber_desc:  "이 건물에는 수십억 개의 육체가 미리 준비되어 있으며, 기한이 지났거나 손상된 신체는 즉시 교체할 준비가 되어 있습니다. 건물. 장치 준비."
+ 
+tech_dm_ancient_cryo_chamber:  "고급 유지 관리 서비스"
+tech_dm_ancient_cryo_chamber_desc:  "우리 유지보수 창고의 기존 모델은 비효율적이며 대규모 단위 유지보수를 지원할 수 없습니다. 최적의 장치 작업 회전을 보장하려면 충분한 서비터 장치를 갖춘 새로운 설치가 필요합니다."
+ 
+tech_ae_ancient_cryo_chamber:  "마스터 서버 모듈"
+tech_ae_ancient_cryo_chamber_desc:  "하위 서버에 마스터 유닛을 할당하면 기본 지시문에서 과도하고 불필요한 입력을 요구하지 않고도 작업 부하 순서의 효율성이 크게 높아집니다."
+ 
+#############################
+ 
+building_fe_hive_depot:  "하이브 스파이어"
+building_fe_hive_depot_desc:  "암흑 에너지가 주입된 첨탑은 군체의 의식 진행을 지속적으로 유지할 수 있습니다. 밈 수확기(Meme Harvesters)도 분열을 밈하기 위해 여기에 주둔하고 있습니다."
+ 
+building_ae_hive_depot:  "그레이터 하이브 첨탑" 
+building_ae_hive_depot_desc:  "거대한 엑소스켈톤으로 더욱 진화된 Greater Spire는 새로운 드론을 생성할 수 있는 더 많은 공간을 제공합니다."
+ 
+tech_fe_hive_depot:  "시퀀스 라이브러리"
+tech_fe_hive_depot_desc:  "암흑 에너지의 적용을 통해 Hive는 현재 확장된 유전자 라이브러리에 저장된 시퀀스를 회전시켜 점점 더 성장할 것입니다."
+ 
+tech_ae_hive_depot:  "군단의 심장"
+tech_ae_hive_depot_desc:  "일단 자아가 무리를 느낄 수 있게 되었지만 이제는 자아가 무리가 될 것입니다. 적응하고, 발전하고, 정복하세요. 군단은 실패하지 않을 것입니다."
+ 
+ 
+######################## STELLARITE ########################
+ 
+building_stellarite_generator:  "스텔라라이트 생성기"
+building_stellarite_generator_desc:  "훌륭하지 않나요? 우리 마음이 원하는 대로 그 힘을 추출할 수 있는 인공 별을 만드는 것입니다. 우리의 반대는 모두 불태워져 버릴 것입니다. 그렇죠!\n\n§R경고!: 한 행성에 여러 개의 발전기를 건설하면 심각한 결과가 발생할 수 있습니다.§!"
+ 
+building_stellarite_nexus:  "스텔라라이트 에너지 도관"
+building_stellarite_nexus_desc:  "장의 강도를 클래스 10으로 높이는 것은 기술적으로 여전히 허용 가능한 매개변수 내에 있습니다. 핵 옵션 이전에는 아직 20레벨이 남아 있습니다."
+ 
+#############################
+ 
+building_stellarite_generator_ae:  "고급 스텔라라이트 생성기"
+building_stellarite_generator_ae_desc:  "2세대 스텔라라이트 생성기. 새롭게 개선된 스텔라 파일론은 훨씬 더 안정되고 안전해졌습니다. Stellarite Power Conduit과 함께 구축하면 더욱 향상될 수도 있습니다."
+ 
+tech_stellarite_generator_ae:  "고급 항성 에너지 패널"
+tech_stellarite_generator_ae_desc:  "고대 기록에서 스텔라라이트 생성의 본질에 대한 통찰을 통해 우리는 이 전력을 효율적이고 안전하게 생성하는 방법에 대한 새로운 이해를 얻었습니다."
+ 
+ 
+######################## PRECURSOR BUILDING ########################
+ 
+building_ae_affluence_center:  "영감의 대학"
+building_ae_affluence_center_desc:  "우리 제품은 최고의 예술가들이 만든 가장 우아한 디자인으로 만들어졌다는 사실을 더 넓은 은하계에 알리십시오."
+ 
+tech_ae_affluence_center:  "장인의 완벽함 추구"
+tech_ae_affluence_center_desc:  "소비재를 만드는 것은 단순히 사람들의 요구를 충족시키는 것이 아니라 멋진 방식으로 그들을 만족시키는 것입니다. 우리의 예술 작품과 제품은 누구에게도 뒤지지 않을 것입니다."
+ 
+#############################
+ 
+building_ae_class_4_singularity:  "최적화된 4등급 특이점"
+building_ae_class_4_singularity_desc:  "통제가 유지되어야 합니다. 4등급 특이점은 항상 존재해야 합니다."
+ 
+tech_ae_class_4_singularity:  "특이점 필드 최적화"
+tech_ae_class_4_singularity_desc:  "알파 연구 분야의 발전을 통해 우리는 오래된 전구체의 4등급 특이점 격리 분야를 더욱 최적화할 수 있습니다."
+ 
+#############################
+ 
+building_ae_dimensional_fabricator:  "차원 문턱 문"
+building_ae_dimensional_fabricator_desc:  "우리는 이미 재료를 가져온 다른 제국의 다른 차원에서 재료를 가져온 우리 제국의 다른 차원에서 재료를 가져오는 기술을 가지고 있습니다."
+ 
+tech_ae_dimensional_fabricator:  "차원 개시"
+tech_ae_dimensional_fabricator_desc:  "다양한 하위 차원에는 다른 사람에게서 물건을 훔치는 데 동일한 행동을 자주 사용하는 다른 사람도 있습니다. 그러면 우리는 그들에게서 우리의 것을 빼앗을 것입니다. 우리는 우리가 싫어하는 것, 그리고 우리가 사랑하는 것으로부터 물건을 빼앗아 은하계를 구할 것입니다."
+ 
+#############################
+ 
+building_ae_sky_dome:  "스타돔"
+building_ae_sky_dome_desc:  "하늘 너머에는 별이 놓여 있습니다. 시작이 없는 별, 끝이 없는 별."
+ 
+tech_ae_sky_dome:  "스타 돔"
+tech_ae_sky_dome_desc:  "하늘 너머에는 별이 놓여 있습니다. 시작이 없는 별, 끝이 없는 별."
+ 
+#############################
+ 
+building_ae_empyrean_shrine:  "대성당"
+building_ae_empyrean_shrine_desc:  "정말 감동적인 건물입니다. 각각의 대 대성당은 우리의 신성한 제국에 신성한 곳이며, 그들의 노래와 신앙의 합창은 별들 너머에서 들을 수 있습니다."
+ 
+tech_ae_empyrean_shrine:  "믿음의 합창"
+tech_ae_empyrean_shrine_desc:  "우리의 영향력은 별 전체에 퍼져야 합니다. 다른 사람들이 경외심과 두려움 속에서 우리의 신성에 대해 듣게 하십시오. 그들이 대의를 위한 우리의 헌신을 목격하게 하고 전함 크기의 대성당에 대한 언급만으로도 무릎을 꿇게 하십시오."
+ 
+#############################
+ 
+building_ae_master_archive:  "그랜드 아카이브"
+building_ae_master_archive_desc:  "수천 년 이상 이어져 온 은하계 전역의 고대 역사가 이곳에서 성취됩니다. 기록 보관인들은 잊혀진 자의 비밀을 알아내기 위해 밤낮으로 일합니다."
+ 
+tech_ae_master_archive:  "고대 기록"
+tech_ae_master_archive_desc:  "과거 자체에는 탐구할 수 있는 수많은 비밀이 담겨 있기 때문에 우리는 미래만 바라봐서는 안 됩니다. 우리는 그것들을 연구하고, 배우고, 숙달할 것입니다. 그럼 먹겠습니다."
+ 
+#############################
+ 
+building_ae_nano_forge:  "차원의 대장간"
+building_ae_nano_forge_desc:  "이 대장간의 불타는 구덩이 속에서 소름끼치는 사람들이 비존재를 존재로 변화시킵니다."
+ 
+tech_ae_nano_forge:  "다크 포지"
+tech_ae_nano_forge_desc:  "그것이 존재한다면 우리는 그것을 찾을 것입니다. 존재하지 않으면 우리가 만들겠습니다. 우리 엔지니어링 군단의 코덱스에서; 2장: 1337페이지."
+ 
+#############################
+ 
+building_ae_nourishment_center:  "농업메가콤플렉스"
+building_ae_nourishment_center_desc:  "은하계 전역의 요리사와 요리사들이 이곳에 모여 새로운 재료와 맛을 발견합니다. 미식가 시간!"
+ 
+tech_ae_nourishment_center:  "은하의 미식가"
+tech_ae_nourishment_center_desc:  "최근에는 제국 간에 다양한 요리 교류가 있었다는 소문이 계속 돌고 있습니다. 좋은 선택도 많지만 끔찍한 선택도 있습니다. 이는 용납할 수 없는 일입니다. 우리는 출처에 관계없이 제국의 모든 음식이 항상 맛있도록 해야 합니다.\n\n그러나 일부 사람들은 여전히 ​​피자에 달팽이를 넣지 말라고 항의합니다."
+ 
+#############################
+ 
+building_ae_ancient_cryo_chamber:  "고급 크라이오 챔버"
+building_ae_ancient_cryo_chamber_desc:  "네, 냉동실을 망가뜨린 버전으로 만드는 것은 결국 현명한 결정이 아니었습니다."
+ 
+######################## OLD TECH ########################
+tech_fe_galactic_trade_enclave:  "은하계의 엠포리움"
+tech_fe_galactic_trade_enclave_desc:  "우리 증권 거래소는 이미 거대하고 우리 제국에 막대한 수입을 제공하고 있지만 암흑 물질 관련 품목을 판매할 수 있는 적절한 권한이 없습니다. 우리는 이러한 수수께끼의 기술을 작은 존재들에게 자유롭게 제공할 계획은 없지만, 우리의 마케팅 전략가들은 많은 원시인들을 속여 승천자의 표식을 지닌 하찮은 장신구나 유물을 구입할 수 있다고 말합니다. 시즌 패스, 독점 컬렉터 에디션, 선주문, 조기 접속; 모든 전략은 최대 이익을 달성하기 위해 사용됩니다." 
+ 
+tech_fe_heaven_dome:  "천국이 현실을 만들었다"
+tech_fe_heaven_dome_desc:  "현재 파라다이스 돔 모델은 핵심 종들에게 편의 시설과 행복을 제공하는 데는 매우 효과적이지만, 발전기는 새로운 개선에 필요한 추가 섹션을 지원할 만큼 강력하지 않았습니다. 이제 Dark Matter Reactor의 도입과 보다 효율적인 의료 관리를 통해 이러한 제한을 제거할 수 있습니다."
+ 
+tech_fe_visitor_center:  "선구자 유물 컬렉션"
+tech_fe_visitor_center_desc:  "우리는 과거에 전구체 유물을 많이 연구했습니다. 우리 외교관들은 우리가 수집하고 성취한 더 훌륭한 것들 중 일부를 전시하는 방문자 센터에 새로운 박물관 섹션을 열어야 한다고 믿습니다. 메시지는 분명합니다. 오래된 낡은 제국에 머물거나 더 나은, 더 밝은 미래를 위해 우리와 함께 하세요."
+ 
+tech_fe_military_academy:  "일류 육군 숙소"
+tech_fe_military_academy_desc:  "시민의 자질과 삶을 향상시키는 동시에 전쟁터에서 봉사하는 우리 국민을 잊어서는 안 됩니다. 그들 역시 우리가 진정으로 은하계를 더 나은 곳으로 만들 사람임을 격려하기 위해 근무 외 시간 동안 최고의 치료를 제공받아야 합니다."
+ 
+tech_fe_obelisk_of_light:  "빛의 오벨리스크"
+tech_fe_obelisk_of_light_desc:  "우리는 큰 계획에서 볼 때 우리 국방군이 수개월에 걸친 폭격으로 지원되는 완전한 침략을 막을 수 없을 것 같다는 점을 인정합니다. 그러나 우리는 강력한 방어 건물 역할을 하는 독특한 과학 시설을 건설할 수 있는 잠재력을 여전히 보고 있습니다."
+ 
+tech_fe_assemble:  "하드라이트 조립"
+tech_fe_assemble_desc:  "<주의보> 새로운 조립기술이 발견됐다. 하드라이트 소재; 빛 스펙트럼을 고체 형태로 변환합니다. 100% 효율성 증가가 예상됩니다. <권장사항> 반드시 획득해야 합니다."
+ 
+tech_fe_singularity_core:  "유기적 금융 지배력"
+tech_fe_singularity_core_desc:  "<경고> 최적의 확률 계산이 달성되었습니다. 이제 <유기농 시장>과 주식에 침투할 수 있게 되었습니다. <유기물>을 조작하여 <기계제품>에 투자할 수 있음 /// 재정적 지배력을 확보해야 합니다."
+ 
+tech_fe_communication_nexus:  "인공은하"
+tech_fe_communication_nexus_desc:  "우리 과학부에서는 <30등급 특이점>이 결국 올 수도 있다고 합니다. <원인> = 오가닉의 비논리적인 결정은 은하계 규모의 파괴를 불러일으킬 것입니다. 우리는 유기체가 자기인내 모듈을 유지하지 못하여 발생하는 피할 수 없는 어리석음에 대비해야 합니다."
+ 
+tech_fe_war_factory:  "선구자 전투 코드 적용"
+tech_fe_war_factory_desc:  "침략 유닛을 위한 현재 전투 코드는 이미 매우 효율적이지만, 선구자의 전쟁 기계에서 사용하는 코드와 비교하면 미미합니다. <권장사항> 프리커서의 전투 데이터를 분석하고 획득하세요."
+ 
+tech_infinity_engine:  "무한대 계산"
+tech_infinity_engine_desc:  "선구자로부터 얻은 업데이트된 코드를 통해 유기적 확률 계산은 이제 사소한 작업이 되었습니다. 우리는 그들의 경제를 완전히 통제할 것입니다. 우리는 무한대에 도달할 것입니다."
+ 
+tech_fe_communication_nexus:  "암흑 에너지 분포"
+tech_fe_communication_nexus_desc:  "우리는 이미 기계 장치에 암흑 물질 코어를 설치하기 시작했지만 암흑 에너지를 표면의 공기를 둘러싸는 보이지 않는 형태로 변환할 수 있다는 사실을 발견했습니다. 예상 예측에 따르면 이를 통해 모든 작업 단위의 처리 능력이 향상됩니다."
+ 
+tech_fe_slave_processing:  "불멸화"
+tech_fe_slave_processing_desc:  "노예는 값싸고 통제하기 쉽지만 항상 효율적이지는 않습니다. 그들은 또한 노련한 군대에 맞서는 끔찍한 군인이 됩니다. 승천한 제국으로서 이것은 있을 수 없습니다..이것은 성립되지 않을 것입니다. 우리는 별에 맞서는 우리의 불굴의 의지를 궁극적으로 표현하도록 태어날 때부터 훈련받은 새로운 세대의 노예 병사들을 구성할 것입니다."
+ 
+tech_fe_betharian:  "암흑물질이 융합된 베타리안 스톤"
+tech_fe_betharian_desc:  "베타리안 돌은 암흑 물질에 대해 특이한 반응을 보이는 것 같습니다. 어쩌면 우리는 이 문제를 더 탐구해야 할 수도 있고, 암흑 물질 발전소에 비해 이제 꽤 쓸모가 없어진 현재의 베타리안 발전소를 개선할 수도 있습니다."
+ 
+tech_fe_habitats:  "더 스타즈 아워 홈"
+tech_fe_habitats_desc:  "이제 우리의 수수께끼의 엔지니어링을 서식지 건물에 가져올 때입니다! 우리의 첨단 기술을 통해 우주 정거장에 존재하는 모든 약점을 제거할 것입니다. 우리는 우리가 밟는 곳마다 집으로 돌아갈 것입니다."
+
+sm_acot_spaceport_module_advanced_batteries:  "고급 배터리 모듈"
+sm_acot_spaceport_module_advanced_batteries_desc:  "4개의 중형 무기 섹션과 뛰어난 강화 기능을 갖춘 더욱 강력한 모듈입니다. 적절한 항성 기지 건물을 통해 탐지 기능을 제공하도록 업그레이드할 수 있습니다."
+ 
+sm_acot_spaceport_module_advanced_artilleries:  "고급 포병 모듈"
+sm_acot_spaceport_module_advanced_artilleries_desc:  "2개의 대형 무기 섹션과 뛰어난 방어력을 갖춘 더욱 강력한 모듈입니다. 적절한 항성 기지 건물을 통해 탐지 기능을 제공하도록 업그레이드할 수 있습니다."
+
+sm_acot_spaceport_module_advanced_detector:  "고급 탐지 모듈"
+sm_acot_spaceport_module_advanced_detector_desc:  "훨씬 더 나은 감지 기능을 제공할 뿐만 아니라 항성기지에 추가 내구성을 제공하는 더 강력하고 더 비싼 표준 감지 모듈 변형입니다."
+
+sm_acot_starbase_detection_amplifier:  "고급 연계 탐지 시스템"
+sm_acot_starbase_detection_amplifier_desc:  "스타베이스에 탐지 기능을 추가하고 고급 무기 모듈에 탐지 기능을 제공합니다."
+sm_acot_starbase_detection_amplifier_tooltip:  "§Y모든 고급 무기 모듈에 +1 감지 기능을 추가합니다.§!"

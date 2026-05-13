@@ -1,0 +1,297 @@
+﻿l_korean:
+
+############################################################ AFTERBURNERS ############################################################
+
+#tech_afterburners_1:  "애프터버너"
+#tech_afterburners_1_desc:  "이 강력한 추진기는 추가 전투 속도를 제공하지만 많은 전력을 소비합니다."
+#tech_afterburners_2:  "고급 애프터버너"
+#tech_afterburners_2_desc:  "표준 애프터버너의 개선된 버전은 군함의 전투 속도를 더욱 향상시킵니다."
+tech_acot_afterburners_5:  "고급 애프터버너"
+tech_acot_afterburners_5_desc:  "표준 애프터버너의 개선된 버전은 군함의 전투 속도를 더욱 향상시킵니다."
+
+ACOT_AFTERBURNER_1:  "기본 애프터버너"
+ACOT_AFTERBURNER_1_DESC:  "기본 애프터버너"
+
+ACOT_AFTERBURNER_3:  "고급 애프터버너"
+ACOT_AFTERBURNER_3_DESC:  "고급 애프터버너"
+
+ACOT_AFTERBURNER_5:  "리플리컨트 애프터버너"
+ACOT_AFTERBURNER_5_DESC:  "리플리컨트 애프터버너"
+
+############################################################ SHIELD BOOSTERS ############################################################
+
+#tech_shield_rechargers_1:  "쉴드 커패시터"
+#tech_shield_rechargers_1_desc:  "이 커패시터는 선박의 방어막을 강화하기 위해 신속하게 전송할 수 있는 잉여 에너지를 저장합니다."
+tech_acot_shield_recharger_3:  "고급 쉴드 부스터"
+tech_acot_shield_recharger_3_desc:  "이 커패시터는 선박의 방어막을 강화하기 위해 신속하게 전송할 수 있는 잉여 에너지를 저장합니다."
+tech_acot_shield_recharger_5:  "리플리컨트 쉴드 부스터"
+tech_acot_shield_recharger_5_desc:  "이 커패시터는 선박의 방어막을 강화하기 위해 신속하게 전송할 수 있는 잉여 에너지를 저장합니다."
+
+ACOT_SHIELD_BOOSTER_1:  "기본 쉴드 부스터"
+ACOT_SHIELD_BOOSTER_1_DESC:  "기본 쉴드 부스터"
+
+ACOT_SHIELD_BOOSTER_3:  "고급 쉴드 부스터"
+ACOT_SHIELD_BOOSTER_3_DESC:  "고급 쉴드 부스터"
+
+ACOT_SHIELD_BOOSTER_5:  "리플리컨트 쉴드 부스터"
+ACOT_SHIELD_BOOSTER_5_DESC:  "리플리컨트 쉴드 부스터"
+
+############################################################ ARMOR BOOSTERS ############################################################
+
+tech_acot_armor_absorber_1:  "키네틱 경화제"
+tech_acot_armor_absorber_1_desc:  "키네틱 경화제"
+tech_acot_armor_absorber_3:  "고급 운동경화제"
+tech_acot_armor_absorber_3_desc:  "고급 운동경화제"
+tech_acot_armor_absorber_5:  "리플리컨트 키네틱 경화제"
+tech_acot_armor_absorber_5_desc:  "리플리컨트 키네틱 경화제"
+
+
+ACOT_ARMOR_BOOSTER_1:  "기본 운동경화제"
+ACOT_ARMOR_BOOSTER_1_DESC:  "기본 운동경화제"
+
+ACOT_ARMOR_BOOSTER_3:  "고급 운동경화제"
+ACOT_ARMOR_BOOSTER_3_DESC:  "고급 운동경화제"
+
+ACOT_ARMOR_BOOSTER_5:  "리플리컨트 키네틱 경화제"
+ACOT_ARMOR_BOOSTER_5_DESC:  "리플리컨트 키네틱 경화제"
+
+############################################################ HULL BOOSTERS ############################################################
+
+#tech_regenerative_hull_tissue:  "재생 선체 조직"
+#tech_regenerative_hull_tissue_desc:  "실리콘 기반 박테리아의 유전적으로 변형된 버전은 비유기 물질을 재생하기 위해 잠재적으로 조작될 수 있습니다."
+tech_acot_hull_reinforcer_3:  "고급 선체 강화 장치"
+tech_acot_hull_reinforcer_3_desc:  "고급 선체 강화 장치"
+tech_acot_hull_reinforcer_5:  "리플리컨트 헐 강화기"
+tech_acot_hull_reinforcer_5_desc:  "리플리컨트 헐 강화기"
+
+
+ACOT_HULL_BOOSTER_1:  "기본 선체 강화재"
+ACOT_HULL_BOOSTER_1_DESC:  "기본 선체 강화재"
+
+ACOT_HULL_BOOSTER_3:  "고급 선체 강화 장치"
+ACOT_HULL_BOOSTER_3_DESC:  "고급 선체 강화 장치"
+
+ACOT_HULL_BOOSTER_5:  "리플리컨트 헐 강화기"
+ACOT_HULL_BOOSTER_5_DESC:  "리플리컨트 헐 강화기"
+
+############################################################ TARGETING BOOSTERS ############################################################
+
+#tech_auxiliary_fire_control:  "보조사격통제시스템"
+#tech_auxiliary_fire_control_desc:  "기본 타겟팅 부스터"
+tech_acot_targeting_3:  "고급 타겟팅 부스터"
+tech_acot_targeting_3_desc:  "고급 타겟팅 부스터"
+tech_acot_targeting_5:  "리플리컨트 타겟팅 부스터"
+tech_acot_targeting_5_desc:  "리플리컨트 타겟팅 부스터"
+
+ACOT_TARGETING_BOOSTER_1:  "기본 타겟팅 부스터"
+ACOT_TARGETING_BOOSTER_1_DESC:  "기본 타겟팅 부스터"
+
+ACOT_TARGETING_BOOSTER_3:  "고급 타겟팅 부스터"
+ACOT_TARGETING_BOOSTER_3_DESC:  "고급 타겟팅 부스터"
+
+ACOT_TARGETING_BOOSTER_5:  "리플리컨트 타겟팅 부스터"
+ACOT_TARGETING_BOOSTER_5_DESC:  "리플리컨트 타겟팅 부스터"
+
+############################################################ WEAPON BOOSTERS ############################################################
+
+#Overcharged Explosive Warhead
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1:  "기본 OEW 입문서"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_1_DESC:  "기본 OEW 입문서"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3:  "고급 OEW 입문서"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_3_DESC:  "고급 OEW 입문서"
+
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5:  "리플리컨트 OEW 프라이머"
+ACOT_WEAPON_EXPLOSIVE_BOOSTER_5_DESC:  "리플리컨트 OEW 프라이머"
+
+#Reinfirced Kinetic Munition
+ACOT_WEAPON_KINETIC_BOOSTER_1:  "기본 RKM 시스템"
+ACOT_WEAPON_KINETIC_BOOSTER_1_DESC:  "기본 RKM 시스템"
+
+ACOT_WEAPON_KINETIC_BOOSTER_3:  "고급 RKM 시스템"
+ACOT_WEAPON_KINETIC_BOOSTER_3_DESC:  "고급 RKM 시스템"
+
+ACOT_WEAPON_KINETIC_BOOSTER_5:  "리플리컨트 RKM 시스템"
+ACOT_WEAPON_KINETIC_BOOSTER_5_DESC:  "리플리컨트 RKM 시스템"
+
+#Energy Capacitor Booster
+ACOT_WEAPON_ENERGY_BOOSTER_1:  "기본 ECB 단위"
+ACOT_WEAPON_ENERGY_BOOSTER_1_DESC:  "기본 ECB 단위"
+
+ACOT_WEAPON_ENERGY_BOOSTER_3:  "고급 ECB 유닛"
+ACOT_WEAPON_ENERGY_BOOSTER_3_DESC:  "고급 ECB 유닛"
+
+ACOT_WEAPON_ENERGY_BOOSTER_5:  "리플리컨트 ECB 유닛"
+ACOT_WEAPON_ENERGY_BOOSTER_5_DESC:  "리플리컨트 ECB 유닛"
+
+#Computer-Assisted Virtual Strikecraft
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1:  "기본 CIVS 시스템"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_1_DESC:  "기본 CIVS 시스템"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3:  "고급 CIVS 시스템"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_3_DESC:  "고급 CIVS 시스템"
+
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5:  "리플리컨트 CIVS 시스템"
+ACOT_WEAPON_STRIKECRAFT_BOOSTER_5_DESC:  "리플리컨트 CIVS 시스템"
+
+############################################################
+################### AUX REACTORS
+############################################################
+
+ACOT_AUX_REACTOR_1:  "기본 마이크로 원자로"
+ACOT_AUX_REACTOR_1_DESC:  "마이크로 리액터는 우주선의 특정 부분에 전력을 공급하도록 설계된 소형화된 리액터 노드입니다."
+ACOT_AUX_REACTOR_3:  "고급 마이크로 반응기"
+ACOT_AUX_REACTOR_3_DESC:  "마이크로 리액터는 우주선의 특정 부분에 전력을 공급하도록 설계된 소형화된 리액터 노드입니다."
+ACOT_AUX_REACTOR_5:  "리플리컨트 마이크로 리액터"
+ACOT_AUX_REACTOR_5_DESC:  "마이크로 리액터는 우주선의 특정 부분에 전력을 공급하도록 설계된 소형화된 리액터 노드입니다."
+
+SMALL_ACOT_AUX_REACTOR_1:  "기본 소형 마이크로 반응기"
+MEDIUM_ACOT_AUX_REACTOR_1:  "기본 중형 마이크로 반응기"
+LARGE_ACOT_AUX_REACTOR_1:  "기본 대형 마이크로 반응기"
+
+SMALL_ACOT_AUX_REACTOR_3:  "첨단 소형 마이크로 반응기"
+MEDIUM_ACOT_AUX_REACTOR_3:  "고급 중형 마이크로 반응기"
+LARGE_ACOT_AUX_REACTOR_3:  "첨단 대형 마이크로 반응기"
+
+SMALL_ACOT_AUX_REACTOR_5:  "리플리컨트 소형 마이크로 반응기"
+MEDIUM_ACOT_AUX_REACTOR_5:  "리플리컨트 중형 마이크로 반응기"
+LARGE_ACOT_AUX_REACTOR_5:  "리플리컨트 대형 마이크로 반응기"
+############################################################
+################### RESOURCE BOOSTERS 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_1:  "기본 발전기"
+ACOT_RESOURCE_NODE_ENERGY_AUX_1_DESC:  "기본 발전기는 §G6§! £energy£을 제공합니다."
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_3:  "고급 발전기"
+ACOT_RESOURCE_NODE_ENERGY_AUX_3_DESC:  "Advanced Power Generator는 §G12§! £energy£를 제공합니다."
+
+ACOT_RESOURCE_NODE_ENERGY_AUX_5:  "리플리컨트 발전기"
+ACOT_RESOURCE_NODE_ENERGY_AUX_5_DESC:  "Replicant Power Generator는 §G240§! £energy£을 제공합니다."
+
+############################ MINERAL ############################
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_1:  "기본 채굴 노드"
+ACOT_RESOURCE_NODE_MINERALS_AUX_1_DESC:  "기본 마이닝 노드는 §G4§! £minerals£를 제공합니다."
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_3:  "고급 채굴 노드"
+ACOT_RESOURCE_NODE_MINERALS_AUX_3_DESC:  "고급 마이닝 노드는 §G8§! £minerals£을 제공합니다."
+
+ACOT_RESOURCE_NODE_MINERALS_AUX_5:  "리플리컨트 마이닝 노드"
+ACOT_RESOURCE_NODE_MINERALS_AUX_5_DESC:  "리플리컨트 마이닝 노드는 §G240§! £minerals£을 제공합니다."
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1:  "기본 합금 주조소"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_1_DESC:  "기본 합금 주조소에서는 §G4§! £alloys£를 제공합니다."
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3:  "첨단 합금 주조소"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_3_DESC:  "고급 합금 주조소에서는 §G8§! £alloys£을 제공합니다."
+
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5:  "리플리컨트 합금 주조소"
+ACOT_RESOURCE_NODE_ALLOYS_AUX_5_DESC:  "Replicant Alloy Foundry는 §G120§! £alloys£을 제공합니다."
+
+############################ FOOD ############################
+
+ACOT_RESOURCE_NODE_FOOD_AUX_1:  "기초식품센터"
+ACOT_RESOURCE_NODE_FOOD_AUX_1_DESC:  "기본 식품 센터에서는 §G8§! £food£을 제공합니다."
+
+ACOT_RESOURCE_NODE_FOOD_AUX_3:  "첨단식품플라자"
+ACOT_RESOURCE_NODE_FOOD_AUX_3_DESC:  "푸드 플라자에서는 §G16§! £food£을 제공합니다."
+
+ACOT_RESOURCE_NODE_FOOD_AUX_5:  "리플리컨트 푸드 가든"
+ACOT_RESOURCE_NODE_FOOD_AUX_5_DESC:  "Replicant Food Garden은 §G240§! £food£을 제공합니다."
+
+############################ GOODS ############################
+
+ACOT_RESOURCE_NODE_GOODS_AUX_1:  "기본공급센터"
+ACOT_RESOURCE_NODE_GOODS_AUX_1_DESC:  "기본 공급 센터는 §G6§! £consumer_goods£을 제공합니다."
+
+ACOT_RESOURCE_NODE_GOODS_AUX_3:  "어드밴스드 컨벤션 센터"
+ACOT_RESOURCE_NODE_GOODS_AUX_3_DESC:  "고급 컨벤션 센터는 §G6§! £consumer_goods£을 제공합니다."
+
+ACOT_RESOURCE_NODE_GOODS_AUX_5:  "리플리컨트 물류센터"
+ACOT_RESOURCE_NODE_GOODS_AUX_5_DESC:  "리플리컨트 물류 센터는 §G120§! £consumer_goods£을 제공합니다."
+
+############################ UNITY ############################
+
+ACOT_RESOURCE_NODE_UNITY_AUX_1:  "기본 콜센터"
+ACOT_RESOURCE_NODE_UNITY_AUX_1_DESC:  "기본 콜센터는 §G6§! £unity£을 제공합니다."
+
+ACOT_RESOURCE_NODE_UNITY_AUX_3:  "고급 우주 아카이브"
+ACOT_RESOURCE_NODE_UNITY_AUX_3_DESC:  "공간 아카이브는 §G12§! £unity£를 제공합니다."
+
+ACOT_RESOURCE_NODE_UNITY_AUX_5:  "리플리컨트 우주 박물관"
+ACOT_RESOURCE_NODE_UNITY_AUX_5_DESC:  "리플리컨트 우주 박물관은 §G240§! £unity£을 제공합니다."
+
+############################ SOCIETY ############################
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1:  "기초 생체 연구실"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_1_DESC:  "Basic Biogenic Labs는 §G6§! £society£을 제공합니다."
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3:  "고급 생물공학 작전"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_3_DESC:  "Advanced Biogenic Ops는 §G12§! £society£를 제공합니다."
+
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5:  "리플리컨트 생물학적 시설"
+ACOT_RESOURCE_NODE_SOCIETY_AUX_5_DESC:  "Replicant Biogenic Facility는 §G120§! £society£을 제공합니다."
+
+############################ ENGINER ############################
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1:  "기초공학 연구실"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_1_DESC:  "기본 공학 연구실에서는 §G6§! £engineering£을 제공합니다."
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3:  "고급 엔지니어링 작전"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_3_DESC:  "Advanced Engineering Ops는 §G12§! £engineering£를 제공합니다."
+
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5:  "리플리컨트 엔지니어링 시설"
+ACOT_RESOURCE_NODE_ENGINEERING_AUX_5_DESC:  "Replicant Engineering Facility는 §G120§! £engineering£을 제공합니다."
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1:  "기초 물리학 연구실"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_1_DESC:  "기초 물리학 실험실에서는 §G6§! £physics£을 제공합니다."
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3:  "고급 물리 작전"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_3_DESC:  "Advanced Physics Ops는 §G12§! £physics£를 제공합니다."
+
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5:  "리플리컨트 물리학 시설"
+ACOT_RESOURCE_NODE_PHYSICS_AUX_5_DESC:  "Replicant Physics Facility는 §G120§! £physics£을 제공합니다."
+
+############################################################
+################### RESOURCE STATION AUX 
+############################################################
+
+############################ ENERGY ############################
+
+ACOT_RESOURCE_STATION_BASIC_AUX_1:  "기본 자원 노드"
+ACOT_RESOURCE_STATION_BASIC_AUX_1_DESC:  "기본 전원 노드는 §G6§! £energy£ 및 £minerals£를 제공합니다."
+
+ACOT_RESOURCE_STATION_BASIC_AUX_3:  "고급 자원 노드"
+ACOT_RESOURCE_STATION_BASIC_AUX_3_DESC:  "고급 전원 노드는 §G12§! £energy£ 및 £minerals£를 제공합니다."
+
+ACOT_RESOURCE_STATION_BASIC_AUX_5:  "복제 자원 노드"
+ACOT_RESOURCE_STATION_BASIC_AUX_5_DESC:  "리플리컨트 전원 노드는 §G18§! £energy£ 및 £minerals£를 제공합니다."
+
+############################ ALLOY ############################
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1:  "기본 합금 주조소"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_1_DESC:  "기본 합금 주조소에서는 §G4§! £alloys£를 제공합니다."
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3:  "고급 합금 주조소"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_3_DESC:  "고급 합금 주조소에서는 §G8§! £alloys£을 제공합니다."
+
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5:  "리플리컨트 합금 주조소"
+ACOT_RESOURCE_STATION_ALLOYS_AUX_5_DESC:  "Replicant Alloy Foundry는 §G12§! £alloys£를 제공합니다."
+
+############################ PHYSICS ############################
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1:  "기초 과학 채널"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_1_DESC:  "기초 과학 채널은 §G6§! £engineering£, £physics£ 및 £society£를 제공합니다."
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3:  "고급 과학 포스트"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_3_DESC:  "고급 과학 게시물은 §G12§! £engineering£, £physics£ 및 £society£를 제공합니다."
+
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5:  "리플리컨트 과학 벙커"
+ACOT_RESOURCE_STATION_SCIENCE_AUX_5_DESC:  "복제 과학 벙커는 §G18§! £engineering£, £physics£ 및 £society£를 제공합니다."

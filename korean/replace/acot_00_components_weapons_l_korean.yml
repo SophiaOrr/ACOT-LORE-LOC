@@ -1,0 +1,1934 @@
+﻿l_korean:
+
+gateway_kinetic_weapons:  "§S운동 무기 경로§!\n§E이 기술은 운동 무기 분야의 발전을 가져올 것입니다.§!"
+gateway_energy_weapons:  "§B에너지 무기 경로§!\n§E이 기술은 에너지 무기 분야의 발전을 가져올 것입니다.§!"
+gateway_explosive_weapons:  "§H폭발성 무기 개발 경로§!\n§E이 기술은 폭발성 무기 분야의 발전을 가져올 것입니다.§!"
+
+gateway_magnetic_weapons:  "§S자기 무기 경로§!\n§E이 기술은 자기 무기 분야의 발전을 가져올 것입니다.§!"
+gateway_autocannon_weapons:  "§S자동 무기 경로§!\n§E이 기술은 기관포 시스템 분야의 발전을 가져올 것입니다.§!"
+gateway_wrecker_weapons:  "§S충격 무기 경로§!\n§E이 기술은 충격포 분야의 발전을 가져올 것입니다.§!"
+
+gateway_beam_weapons:  "§B빔 무기 경로§!\n§E이 기술은 빔 무기 분야의 발전을 가져올 것입니다.§!"
+gateway_plasma_weapons:  "§B플라즈마 무기 경로§!\n§E이 기술은 플라즈마 무기 분야의 발전을 가져올 것입니다.§!"
+gateway_disruptors_weapons:  "§B교란기 무기 경로§!\n§E이 기술은 교란기 무기 분야의 발전을 가져올 것입니다.§!"
+
+gateway_missiles_weapons:  "§H미사일 무기 경로§!\n§E이 기술은 미사일 분야의 발전을 가져올 것입니다.§!"
+
+gateway_strikecraft_weapons:  "§H스트라이크크래프트 경로(Strikecraft Path)§!\n§E이 기술은 타격크래프트 분야의 발전을 가져올 것입니다.§!"
+
+#weapon_type_energy:  "§B에너지§!"
+#weapon_type_kinetic:  "§S키네틱§!"
+#weapon_type_explosive:  "§H폭발적§!"
+#weapon_type_strike_craft:  "§G스트라이크크래프트§!"
+#weapon_type_point_defense:  "§M지점 방어§!"
+weapon_type_energy_beam:  "§Y빔§!"
+weapon_type_energy_disruptor:  "§Y방해자§!"
+weapon_type_energy_plasma:  "§Y플라즈마§!"
+weapon_type_kinetic_magnetic:  "§Y마그네틱§!"
+weapon_type_kinetic_auto:  "§Y자동포§!"
+weapon_type_kinetic_wrecker:  "§Y충격§!"
+weapon_type_explosive_missile:  "§Y미사일§!"
+weapon_type_explosive_drone:  "§Y탐색 드론§!"
+weapon_type_explosive_mgl:  "§Y자기 수류탄§!"
+weapon_type_strike_craft_energy:  "§Y건쉽 빔§!"
+weapon_type_strike_craft_kinetic:  "§Y전투기 자동포§!"
+weapon_type_strike_craft_explosive:  "§Y폭격 미사일§!"
+weapon_type_strike_craft_point_defense:  "§Y요격 지점 방어§!"
+
+############################################################ ENERGY ############################################################
+
+tech_acot_weapon_energy:  "에너지 커패시터"
+tech_acot_weapon_energy_desc:  "Mark I 에너지 커패시터는 다양한 수준의 에너지 기반 무기를 투사하는 데 사용할 수 있는 기본적이지만 소박한 전력 시스템입니다."
+
+tech_acot_weapon_energy_2:  "고급 에너지 커패시터"
+tech_acot_weapon_energy_2_desc:  "데이터뱅크의 다양한 업그레이드와 개선 사항을 사용하여 차세대 EC는 훨씬 더 많은 전력을 저장하고 동시에 충전할 수 있으므로 잠재적으로 더 발전된 에너지 무기 시스템을 개발할 수 있습니다."
+
+tech_acot_weapon_energy_3:  "복제 에너지 축전기"
+tech_acot_weapon_energy_3_desc:  "고대 문명이 사용했던 것과 동일한 기술을 직접 기반으로 한 Mark III 에너지 커패시터는 우리의 에너지 무기 시스템을 더욱 향상시키고 잠재적으로 훨씬 더 발전된 에너지 무기 시스템을 열어줄 것입니다."
+
+tech_acot_weapon_energy_6e:  "수수께끼의 에너지 축전기"
+tech_acot_weapon_energy_6e_desc:  "고대 문명이 사용했던 것과 동일한 기술을 직접 기반으로 한 Mark III 에너지 커패시터는 우리의 에너지 무기 시스템을 더욱 향상시키고 잠재적으로 훨씬 더 발전된 에너지 무기 시스템을 열어줄 것입니다."
+tech_acot_weapon_energy_6s:  "수수께끼의 에너지 축전기"
+tech_acot_weapon_energy_6s_desc:  "고대 문명이 사용했던 것과 동일한 기술을 직접 기반으로 한 Mark III 에너지 커패시터는 우리의 에너지 무기 시스템을 더욱 향상시키고 잠재적으로 훨씬 더 발전된 에너지 무기 시스템을 열어줄 것입니다."
+
+######## Laser Branch #######
+
+####### STANDARD #######
+
+#tech_lasers_1:  "레이저 대포"
+#tech_lasers_1_desc:  "표준으로 지급되는 에너지 축전기를 일부 조정하면 광선 같은 에너지 무기가 생성되어 강렬한 열을 통해 피해를 입힐 수 있습니다."
+#tech_lasers_2:  "향상된 레이저 시스템"
+#tech_lasers_2_desc:  "에너지 축전기를 더욱 다듬고 조정하면 에너지 과부하 위험을 높이지 않고도 더욱 강력한 빔 무기를 생산할 수 있습니다."
+#tech_lasers_3:  "프로토타입 프리즘 렌즈"
+#tech_lasers_3_desc:  "자외선 레이저는 이전의 파란색 레이저보다 업데이트되고 더욱 강력한 버전입니다. 정확하고 파괴적인 이 무기는 큰 피해를 입힐 수 있습니다."
+#tech_lasers_4:  "고급 프리즘 렌즈"
+#tech_lasers_4_desc:  "이 레이저는 UV 기반 레이저 무기보다 파장이 짧지만 훨씬 더 파괴적입니다."
+#tech_lasers_5:  "프리즘 코어"
+#tech_lasers_5_desc:  "감마 레이저에서 방출되는 전자기 방사선은 매우 높은 주파수를 갖습니다. 그들의 파괴적인 잠재력은 레이저 무기 분야에서 타의 추종을 불허합니다."
+
+tech_acot_lasers_6e:  "수수께끼의 레이저 빔"
+tech_acot_lasers_6e_desc:  "펄스 레이저 캐논은 감마 레이저보다 훨씬 더 높은 주파수와 화력으로 강력한 수수께끼의 에너지 빔을 발사합니다. 이 프로토타입을 통해 우리는 전구체가 활용하는 전력을 더 잘 이해할 수 있습니다. 우리는 이전 이해의 경계를 넘어서고 있습니다."
+tech_acot_laser_7e:  "델타 레이저"
+tech_acot_laser_7e_desc:  "델타 레이저는 암흑 에너지를 강력한 레이저 무기로 활용합니다. 또한 이전 세대보다 보호막 과부하에 더 강력합니다."
+tech_acot_laser_8e:  "알파레이저"
+tech_acot_laser_8e_desc:  "델타 레이저의 초점 렌즈를 추가로 보정하면 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+
+tech_acot_lasers_6s:  "수수께끼의 레이저 빔"
+tech_acot_lasers_6s_desc:  "펄스 레이저 캐논은 감마 레이저보다 훨씬 더 높은 주파수와 화력으로 강력한 수수께끼의 에너지 빔을 발사합니다. 이 프로토타입을 통해 우리는 전구체가 활용하는 전력을 더 잘 이해할 수 있습니다. 우리는 이전 이해의 경계를 넘어서고 있습니다."
+tech_acot_laser_7s:  "델타 레이저"
+tech_acot_laser_7s_desc:  "델타 레이저는 암흑 에너지를 강력한 레이저 무기로 활용합니다. 또한 이전 세대보다 보호막 과부하에 더 강력합니다."
+tech_acot_laser_8s:  "알파레이저"
+tech_acot_laser_8s_desc:  "델타 레이저의 초점 렌즈를 추가로 보정하면 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+
+
+ACOT_LASER_1:  "레이저 캐논"
+ACOT_LASER_1_DESC:  "레이저 무기는 목표물에 집중된 광선을 발사하여 강렬한 열을 발생시켜 피해를 입힙니다."
+ACOT_LASER_2:  "향상된 레이저 캐논"
+ACOT_LASER_2_DESC:  "pre-ftl 레이저에 비해 개선된 이 향상된 디자인은 대부분의 유기물에 보라색으로 나타나는 파장의 전자기 방사선을 방출합니다."
+ACOT_LASER_3:  "프로토타입 프리즘 캐논"
+ACOT_LASER_3_DESC:  "자외선 레이저는 이전의 파란색 레이저보다 업데이트되고 더욱 강력한 버전입니다. 정확하고 파괴적인 이 무기는 큰 피해를 입힐 수 있습니다."
+ACOT_LASER_4:  "프리즘 캐논"
+ACOT_LASER_4_DESC:  "X-Ray 레이저는 UV 기반 레이저 대포보다 더 많은 전력을 소비하지만 결과적으로 더 파괴적입니다."
+ACOT_LASER_5:  "고급 프리즘 캐논"
+ACOT_LASER_5_DESC:  "감마 레이저에서 방출되는 전자기 방사선은 매우 높은 주파수를 갖습니다. 그들의 파괴적인 잠재력은 이전의 모든 유형의 레이저를 능가합니다."
+ACOT_LASER_6E:  "암흑 에너지 빔 캐논"
+ACOT_LASER_6E_DESC:  "펄스 레이저 캐논은 감마 레이저보다 훨씬 더 높은 주파수와 화력으로 강력한 수수께끼의 에너지 빔을 발사합니다."
+ACOT_LASER_7E:  "델타 빔 캐논"
+ACOT_LASER_7E_DESC:  "델타 레이저는 암흑 에너지를 강력한 레이저 무기로 활용합니다. 또한 이전 세대보다 보호막 과부하에 더 강력합니다."
+ACOT_LASER_8E:  "알파빔 캐논"
+ACOT_LASER_8E_DESC:  "델타 레이저 포커싱 렌즈에 대한 추가 보정을 통해 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+ACOT_LASER_9E:  "§R타나토스 빔 캐논"
+ACOT_LASER_9E_DESC:  "§R타나토스 레이저 캐논"
+
+ACOT_LASER_6S:  "암흑 에너지 빔 캐논"
+ACOT_LASER_6S_DESC:  "펄스 레이저 캐논은 감마 레이저보다 훨씬 더 높은 주파수와 화력으로 강력한 수수께끼의 에너지 빔을 발사합니다."
+ACOT_LASER_7S:  "델타 빔 캐논"
+ACOT_LASER_7S_DESC:  "델타 레이저는 암흑 에너지를 강력한 레이저 무기로 활용합니다. 또한 이전 세대보다 보호막 과부하에 더 강력합니다."
+ACOT_LASER_8S:  "알파빔 캐논"
+ACOT_LASER_8S_DESC:  "델타 레이저 포커싱 렌즈에 대한 추가 보정을 통해 장갑판에 더욱 치명적인 알파 레이저를 개발할 수 있습니다. 이것이 우리가 암흑 에너지 조작(Dark Energy Manipulation)에 능숙하다는 증거입니다."
+ACOT_LASER_9S:  "§R타나토스 빔 캐논"
+ACOT_LASER_9S_DESC:  "§R타나토스 레이저 캐논"
+
+XS_ACOT_LASER_1:  "마이크로 레이저 캐논"
+SMALL_ACOT_LASER_1:  "소형 레이저 캐논"
+MEDIUM_ACOT_LASER_1:  "중형 레이저 캐논"
+LARGE_ACOT_LASER_1:  "대형 레이저 캐논"
+
+XS_ACOT_LASER_2:  "마이크로 개량 레이저 캐논"
+SMALL_ACOT_LASER_2:  "소형 개량형 레이저 캐논"
+MEDIUM_ACOT_LASER_2:  "중형 개량형 레이저 캐논"
+LARGE_ACOT_LASER_2:  "대형 개량형 레이저 캐논"
+
+XS_ACOT_LASER_3:  "마이크로 프로토타입 프리즘 캐논"
+SMALL_ACOT_LASER_3:  "소형 프로토타입 프리즘 캐논"
+MEDIUM_ACOT_LASER_3:  "중형 프로토타입 프리즘 캐논"
+LARGE_ACOT_LASER_3:  "대형 프로토타입 프리즘 캐논"
+
+XS_ACOT_LASER_4:  "마이크로 프리즘 캐논"
+SMALL_ACOT_LASER_4:  "소형 프리즘 캐논"
+MEDIUM_ACOT_LASER_4:  "중형 프리즘 캐논"
+LARGE_ACOT_LASER_4:  "대형 프리즘 캐논"
+
+XS_ACOT_LASER_5:  "마이크로 고급 프리즘 캐논"
+SMALL_ACOT_LASER_5:  "소형 고급 프리즘 캐논"
+MEDIUM_ACOT_LASER_5:  "중형 고급 프리즘 캐논"
+LARGE_ACOT_LASER_5:  "대형 고급 프리즘 캐논"
+
+XS_ACOT_LASER_6E:  "마이크로 다크 에너지 빔 캐논"
+SMALL_ACOT_LASER_6E:  "소형 암흑 에너지 빔 캐논"
+MEDIUM_ACOT_LASER_6E:  "중암흑에너지 빔 캐논"
+LARGE_ACOT_LASER_6E:  "대형 암흑 에너지 빔 캐논"
+XS_ACOT_LASER_6S:  "마이크로 다크 에너지 빔 캐논"
+SMALL_ACOT_LASER_6S:  "소형 암흑 에너지 빔 캐논"
+MEDIUM_ACOT_LASER_6S:  "중암흑에너지 빔 캐논"
+LARGE_ACOT_LASER_6S:  "대형 암흑 에너지 빔 캐논"
+
+SMALL_ACOT_LASER_7E:  "소형 델타 빔 캐논"
+MEDIUM_ACOT_LASER_7E:  "중형 델타 빔 캐논"
+LARGE_ACOT_LASER_7E:  "대형 델타 빔 캐논"
+SMALL_ACOT_LASER_8E:  "소형 알파 빔 캐논"
+MEDIUM_ACOT_LASER_8E:  "미디엄 알파 빔 캐논"
+LARGE_ACOT_LASER_8E:  "대형 알파 빔 캐논"
+SMALL_ACOT_LASER_9E:  "§R소형 타나토스 빔 캐논"
+MEDIUM_ACOT_LASER_9E:  "§R중형 타나토스 빔 캐논"
+LARGE_ACOT_LASER_9E:  "§R대형 타나토스 빔 캐논"
+
+####### ARTILLERY #######
+
+tech_acot_lasers_al_4:  "돋보기 렌즈"
+tech_acot_lasers_al_4_desc:  "추가 돋보기 렌즈를 설치하면 이미 치명적인 프리즘 캐논이 훨씬 더 먼 거리에서 더 많은 피해를 입힐 수 있습니다. 그러나 이러한 전력은 돌격 순서가 더 길어지고 근거리에서 돌격함에 대한 취약성이 발생할 수 있다는 대가를 치르게 됩니다."
+tech_acot_lasers_al_5:  "프리즘 크리스탈 캐스터"
+tech_acot_lasers_al_5_desc:  "오래된 기록 보관소를 기반으로 제작된 완전한 형태의 프리즘 크리스탈입니다. 프리즘 돋보기에 설치하면 더욱 치명적인 레이저 포병 무기를 만들 수 있습니다."
+tech_acot_lasers_al_6e:  "프리즘 크리스탈 캐스터"
+tech_acot_lasers_al_6e_desc:  "오래된 기록 보관소를 기반으로 제작된 완전한 형태의 프리즘 크리스탈입니다. 프리즘 돋보기에 설치하면 더욱 치명적인 레이저 포병 무기를 만들 수 있습니다."
+tech_acot_lasers_al_6s:  "프리즘 크리스탈 캐스터"
+tech_acot_lasers_al_6s_desc:  "오래된 기록 보관소를 기반으로 제작된 완전한 형태의 프리즘 크리스탈입니다. 프리즘 돋보기에 설치하면 더욱 치명적인 레이저 포병 무기를 만들 수 있습니다."
+
+ACOT_LASER_ARTILLERY_4:  "프리즘 돋보기"
+ACOT_LASER_ARTILLERY_4_DESC:  "주력함에 사용하기 위한 표준 X선 레이저 대포의 장거리 확장 버전입니다.\n\n최소 사거리: 60"
+ACOT_LASER_ARTILLERY_5:  "프리즘 캐스터"
+ACOT_LASER_ARTILLERY_5_DESC:  "주력함에 사용하기 위한 표준 감마 레이저 캐논의 장거리 확장 버전입니다.\n\n최소 사거리: 60"
+
+ACOT_LASER_ARTILLERY_6E:  "수수께끼의 빔 캐스터"
+ACOT_LASER_ARTILLERY_6E_DESC:  "빔 캐스터"
+
+ACOT_LASER_ARTILLERY_6S:  "스텔라라이트 빔 캐스터"
+ACOT_LASER_ARTILLERY_6S_DESC:  "스텔라라이트 빔 캐스터"
+
+####### XL #######
+
+#tech_energy_lance_1:  "프리즘 코어"
+#tech_energy_lance_1_desc:  "이 중에너지 무기는 막대한 피해를 입히는 집중된 입자 광선을 발사합니다. 이미터 배열의 크기로 인해 전함과 타이탄에만 사용이 제한됩니다."
+#tech_energy_lance_2:  "프리즘 정렬"
+#tech_energy_lance_2_desc:  "입자창의 더욱 강력한 버전인 이 무기는 엄청난 위력의 타키온 광선을 발사합니다. 전작과 마찬가지로 사용은 전함과 타이탄으로 제한됩니다."
+
+tech_acot_lasers_xl_6e:  "수수께끼의 창"
+tech_acot_lasers_xl_6e_desc:  "암흑에너지 랜스는 집중된 암흑에너지 광선으로 적의 방어구를 관통합니다. 랜스는 에너지 보호막의 일부를 과부하시킬 만큼 강력합니다."
+
+tech_acot_lasers_xl_6s:  "스텔라라이트 랜스"
+tech_acot_lasers_xl_6s_desc:  "암흑에너지 랜스는 집중된 암흑에너지 광선으로 적의 방어구를 관통합니다. 랜스는 에너지 보호막의 일부를 과부하시킬 만큼 강력합니다."
+
+ACOT_LASER_XL_4:  "프리즘 스파이어"
+ACOT_LASER_XL_4_DESC:  "프리즘 스파이어"
+ACOT_LASER_XL_5:  "프리즘 랜스"
+ACOT_LASER_XL_5_DESC:  "고급 프리즘 랜스"
+
+ACOT_LASER_XL_6E:  "수수께끼의 창"
+ACOT_LASER_XL_6E_DESC:  "수수께끼의 랜스는 집중된 수수께끼의 광선으로 적의 갑옷을 관통합니다."
+
+ACOT_LASER_XL_6S:  "스텔라라이트 랜스"
+ACOT_LASER_XL_6S_DESC:  "스텔라라이트 랜스는 집중된 수수께끼의 광선으로 적의 갑옷을 관통합니다."
+
+####### TITAN #######
+
+tech_acot_lasers_t_5:  "프리즘 파멸자"
+tech_acot_lasers_t_5_desc:  "전례 없는 화력의 광선을 발사하는 거대한 배열의 연결된 에너지 증폭 도관입니다. 크기 때문에 타이탄급 우주선에만 장착할 수 있습니다."
+
+tech_acot_lasers_t_6e:  "수수께끼의 타이탄 랜스"
+tech_acot_lasers_t_6e_desc:  "우리의 새로운 이해로 인해 기존 Perdition 이온 빔의 강화가 현재 보류 중입니다. 우리는 승인만을 기다리고 있습니다. 이 분야에서의 성공은 우리가 암흑 물질을 더 잘 이해할 수 있다면 미래에 새로운 유형의 거대 규모 무기를 개발할 수 있는 길을 열어줄 것입니다."
+
+
+tech_acot_lasers_t_6s:  "스텔라라이트 타이탄 랜스"
+tech_acot_lasers_t_6s_desc:  "우리의 새로운 이해로 인해 기존 Perdition 이온 빔의 강화가 현재 보류 중입니다. 우리는 승인만을 기다리고 있습니다. 이 분야에서의 성공은 우리가 암흑 물질을 더 잘 이해할 수 있다면 미래에 새로운 유형의 거대 규모 무기를 개발할 수 있는 길을 열어줄 것입니다."
+
+ACOT_LASER_TITAN_5:  "프리즘 파멸자"
+ACOT_LASER_TITAN_5_DESC:  "프리즘 파멸자"
+
+ACOT_LASER_TITAN_6E:  "수수께끼의 파멸자-창"
+ACOT_LASER_TITAN_6E_DESC:  "선구자들이 사용했던 것만큼 좋지는 않지만, 이 새로운 Enigmatic Beam은 기존 Ion Titan Lance를 충분히 업그레이드할 수 있을 것입니다."
+
+ACOT_LASER_TITAN_6S:  "스텔라라이트 파멸자-창"
+ACOT_LASER_TITAN_6S_DESC:  "선구자들이 사용했던 것만큼 좋지는 않지만, 이 새로운 Enigmatic Beam은 기존 Ion Titan Lance를 충분히 업그레이드할 수 있을 것입니다."
+
+ACOT_LASER_TITAN_W_5:  "사령부급 프리즘 파멸기"
+ACOT_LASER_TITAN_W_5_DESC:  "사령부급 프리즘 파멸기"
+
+ACOT_LASER_TITAN_W_6E:  "사령부급 수수께끼의 절멸기-창"
+ACOT_LASER_TITAN_W_6E_DESC:  "선구자들이 사용했던 것만큼 좋지는 않지만, 이 새로운 Enigmatic Beam은 기존 Ion Titan Lance를 충분히 업그레이드할 수 있을 것입니다."
+
+ACOT_LASER_TITAN_W_6S:  "사령부급 스텔라라이트 파멸기-창"
+ACOT_LASER_TITAN_W_6S_DESC:  "선구자들이 사용했던 것만큼 좋지는 않지만, 이 새로운 Enigmatic Beam은 기존 Ion Titan Lance를 충분히 업그레이드할 수 있을 것입니다."
+
+
+############################################################ACOT_PLASMA ############################################################
+
+ # Plasma Weapons
+#tech_plasma_1:  "플라즈마 방사기"
+#tech_plasma_1_desc:  "파괴적인 고에너지 플라즈마 구체를 목표물에 방출하는 무기입니다. 이 플라즈마 발사체는 선박 장갑을 뚫는 데 매우 효과적입니다."
+#tech_plasma_2:  "고급 플라즈마 방사기"
+#tech_plasma_2_desc:  "이 새로운 가속기는 향상된 격리 장을 갖춘 고에너지 플라즈마 발사체를 발사합니다. 이로 인해 발사체가 목표물을 향해 우주를 이동할 때 에너지 누출이 줄어듭니다."
+#tech_plasma_3:  "플라즈마 가속기"
+#tech_plasma_3_desc:  "최신 플라즈마 무기인 이 대포는 다소 즉석에서 제작된 구형 플라즈마 발사기의 완전히 군사화된 버전입니다. 그들의 플라즈마 발사체는 더욱 치명적입니다."
+tech_acot_plasma_4:  "플라즈마 캐논"
+tech_acot_plasma_4_desc:  "이 새로운 가속기는 향상된 격리 장을 갖춘 고에너지 플라즈마 발사체를 발사합니다. 이로 인해 발사체가 목표물을 향해 우주를 이동할 때 에너지 누출이 줄어듭니다."
+tech_acot_plasma_5:  "플라즈마 멜타건"
+tech_acot_plasma_5_desc:  "최신 플라즈마 무기인 이 대포는 다소 즉석에서 제작된 구형 플라즈마 발사기의 완전히 군사화된 버전입니다. 그들의 플라즈마 발사체는 더욱 치명적입니다."
+
+tech_acot_plasma_6e:  "수수께끼의 플라즈마 캐논"
+tech_acot_plasma_6e_desc:  "수수께끼의 플라즈마 캐논은 우리가 갖고 있는 플라즈마 캐논 기술과 유사하지만, 이 캐논에서 발사되는 발사체는 훨씬 다른 것으로 보이며 암흑 물질과 밀접한 관련이 있는 것으로 보입니다."
+
+tech_acot_plasma_6s:  "스텔라라이트 플라즈마 캐논"
+tech_acot_plasma_6s_desc:  "스텔라라이트 플라즈마 캐논은 우리가 갖고 있는 플라즈마 캐논 기술과 유사하지만, 이 캐논에서 발사되는 발사체는 훨씬 다른 것으로 보이며 암흑 물질과 밀접한 관련이 있는 것으로 보입니다."
+
+ACOT_PLASMA_1:  "플라즈마 방사기"
+ACOT_PLASMA_1_DESC:  "파괴적인 고에너지 플라즈마 공을 목표물에 발사하는 원시 시대의 즉석 무기입니다. 이 플라즈마 발사체는 선박 장갑을 뚫는 데 매우 효과적입니다."
+ACOT_PLASMA_2:  "고급 플라즈마 방사기"
+ACOT_PLASMA_2_DESC:  "완전히 군사화된 이 플라즈마 무기는 이제 실제 우주 전쟁에 최적화되었습니다."
+ACOT_PLASMA_3:  "플라즈마 가속기"
+ACOT_PLASMA_3_DESC:  "이 새로운 가속기는 향상된 격리 장을 갖춘 고에너지 플라즈마 발사체를 발사합니다. 이로 인해 발사체가 목표물을 향해 우주를 이동할 때 에너지 누출이 줄어듭니다."
+ACOT_PLASMA_4:  "플라즈마 캐논"
+ACOT_PLASMA_4_DESC:  "최신 플라즈마 무기 플라즈마 캐논은 더욱 치명적인 솔루션을 위해 더욱 발전된 고출력 원자로를 사용하여 발사됩니다."
+ACOT_PLASMA_5:  "플라즈마 멜타건"
+ACOT_PLASMA_5_DESC:  "고급 플라즈마 캐논은 제로 포인트 에너지의 잠재력을 최대한 활용하여 현대 표준에 따른 가장 강력한 대장갑 무기 중 하나를 만듭니다."
+
+ACOT_PLASMA_6E:  "수수께끼의 플라즈마 캐논"
+ACOT_PLASMA_6E_DESC:  "방패로 보호되지 않는 대상을 파괴하는 데 탁월한 치명적인 플라즈마 기반 무기입니다." 
+
+ACOT_PLASMA_6S:  "스텔라라이트 플라즈마 캐논"
+ACOT_PLASMA_6S_DESC:  "방패로 보호되지 않는 대상을 파괴하는 데 탁월한 치명적인 플라즈마 기반 무기입니다." 
+
+
+XS_ACOT_PLASMA_1:  "마이크로 플라즈마 방사기"
+SMALL_ACOT_PLASMA_1:  "소형 플라즈마 방사기"
+MEDIUM_ACOT_PLASMA_1:  "중형 플라즈마 방사기"
+LARGE_ACOT_PLASMA_1:  "대형 플라즈마 방사기"
+
+XS_ACOT_PLASMA_2:  "마이크로 고급 플라즈마 방사기"
+SMALL_ACOT_PLASMA_2:  "소형 고급 플라즈마 방사기"
+MEDIUM_ACOT_PLASMA_2:  "중급 고급 플라즈마 방사기"
+LARGE_ACOT_PLASMA_2:  "대형 고급 플라즈마 방사기"
+
+XS_ACOT_PLASMA_3:  "마이크로 플라즈마 가속기"
+SMALL_ACOT_PLASMA_3:  "소형 플라즈마 가속기"
+MEDIUM_ACOT_PLASMA_3:  "중대형 플라즈마 가속기"
+LARGE_ACOT_PLASMA_3:  "대형 플라즈마 가속기"
+
+XS_ACOT_PLASMA_4:  "마이크로 플라즈마 캐논"
+SMALL_ACOT_PLASMA_4:  "소형 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_4:  "중대형 플라즈마 캐논"
+LARGE_ACOT_PLASMA_4:  "소형 플라즈마 캐논"
+
+XS_ACOT_PLASMA_5:  "마이크로 플라즈마 멜타건"
+SMALL_ACOT_PLASMA_5:  "소형 플라즈마 멜타건"
+MEDIUM_ACOT_PLASMA_5:  "중형 플라즈마 멜타건"
+LARGE_ACOT_PLASMA_5:  "대형 플라즈마 멜타건"
+
+XS_ACOT_PLASMA_6E:  "마이크로 수수께끼의 플라즈마 캐논"
+SMALL_ACOT_PLASMA_6E:  "작은 수수께끼의 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_6E:  "중형 수수께끼의 플라즈마 캐논"
+LARGE_ACOT_PLASMA_6E:  "수수께끼의 대형 플라즈마 캐논"
+
+XS_ACOT_PLASMA_6S:  "마이크로 스텔라라이트 플라즈마 캐논"
+SMALL_ACOT_PLASMA_6S:  "소형 스텔라라이트 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_6S:  "중형 스텔라라이트 플라즈마 캐논"
+LARGE_ACOT_PLASMA_6S:  "대형 스텔라라이트 플라즈마 캐논"
+
+
+####### AL #######
+
+#tech_energy_torpedoes_1:  "헤비 플라즈마 캐논"
+#tech_energy_torpedoes_1_desc:  "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+#tech_energy_torpedoes_2:  "플라즈마 캐스터"
+#tech_energy_torpedoes_2_desc:  "파괴력을 위해 양성자 대신 중성자를 사용하는 업그레이드된 에너지 발사체입니다."
+
+tech_acot_plasma_al_6e:  "수수께끼의 플라즈마 캐스터"
+tech_acot_plasma_al_6e_desc:  "수수께끼의 플라즈마 캐논은 우리가 갖고 있는 플라즈마 캐논 기술과 유사하지만, 이 캐논에서 발사되는 발사체는 훨씬 다른 것으로 보이며 암흑 물질과 밀접한 관련이 있는 것으로 보입니다."
+
+tech_acot_plasma_al_6s:  "스텔라라이트 플라즈마 캐스터"
+tech_acot_plasma_al_6s_desc:  "스텔라라이트 플라즈마 캐논은 우리가 갖고 있는 플라즈마 캐논 기술과 유사하지만, 이 캐논에서 발사되는 발사체는 훨씬 다른 것으로 보이며 암흑 물질과 밀접한 관련이 있는 것으로 보입니다."
+
+ACOT_PLASMA_ARTILLERY_4:  "헤비 플라즈마 캐논"
+ACOT_PLASMA_ARTILLERY_4_DESC:  "헤비 플라즈마 캐논"
+ACOT_PLASMA_ARTILLERY_5:  "플라즈마 캐스터"
+ACOT_PLASMA_ARTILLERY_5_DESC:  "플라즈마 캐스터"
+
+ACOT_PLASMA_ARTILLERY_6E:  "수수께끼의 플라즈마 포병"
+ACOT_PLASMA_ARTILLERY_6E_DESC:  "수수께끼의 플라즈마 포병"
+
+ACOT_PLASMA_ARTILLERY_6S:  "스텔라라이트 플라즈마 포병"
+ACOT_PLASMA_ARTILLERY_6S_DESC:  "스텔라라이트 플라즈마 포병"
+
+####### XL #######
+
+tech_acot_plasma_xl_4:  "플라즈마 로드"
+tech_energy_torpedoes_1_desc:2 "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+tech_acot_plasma_xl_4_desc:  "플라즈마 랜스"
+tech_acot_plasma_xl_5:  "플라즈마 파괴자 대포"
+tech_energy_torpedoes_1_desc:2 "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+tech_acot_plasma_xl_5_desc:  "중성자 발사기"
+
+tech_acot_plasma_xl_6e:  "플라즈마 파괴자 대포"
+tech_energy_torpedoes_1_desc:2 "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+tech_acot_plasma_xl_6e_desc:  "중성자 발사기"
+
+tech_acot_plasma_xl_6s:  "플라즈마 파괴자 대포"
+tech_energy_torpedoes_1_desc:2 "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+tech_acot_plasma_xl_6s_desc:  "중성자 발사기"
+
+ACOT_PLASMA_XL_4:  "플라즈마 로드"
+ACOT_PLASMA_XL_4_DESC:  "플라즈마 로드"
+ACOT_PLASMA_XL_5:  "플라즈마 랜스"
+ACOT_PLASMA_XL_5_DESC:  "플라즈마 랜스"
+
+ACOT_PLASMA_XL_6E:  "수수께끼의 플라즈마 캐스터"
+ACOT_PLASMA_XL_6E_DESC:  "수수께끼의 플라즈마 캐스터"
+
+ACOT_PLASMA_XL_6S:  "스텔라라이트 플라즈마 캐스터"
+ACOT_PLASMA_XL_6S_DESC:  "스텔라라이트 플라즈마 캐스터"
+
+####### T #######
+
+tech_acot_plasma_t_5:  "플라스마트론 랜스"
+tech_acot_plasma_t_5_desc:  "이 에너지 발사체는 적 선박의 선체에 막대한 피해를 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+
+tech_acot_plasma_t_6e:  "수수께끼의 플라마트론 랜스"
+tech_acot_plasma_t_6e_desc:  "이 에너지 발사체는 적 선박의 선체에 막대한 손상을 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+
+tech_acot_plasma_t_6s:  "스텔라라이트 플라마트론 랜스"
+tech_acot_plasma_t_6s_desc:  "이 에너지 발사체는 적 선박의 선체에 막대한 손상을 입힐 수 있는 촘촘하게 집중된 양성자로 구성되어 있습니다."
+
+ACOT_PLASMA_TITAN_5:  "플라스마트론 랜스"
+ACOT_PLASMA_TITAN_5_DESC:  "플라스마트론 랜스"
+
+ACOT_PLASMA_TITAN_6E:  "수수께끼의 타이탄 플라스마트론 랜스"
+ACOT_PLASMA_TITAN_6E_DESC:  "수수께끼의 타이탄 플라스마트론 랜스"
+
+ACOT_PLASMA_TITAN_6S:  "스텔라라이트 플라마트론 랜스"
+ACOT_PLASMA_TITAN_6S_DESC:  "스텔라라이트 플라마트론 랜스"
+
+ACOT_PMC_YAMATO_CANNON:  "§R야마토 대포"
+ACOT_PMC_YAMATO_CANNON_DESC:  "§R야마토 대포"
+
+ACOT_PLASMA_TITAN_W_5:  "플라스마트론 랜스"
+ACOT_PLASMA_TITAN_W_5_DESC:  "플라스마트론 랜스"
+ACOT_PLASMA_TITAN_W_6E:  "수수께끼의 타이탄 플라즈마 캐스터"
+ACOT_PLASMA_TITAN_W_6E_DESC:  "수수께끼의 타이탄 플라즈마 캐스터"
+ACOT_PLASMA_TITAN_W_6S:  "스텔라라이트 타이탄 플라즈마 캐스터"
+ACOT_PLASMA_TITAN_W_6S_DESC:  "스텔라라이트 타이탄 플라즈마 캐스터"
+
+############################################################ DISRUPTOR ############################################################
+
+####### STANDARD #######
+
+ # Disruptor Weapons
+#tech_disruptors_1:  "파괴자"
+#tech_disruptors_1_desc:  "교란기는 표적의 구성 원자를 하나로 묶는 분자 결합을 약화시키고 파괴하는 고에너지 볼트를 발사합니다. 그들은 방패와 갑옷을 통과하여 적의 선체와 승무원에게 직접 큰 피해를 입힐 수 있습니다."
+#tech_disruptors_2:  "향상된 방해자"
+#tech_disruptors_2_desc:  "이 업그레이드된 방해 장치는 더욱 파괴적인 이온 입자를 목표물에 발사합니다."
+#tech_disruptors_3:  "이온 교란제"
+#tech_disruptors_3_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+tech_acot_disruptors_4:  "위상 교란기"
+tech_acot_disruptors_4_desc:  "이 업그레이드된 방해 장치는 더욱 파괴적인 이온 입자를 목표물에 발사합니다."
+tech_acot_disruptors_5:  "파동 교란기"
+tech_acot_disruptors_5_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_6e:  "수수께끼의 방해자"
+tech_acot_disruptors_6e_desc:  "전구체가 활용하는 불가사의한 에너지를 활용하는 이 프로토타입 파괴자는 이전보다 훨씬 더 높은 피해를 입힐 수 있습니다."
+
+tech_acot_disruptors_6s:  "스텔라라이트 분열기"
+tech_acot_disruptors_6s_desc:  "전구체가 활용하는 불가사의한 에너지를 활용하는 이 프로토타입 파괴자는 이전보다 훨씬 더 높은 피해를 입힐 수 있습니다."
+
+ACOT_DISRUPTOR_1:  "방해자"
+ACOT_DISRUPTOR_1_DESC:  "교란기는 표적의 구성 원자를 하나로 묶는 분자 결합을 약화시키고 파괴하는 고에너지 볼트를 발사합니다."
+ACOT_DISRUPTOR_2:  "향상된 파괴자"
+ACOT_DISRUPTOR_2_DESC:  "교란기는 표적의 구성 원자를 하나로 묶는 분자 결합을 약화시키고 파괴하는 고에너지 볼트를 발사합니다."
+ACOT_DISRUPTOR_3:  "이온 파괴자"
+ACOT_DISRUPTOR_3_DESC:  "이 업그레이드된 방해 장치는 이전 장치의 발사 속도를 희생하지 않고 목표물에 더욱 파괴적인 이온 입자를 발사합니다."
+ACOT_DISRUPTOR_4:  "파이어호크 디스럽터"
+ACOT_DISRUPTOR_4_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+ACOT_DISRUPTOR_5:  "위상 교란기"
+ACOT_DISRUPTOR_5_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+ 
+ACOT_DISRUPTOR_6E:  "수수께끼의 방해자"
+ACOT_DISRUPTOR_6E_DESC:  "전구체가 활용하는 불가사의한 에너지를 활용하는 이 프로토타입 파괴자는 이전보다 훨씬 더 높은 피해를 입힐 수 있습니다."
+
+ACOT_DISRUPTOR_6S:  "스텔라라이트 분열기"
+ACOT_DISRUPTOR_6S_DESC:  "전구체가 활용하는 불가사의한 에너지를 활용하는 이 프로토타입 파괴자는 이전보다 훨씬 더 높은 피해를 입힐 수 있습니다."
+
+XS_ACOT_DISRUPTOR_1:  "마이크로 디스럽터"
+SMALL_ACOT_DISRUPTOR_1:  "작은 파괴자"
+MEDIUM_ACOT_DISRUPTOR_1:  "중간 파괴자"
+LARGE_ACOT_DISRUPTOR_1:  "대형 파괴자"
+
+XS_ACOT_DISRUPTOR_2:  "마이크로 개선된 파괴자" 
+SMALL_ACOT_DISRUPTOR_2:  "소형 개량형 파괴자" 
+MEDIUM_ACOT_DISRUPTOR_2:  "중간 개선된 파괴자"
+LARGE_ACOT_DISRUPTOR_2:  "대형 개선형 파괴자"
+
+XS_ACOT_DISRUPTOR_3:  "마이크로 이온 파괴자"
+SMALL_ACOT_DISRUPTOR_3:  "소형 이온 분쇄기"
+MEDIUM_ACOT_DISRUPTOR_3:  "중간 이온 파괴자"
+LARGE_ACOT_DISRUPTOR_3:  "대형 이온 분열기"
+
+XS_ACOT_DISRUPTOR_4:  "마이크로 위상 교란기"
+SMALL_ACOT_DISRUPTOR_4:  "소위상 단속기"
+MEDIUM_ACOT_DISRUPTOR_4:  "중간 위상 차단기"
+LARGE_ACOT_DISRUPTOR_4:  "대형 위상 차단기"
+
+XS_ACOT_DISRUPTOR_5:  "마이크로 파동력 교란기"
+SMALL_ACOT_DISRUPTOR_5:  "소형 파동 교란기"
+MEDIUM_ACOT_DISRUPTOR_5:  "중간 파력 교란기"
+LARGE_ACOT_DISRUPTOR_5:  "대형 파동 교란기"
+
+XS_ACOT_DISRUPTOR_6E:  "마이크로 수수께끼의 파괴자"
+SMALL_ACOT_DISRUPTOR_6E:  "작은 수수께끼의 분열기"
+MEDIUM_ACOT_DISRUPTOR_6E:  "보통 수수께끼의 분열기"
+LARGE_ACOT_DISRUPTOR_6E:  "거대 수수께끼의 분열기"
+
+
+XS_ACOT_DISRUPTOR_6S:  "마이크로 스텔라라이트 분열기"
+SMALL_ACOT_DISRUPTOR_6S:  "소형 스텔라라이트 분열기"
+MEDIUM_ACOT_DISRUPTOR_6S:  "중형 스텔라라이트 분열기"
+LARGE_ACOT_DISRUPTOR_6S:  "대형 스텔라라이트 분열기"
+
+####### AL #######
+
+tech_acot_disruptors_al_4:  "디스럽터 레이"
+tech_acot_disruptors_al_4_desc:  "이 업그레이드된 방해 장치는 더욱 파괴적인 이온 입자를 목표물에 발사합니다."
+tech_acot_disruptors_al_5:  "디스럽터 웨이브포스 캐논"
+tech_acot_disruptors_al_5_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_al_6e:  "수수께끼의 교란기 웨이브포스 캐논"
+tech_acot_disruptors_al_6e_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+tech_acot_disruptors_al_6s:  "스텔라라이트 분열기 웨이브포스 캐논"
+tech_acot_disruptors_al_6s_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+ACOT_DISRUPTOR_ARTILLERY_4:  "디스럽터 레이"
+ACOT_DISRUPTOR_ARTILLERY_4_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+ACOT_DISRUPTOR_ARTILLERY_5:  "디스럽터 웨이브포스 캐논"
+ACOT_DISRUPTOR_ARTILLERY_5_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+ACOT_DISRUPTOR_ARTILLERY_6E:  "수수께끼의 교란기 웨이브 캐논"
+ACOT_DISRUPTOR_ARTILLERY_6E_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+ACOT_DISRUPTOR_ARTILLERY_6S:  "스텔라라이트 분열기 웨이브 캐논"
+ACOT_DISRUPTOR_ARTILLERY_6S_DESC:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+####### XL #######
+
+tech_acot_disruptors_xl_4:  "방해 스네어"
+tech_acot_disruptors_xl_4_desc:  "이 업그레이드된 방해 장치는 더욱 파괴적인 이온 입자를 목표물에 발사합니다."
+tech_acot_disruptors_xl_5:  "파괴 웹"
+tech_acot_disruptors_xl_5_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_xl_6e:  "수수께끼의 혼란 웹"
+tech_acot_disruptors_xl_6e_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_xl_6s:  "스텔라라이트 파괴 웹"
+tech_acot_disruptors_xl_6s_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+
+ACOT_DISRUPTOR_XL_4:  "방해 스네어"
+ACOT_DISRUPTOR_XL_4_DESC:  "방해 스네어"
+ACOT_DISRUPTOR_XL_5:  "파괴 웹"
+ACOT_DISRUPTOR_XL_5_DESC:  "파괴 웹"
+
+ACOT_DISRUPTOR_XL_6E:  "수수께끼의 혼란 웹"
+ACOT_DISRUPTOR_XL_6E_DESC:  "수수께끼의 혼란 웹"
+
+ACOT_DISRUPTOR_XL_6S:  "스텔라라이트 파괴 웹"
+ACOT_DISRUPTOR_XL_6S_DESC:  "스텔라라이트 파괴 웹"
+
+
+####### T #######
+
+tech_acot_disruptors_t_5:  "혼란의 떼"
+tech_acot_disruptors_t_5_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_t_6e:  "수수께끼의 혼란 떼"
+tech_acot_disruptors_t_6e_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+tech_acot_disruptors_t_6s:  "스텔라라이트 파괴 떼"
+tech_acot_disruptors_t_6s_desc:  "양자 에너지 전하를 발사하여 불행하게도 방해가 되는 사람들에게 엄청난 피해를 입히는 매우 높은 수율의 파괴자입니다."
+
+ACOT_DISRUPTOR_TITAN_5:  "혼란의 떼"
+ACOT_DISRUPTOR_TITAN_5_DESC:  "혼란의 떼"
+
+ACOT_DISRUPTOR_TITAN_6E:  "수수께끼의 혼란 떼"
+ACOT_DISRUPTOR_TITAN_6E_DESC:  "수수께끼의 혼란 떼"
+
+ACOT_DISRUPTOR_TITAN_6S:  "스텔라라이트 파괴 떼"
+ACOT_DISRUPTOR_TITAN_6S_DESC:  "스텔라라이트 파괴 떼"
+
+
+ACOT_DISRUPTOR_TITAN_W_5:  "혼란의 떼"
+ACOT_DISRUPTOR_TITAN_W_5_DESC:  "혼란의 떼"
+
+ACOT_DISRUPTOR_TITAN_W_6E:  "수수께끼의 혼란 떼"
+ACOT_DISRUPTOR_TITAN_W_6E_DESC:  "수수께끼의 혼란 떼"
+
+ACOT_DISRUPTOR_TITAN_W_6S:  "스텔라라이트 파괴 떼"
+ACOT_DISRUPTOR_TITAN_W_6S_DESC:  "스텔라라이트 파괴 떼"
+############################################################ RAILGUN ############################################################
+
+tech_acot_weapon_kinetic:  "스마트 키네틱 탄약"
+tech_acot_weapon_kinetic_desc:  "우주에서 운동 기반 무기를 안전하게 사용하려면 사용되는 발사체가 우주의 특성을 극복할 수 있어야 합니다. 움직이는 물체는 계속 움직이고 있다는 것. 데이터뱅크에서 알 수 있듯이 모든 공격 실패는 다른 많은 사람들에게 위험할 수 있습니다.\n\n이 문제를 해결하기 위해 많은 고대 문명에서는 SKMS(Smart Kinetic Munition Systems)를 활용했습니다. 이 시스템은 기본적으로 모든 발사체에 총알이 의도한 목표에 도달하지 않았는지 추적하고 자동으로 자폭하는 제한된 자동화 시스템을 제공합니다. 이 시스템을 마스터해야만 모든 운동 무기를 실제로 사용할 수 있습니다."
+
+tech_acot_weapon_kinetic_2:  "재련된 역학 탄약"
+tech_acot_weapon_kinetic_2_desc:  "우주에서 운동 기반 무기를 안전하게 사용하려면 사용되는 발사체가 우주의 특성을 극복할 수 있어야 합니다. 움직이는 물체는 계속 움직이고 있다는 것. 데이터뱅크에서 알 수 있듯이 모든 공격 실패는 다른 많은 사람들에게 위험할 수 있습니다.\n\n이 문제를 해결하기 위해 많은 고대 문명에서는 SKMS(Smart Kinetic Munition Systems)를 활용했습니다. 이 시스템은 기본적으로 모든 발사체에 총알이 의도한 목표에 도달하지 않았는지 추적하고 자동으로 자폭하는 제한된 자동화 시스템을 제공합니다. 이 시스템을 마스터해야만 모든 운동 무기를 실제로 사용할 수 있습니다."
+
+tech_acot_weapon_kinetic_3:  "리플리컨트 키네틱 탄약"
+tech_acot_weapon_kinetic_3_desc:  "우주에서 운동 기반 무기를 안전하게 사용하려면 사용되는 발사체가 우주의 특성을 극복할 수 있어야 합니다. 움직이는 물체는 계속 움직이고 있다는 것. 데이터뱅크에서 알 수 있듯이 모든 공격 실패는 다른 많은 사람들에게 위험할 수 있습니다.\n\n이 문제를 해결하기 위해 많은 고대 문명에서는 SKMS(Smart Kinetic Munition Systems)를 활용했습니다. 이 시스템은 기본적으로 모든 발사체에 총알이 의도한 목표에 도달하지 않았는지 추적하고 자동으로 자폭하는 제한된 자동화 시스템을 제공합니다. 이 시스템을 마스터해야만 모든 운동 무기를 실제로 사용할 수 있습니다."
+
+tech_acot_weapon_kinetic_6e:  "수수께끼의 운동 탄약"
+tech_acot_weapon_kinetic_6e_desc:  "우주에서 운동 기반 무기를 안전하게 사용하려면 사용되는 발사체가 우주의 특성을 극복할 수 있어야 합니다. 움직이는 물체는 계속 움직이고 있다는 것. 데이터뱅크에서 알 수 있듯이 모든 공격 실패는 다른 많은 사람들에게 위험할 수 있습니다.\n\n이 문제를 해결하기 위해 많은 고대 문명에서는 SKMS(Smart Kinetic Munition Systems)를 활용했습니다. 이 시스템은 기본적으로 모든 발사체에 총알이 의도한 목표에 도달하지 않았는지 추적하고 자동으로 자폭하는 제한된 자동화 시스템을 제공합니다. 이 시스템을 마스터해야만 모든 운동 무기를 실제로 사용할 수 있습니다."
+
+tech_acot_weapon_kinetic_6s:  "수수께끼의 운동 탄약"
+tech_acot_weapon_kinetic_6s_desc:  "우주에서 운동 기반 무기를 안전하게 사용하려면 사용되는 발사체가 우주의 특성을 극복할 수 있어야 합니다. 움직이는 물체는 계속 움직이고 있다는 것. 데이터뱅크에서 알 수 있듯이 모든 공격 실패는 다른 많은 사람들에게 위험할 수 있습니다.\n\n이 문제를 해결하기 위해 많은 고대 문명에서는 SKMS(Smart Kinetic Munition Systems)를 활용했습니다. 이 시스템은 기본적으로 모든 발사체에 총알이 의도한 목표에 도달하지 않았는지 추적하고 자동으로 자폭하는 제한된 자동화 시스템을 제공합니다. 이 시스템을 마스터해야만 모든 운동 무기를 실제로 사용할 수 있습니다."
+####### STANDARD #######
+
+#tech_mass_drivers_1:  "매그 캐논"
+#tech_mass_drivers_1_desc:  "이 전자기 발사체 발사기는 자석을 사용하여 목표물을 향해 장갑 관통탄을 고속으로 가속합니다."
+#tech_mass_drivers_2:  "매스 드라이버"
+#tech_mass_drivers_2_desc:  "코일건은 초기 매스 드라이버의 더욱 강력한 버전으로, 전자기 코일을 사용하여 목표물을 향해 발사체를 빠르게 가속합니다."
+#tech_mass_drivers_3:  "코일건"
+#tech_mass_drivers_3_desc:  "최신 전자기 가속기인 레일건은 두 개의 평행 레일을 사용하여 놀라운 속도로 발사체를 발사합니다."
+#tech_mass_drivers_4:  "레일건"
+#tech_mass_drivers_4_desc:  "더 견고한 레일과 향상된 전원 공급 장치를 갖춘 유서 깊은 레일건의 새로운 버전입니다. 이 무기는 이전 무기보다 훨씬 더 강력하고 정확합니다."
+#tech_mass_drivers_5:  "가우스 대포"
+#tech_mass_drivers_5_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+tech_acot_mass_drivers_6e:  "가우스 대포"
+tech_acot_mass_drivers_6e_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+tech_acot_mass_drivers_6s:  "가우스 대포"
+tech_acot_mass_drivers_6s_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+ACOT_MAGNETIC_1:  "매그 캐논"
+ACOT_MAGNETIC_1_DESC:  "이 전자기 발사체 발사기는 자석을 사용하여 대상을 향해 발사체를 고속으로 가속하고 에너지 보호막을 압도합니다."
+ACOT_MAGNETIC_2:  "매스 드라이버"
+ACOT_MAGNETIC_2_DESC:  "매스 드라이버는 우주 전투에 훨씬 더 적합한 오래된 Mag Cannon을 세련되고 전투 테스트를 거쳐 현대적으로 재구성한 것입니다."
+ACOT_MAGNETIC_3:  "코일건"
+ACOT_MAGNETIC_3_DESC:  "코일건은 초기 대량 대포의 더욱 강력한 버전으로, 전자기 코일을 사용하여 목표물을 향해 발사체를 빠르게 가속합니다."
+ACOT_MAGNETIC_4:  "레일건"
+ACOT_MAGNETIC_4_DESC:  "레일건은 두 개의 평행 레일을 사용하여 놀라운 속도로 발사체를 발사합니다."
+ACOT_MAGNETIC_5:  "가우스 캐논"
+ACOT_MAGNETIC_5_DESC:  "기존 코일건 디자인의 업데이트된 버전은 레일캐논 디자인보다 훨씬 더 파괴적입니다. 장거리에서 놀라운 정확도와 속도로 발사체를 발사할 수 있습니다."
+
+ACOT_MAGNETIC_6E:  "수수께끼의 매스 드라이버"
+ACOT_MAGNETIC_6E_DESC:  "매스 드라이버는 우주 전투에 훨씬 더 적합한 오래된 Mag Cannon을 세련되고 전투 테스트를 거쳐 현대적으로 재구성한 것입니다."
+
+
+ACOT_MAGNETIC_6S:  "스텔라라이트 매스 드라이버"
+ACOT_MAGNETIC_6S_DESC:  "매스 드라이버는 우주 전투에 훨씬 더 적합한 오래된 Mag Cannon을 세련되고 전투 테스트를 거쳐 현대적으로 재구성한 것입니다."
+
+
+XS_ACOT_MAGNETIC_1:  "마이크로 매그 캐논"
+SMALL_ACOT_MAGNETIC_1:  "소형 매그 캐논"
+MEDIUM_ACOT_MAGNETIC_1:  "중형 매그 캐논"
+LARGE_ACOT_MAGNETIC_1:  "대형 매그 캐논"
+
+XS_ACOT_MAGNETIC_2:  "마이크로 매스 드라이버"
+SMALL_ACOT_MAGNETIC_2:  "소형 매스 드라이버"
+MEDIUM_ACOT_MAGNETIC_2:  "중질량 드라이버"
+LARGE_ACOT_MAGNETIC_2:  "대형 매스 드라이버"
+
+XS_ACOT_MAGNETIC_3:  "마이크로 코일건"
+SMALL_ACOT_MAGNETIC_3:  "소형 코일건"
+MEDIUM_ACOT_MAGNETIC_3:  "중형 코일건"
+LARGE_ACOT_MAGNETIC_3:  "대형 코일건"
+
+XS_ACOT_MAGNETIC_4:  "마이크로 레일건"
+SMALL_ACOT_MAGNETIC_4:  "소형 레일건"
+MEDIUM_ACOT_MAGNETIC_4:  "중형 레일건"
+LARGE_ACOT_MAGNETIC_4:  "대형 레일건"
+
+XS_ACOT_MAGNETIC_5:  "마이크로 가우스 캐논"
+SMALL_ACOT_MAGNETIC_5:  "소형 가우스 대포"
+MEDIUM_ACOT_MAGNETIC_5:  "중형 가우스 대포"
+LARGE_ACOT_MAGNETIC_5:  "대형 가우스 대포"
+
+XS_ACOT_MAGNETIC_6E:  "마이크로 수수께끼 대포"
+SMALL_ACOT_MAGNETIC_6E:  "작은 수수께끼의 대포"
+MEDIUM_ACOT_MAGNETIC_6E:  "중간 수수께끼의 대포"
+LARGE_ACOT_MAGNETIC_6E:  "수수께끼의 대형 대포"
+
+XS_ACOT_MAGNETIC_6S:  "마이크로 스텔라라이트 캐논"
+SMALL_ACOT_MAGNETIC_6S:  "소형 스텔라라이트 대포"
+MEDIUM_ACOT_MAGNETIC_6S:  "중형 스텔라라이트 대포"
+LARGE_ACOT_MAGNETIC_6S:  "대형 스텔라라이트 캐논"
+
+
+
+####### AL #######
+
+tech_acot_mass_drivers_al_4:  "레일건 포병"
+tech_acot_mass_drivers_al_4_desc:  "더 견고한 레일과 향상된 전원 공급 장치를 갖춘 유서 깊은 레일건의 새로운 버전입니다. 이 무기는 이전 무기보다 훨씬 더 강력하고 정확합니다."
+tech_acot_mass_drivers_al_5:  "가우스 대포"
+tech_acot_mass_drivers_al_5_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+tech_acot_mass_drivers_al_6e:  "수수께끼의 가우스 대포"
+tech_acot_mass_drivers_al_6e_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+tech_acot_mass_drivers_al_6s:  "스텔라라이트 가우스 대포"
+tech_acot_mass_drivers_al_6s_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+ACOT_MAGNETIC_ARTILLERY_4:  "레일건 포병"
+ACOT_MAGNETIC_ARTILLERY_4_DESC:  "주력함에 사용하기 위한 장거리 확장형 자기 발사체 발사기입니다.\n\n최소 사거리: 60"
+ACOT_MAGNETIC_ARTILLERY_5:  "가우스 포병"
+ACOT_MAGNETIC_ARTILLERY_5_DESC:  "주력함에 사용하기 위한 장거리, 확장 버전의 가우스 대포입니다.\n\n최소 사거리: 60"
+
+ACOT_MAGNETIC_ARTILLERY_6E:  "가우스 포병"
+ACOT_MAGNETIC_ARTILLERY_6E_DESC:  "주력함에 사용하기 위한 장거리, 확장 버전의 가우스 대포입니다.\n\n최소 사거리: 60"
+
+ACOT_MAGNETIC_ARTILLERY_6S:  "가우스 포병"
+ACOT_MAGNETIC_ARTILLERY_6S_DESC:  "주력함에 사용하기 위한 장거리, 확장 버전의 가우스 대포입니다.\n\n최소 사거리: 60"
+####### XL #######
+
+#tech_mass_accelerator_1:  "대량가속기"
+#tech_mass_accelerator_1_desc:  "척추 마운트에만 장착할 수 있는 거대한 질량 가속포로 광대한 거리에 걸쳐 엄청나게 강력한 포탄을 발사합니다."
+#tech_mass_accelerator_2:  "가우스 가속도"
+#tech_mass_accelerator_2_desc:  "가장 견고한 방패도 찢을 수 있는 훨씬 더 강력한 질량 가속포입니다."
+
+tech_acot_mass_drivers_xl_6e:  "프로토타입 초질량 가속기"
+tech_acot_mass_drivers_xl_6e_desc:  "충격포의 더 강력하고 치명적인 하드라이트 발사체를 만드는 것과 동일한 개념에 따라 새로운 MAC는 현재의 Giga를 능가할 강력한 무기임이 입증될 것입니다."
+
+tech_acot_mass_drivers_xl_6s:  "프로토타입 초질량 가속기"
+tech_acot_mass_drivers_xl_6s_desc:  "충격포의 더 강력하고 치명적인 하드라이트 발사체를 만드는 것과 동일한 개념에 따라 새로운 MAC는 현재의 Giga를 능가할 강력한 무기임이 입증될 것입니다."
+
+ACOT_MAGNETIC_XL_4:  "대량가속기"
+ACOT_MAGNETIC_XL_4_DESC:  "운동포의 거대한 변종으로, 너무 커서 고정된 척추 마운트에 배치해야 합니다."
+ACOT_MAGNETIC_XL_5:  "가우스 가속기"
+ACOT_MAGNETIC_XL_5_DESC:  "척추에 장착된 운동포의 훨씬 더 강력한 변형입니다."
+
+ACOT_MAGNETIC_XL_6E:  "수수께끼의 질량 가속기"
+ACOT_MAGNETIC_XL_6E_DESC:  "기존 기가 캐논보다 더 강력한 파라곤급 MAC은 잔혹한 효율성으로 모든 종류의 방어막을 뚫을 수 있습니다."
+
+ACOT_MAGNETIC_XL_6S:  "스텔라라이트 질량가속기"
+ACOT_MAGNETIC_XL_6S_DESC:  "기존 기가 캐논보다 더 강력한 파라곤급 MAC은 잔혹한 효율성으로 모든 종류의 방어막을 뚫을 수 있습니다."
+
+####### T #######
+
+tech_acot_mass_drivers_t_5:  "타이탄 가속기"
+tech_acot_mass_drivers_t_5_desc:  "기존 코일건 디자인의 업데이트된 버전은 최신 레일건 디자인보다 훨씬 더 파괴적입니다. 놀라운 정확성과 속도로 발사체를 발사할 수 있습니다."
+
+tech_acot_mass_drivers_t_6e:  "타이탄 수수께끼의 가속기"
+tech_acot_mass_drivers_t_6e_desc:  "새롭게 개선된 가속 시스템과 강화된 철도를 통해 우리는 마침내 거대한 규모의 운동 가속기를 개발할 수 있게 되었습니다."
+
+tech_acot_mass_drivers_t_6s:  "타이탄 스텔라라이트 가속기"
+tech_acot_mass_drivers_t_6s_desc:  "새롭게 개선된 가속 시스템과 강화된 철도를 통해 우리는 마침내 거대한 규모의 운동 가속기를 개발할 수 있게 되었습니다."
+
+ACOT_MAGNETIC_TITAN_5:  "타이탄 가속기"
+ACOT_MAGNETIC_TITAN_5_DESC:  "타이탄 가속기"
+
+ACOT_MAGNETIC_TITAN_6E:  "수수께끼의 타이탄 가속기"
+ACOT_MAGNETIC_TITAN_6E_DESC:  "수수께끼의 타이탄 가속기"
+
+ACOT_MAGNETIC_TITAN_6S:  "스텔라라이트 타이탄 가속기"
+ACOT_MAGNETIC_TITAN_6S_DESC:  "스텔라라이트 타이탄 가속기"
+
+ACOT_MAGNETIC_TITAN_W_5:  "타이탄 가속기"
+ACOT_MAGNETIC_TITAN_W_5_DESC:  "타이탄 가속기"
+
+ACOT_MAGNETIC_TITAN_W_6E:  "수수께끼의 타이탄 가속기"
+ACOT_MAGNETIC_TITAN_W_6E_DESC:  "수수께끼의 타이탄 가속기"
+
+ACOT_MAGNETIC_TITAN_W_6S:  "스텔라라이트 타이탄 가속기"
+ACOT_MAGNETIC_TITAN_W_6S_DESC:  "스텔라라이트 타이탄 가속기"
+############################################################ AUTOGUN ############################################################
+
+####### STANDARD #######
+
+#tech_autocannons_1:  "자동총"
+#tech_autocannons_1_desc:  "탄피형 폭발탄을 발사하는 대구경 탄도 무기입니다. 이 대포의 가장 큰 장점은 높은 발사 속도입니다."
+#tech_autocannons_2:  "기관포"
+#tech_autocannons_2_desc:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+#tech_autocannons_3:  "고급 자동포"
+#tech_autocannons_3_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+tech_acot_autocannons_4:  "리퍼 오토캐논"
+tech_acot_autocannons_4_desc:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+tech_acot_autocannons_5:  "폭풍불 자동대포"
+tech_acot_autocannons_5_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_6e:  "수수께끼의 자동포"
+tech_acot_autocannons_6e_desc:  "충격포의 개념을 바탕으로 이 새로운 하드라이트 기반 발사체를 위한 자동포 변형도 개발될 수 있습니다."
+
+tech_acot_autocannons_6s:  "스텔라라이트 자동포"
+tech_acot_autocannons_6s_desc:  "충격포의 개념을 바탕으로 이 새로운 하드라이트 기반 발사체를 위한 자동포 변형도 개발될 수 있습니다."
+
+ACOT_AUTOCANNON_1:  "자동총"
+ACOT_AUTOCANNON_1_DESC:  "탄피형 폭발탄을 발사하는 대구경 탄도 무기입니다. 이 대포의 가장 큰 장점은 높은 발사 속도입니다."
+ACOT_AUTOCANNON_2:  "기관포"
+ACOT_AUTOCANNON_2_DESC:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+ACOT_AUTOCANNON_3:  "고급 자동포"
+ACOT_AUTOCANNON_3_DESC:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+ACOT_AUTOCANNON_4:  "리퍼 오토캐논"
+ACOT_AUTOCANNON_4_DESC:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+ACOT_AUTOCANNON_5:  "폭풍불 자동대포"
+ACOT_AUTOCANNON_5_DESC:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+ACOT_AUTOCANNON_6E:  "수수께끼의 자동포"
+ACOT_AUTOCANNON_6E_DESC:  "수수께끼의 자동포는 프로토타입 하드라이트 발사체를 사용하여 적의 방패를 빠르게 갉아먹습니다."
+
+ACOT_AUTOCANNON_6S:  "스텔라라이트 자동포"
+ACOT_AUTOCANNON_6S_DESC:  "Stellarite Autocannon은 프로토타입 하드라이트 발사체를 사용하여 적의 방패를 빠르게 갉아먹습니다."
+
+
+XS_ACOT_AUTOCANNON_1:  "마이크로 자동총"
+SMALL_ACOT_AUTOCANNON_1:  "소형 자동총"
+MEDIUM_ACOT_AUTOCANNON_1:  "중형 자동총"
+LARGE_ACOT_AUTOCANNON_1:  "대형 자동총"
+
+XS_ACOT_AUTOCANNON_2:  "마이크로 오토캐논"
+SMALL_ACOT_AUTOCANNON_2:  "소형 기관포"
+MEDIUM_ACOT_AUTOCANNON_2:  "중형 자동포"
+LARGE_ACOT_AUTOCANNON_2:  "대형 기관포"
+
+XS_ACOT_AUTOCANNON_3:  "마이크로 고급 기관포"
+SMALL_ACOT_AUTOCANNON_3:  "소형 고급 기관포"
+MEDIUM_ACOT_AUTOCANNON_3:  "중형 고급 자동포"
+LARGE_ACOT_AUTOCANNON_3:  "대형 고급 자동포"
+
+XS_ACOT_AUTOCANNON_4:  "마이크로 리퍼 오토캐논"
+SMALL_ACOT_AUTOCANNON_4:  "소형 리퍼 기관포"
+MEDIUM_ACOT_AUTOCANNON_4:  "중형 리퍼 기관포"
+LARGE_ACOT_AUTOCANNON_4:  "대형 리퍼 기관포"
+
+XS_ACOT_AUTOCANNON_5:  "소형 폭풍불꽃 기관포"
+SMALL_ACOT_AUTOCANNON_5:  "소형 폭풍불꽃 기관포"
+MEDIUM_ACOT_AUTOCANNON_5:  "중형 스톰파이어 자동포"
+LARGE_ACOT_AUTOCANNON_5:  "대형 스톰파이어 기관포"
+ 
+XS_ACOT_AUTOCANNON_6E:  "마이크로 수수께끼의 자동포"
+SMALL_ACOT_AUTOCANNON_6E:  "수수께끼의 작은 기관포"
+MEDIUM_ACOT_AUTOCANNON_6E:  "중형 수수께끼의 자동포"
+LARGE_ACOT_AUTOCANNON_6E:  "수수께끼의 대형 자동포"
+
+XS_ACOT_AUTOCANNON_6S:  "마이크로 스텔라라이트 자동포"
+SMALL_ACOT_AUTOCANNON_6S:  "소형 스텔라라이트 기관포"
+MEDIUM_ACOT_AUTOCANNON_6S:  "중형 스텔라라이트 자동포"
+LARGE_ACOT_AUTOCANNON_6S:  "대형 스텔라라이트 자동포"
+
+
+####### AL #######
+
+tech_acot_autocannons_al_4:  "리퍼 마크로캐논"
+tech_acot_autocannons_al_4_desc:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+tech_acot_autocannons_al_5:  "스톰파이어 마크로캐논"
+tech_acot_autocannons_al_5_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_al_6e:  "매크로캐논"
+tech_acot_autocannons_al_6e_desc:  "하드라이트 조작의 발전을 통해 우리는 무거운 하드라이트 발사체로 빠르게 발사되는 자동포를 수용할 수 있을 만큼 강력한 포탑을 만들 수 있습니다. 발사 속도의 엄청난 증가는 무기의 사거리와 추적 능력을 희생함으로써 달성됩니다."
+
+tech_acot_autocannons_al_6s:  "매크로캐논"
+tech_acot_autocannons_al_6s_desc:  "하드라이트 조작의 발전을 통해 우리는 무거운 하드라이트 발사체로 빠르게 발사되는 자동포를 수용할 수 있을 만큼 강력한 포탑을 만들 수 있습니다. 발사 속도의 엄청난 증가는 무기의 사거리와 추적 능력을 희생함으로써 달성됩니다."
+
+ACOT_AUTOCANNON_ARTILLERY_4:  "리퍼 마크로캐논"
+ACOT_AUTOCANNON_ARTILLERY_4_DESC:  "주력함에 사용하기 위한 리퍼 자동포의 장거리 확장 버전입니다.\n\n최소 사거리: 40"
+ACOT_AUTOCANNON_ARTILLERY_5:  "스톰파이어 마크로캐논"
+ACOT_AUTOCANNON_ARTILLERY_5_DESC:  "주력함을 상대로 사용하기 위한 장거리, 확장형 스톰파이어 자동포입니다.\n\n최소 사거리: 40"
+
+ACOT_AUTOCANNON_ARTILLERY_6E:  "슬링어 마크로캐논"
+ACOT_AUTOCANNON_ARTILLERY_6E_DESC:  "주력함을 상대로 사용하기 위한 장거리, 확장형 스톰파이어 자동포입니다.\n\n최소 사거리: 40"
+
+ACOT_AUTOCANNON_ARTILLERY_6S:  "슬링어 마크로캐논"
+ACOT_AUTOCANNON_ARTILLERY_6S_DESC:  "주력함을 상대로 사용하기 위한 장거리, 확장형 스톰파이어 자동포입니다.\n\n최소 사거리: 40"
+
+####### XL #######
+
+tech_acot_autocannons_xl_4:  "리퍼 슈퍼캐논"
+tech_acot_autocannons_xl_4_desc:  "이 업그레이드된 회전 기관포는 향상된 추적 및 사격 통제 시스템을 갖추고 있습니다. 이를 통해 훨씬 더 높은 발사 속도를 유지할 수 있습니다."
+tech_acot_autocannons_xl_5:  "스톰파이어 슈퍼캐논"
+tech_acot_autocannons_xl_5_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_xl_6e:  "스톰파이어 슈퍼캐논"
+tech_acot_autocannons_xl_6e_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_xl_6s:  "스톰파이어 슈퍼캐논"
+tech_acot_autocannons_xl_6s_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+
+ACOT_AUTOCANNON_XL_4:  "리퍼 슈퍼캐논"
+ACOT_AUTOCANNON_XL_4_DESC:  "리퍼 슈퍼캐논"
+ACOT_AUTOCANNON_XL_5:  "스톰파이어 슈퍼캐논"
+ACOT_AUTOCANNON_XL_5_DESC:  "스톰파이어 슈퍼캐논"
+
+ACOT_AUTOCANNON_XL_6E:  "슬링어 슈퍼캐논"
+ACOT_AUTOCANNON_XL_6E_DESC:  "슬링어 슈퍼캐논"
+
+ACOT_AUTOCANNON_XL_6S:  "슬링어 슈퍼캐논"
+ACOT_AUTOCANNON_XL_6S_DESC:  "슬링어 슈퍼캐논"
+
+
+####### T #######
+
+tech_acot_autocannons_t_5:  "스톰파이어 메가캐논"
+tech_acot_autocannons_t_5_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_t_6e:  "스톰파이어 메가캐논"
+tech_acot_autocannons_t_6e_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+tech_acot_autocannons_t_6s:  "스톰파이어 메가캐논"
+tech_acot_autocannons_t_6s_desc:  "고폭탄 구름을 목표물에 발사할 수 있는 고급 회전식 자동포입니다."
+
+ACOT_AUTOCANNON_TITAN_5:  "스톰파이어 메가캐논"
+ACOT_AUTOCANNON_TITAN_5_DESC:  "스톰파이어 메가캐논"
+
+ACOT_AUTOCANNON_TITAN_6E:  "슬링어 메가캐논"
+ACOT_AUTOCANNON_TITAN_6E_DESC:  "슬링어 메가캐논"
+
+ACOT_AUTOCANNON_TITAN_6S:  "슬링어 메가캐논"
+ACOT_AUTOCANNON_TITAN_6S_DESC:  "슬링어 메가캐논"
+
+ACOT_AUTOCANNON_TITAN_W_5:  "스톰파이어 메가캐논"
+ACOT_AUTOCANNON_TITAN_W_5_DESC:  "스톰파이어 메가캐논"
+
+ACOT_AUTOCANNON_TITAN_W_6E:  "슬링어 메가캐논"
+ACOT_AUTOCANNON_TITAN_W_6E_DESC:  "슬링어 메가캐논"
+
+ACOT_AUTOCANNON_TITAN_W_6S:  "슬링어 메가캐논"
+ACOT_AUTOCANNON_TITAN_W_6S_DESC:  "슬링어 메가캐논"
+############################################################ WRECKER ############################################################
+
+####### STANDARD #######
+
+tech_acot_wrecker_1:  "중력 투석기 시스템"
+tech_acot_wrecker_1_desc:  "충격포"
+tech_acot_wrecker_2:  "충격포"
+tech_acot_wrecker_2_desc:  "충격포"
+tech_acot_wrecker_3:  "분쇄기 대포"
+tech_acot_wrecker_3_desc:  "분쇄기 대포"
+tech_acot_wrecker_4:  "헐브레이커 캐논"
+tech_acot_wrecker_4_desc:  "헐브레이커 캐논"
+tech_acot_wrecker_5:  "헐레커 캐논"
+tech_acot_wrecker_5_desc:  "헐레커 캐논"
+
+tech_acot_wrecker_6e:  "충격포"
+tech_acot_wrecker_6e_desc:  "한계에 도달하기 전에 키네틱 무기를 사용할 수 있는 기간은 지금까지입니다. 기록에 따르면 과거의 선구자 제국은 레일건 기술보다는 상당한 피해를 입히면서 적당한 속도로 발사할 수 있는 경광탄을 생성하는 능력에 더 중점을 두는 경향이 있었습니다. 단지 탄 자체가 극도로 치명적이라는 이유 때문이었습니다. 고급 유도 시스템을 사용하면 정확한 조준 정확도 없이도 장거리에서 포탄을 발사할 수 있습니다."
+
+tech_acot_wrecker_6s:  "충격포"
+tech_acot_wrecker_6s_desc:  "한계에 도달하기 전에 키네틱 무기를 사용할 수 있는 기간은 지금까지입니다. 기록에 따르면 과거의 선구자 제국은 레일건 기술보다는 상당한 피해를 입히면서 적당한 속도로 발사할 수 있는 경광탄을 생성하는 능력에 더 중점을 두는 경향이 있었습니다. 단지 탄 자체가 극도로 치명적이라는 이유 때문이었습니다. 고급 유도 시스템을 사용하면 정확한 조준 정확도 없이도 장거리에서 포탄을 발사할 수 있습니다."
+
+ACOT_WRECKER_1:  "중력포"
+ACOT_WRECKER_1_DESC:  "FTL 이전 대선 탄도포는 우주에서 작동하도록 수정되었습니다. 포탄은 함선 내의 중요한 구조를 손상시킬 수 있는 여러 파편으로 폭발하지만 운동 장벽에는 효과가 없습니다."
+ACOT_WRECKER_2:  "충격포"
+ACOT_WRECKER_2_DESC:  "우주 전쟁의 새로운 표준에 맞게 FTL 이전 AHB로 업그레이드된 충격포는 적의 방어벽을 관통하는 데 탁월하며, 운동 방어벽이 뚫리면 적의 내부 시스템을 파괴합니다."
+ACOT_WRECKER_3:  "분쇄기 대포"
+ACOT_WRECKER_3_DESC:  "고급 엔지니어링을 통해 더욱 치명적인 포탄을 발사하여 전투 효과를 높일 수 있습니다."
+ACOT_WRECKER_4:  "헐브레이커 캐논"
+ACOT_WRECKER_4_DESC:  "속도나 사거리를 희생하지 않고도 더욱 강력한 4세대 AHB 대포입니다."
+ACOT_WRECKER_5:  "헐레커 캐논"
+ACOT_WRECKER_5_DESC:  "잘 망가 졌어."
+
+ACOT_WRECKER_6E:  "수수께끼의 충격포"
+ACOT_WRECKER_6E_DESC:  "충격포는 가우스 대포와 같은 빠른 발사체를 발사하는 능력보다는 목표물을 타격할 수 있는 강력한 탄환을 생성하는 실제 능력에 더 많이 의존합니다."
+
+ACOT_WRECKER_6S:  "스텔라라이트 충격포"
+ACOT_WRECKER_6S_DESC:  "충격포는 가우스 대포와 같은 빠른 발사체를 발사하는 능력보다는 목표물을 타격할 수 있는 강력한 탄환을 생성하는 실제 능력에 더 많이 의존합니다."
+
+
+XS_ACOT_WRECKER_1:  "마이크로 중력포"
+SMALL_ACOT_WRECKER_1:  "소형 중력포"
+MEDIUM_ACOT_WRECKER_1:  "중형 중력포"
+LARGE_ACOT_WRECKER_1:  "대형 중력포"
+
+XS_ACOT_WRECKER_2:  "마이크로 쇼크 캐논"
+SMALL_ACOT_WRECKER_2:  "소형 충격포"
+MEDIUM_ACOT_WRECKER_2:  "중충격포"
+LARGE_ACOT_WRECKER_2:  "대형 충격포"
+
+XS_ACOT_WRECKER_3:  "마이크로 분쇄기 대포"
+SMALL_ACOT_WRECKER_3:  "소형 분쇄기 대포"
+MEDIUM_ACOT_WRECKER_3:  "중형 분쇄기 대포"
+LARGE_ACOT_WRECKER_3:  "대형 분쇄기 대포"
+
+XS_ACOT_WRECKER_4:  "마이크로 헐브레이커 캐논"
+SMALL_ACOT_WRECKER_4:  "소형 헐브레이커 캐논"
+MEDIUM_ACOT_WRECKER_4:  "중형 헐브레이커 캐논"
+LARGE_ACOT_WRECKER_4:  "대형 헐브레이커 캐논"
+
+XS_ACOT_WRECKER_5:  "마이크로 헐레커 캐논"
+SMALL_ACOT_WRECKER_5:  "소형 선체파쇄기 대포"
+MEDIUM_ACOT_WRECKER_5:  "중형 헐레커 캐논"
+LARGE_ACOT_WRECKER_5:  "대형 헐레커 캐논"
+
+XS_ACOT_WRECKER_6E:  "마이크로 쇼크 캐논"
+SMALL_ACOT_WRECKER_6E:  "소형 충격포"
+MEDIUM_ACOT_WRECKER_6E:  "중충격포"
+LARGE_ACOT_WRECKER_6E:  "대형 충격포"
+
+XS_ACOT_WRECKER_6S:  "마이크로 쇼크 캐논"
+SMALL_ACOT_WRECKER_6S:  "소형 충격포"
+MEDIUM_ACOT_WRECKER_6S:  "중충격포"
+LARGE_ACOT_WRECKER_6S:  "대형 충격포"
+
+
+####### AL #######
+
+#tech_kinetic_artillery_1:  "중력자 배터리"
+#tech_kinetic_artillery_1_desc:  "높은 정확도로 극한의 거리에 걸쳐 강력한 탄환을 던질 수 있는 장거리 포병입니다."
+#tech_kinetic_artillery_2:  "중력자 포병"
+#tech_kinetic_artillery_2_desc:  "새로운 포신과 업그레이드된 사격 통제 컴퓨터를 갖춘 훨씬 더 강력한 장거리 함포 기반 포입니다."
+
+tech_acot_wrecker_al_6e:  "프로토타입 하드라이트 포병"
+tech_acot_wrecker_al_6e_desc:  "이제 드디어 실제 장거리 경광 기반 포병 시스템 준비를 시작할 때입니다. 첫 번째 프로토타입은 곧 현장 테스트 준비가 완료될 것입니다."
+
+tech_acot_wrecker_al_6s:  "프로토타입 하드라이트 포병"
+tech_acot_wrecker_al_6s_desc:  "이제 드디어 실제 장거리 경광 기반 포병 시스템 준비를 시작할 때입니다. 첫 번째 프로토타입은 곧 현장 테스트 준비가 완료될 것입니다."
+
+ACOT_WRECKER_ARTILLERY_4:  "헐브레이커 중력자 배터리"
+ACOT_WRECKER_ARTILLERY_4_DESC:  "높은 정확도로 극한의 거리에 걸쳐 강력한 탄환을 던질 수 있는 장거리 포병입니다."
+ACOT_WRECKER_ARTILLERY_5:  "헐레커 중력자 포병"
+ACOT_WRECKER_ARTILLERY_5_DESC:  "새로운 포신과 업그레이드된 사격 통제 컴퓨터를 갖춘 훨씬 더 강력한 장거리 함포 기반 포입니다."
+
+ACOT_WRECKER_ARTILLERY_6E:  "수수께끼의 충격포"
+ACOT_WRECKER_ARTILLERY_6E_DESC:  "프로토타입 하드라이트 포병은 이름에서 알 수 있듯이 하드라이트 재료로 만들어진 발사체를 발사합니다."
+
+ACOT_WRECKER_ARTILLERY_6S:  "스텔라라이트 광휘 포병"
+ACOT_WRECKER_ARTILLERY_6S_DESC:  "프로토타입 하드라이트 포병은 이름에서 알 수 있듯이 하드라이트 재료로 만들어진 발사체를 발사합니다."
+
+
+####### XL #######
+
+tech_acot_wrecker_xl_4:  "중력자 분쇄기"
+tech_acot_wrecker_xl_4_desc:  "중력자 분쇄기"
+tech_acot_wrecker_xl_5:  "중력자 분쇄기"
+tech_acot_wrecker_xl_5_desc:  "중력자 분쇄기"
+
+tech_acot_wrecker_xl_6e:  "중력자 분쇄기"
+tech_acot_wrecker_xl_6e_desc:  "중력자 분쇄기"
+
+tech_acot_wrecker_xl_6s:  "중력자 분쇄기"
+tech_acot_wrecker_xl_6s_desc:  "중력자 분쇄기"
+
+ACOT_WRECKER_XL_4:  "헐브레이커 중력자 분쇄기"
+ACOT_WRECKER_XL_4_DESC:  "헐브레이커 X"
+ACOT_WRECKER_XL_5:  "헐레커 중력자 분쇄기"
+ACOT_WRECKER_XL_5_DESC:  "헐레커 X"
+
+ACOT_WRECKER_XL_6E:  "HLA X"
+ACOT_WRECKER_XL_6E_DESC:  "HLA X"
+ 
+ACOT_WRECKER_XL_6S:  "HLA X"
+ACOT_WRECKER_XL_6S_DESC:  "HLA X"
+
+####### T #######
+
+tech_acot_wrecker_t_5:  "타이탄 브레이커"
+tech_acot_wrecker_t_5_desc:  "타이탄 헐브레이커"
+
+tech_acot_wrecker_t_6e:  "타이탄 브레이커"
+tech_acot_wrecker_t_6e_desc:  "타이탄 헐브레이커"
+
+tech_acot_wrecker_t_6s:  "타이탄 브레이커"
+tech_acot_wrecker_t_6s_desc:  "타이탄 헐브레이커"
+
+
+ACOT_WRECKER_TITAN_5:  "타이탄 브레이커"
+ACOT_WRECKER_TITAN_5_DESC:  "타이탄 브레이커"
+
+ACOT_WRECKER_TITAN_6E:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_6E_DESC:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_7E:  "거상포식자"
+ACOT_WRECKER_TITAN_7E_DESC:  "거상포식자"
+ACOT_WRECKER_TITAN_8E:  "베히모스 사냥꾼"
+ACOT_WRECKER_TITAN_8E_DESC:  "베히모스 사냥꾼"
+ACOT_WRECKER_TITAN_9E:  "§R갓 스플리터"
+ACOT_WRECKER_TITAN_9E_DESC:  "§R갓 스플리터"
+
+ACOT_WRECKER_TITAN_6S:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_6S_DESC:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_7S:  "거상포식자"
+ACOT_WRECKER_TITAN_7S_DESC:  "거상포식자"
+ACOT_WRECKER_TITAN_8S:  "베히모스 사냥꾼"
+ACOT_WRECKER_TITAN_8S_DESC:  "베히모스 사냥꾼"
+ACOT_WRECKER_TITAN_9S:  "§R갓 스플리터"
+ACOT_WRECKER_TITAN_9S_DESC:  "§R갓 스플리터"
+
+ACOT_WRECKER_TITAN_W_5:  "타이탄 브레이커"
+ACOT_WRECKER_TITAN_W_5_DESC:  "타이탄 브레이커"
+
+ACOT_WRECKER_TITAN_W_6E:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_W_6E_DESC:  "거대괴수 파괴자"
+
+ACOT_WRECKER_TITAN_W_6S:  "거대괴수 파괴자"
+ACOT_WRECKER_TITAN_W_6S_DESC:  "거대괴수 파괴자"
+
+############################################################ PD ############################################################
+
+#tech_pd_tracking_1:  "AM-PDS"
+#tech_pd_tracking_1_desc:  "최선의 방어는 좋은 공격이다."
+#tech_pd_tracking_2:  "상호 연결된 지원 시스템"
+#tech_pd_tracking_2_desc:  "일련의 방어 무기가 독립적인 대응 수단보다 훨씬 더 효과적인 것으로 입증되었습니다."
+#tech_pd_tracking_3:  "예측 알고리즘"
+#tech_pd_tracking_3_desc:  "고급 예측은 활성 대응 시스템의 정확도를 크게 향상시킵니다."
+tech_acot_pd_tracking_4:  "상호 연결된 지원 시스템"
+tech_acot_pd_tracking_4_desc:  "일련의 방어 무기가 독립적인 대응 수단보다 훨씬 더 효과적인 것으로 입증되었습니다."
+tech_acot_pd_tracking_5:  "예측 알고리즘"
+tech_acot_pd_tracking_5_desc:  "고급 예측은 활성 대응 시스템의 정확도를 크게 향상시킵니다."
+
+tech_acot_pd_tracking_6e:  "수수께끼의 지점 방어"
+tech_acot_pd_tracking_6e_desc:  "우리는 과거의 다양한 기술적 경이로움을 이해하는 데 점점 더 가까워지고 있습니다. 펄스 빔은 미사일과 타격기 선별에 적합한 강력한 지점 방어 역할을 하도록 수정될 수 있습니다."
+
+tech_acot_pd_tracking_6s:  "수수께끼의 지점 방어"
+tech_acot_pd_tracking_6s_desc:  "우리는 과거의 다양한 기술적 경이로움을 이해하는 데 점점 더 가까워지고 있습니다. 펄스 빔은 미사일과 타격기 선별에 적합한 강력한 지점 방어 역할을 하도록 수정될 수 있습니다."
+
+ACOT_POINT_DEFENSE_1:  "AM 지점 방어 시스템"
+ACOT_POINT_DEFENSE_1_DESC:  "미사일과 공격정에 대한 선체 장착 대응책은 더 크고 느린 군함의 경우 종종 필수적입니다."
+XS_ACOT_POINT_DEFENSE_1:  "AM 마이크로 지점 방어 시스템"
+SMALL_ACOT_POINT_DEFENSE_1:  "AM 지점 방어 시스템"
+MEDIUM_ACOT_POINT_DEFENSE_1:  "AM 지점 방어 시스템"
+LARGE_ACOT_POINT_DEFENSE_1:  "AM 지점 방어 시스템"
+
+ACOT_POINT_DEFENSE_2:  "AAM 지점 방어 시스템"
+ACOT_POINT_DEFENSE_2_DESC:  "업데이트된 예측 알고리즘은 추적 및 지점 방어 효율성을 향상시킵니다."
+XS_ACOT_POINT_DEFENSE_2:  "AAM 마이크로 지점 방어 시스템"
+SMALL_ACOT_POINT_DEFENSE_2:  "AAM 지점 방어 시스템"
+MEDIUM_ACOT_POINT_DEFENSE_2:  "AAM 지점 방어 시스템"
+LARGE_ACOT_POINT_DEFENSE_2:  "AAM 지점 방어 시스템"
+
+ACOT_POINT_DEFENSE_3:  "Shielder 지점 방어 시스템"
+ACOT_POINT_DEFENSE_3_DESC:  "사용 가능한 탄약 유형이 더욱 다양해지면서 들어오는 위협에 대한 효과적인 차단율이 크게 향상됩니다."
+XS_ACOT_POINT_DEFENSE_3:  "Shielder 마이크로 지점 방어 시스템"
+SMALL_ACOT_POINT_DEFENSE_3:  "Shielder 지점 방어 시스템"
+MEDIUM_ACOT_POINT_DEFENSE_3:  "Shielder 지점 방어 시스템"
+LARGE_ACOT_POINT_DEFENSE_3:  "Shielder 지점 방어 시스템"
+
+ACOT_POINT_DEFENSE_4:  "장벽 지점 방어 시스템"
+ACOT_POINT_DEFENSE_4_DESC:  "사용 가능한 탄약 유형이 더욱 다양해지면서 들어오는 위협에 대한 효과적인 차단율이 크게 향상됩니다."
+XS_ACOT_POINT_DEFENSE_4:  "배리어 마이크로 지점 방어 시스템"
+SMALL_ACOT_POINT_DEFENSE_4:  "장벽 지점 방어 시스템"
+MEDIUM_ACOT_POINT_DEFENSE_4:  "장벽 지점 방어 시스템"
+LARGE_ACOT_POINT_DEFENSE_4:  "장벽 지점 방어 시스템"
+
+ACOT_POINT_DEFENSE_5:  "가디언 지점 방어 시스템"
+ACOT_POINT_DEFENSE_5_DESC:  "사용 가능한 탄약 유형이 더욱 다양해지면서 들어오는 위협에 대한 효과적인 차단율이 크게 향상됩니다."
+XS_ACOT_POINT_DEFENSE_5:  "Guardian 마이크로 지점 방어 시스템"
+SMALL_ACOT_POINT_DEFENSE_5:  "가디언 지점 방어 시스템"
+MEDIUM_ACOT_POINT_DEFENSE_5:  "가디언 지점 방어 시스템"
+LARGE_ACOT_POINT_DEFENSE_5:  "가디언 지점 방어 시스템"
+
+ACOT_POINT_DEFENSE_6E:  "수수께끼의 지점 방어"
+ACOT_POINT_DEFENSE_6E_DESC:  "수수께끼의 지점 방어는 집중된 에너지 빔을 발사하여 적의 미사일을 무력화합니다."
+XS_ACOT_POINT_DEFENSE_6E:  "수수께끼의 마이크로 지점 방어"
+SMALL_ACOT_POINT_DEFENSE_6E:  "수수께끼의 지점 방어"
+MEDIUM_ACOT_POINT_DEFENSE_6E:  "수수께끼의 지점 방어"
+LARGE_ACOT_POINT_DEFENSE_6E:  "수수께끼의 지점 방어"
+
+ACOT_POINT_DEFENSE_6S:  "스텔라라이트 지점 방어"
+ACOT_POINT_DEFENSE_6S_DESC:  "Stellarite Point-Defense는 집중된 에너지 빔을 발사하여 적 미사일을 무력화합니다."
+XS_ACOT_POINT_DEFENSE_6S:  "Stellarite 마이크로 지점 방어"
+SMALL_ACOT_POINT_DEFENSE_6S:  "스텔라라이트 지점 방어"
+MEDIUM_ACOT_POINT_DEFENSE_6S:  "스텔라라이트 지점 방어"
+LARGE_ACOT_POINT_DEFENSE_6S:  "스텔라라이트 지점 방어"
+
+############################################################ FLAK ############################################################
+
+#tech_flak_batteries_1:  "센트리 건"
+#tech_flak_batteries_1_desc:  "근거리에서 파편탄을 발사하는 포대입니다. 특히 적 공격기에 치명적이지만 미사일을 방어할 수도 있습니다."
+#tech_flak_batteries_2:  "향상된 센트리 건"
+#tech_flak_batteries_2_desc:  "새롭고 더욱 강력한 파편탄으로 업그레이드된 대공포 배터리."
+#tech_flak_batteries_3:  "센트리 캐논"
+#tech_flak_batteries_3_desc:  "예측 추적 알고리즘과 훨씬 더 강력한 포탄은 이 배터리를 적 공격 항공기에 엄청나게 치명적으로 만듭니다."
+tech_acot_flak_batteries_4:  "고급 센트리 캐논"
+tech_acot_flak_batteries_4_desc:  "고급 센트리 캐논"
+tech_acot_flak_batteries_5:  "가디언 센트리 캐논"
+tech_acot_flak_batteries_5_desc:  "가디언 센트리 캐논"
+
+tech_acot_flak_batteries_6e:  "델픽 타겟팅 컴퓨터"
+tech_acot_flak_batteries_6e_desc:  "강력하고 불가사의한 델프 전투 컴퓨터로 현재의 운동 방어를 업데이트하면 시스템이 기존 Flak Cannon보다 훨씬 더 뛰어난 성능을 발휘하게 될 것입니다."
+
+tech_acot_flak_batteries_6s:  "델픽 타겟팅 컴퓨터"
+tech_acot_flak_batteries_6s_desc:  "강력하고 불가사의한 델프 전투 컴퓨터로 현재의 운동 방어를 업데이트하면 시스템이 기존 Flak Cannon보다 훨씬 더 뛰어난 성능을 발휘하게 될 것입니다."
+
+ACOT_FLAK_CANNON_1:  "센트리 건"
+ACOT_FLAK_CANNON_1_DESC:  "$tech_flak_batteries_1_desc$"
+XS_ACOT_FLAK_CANNON_1:  "마이크로 센트리 건"
+SMALL_ACOT_FLAK_CANNON_1:  "센트리 건"
+MEDIUM_ACOT_FLAK_CANNON_1:  "센트리 건"
+LARGE_ACOT_FLAK_CANNON_1:  "센트리 건"
+
+ACOT_FLAK_CANNON_2:  "향상된 센트리 건"
+ACOT_FLAK_CANNON_2_DESC:  "$tech_flak_batteries_2_desc$"
+XS_ACOT_FLAK_CANNON_2:  "마이크로 개량형 센트리 건"
+SMALL_ACOT_FLAK_CANNON_2:  "향상된 센트리 건"
+MEDIUM_ACOT_FLAK_CANNON_2:  "향상된 센트리 건"
+LARGE_ACOT_FLAK_CANNON_2:  "향상된 센트리 건"
+
+ACOT_FLAK_CANNON_3:  "센트리 캐논"
+ACOT_FLAK_CANNON_3_DESC:  "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_3:  "마이크로 센트리 캐논"
+SMALL_ACOT_FLAK_CANNON_3:  "센트리 캐논"
+MEDIUM_ACOT_FLAK_CANNON_3:  "센트리 캐논"
+LARGE_ACOT_FLAK_CANNON_3:  "센트리 캐논"
+
+ACOT_FLAK_CANNON_4:  "고급 센트리 캐논"
+ACOT_FLAK_CANNON_4_DESC:  "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_4:  "마이크로 고급 센트리 캐논"
+SMALL_ACOT_FLAK_CANNON_4:  "고급 센트리 캐논"
+MEDIUM_ACOT_FLAK_CANNON_4:  "고급 센트리 캐논"
+LARGE_ACOT_FLAK_CANNON_4:  "고급 센트리 캐논"
+
+ACOT_FLAK_CANNON_5:  "가디언 센트리 캐논"
+ACOT_FLAK_CANNON_5_DESC:  "$tech_flak_batteries_3_desc$"
+XS_ACOT_FLAK_CANNON_5:  "마이크로 가디언 센트리 캐논"
+SMALL_ACOT_FLAK_CANNON_5:  "가디언 센트리 캐논"
+MEDIUM_ACOT_FLAK_CANNON_5:  "가디언 센트리 캐논"
+LARGE_ACOT_FLAK_CANNON_5:  "가디언 센트리 캐논"
+
+ACOT_FLAK_CANNON_6E:  "수수께끼의 센트리 캐논"
+ACOT_FLAK_CANNON_6E_DESC:  "성가신 타격 항공기와 미사일을 제거하는 데 탁월한 강력한 운동 방어 시스템입니다."
+XS_ACOT_FLAK_CANNON_6E:  "마이크로 수수께끼의 센트리 캐논"
+SMALL_ACOT_FLAK_CANNON_6E:  "수수께끼의 센트리 캐논"
+MEDIUM_ACOT_FLAK_CANNON_6E:  "수수께끼의 센트리 캐논"
+LARGE_ACOT_FLAK_CANNON_6E:  "수수께끼의 센트리 캐논"
+
+ACOT_FLAK_CANNON_6S:  "스텔라라이트 센트리 캐논"
+ACOT_FLAK_CANNON_6S_DESC:  "성가신 타격 항공기와 미사일을 제거하는 데 탁월한 강력한 운동 방어 시스템입니다."
+XS_ACOT_FLAK_CANNON_6S:  "마이크로 스텔라라이트 센트리 캐논"
+SMALL_ACOT_FLAK_CANNON_6S:  "스텔라라이트 센트리 캐논"
+MEDIUM_ACOT_FLAK_CANNON_6S:  "스텔라라이트 센트리 캐논"
+LARGE_ACOT_FLAK_CANNON_6S:  "스텔라라이트 센트리 캐논"
+
+############################################################ CCM ############################################################
+
+tech_acot_ccm_1:  "대응 미사일"
+tech_acot_ccm_1_desc:  "근거리에서 파편탄을 발사하는 포대입니다. 특히 적 공격기에 치명적이지만 미사일을 방어할 수도 있습니다."
+tech_acot_ccm_2:  "개량형 대응 미사일"
+tech_acot_ccm_2_desc:  "새롭고 더욱 강력한 파편탄으로 업그레이드된 대공포 배터리."
+tech_acot_ccm_3:  "대응 미사일"
+tech_acot_ccm_3_desc:  "예측 추적 알고리즘과 훨씬 더 강력한 포탄은 이 배터리를 적 공격 항공기에 엄청나게 치명적으로 만듭니다."
+tech_acot_ccm_4:  "첨단대응미사일"
+tech_acot_ccm_4_desc:  "첨단대응미사일"
+tech_acot_ccm_5:  "가디언 대응 미사일"
+tech_acot_ccm_5_desc:  "가디언 대응 미사일"
+
+tech_acot_ccm_6e:  "델픽 타겟팅 컴퓨터"
+tech_acot_ccm_6e_desc:  "강력하고 불가사의한 델프 전투 컴퓨터로 현재의 운동 방어를 업데이트하면 시스템이 기존 Flak Cannon보다 훨씬 더 뛰어난 성능을 발휘하게 될 것입니다."
+
+tech_acot_ccm_6s:  "델픽 타겟팅 컴퓨터"
+tech_acot_ccm_6s_desc:  "강력하고 불가사의한 델프 전투 컴퓨터로 현재의 운동 방어를 업데이트하면 시스템이 기존 Flak Cannon보다 훨씬 더 뛰어난 성능을 발휘하게 될 것입니다."
+
+
+ACOT_CCM_1:  "대응 미사일"
+ACOT_CCM_1_DESC:  "$tech_acot_ccm_1_desc$"
+XS_ACOT_CCM_1:  "초소형 대응 미사일"
+SMALL_ACOT_CCM_1:  "대응 미사일"
+MEDIUM_ACOT_CCM_1:  "대응 미사일"
+LARGE_ACOT_CCM_1:  "대응 미사일"
+
+ACOT_CCM_2:  "개량형 대응 미사일"
+ACOT_CCM_2_DESC:  "$tech_acot_ccm_2_desc$"
+XS_ACOT_CCM_2:  "마이크로 개량형 대응 미사일"
+SMALL_ACOT_CCM_2:  "개량형 대응 미사일"
+MEDIUM_ACOT_CCM_2:  "개량형 대응 미사일"
+LARGE_ACOT_CCM_2:  "개량형 대응 미사일"
+
+ACOT_CCM_3:  "대응 미사일"
+ACOT_CCM_3_DESC:  "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_3:  "초소형 대응 미사일"
+SMALL_ACOT_CCM_3:  "대응 미사일"
+MEDIUM_ACOT_CCM_3:  "대응 미사일"
+LARGE_ACOT_CCM_3:  "대응 미사일"
+
+ACOT_CCM_4:  "첨단대응미사일"
+ACOT_CCM_4_DESC:  "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_4:  "초소형 첨단 대응 미사일"
+SMALL_ACOT_CCM_4:  "첨단대응미사일"
+MEDIUM_ACOT_CCM_4:  "첨단대응미사일"
+LARGE_ACOT_CCM_4:  "첨단대응미사일"
+
+ACOT_CCM_5:  "가디언 대응 미사일"
+ACOT_CCM_5_DESC:  "$tech_acot_ccm_3_desc$"
+XS_ACOT_CCM_5:  "마이크로 가디언 대응 미사일"
+SMALL_ACOT_CCM_5:  "가디언 대응 미사일"
+MEDIUM_ACOT_CCM_5:  "가디언 대응 미사일"
+LARGE_ACOT_CCM_5:  "가디언 대응 미사일"
+
+ACOT_CCM_6E:  "수수께끼의 대응 미사일"
+ACOT_CCM_6E_DESC:  "성가신 타격 항공기와 미사일을 제거하는 데 탁월한 강력한 운동 방어 시스템입니다."
+XS_ACOT_CCM_6E:  "마이크로 수수께끼 대응 미사일"
+SMALL_ACOT_CCM_6E:  "수수께끼의 대응 미사일"
+MEDIUM_ACOT_CCM_6E:  "수수께끼의 대응 미사일"
+LARGE_ACOT_CCM_6E:  "수수께끼의 대응 미사일"
+
+
+ACOT_CCM_6S:  "스텔라라이트 대응 미사일"
+ACOT_CCM_6S_DESC:  "성가신 타격 항공기와 미사일을 제거하는 데 탁월한 강력한 운동 방어 시스템입니다."
+XS_ACOT_CCM_6S:  "마이크로 스텔라라이트 대응 미사일"
+SMALL_ACOT_CCM_6S:  "스텔라라이트 대응 미사일"
+MEDIUM_ACOT_CCM_6S:  "스텔라라이트 대응 미사일"
+LARGE_ACOT_CCM_6S:  "스텔라라이트 대응 미사일"
+
+############################################################ACOT_DESTABLIZER ############################################################
+
+ACOT_DESTABLIZER_1:  "조명 플레어"
+ACOT_DESTABLIZER_1_DESC:  "조명 플레어"
+ACOT_DESTABLIZER_2:  "대책 조명탄"
+ACOT_DESTABLIZER_2_DESC:  "대책 조명탄"
+ACOT_DESTABLIZER_3:  "보호용 조명탄"
+ACOT_DESTABLIZER_3_DESC:  "보호용 조명탄"
+ACOT_DESTABLIZER_4:  "가디언 플레어"
+ACOT_DESTABLIZER_4_DESC:  "가디언 플레어"
+ACOT_DESTABLIZER_5:  "리플리컨트 플레어"
+ACOT_DESTABLIZER_5_DESC:  "리플리컨트 플레어"
+
+
+############################################################ MISSILES ############################################################
+
+tech_acot_weapon_explosive:  "폭발물 및 추적 시스템"
+tech_acot_weapon_explosive_desc:  "폭발물 및 추적 시스템"
+
+tech_acot_weapon_explosive_2:  "첨단 폭발물 타겟팅 시스템"
+tech_acot_weapon_explosive_2_desc:  "첨단 폭발물 타겟팅 시스템"
+
+tech_acot_weapon_explosive_3:  "리플리컨트 재점화 타겟팅 시스템"
+tech_acot_weapon_explosive_3_desc:  "리플리컨트 재점화 타겟팅 시스템"
+
+tech_acot_weapon_explosive_6e:  "리플리컨트 재점화 타겟팅 시스템"
+tech_acot_weapon_explosive_6e_desc:  "리플리컨트 재점화 타겟팅 시스템"
+
+tech_acot_weapon_explosive_6s:  "리플리컨트 재점화 타겟팅 시스템"
+tech_acot_weapon_explosive_6s_desc:  "리플리컨트 재점화 타겟팅 시스템"
+
+
+ # Missile Branch
+#tech_missiles_1:  "교란 미사일"
+#tech_missiles_1_desc:  "고성능 핵탄두를 장착한 우주 대 우주 미사일. 비록 오래된 사전 우주 기술을 기반으로 하고 있지만 이 조잡한 발사 후 망각 무기는 원거리에서 놀라울 정도로 효과적일 수 있습니다."
+#tech_missiles_2:  "EMP 미사일"
+#tech_missiles_2_desc:  "이러한 업데이트된 우주 대 우주 미사일은 더욱 강력한 핵융합 탄두와 향상된 비행 성능을 갖추고 있습니다."
+#tech_missiles_3:  "파괴 공작 미사일"
+#tech_missiles_3_desc:  "매우 강력한 반물질 탄두를 장착한 첨단 미사일입니다. 새롭고 개선된 안내 시스템은 목표물을 찾을 수 있는 더 나은 기회를 제공합니다."
+#tech_missiles_4:  "하복 미사일"
+#tech_missiles_4_desc:  "최신 버전의 우주 대 우주 미사일인 이 업그레이드된 변형은 영점 진공에서 에너지를 끌어오는 엄청나게 강력한 탄두를 갖추고 있습니다."
+#tech_missiles_5:  "눈사태 미사일"
+#tech_missiles_5_desc:  "이 고도로 발전된 미사일에는 성능과 표적 추적 능력을 크게 향상시키는 제한된 탑재 AI 조종사가 장착되어 있습니다."
+
+tech_acot_missiles_6e:  "고스트 미사일"
+tech_acot_missiles_6e_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+
+tech_acot_missiles_6s:  "불타는 미사일"
+tech_acot_missiles_6s_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+
+ACOT_MISSILE_1:  "교란 미사일"
+ACOT_MISSILE_1_DESC:  "고성능 핵탄두를 장착한 우주 대 우주 미사일. 비록 오래된 사전 우주 기술을 기반으로 하고 있지만 이 조잡한 발사 후 망각 무기는 원거리에서 놀라울 정도로 효과적일 수 있습니다."
+ACOT_MISSILE_2:  "EMP 미사일"
+ACOT_MISSILE_2_DESC:  "이러한 업데이트된 우주 대 우주 미사일은 더욱 강력한 핵융합 탄두와 향상된 비행 성능을 갖추고 있습니다."
+ACOT_MISSILE_3:  "파괴 공작 미사일"
+ACOT_MISSILE_3_DESC:  "매우 강력한 반물질 탄두를 장착한 첨단 미사일입니다. 새롭고 개선된 안내 시스템은 목표물을 찾을 수 있는 더 나은 기회를 제공합니다."
+ACOT_MISSILE_4:  "하복 미사일"
+ACOT_MISSILE_4_DESC:  "최신 버전의 우주 대 우주 미사일인 이 업그레이드된 변형은 영점 진공에서 에너지를 끌어오는 엄청나게 강력한 탄두를 갖추고 있습니다."
+ACOT_MISSILE_5:  "눈사태 미사일"
+ACOT_MISSILE_5_DESC:  "이 고도로 발전된 미사일에는 성능과 표적 추적 능력을 크게 향상시키는 제한된 탑재 AI 조종사가 장착되어 있습니다."
+
+ACOT_MISSILE_6E:  "고스트 미사일"
+ACOT_MISSILE_6E_DESC:  "고스트 미사일은 머로더 미사일보다 강력합니다. 음, 리퍼나 해병이 아닌 고스트 미사일입니다. 머로더스를 이겨야 합니다."
+
+ACOT_MISSILE_6S:  "불타는 미사일"
+ACOT_MISSILE_6S_DESC:  "고스트 미사일은 머로더 미사일보다 강력합니다. 음, 리퍼나 해병이 아닌 고스트 미사일입니다. 머로더스를 이겨야 합니다."
+
+
+XS_ACOT_MISSILE_1:  "교란 마이크로 미사일"
+SMALL_ACOT_MISSILE_1:  "교란 미사일"
+MEDIUM_ACOT_MISSILE_1:  "쌍발 교란 미사일"
+LARGE_ACOT_MISSILE_1:  "쿼드 교란 미사일"
+
+XS_ACOT_MISSILE_2:  "EMP 마이크로 미사일"
+SMALL_ACOT_MISSILE_2:  "EMP 미사일"
+MEDIUM_ACOT_MISSILE_2:  "트윈 EMP 미사일"
+LARGE_ACOT_MISSILE_2:  "쿼드 EMP 미사일"
+
+XS_ACOT_MISSILE_3:  "파괴 공작원 마이크로 미사일"
+SMALL_ACOT_MISSILE_3:  "파괴 공작 미사일"
+MEDIUM_ACOT_MISSILE_3:  "쌍발 파괴 공작 미사일"
+LARGE_ACOT_MISSILE_3:  "쿼드 파괴 공작 미사일"
+
+XS_ACOT_MISSILE_4:  "하보크 마이크로 미사일"
+SMALL_ACOT_MISSILE_4:  "하복 미사일"
+MEDIUM_ACOT_MISSILE_4:  "트윈 하복 미사일"
+LARGE_ACOT_MISSILE_4:  "쿼드 하복 미사일"
+
+XS_ACOT_MISSILE_5:  "눈사태 마이크로 미사일"
+SMALL_ACOT_MISSILE_5:  "눈사태 미사일"
+MEDIUM_ACOT_MISSILE_5:  "쌍발 눈사태 미사일"
+LARGE_ACOT_MISSILE_5:  "쿼드 눈사태 미사일"
+
+XS_ACOT_MISSILE_6E:  "고스트 마이크로 미사일"
+SMALL_ACOT_MISSILE_6E:  "고스트 미사일"
+MEDIUM_ACOT_MISSILE_6E:  "트윈 고스트 미사일"
+LARGE_ACOT_MISSILE_6E:  "쿼드 고스트 미사일"
+
+XS_ACOT_MISSILE_6S:  "고스트 마이크로 미사일"
+SMALL_ACOT_MISSILE_6S:  "고스트 미사일"
+MEDIUM_ACOT_MISSILE_6S:  "트윈 고스트 미사일"
+LARGE_ACOT_MISSILE_6S:  "쿼드 고스트 미사일"
+
+
+tech_acot_missiles_al_4:  "실험적인 사격 시스템"
+tech_acot_missiles_al_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_missiles_al_5:  "실험적인 사격 시스템"
+tech_acot_missiles_al_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_missiles_al_6e:  "실험적인 사격 시스템"
+tech_acot_missiles_al_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_missiles_al_6s:  "실험적인 사격 시스템"
+tech_acot_missiles_al_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+
+ACOT_MISSILE_AL_4:  "혼란 MRLS"
+ACOT_MISSILE_AL_4_DESC:  "혼란 MRLS"
+ACOT_MISSILE_AL_5:  "눈사태 MRLS"
+ACOT_MISSILE_AL_5_DESC:  "눈사태 MRLS"
+
+ACOT_MISSILE_AL_6E:  "눈사태 MRLS"
+ACOT_MISSILE_AL_6E_DESC:  "눈사태 MRLS"
+
+ACOT_MISSILE_AL_6S:  "눈사태 MRLS"
+ACOT_MISSILE_AL_6S_DESC:  "눈사태 MRLS"
+
+
+############ XL
+
+tech_acot_missiles_xl_4:  "실험적인 사격 시스템"
+tech_acot_missiles_xl_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_missiles_xl_5:  "실험적인 사격 시스템"
+tech_acot_missiles_xl_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_missiles_xl_6e:  "실험적인 사격 시스템"
+tech_acot_missiles_xl_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_missiles_xl_6s:  "실험적인 사격 시스템"
+tech_acot_missiles_xl_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+ACOT_MISSILE_XL_4:  "하복 토마호크"
+ACOT_MISSILE_XL_4_DESC:  "하복 토마호크"
+ACOT_MISSILE_XL_5:  "눈사태 토마호크"
+ACOT_MISSILE_XL_5_DESC:  "눈사태 토마호크"
+
+ACOT_MISSILE_XL_6E:  "눈사태 토마호크"
+ACOT_MISSILE_XL_6E_DESC:  "눈사태 토마호크"
+
+ACOT_MISSILE_XL_6S:  "눈사태 토마호크"
+ACOT_MISSILE_XL_6S_DESC:  "눈사태 토마호크"
+
+tech_acot_missiles_t_5:  "실험적인 사격 시스템"
+tech_acot_missiles_t_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MISSILE_T_5:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_5_DESC:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_5:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_5_DESC:  "눈사태 타이탄 탄두"
+
+tech_acot_missiles_t_6e:  "실험적인 사격 시스템"
+tech_acot_missiles_t_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MISSILE_T_6E:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_6E_DESC:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_6E:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_6E_DESC:  "눈사태 타이탄 탄두"
+
+tech_acot_missiles_t_6s:  "실험적인 사격 시스템"
+tech_acot_missiles_t_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MISSILE_T_6S:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_6S_DESC:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_6S:  "눈사태 타이탄 탄두"
+ACOT_MISSILE_T_W_6S_DESC:  "눈사태 타이탄 탄두"
+
+############################################################ SEEKER ############################################################
+
+ # Missile Branch
+tech_acot_seeker_1:  "교란 미사일"
+tech_acot_seeker_1_desc:  "고성능 핵탄두를 장착한 우주 대 우주 미사일. 비록 오래된 사전 우주 기술을 기반으로 하고 있지만 이 조잡한 발사 후 망각 무기는 원거리에서 놀라울 정도로 효과적일 수 있습니다."
+tech_acot_seeker_2:  "EMP 미사일"
+tech_acot_seeker_2_desc:  "이러한 업데이트된 우주 대 우주 미사일은 더욱 강력한 핵융합 탄두와 향상된 비행 성능을 갖추고 있습니다."
+tech_acot_seeker_3:  "파괴 공작 미사일"
+tech_acot_seeker_3_desc:  "매우 강력한 반물질 탄두를 장착한 첨단 미사일입니다. 새롭고 개선된 안내 시스템은 목표물을 찾을 수 있는 더 나은 기회를 제공합니다."
+tech_acot_seeker_4:  "하복 미사일"
+tech_acot_seeker_4_desc:  "최신 버전의 우주 대 우주 미사일인 이 업그레이드된 변형은 영점 진공에서 에너지를 끌어오는 엄청나게 강력한 탄두를 갖추고 있습니다."
+tech_acot_seeker_5:  "눈사태 미사일"
+tech_acot_seeker_5_desc:  "이 고도로 발전된 미사일에는 성능과 표적 추적 능력을 크게 향상시키는 제한된 탑재 AI 조종사가 장착되어 있습니다."
+
+tech_acot_seeker_6e:  "고스트 미사일"
+tech_acot_seeker_6e_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+
+tech_acot_seeker_6s:  "고스트 미사일"
+tech_acot_seeker_6s_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+
+
+ACOT_SEEKER_1:  "시커 드론"
+ACOT_SEEKER_1_DESC:  "고성능 핵탄두를 장착한 우주 대 우주 미사일. 비록 오래된 사전 우주 기술을 기반으로 하고 있지만 이 조잡한 발사 후 망각 무기는 원거리에서 놀라울 정도로 효과적일 수 있습니다."
+ACOT_SEEKER_2:  "향상된 시커 드론"
+ACOT_SEEKER_2_DESC:  "이러한 업데이트된 우주 대 우주 미사일은 더욱 강력한 핵융합 탄두와 향상된 비행 성능을 갖추고 있습니다."
+ACOT_SEEKER_3:  "고급 시커 드론"
+ACOT_SEEKER_3_DESC:  "매우 강력한 반물질 탄두를 장착한 첨단 미사일입니다. 새롭고 개선된 안내 시스템은 목표물을 찾을 수 있는 더 나은 기회를 제공합니다."
+ACOT_SEEKER_4:  "헌터 킬러 드론"
+ACOT_SEEKER_4_DESC:  "최신 버전의 우주 대 우주 미사일인 이 업그레이드된 변형은 영점 진공에서 에너지를 끌어오는 엄청나게 강력한 탄두를 갖추고 있습니다."
+ACOT_SEEKER_5:  "리플리컨트 킬러 드론"
+ACOT_SEEKER_5_DESC:  "이 고도로 발전된 미사일에는 성능과 표적 추적 능력을 크게 향상시키는 제한된 탑재 AI 조종사가 장착되어 있습니다."
+
+ACOT_SEEKER_6E:  "수수께끼의 킬러 드론"
+ACOT_SEEKER_6E_DESC:  "고스트 미사일은 머로더 미사일보다 강력합니다. 음, 리퍼나 해병이 아닌 고스트 미사일입니다. 머로더스를 이겨야 합니다."
+
+ACOT_SEEKER_6S:  "스텔라 킬러 드론"
+ACOT_SEEKER_6S_DESC:  "고스트 미사일은 머로더 미사일보다 강력합니다. 음, 리퍼나 해병이 아닌 고스트 미사일입니다. 머로더스를 이겨야 합니다."
+
+
+XS_ACOT_SEEKER_1:  "미니 시커 드론"
+SMALL_ACOT_SEEKER_1:  "소형 탐색 드론"
+MEDIUM_ACOT_SEEKER_1:  "중형 탐색 드론"
+LARGE_ACOT_SEEKER_1:  "대형 탐색 드론"
+
+XS_ACOT_SEEKER_2:  "미니 개선형 시커 드론"
+SMALL_ACOT_SEEKER_2:  "소형으로 개선된 시커 드론"
+MEDIUM_ACOT_SEEKER_2:  "중형 개량형 시커 드론"
+LARGE_ACOT_SEEKER_2:  "대형 개선형 시커 드론"
+
+XS_ACOT_SEEKER_3:  "미니 고급 시커 드론"
+SMALL_ACOT_SEEKER_3:  "소형 고급 시커 드론"
+MEDIUM_ACOT_SEEKER_3:  "중급 고급 시커 드론"
+LARGE_ACOT_SEEKER_3:  "대형 고급 시커 드론"
+
+XS_ACOT_SEEKER_4:  "미니 헌터 킬러 드론"
+SMALL_ACOT_SEEKER_4:  "소형 헌터 킬러 드론"
+MEDIUM_ACOT_SEEKER_4:  "중형 헌터 킬러 드론"
+LARGE_ACOT_SEEKER_4:  "대형 헌터 킬러 드론"
+
+XS_ACOT_SEEKER_5:  "미니 리플리컨트 킬러 드론"
+SMALL_ACOT_SEEKER_5:  "소형 리플리컨트 킬러 드론"
+MEDIUM_ACOT_SEEKER_5:  "중형 리플리컨트 킬러 드론"
+LARGE_ACOT_SEEKER_5:  "대형 리플리컨트 킬러 드론"
+
+XS_ACOT_SEEKER_6E:  "미니 수수께끼의 킬러 드론"
+SMALL_ACOT_SEEKER_6E:  "작은 수수께끼의 킬러 드론"
+MEDIUM_ACOT_SEEKER_6E:  "중형 수수께끼의 킬러 드론"
+LARGE_ACOT_SEEKER_6E:  "수수께끼의 대형 킬러 드론"
+
+XS_ACOT_SEEKER_6S:  "미니 스텔라라이트 킬러 드론"
+SMALL_ACOT_SEEKER_6S:  "소형 스텔라라이트 킬러 드론"
+MEDIUM_ACOT_SEEKER_6S:  "중형 스텔라라이트 킬러 드론"
+LARGE_ACOT_SEEKER_6S:  "대형 스텔라라이트 킬러 드론"
+
+tech_acot_seeker_al_4:  "메가드론"
+tech_acot_seeker_al_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_seeker_al_5:  "리플리컨트 메가드론"
+tech_acot_seeker_al_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_seeker_al_6e:  "수수께끼의 메가드론"
+tech_acot_seeker_al_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_seeker_al_6s:  "스텔라라이트 메가드론"
+tech_acot_seeker_al_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+ACOT_SEEKER_AL_4:  "헌터 킬러 마크로드론"
+ACOT_SEEKER_AL_4_DESC:  "헌터 킬러 마크로드론"
+ACOT_SEEKER_AL_5:  "리플리컨트 킬러 마크로드론"
+ACOT_SEEKER_AL_5_DESC:  "리플리컨트 킬러 마크로드론"
+
+ACOT_SEEKER_AL_6E:  "수수께끼의 살인자 매크로론"
+ACOT_SEEKER_AL_6E_DESC:  "수수께끼의 살인자 매크로론"
+
+ACOT_SEEKER_AL_6S:  "스텔라라이트 킬러 마크로드론"
+ACOT_SEEKER_AL_6S_DESC:  "스텔라라이트 킬러 마크로드론"
+
+############ XL
+
+tech_acot_seeker_xl_4:  "메가드론 발사대"
+tech_acot_seeker_xl_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_seeker_xl_5:  "리플리컨트 메가드론 발사기"
+tech_acot_seeker_xl_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_seeker_xl_6e:  "수수께끼의 메가드론 발사기"
+tech_acot_seeker_xl_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_seeker_xl_6s:  "스텔라라이트 메가드론 발사기"
+tech_acot_seeker_xl_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+ACOT_SEEKER_XL_4:  "헌터 킬러 메가드론"
+ACOT_SEEKER_XL_4_DESC:  "헌터 킬러 메가드론"
+ACOT_SEEKER_XL_5:  "리플리컨트 킬러 메가드론"
+ACOT_SEEKER_XL_5_DESC:  "리플리컨트 킬러 메가드론"
+
+ACOT_SEEKER_XL_6E:  "수수께끼의 킬러 메가드론"
+ACOT_SEEKER_XL_6E_DESC:  "수수께끼의 킬러 메가드론"
+
+ACOT_SEEKER_XL_6S:  "스텔라라이트 킬러 메가드론"
+ACOT_SEEKER_XL_6S_DESC:  "스텔라라이트 킬러 메가드론"
+
+tech_acot_seeker_t_5:  "리플리컨트 킬러 타이탄드론"
+tech_acot_seeker_t_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_SEEKER_T_5:  "리플리컨트 킬러 타이탄드론"
+ACOT_SEEKER_T_5_DESC:  "리플리컨트 킬러 타이탄드론"
+ACOT_SEEKER_T_W_5:  "리플리컨트 킬러 타이탄드론"
+ACOT_SEEKER_T_W_5_DESC:  "리플리컨트 킬러 타이탄드론"
+
+tech_acot_seeker_t_6e:  "수수께끼의 살인자 타이탄드론"
+tech_acot_seeker_t_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_SEEKER_T_6E:  "수수께끼의 살인자 타이탄드론"
+ACOT_SEEKER_T_6E_DESC:  "수수께끼의 살인자 타이탄드론"
+ACOT_SEEKER_T_W_6E:  "수수께끼의 살인자 타이탄드론"
+ACOT_SEEKER_T_W_6E_DESC:  "수수께끼의 살인자 타이탄드론"
+
+tech_acot_seeker_t_6s:  "스텔라라이트 킬러 타이탄드론"
+tech_acot_seeker_t_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_SEEKER_T_6S:  "스텔라라이트 킬러 타이탄드론"
+ACOT_SEEKER_T_6S_DESC:  "스텔라라이트 킬러 타이탄드론"
+ACOT_SEEKER_T_W_6S:  "스텔라라이트 킬러 타이탄드론"
+ACOT_SEEKER_T_W_6S_DESC:  "스텔라라이트 킬러 타이탄드론"
+
+############################################################ MMG ############################################################
+
+ # Bollter Branch
+tech_acot_mmg_1:  "볼트 캐논"
+tech_acot_mmg_1_desc:  "볼트 캐논 또는 볼터는 폭발성 추진제 충전과 함께 전자기 투석기를 활용하는 폭발성 무기 유형입니다. 발사체 자체는 다단계 폐기 SABOT이며 발사 후 모든 단계에서 로켓 엔진을 사용합니다. 탑재량 자체는 높은 폭발력을 지닌 플라즈마 드릴을 사용하여 선체를 파괴하기 위해 특별히 제작되었습니다."
+tech_acot_mmg_2:  "향상된 볼트 캐논"
+tech_acot_mmg_2_desc:  "추진 시스템과 폭발성 패키지의 업그레이드를 통해 우리의 볼트 캐논이 더욱 현대화된 표준으로 향상될 것입니다."
+tech_acot_mmg_3:  "고급 볼트 캐논"
+tech_acot_mmg_3_desc:  "고급 타겟팅 소프트웨어를 사용하면 발사체의 컴퓨터가 함선의 가장 취약한 부분을 찾아 공격하여 최대 피해를 입힐 수 있습니다."
+tech_acot_mmg_4:  "바실리스크 볼트 캐논"
+tech_acot_mmg_4_desc:  "고대인의 방법에서 영감을 받은 새로운 폭발 폭발 방법을 구현하면 더 큰 화력을 위한 몇 가지 새로운 가능성을 갖춘 더 강력한 볼트 캐논을 만들 수 있습니다."
+tech_acot_mmg_5:  "바이퍼 볼트 캐논"
+tech_acot_mmg_5_desc:  "바이퍼 패턴 볼트 캐논은 우리 제국이 볼터 기술을 완벽하게 적용한 복제품입니다. 화력은 전작에 비해 압도적이다."
+
+tech_acot_mmg_6e:  "키메라 볼트 캐논"
+tech_acot_mmg_6e_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+tech_acot_mmg_6s:  "키메라 볼트 캐논"
+tech_acot_mmg_6s_desc:  "머로더 미사일은 더 강력한 재료와 더 높은 폭발력을 지닌 고스트 미사일로 업그레이드할 수 있습니다."
+
+
+ACOT_MMG_1:  "볼트 캐논"
+ACOT_MMG_1_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+ACOT_MMG_2:  "향상된 볼트 캐논"
+ACOT_MMG_2_DESC:  "뛰어난 추진력과 폭발력을 특징으로 하는 기본 볼트 캐논을 개선한 것입니다."
+ACOT_MMG_3:  "고급 볼트 캐논"
+ACOT_MMG_3_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+ACOT_MMG_4:  "바실리스크 볼트 캐논"
+ACOT_MMG_4_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+ACOT_MMG_5:  "바이퍼 볼트 캐논"
+ACOT_MMG_5_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+
+ACOT_MMG_6E:  "키메라 볼트 캐논"
+ACOT_MMG_6E_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+
+ACOT_MMG_6S:  "키메라 볼트 캐논"
+ACOT_MMG_6S_DESC:  "폭발성 추진제의 도움을 받는 전자기 투석기. 발사체 자체는 로켓 엔진을 갖춘 발사 후 모든 단계를 갖춘 다단계 폐기 SABOT입니다. 총에서 목표물까지 가속됩니다. 탑재물은 거대한 폭발물을 운반하는 플라즈마 드릴입니다."
+
+
+XS_ACOT_MMG_1:  "볼트 마이크로 캐논"
+SMALL_ACOT_MMG_1:  "소형 볼트 캐논"
+MEDIUM_ACOT_MMG_1:  "중형 볼트 캐논"
+LARGE_ACOT_MMG_1:  "대형 볼트 캐논"
+
+XS_ACOT_MMG_2:  "향상된 볼트 마이크로 캐논"
+SMALL_ACOT_MMG_2:  "소형 개량형 볼트 캐논"
+MEDIUM_ACOT_MMG_2:  "중형 개량형 볼트 캐논"
+LARGE_ACOT_MMG_2:  "대형 개량형 볼트 캐논"
+
+XS_ACOT_MMG_3:  "어드밴스드 볼트 마이크로 캐논"
+SMALL_ACOT_MMG_3:  "소형 고급 볼트 캐논"
+MEDIUM_ACOT_MMG_3:  "중급 고급 파괴공작 볼트 캐논"
+LARGE_ACOT_MMG_3:  "대형 고급 볼트 캐논"
+
+XS_ACOT_MMG_4:  "슈퍼 마이크로 캐논"
+SMALL_ACOT_MMG_4:  "소형 슈퍼 볼트 캐논"
+MEDIUM_ACOT_MMG_4:  "중형 슈퍼 볼트 캐논"
+LARGE_ACOT_MMG_4:  "대형 슈퍼 볼트 캐논"
+
+XS_ACOT_MMG_5:  "리플리컨트 마이크로 캐논"
+SMALL_ACOT_MMG_5:  "소형 복제 볼트 캐논"
+MEDIUM_ACOT_MMG_5:  "중형 복제 볼트 캐논"
+LARGE_ACOT_MMG_5:  "대형 리플리컨트 볼트 캐논"
+
+XS_ACOT_MMG_6E:  "수수께끼의 마이크로 캐논"
+SMALL_ACOT_MMG_6E:  "작은 수수께끼의 볼트 캐논"
+MEDIUM_ACOT_MMG_6E:  "중형 수수께끼의 볼트 캐논"
+LARGE_ACOT_MMG_6E:  "대형 수수께끼의 볼트 캐논"
+
+XS_ACOT_MMG_6S:  "스텔라라이트 마이크로 캐논"
+SMALL_ACOT_MMG_6S:  "소형 스텔라라이트 볼트 캐논"
+MEDIUM_ACOT_MMG_6S:  "중형 스텔라라이트 볼트 캐논"
+LARGE_ACOT_MMG_6S:  "대형 스텔라라이트 볼트 캐논"
+
+tech_acot_mmg_al_4:  "스톰볼트 배터리"
+tech_acot_mmg_al_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_mmg_al_5:  "스톰볼트 포병"
+tech_acot_mmg_al_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_mmg_al_6e:  "실험적인 사격 시스템"
+tech_acot_mmg_al_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_mmg_al_6s:  "실험적인 사격 시스템"
+tech_acot_mmg_al_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+
+ACOT_MMG_AL_4:  "바실리스크 StormBolt 배터리"
+ACOT_MMG_AL_4_DESC:  "바실리스크 StormBolt 배터리"
+ACOT_MMG_AL_5:  "바이퍼 스톰볼트 포병"
+ACOT_MMG_AL_5_DESC:  "바이퍼 스톰볼트 포병"
+
+ACOT_MMG_AL_6E:  "키메라 스톰볼트 포병"
+ACOT_MMG_AL_6E_DESC:  "키메라 스톰볼트 포병"
+
+ACOT_MMG_AL_6S:  "키메라 스톰볼트 포병"
+ACOT_MMG_AL_6S_DESC:  "키메라 스톰볼트 포병"
+############ XL
+
+tech_acot_mmg_xl_4:  "척추 볼트 포병 시스템"
+tech_acot_mmg_xl_4_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+tech_acot_mmg_xl_5:  "리플리컨트 볼트 블래스터 캐논"
+tech_acot_mmg_xl_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_mmg_xl_6e:  "실험적인 사격 시스템"
+tech_acot_mmg_xl_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+tech_acot_mmg_xl_6s:  "실험적인 사격 시스템"
+tech_acot_mmg_xl_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+
+ACOT_MMG_XL_4:  "볼트 블래스터 캐논"
+ACOT_MMG_XL_4_DESC:  "볼트 블래스터 대포"
+ACOT_MMG_XL_5:  "리플리컨트 볼트 블래스터 캐논"
+ACOT_MMG_XL_5_DESC:  "리플리컨트 볼트 블래스터 캐논"
+
+ACOT_MMG_XL_6E:  "수수께끼의 볼트 블래스터 캐논"
+ACOT_MMG_XL_6E_DESC:  "수수께끼의 볼트 블래스터 캐논"
+
+
+ACOT_MMG_XL_6S:  "수수께끼의 볼트 블래스터 캐논"
+ACOT_MMG_XL_6S_DESC:  "수수께끼의 볼트 블래스터 캐논"
+
+tech_acot_mmg_t_5:  "리플리컨트 볼트-절멸기 캐논"
+tech_acot_mmg_t_5_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MMG_T_5:  "리플리컨트 볼트-절멸기 캐논"
+ACOT_MMG_T_5_DESC:  "리플리컨트 볼트-절멸자 대포"
+ACOT_MMG_T_W_5:  "리플리컨트 볼트-절멸기 캐논"
+ACOT_MMG_T_W_5_DESC:  "리플리컨트 볼트-절멸자 대포"
+
+tech_acot_mmg_t_6e:  "볼트 어나힐레이터 캐논"
+tech_acot_mmg_t_6e_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MMG_T_6E:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_6E_DESC:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_W_6E:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_W_6E_DESC:  "볼트 어나힐레이터 캐논"
+
+tech_acot_mmg_t_6s:  "볼트 어나힐레이터 캐논"
+tech_acot_mmg_t_6s_desc:  "추진력, 폭발물 및 하드 라이트 조작의 발전을 통해 폭발성 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 설치할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 우리는 Gorgon Barrage System이라는 새로운 설계를 내놓았습니다.\n\n페이로드의 양이 증가함에 따라 무기 시스템을 로켓의 시스템으로 되돌려야 하고 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생해야 합니다."
+ACOT_MMG_T_6S:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_6S_DESC:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_W_6S:  "볼트 어나힐레이터 캐논"
+ACOT_MMG_T_W_6S_DESC:  "볼트 어나힐레이터 캐논"
+
+############################################################ EMITTERS ############################################################
+
+#tech_arc_emitter_1:  "아크 이미터"
+#tech_arc_emitter_1_desc:  "부분적으로 갑옷과 방패를 무시할 수 있는 혼란스러운 에너지의 번개 아크를 대상에게 발사하는 강력한 무기입니다."
+#tech_arc_emitter_2:  "집중형 아크 이미터"
+#tech_arc_emitter_2_desc:  "업그레이드된 이미터에는 더 나은 포커싱 렌즈가 장착되어 있어 더욱 강력한 에너지 방출이 가능합니다."
+
+ACOT_ARC_EMITTER_4:  "이미터"
+ACOT_ARC_EMITTER_4_DESC:  "이미터"
+
+ACOT_ARC_EMITTER_5:  "이미터"
+ACOT_ARC_EMITTER_5_DESC:  "이미터"
+
+ACOT_ARC_EMITTER_6E:  "수수께끼의 방출기"
+ACOT_ARC_EMITTER_6E_DESC:  "이 척추 무기는 수수께끼의 에너지를 활용하여 적 함선의 내부 시스템을 손상시킬 수 있는 매우 치명적인 방출 무기를 만듭니다. 불행하게도 현재의 한계로 인해 Focusaed Arc Emitter보다 범위가 더 낮습니다."
+tech_arc_emitter_6e:  "수수께끼의 방출기"
+tech_arc_emitter_6e_desc:  "동일한 수수께끼의 에너지를 사용하여 현재의 Focused Arc Emitter를 과급하는 것은 가능하지만 암흑 에너지를 사용하는 방법을 진정으로 이해할 때까지 프로토타입 Enigmatic Emitter는 Focused Arc Emitter보다 유효 범위가 약간 낮습니다."
+
+ACOT_ARC_EMITTER_6S:  "수수께끼의 방출기"
+ACOT_ARC_EMITTER_6S_DESC:  "이 척추 무기는 수수께끼의 에너지를 활용하여 적 함선의 내부 시스템을 손상시킬 수 있는 매우 치명적인 방출 무기를 만듭니다. 불행하게도 현재의 한계로 인해 Focusaed Arc Emitter보다 범위가 더 낮습니다."
+tech_arc_emitter_6s:  "수수께끼의 방출기"
+tech_arc_emitter_6s_desc:  "동일한 수수께끼의 에너지를 사용하여 현재의 Focused Arc Emitter를 과급하는 것은 가능하지만 암흑 에너지를 사용하는 방법을 진정으로 이해할 때까지 프로토타입 Enigmatic Emitter는 Focused Arc Emitter보다 유효 범위가 약간 낮습니다."
+
+############################################################ STRIKECRAFTS ############################################################
+ 
+tech_acot_weapon_strike_craft:  "가상 명령 시스템"
+tech_acot_weapon_strike_craft_desc:  "운영자를 가상 네트워크에 연결함으로써 위험에 노출되지 않고 USC를 안전하게 운영할 수 있습니다."
+
+tech_acot_weapon_strike_craft_2:  "적응형 가상 네트워킹"
+tech_acot_weapon_strike_craft_2_desc:  "네트워크 용량과 비행 응답성이 증가하면 운영자는 더 빠르게 대응하고 지연을 줄일 수 있습니다."
+
+tech_acot_weapon_strike_craft_3:  "리플리컨트 USC 조정"
+tech_acot_weapon_strike_craft_3_desc:  "리플리컨트 기반 DAI 네트워크 시스템을 사용함으로써 우리는 훨씬 더 강력한 공격기, 심지어 더 큰 선박을 위한 무인 코르벳 크기의 건쉽을 배치할 수 있습니다."
+
+tech_acot_weapon_strike_craft_6e:  "리플리컨트 USC 조정"
+tech_acot_weapon_strike_craft_6e_desc:  "리플리컨트 기반 DAI 네트워크 시스템을 사용함으로써 우리는 훨씬 더 강력한 공격기, 심지어 더 큰 선박을 위한 무인 코르벳 크기의 건쉽을 배치할 수 있습니다."
+
+tech_acot_weapon_strike_craft_6s:  "리플리컨트 USC 조정"
+tech_acot_weapon_strike_craft_6s_desc:  "리플리컨트 기반 DAI 네트워크 시스템을 사용함으로써 우리는 훨씬 더 강력한 공격기, 심지어 더 큰 선박을 위한 무인 코르벳 크기의 건쉽을 배치할 수 있습니다."
+
+########## CEPTOR ##########
+ 
+tech_acot_strikecrafts_interceptor_1:  "인터셉터"
+tech_acot_strikecrafts_interceptor_1_desc:  "인터셉터."
+tech_acot_strikecrafts_interceptor_2:  "마크 II 인터셉터"
+tech_acot_strikecrafts_interceptor_2_desc:  "마크 II 인터셉터."
+tech_acot_strikecrafts_interceptor_3:  "마크 III 요격기"
+tech_acot_strikecrafts_interceptor_3_desc:  "마크 III 요격기"
+tech_acot_strikecrafts_interceptor_4:  "마크 IV 요격기"
+tech_acot_strikecrafts_interceptor_4_desc:  "마크 IV 요격기"
+tech_acot_strikecrafts_interceptor_5:  "마크 V 인터셉터"
+tech_acot_strikecrafts_interceptor_5_desc:  "마크 V 인터셉터"
+
+tech_acot_strikecrafts_interceptor_6e:  "마크 V 인터셉터"
+tech_acot_strikecrafts_interceptor_6e_desc:  "마크 V 인터셉터"
+
+tech_acot_strikecrafts_interceptor_6s:  "마크 V 인터셉터"
+tech_acot_strikecrafts_interceptor_6s_desc:  "마크 V 인터셉터"
+
+ACOT_SC_INTERCEPTOR_1:  "인터셉터"
+ACOT_SC_INTERCEPTOR_1_DESC:  "인터셉터"
+ACOT_SC_INTERCEPTOR_2:  "마크 II 인터셉터"
+ACOT_SC_INTERCEPTOR_2_DESC:  "마크 II 인터셉터"
+ACOT_SC_INTERCEPTOR_3:  "마크 III 요격기"
+ACOT_SC_INTERCEPTOR_3_DESC:  "마크 III 요격기"
+ACOT_SC_INTERCEPTOR_4:  "마크 IV 요격기"
+ACOT_SC_INTERCEPTOR_4_DESC:  "마크 IV 요격기"
+ACOT_SC_INTERCEPTOR_5:  "마크 V 인터셉터"
+ACOT_SC_INTERCEPTOR_5_DESC:  "마크 V 인터셉터"
+
+ACOT_SC_INTERCEPTOR_6E:  "마크 VI 인터셉터"
+ACOT_SC_INTERCEPTOR_6E_DESC:  "마크 VI 인터셉터"
+
+ACOT_SC_INTERCEPTOR_6S:  "마크 VI 인터셉터"
+ACOT_SC_INTERCEPTOR_6S_DESC:  "마크 VI 인터셉터"
+
+SMALL_ACOT_SC_INTERCEPTOR_1:  "인터셉터"
+MEDIUM_ACOT_SC_INTERCEPTOR_1:  "인터셉터"
+LARGE_ACOT_SC_INTERCEPTOR_1:  "인터셉터"
+SMALL_ACOT_SC_INTERCEPTOR_2:  "마크 II 인터셉터"
+MEDIUM_ACOT_SC_INTERCEPTOR_2:  "마크 II 인터셉터"
+LARGE_ACOT_SC_INTERCEPTOR_2:  "마크 II 인터셉터"
+SMALL_ACOT_SC_INTERCEPTOR_3:  "마크 III 요격기"
+MEDIUM_ACOT_SC_INTERCEPTOR_3:  "마크 III 요격기"
+LARGE_ACOT_SC_INTERCEPTOR_3:  "마크 III 요격기"
+SMALL_ACOT_SC_INTERCEPTOR_4:  "마크 IV 요격기"
+MEDIUM_ACOT_SC_INTERCEPTOR_4:  "마크 IV 요격기"
+LARGE_ACOT_SC_INTERCEPTOR_4:  "마크 IV 요격기"
+SMALL_ACOT_SC_INTERCEPTOR_5:  "마크 V 인터셉터"
+MEDIUM_ACOT_SC_INTERCEPTOR_5:  "마크 V 인터셉터"
+LARGE_ACOT_SC_INTERCEPTOR_5:  "마크 V 인터셉터"
+
+SMALL_ACOT_SC_INTERCEPTOR_6E:  "마크 VI 인터셉터"
+MEDIUM_ACOT_SC_INTERCEPTOR_6E:  "마크 VI 인터셉터"
+LARGE_ACOT_SC_INTERCEPTOR_6E:  "마크 VI 인터셉터"
+
+SMALL_ACOT_SC_INTERCEPTOR_6S:  "마크 VI 인터셉터"
+MEDIUM_ACOT_SC_INTERCEPTOR_6S:  "마크 VI 인터셉터"
+LARGE_ACOT_SC_INTERCEPTOR_6S:  "마크 VI 인터셉터"
+########## FIGHTER ##########
+
+tech_acot_strikecrafts_fighter_1:  "전투기"
+tech_acot_strikecrafts_fighter_1_desc:  "전투기."
+tech_acot_strikecrafts_fighter_2:  "마크 II 전투기"
+tech_acot_strikecrafts_fighter_2_desc:  "마크 II 전투기"
+tech_acot_strikecrafts_fighter_3:  "마크 III 전투기"
+tech_acot_strikecrafts_fighter_3_desc:  "마크 III 전투기"
+tech_acot_strikecrafts_fighter_4:  "마크 IV 전투기"
+tech_acot_strikecrafts_fighter_4_desc:  "마크 IV 전투기"
+tech_acot_strikecrafts_fighter_5:  "마크 V 파이터스"
+tech_acot_strikecrafts_fighter_5_desc:  "마크 V 파이터스"
+
+tech_acot_strikecrafts_fighter_6e:  "마크 VI 전투기"
+tech_acot_strikecrafts_fighter_6e_desc:  "마크 VI 전투기"
+
+tech_acot_strikecrafts_fighter_6s:  "마크 VI 전투기"
+tech_acot_strikecrafts_fighter_6s_desc:  "마크 VI 전투기"
+
+ACOT_SC_FIGHTER_0:  "유틸리티 포드"
+ACOT_SC_FIGHTER_0_DESC:  "우주선이 작은 잔해를 파괴하는 것을 돕기 위해 초기 우주 시대에 발명된 기본 단일 조종사 포드입니다. 속도, 방어력, 화력이 부족하기 때문에 전투용으로는 적합하지 않습니다."
+SMALL_ACOT_SC_FIGHTER_0:  "유틸리티 포드"
+MEDIUM_ACOT_SC_FIGHTER_0:  "유틸리티 포드"
+LARGE_ACOT_SC_FIGHTER_0:  "유틸리티 포드"
+
+ACOT_SC_FIGHTER_1:  "전투기"
+ACOT_SC_FIGHTER_1_DESC:  "전투기"
+ACOT_SC_FIGHTER_2:  "마크 II 전투기"
+ACOT_SC_FIGHTER_2_DESC:  "마크 II 전투기"
+ACOT_SC_FIGHTER_3:  "마크 III 전투기"
+ACOT_SC_FIGHTER_3_DESC:  "마크 III 전투기"
+ACOT_SC_FIGHTER_4:  "마크 IV 전투기"
+ACOT_SC_FIGHTER_4_DESC:  "마크 IV 전투기"
+ACOT_SC_FIGHTER_5:  "마크 V 파이터스"
+ACOT_SC_FIGHTER_5_DESC:  "마크 V 파이터스"
+
+ACOT_SC_FIGHTER_6E:  "마크 VI 인터셉터"
+ACOT_SC_FIGHTER_6E_DESC:  "더 이상 쓸모없는 정찰병이 아닌 요격기는 다른 타격 항공기와 미사일을 격추하는 동시에 대형 선박의 방어막을 약화시키는 데에도 탁월하도록 설계되었습니다."
+
+ACOT_SC_FIGHTER_6S:  "마크 VI 전투기"
+ACOT_SC_FIGHTER_6S_DESC:  "더 이상 쓸모없는 정찰병이 아닌 요격기는 다른 타격 항공기와 미사일을 격추하는 동시에 대형 선박의 방어막을 약화시키는 데에도 탁월하도록 설계되었습니다."
+
+SMALL_ACOT_SC_FIGHTER_1:  "전투기"
+MEDIUM_ACOT_SC_FIGHTER_1:  "전투기"
+LARGE_ACOT_SC_FIGHTER_1:  "전투기"
+SMALL_ACOT_SC_FIGHTER_2:  "마크 II 전투기"
+MEDIUM_ACOT_SC_FIGHTER_2:  "마크 II 전투기"
+LARGE_ACOT_SC_FIGHTER_2:  "마크 II 전투기"
+SMALL_ACOT_SC_FIGHTER_3:  "마크 III 전투기"
+MEDIUM_ACOT_SC_FIGHTER_3:  "마크 III 전투기"
+LARGE_ACOT_SC_FIGHTER_3:  "마크 III 전투기"
+SMALL_ACOT_SC_FIGHTER_4:  "마크 IV 전투기"
+MEDIUM_ACOT_SC_FIGHTER_4:  "마크 IV 전투기"
+LARGE_ACOT_SC_FIGHTER_4:  "마크 IV 전투기"
+SMALL_ACOT_SC_FIGHTER_5:  "마크 V 파이터스"
+MEDIUM_ACOT_SC_FIGHTER_5:  "마크 V 파이터스"
+LARGE_ACOT_SC_FIGHTER_5:  "마크 V 파이터스"
+
+SMALL_ACOT_SC_FIGHTER_6E:  "마크 VI 전투기"
+MEDIUM_ACOT_SC_FIGHTER_6E:  "마크 VI 전투기"
+LARGE_ACOT_SC_FIGHTER_6E:  "마크 VI 전투기"
+
+SMALL_ACOT_SC_FIGHTER_6S:  "마크 VI 전투기"
+MEDIUM_ACOT_SC_FIGHTER_6S:  "마크 VI 전투기"
+LARGE_ACOT_SC_FIGHTER_6S:  "마크 VI 전투기"
+########## BOMBER ##########
+
+#tech_strike_craft_1:  "폭격기"
+#tech_strike_craft_1_desc:  "이 유인 타격 항공기는 모선에서 발사되며 속도와 작은 크기에 의존하여 적의 방어선을 뚫을 수 있을 만큼 오랫동안 생존합니다."
+#tech_strike_craft_2:  "향상된 폭격기"
+#tech_strike_craft_2_desc:  "개선된 항공전자공학, 향상된 조종 특성, 더욱 강력한 무장을 갖춘 차세대 공격기입니다."
+#tech_strike_craft_3:  "고급 폭격기"
+#tech_strike_craft_3_desc:  "타격기 설계를 더욱 개선한 이 첨단 타격기들은 조종사의 꿈입니다. 성능은 이전 모델보다 훨씬 뛰어납니다."
+tech_acot_strikecrafts_bomber_4:  "매우 폭격기"
+tech_acot_strikecrafts_bomber_4_desc:  "베리 스트라이크 크래프트"
+tech_acot_strikecrafts_bomber_5:  "슈퍼 폭격기"
+tech_acot_strikecrafts_bomber_5_desc:  "슈퍼 스트라이크 크래프트"
+
+tech_acot_strikecrafts_bomber_6e:  "타격 기술 개정"
+tech_acot_strikecrafts_bomber_6e_desc:  "우리 전략가들은 전투기 개발을 포기한 것이 실수라고 믿습니다. 특히 스카우트가 실제로 정찰을 할 수 없어 그들의 존재가 무의미하다는 점을 고려하면 더욱 그렇습니다. 우리는 이러한 실수를 쉽게 수정할 수 있으며 마침내 다양한 ​​역할을 수행하는 실제로 강력한 공격기 세트를 개발하기 시작할 수 있습니다."
+
+tech_acot_strikecrafts_bomber_6s:  "타격 기술 개정"
+tech_acot_strikecrafts_bomber_6s_desc:  "우리 전략가들은 전투기 개발을 포기한 것이 실수라고 믿습니다. 특히 스카우트가 실제로 정찰을 할 수 없어 그들의 존재가 무의미하다는 점을 고려하면 더욱 그렇습니다. 우리는 이러한 실수를 쉽게 수정할 수 있으며 마침내 다양한 ​​역할을 수행하는 실제로 강력한 공격기 세트를 개발하기 시작할 수 있습니다."
+
+ACOT_SC_BOMBER_1:  "폭격기"
+ACOT_SC_BOMBER_1_DESC:  "폭격기"
+ACOT_SC_BOMBER_2:  "마크 II 폭격기"
+ACOT_SC_BOMBER_2_DESC:  "마크 II 폭격기"
+ACOT_SC_BOMBER_3:  "마크 III 폭격기"
+ACOT_SC_BOMBER_3_DESC:  "마크 III 폭격기"
+ACOT_SC_BOMBER_4:  "마크 IV 폭격기"
+ACOT_SC_BOMBER_4_DESC:  "마크 IV 폭격기"
+ACOT_SC_BOMBER_5:  "마크 V 폭격기"
+ACOT_SC_BOMBER_5_DESC:  "마크 V 폭격기"
+
+ACOT_SC_BOMBER_6E:  "오로라급 폭격기"
+ACOT_SC_BOMBER_6E_DESC:  "화력이 훨씬 높을 뿐만 아니라 내구성, 속도, 조종사도 향상된 전용 폭격기입니다."
+
+ACOT_SC_BOMBER_6S:  "오로라급 폭격기"
+ACOT_SC_BOMBER_6S_DESC:  "화력이 훨씬 높을 뿐만 아니라 내구성, 속도, 조종사도 향상된 전용 폭격기입니다."
+
+SMALL_ACOT_SC_BOMBER_1:  "폭격기"
+MEDIUM_ACOT_SC_BOMBER_1:  "폭격기"
+LARGE_ACOT_SC_BOMBER_1:  "폭격기"
+SMALL_ACOT_SC_BOMBER_2:  "마크 II 폭격기"
+MEDIUM_ACOT_SC_BOMBER_2:  "마크 II 폭격기"
+LARGE_ACOT_SC_BOMBER_2:  "마크 II 폭격기"
+SMALL_ACOT_SC_BOMBER_3:  "마크 III 폭격기"
+MEDIUM_ACOT_SC_BOMBER_3:  "마크 III 폭격기"
+LARGE_ACOT_SC_BOMBER_3:  "마크 III 폭격기"
+SMALL_ACOT_SC_BOMBER_4:  "마크 IV 폭격기"
+MEDIUM_ACOT_SC_BOMBER_4:  "마크 IV 폭격기"
+LARGE_ACOT_SC_BOMBER_4:  "마크 IV 폭격기"
+SMALL_ACOT_SC_BOMBER_5:  "마크 V 폭격기"
+MEDIUM_ACOT_SC_BOMBER_5:  "마크 V 폭격기"
+LARGE_ACOT_SC_BOMBER_5:  "마크 V 폭격기"
+
+SMALL_ACOT_SC_BOMBER_6E:  "마크 VI 폭격기"
+MEDIUM_ACOT_SC_BOMBER_6E:  "마크 VI 폭격기"
+LARGE_ACOT_SC_BOMBER_6E:  "마크 VI 폭격기"
+
+SMALL_ACOT_SC_BOMBER_6S:  "마크 VI 폭격기"
+MEDIUM_ACOT_SC_BOMBER_6S:  "마크 VI 폭격기"
+LARGE_ACOT_SC_BOMBER_6S:  "마크 VI 폭격기"
+
+########## GUNSHIP ##########
+
+tech_acot_strikecrafts_gunship_4:  "건쉽 스트라이크 크래프트"
+tech_acot_strikecrafts_gunship_4_desc:  "타격기의 역할은 폭격기와 요격기로 잘 정의되어 있지만 몇 가지 문제가 있습니다. 이 두 유형의 타격 기술 모두 타격 거리에 도달하는 데 상당한 시간이 걸립니다. 많은 전투에서 항공모함은 이 민첩한 공격기가 첫 출격을 시도하기도 전에 오랫동안 파괴되었습니다. 대신 특수 장거리 공격 항공기를 만들 계획이 세워지고 있습니다."
+tech_acot_strikecrafts_gunship_5:  "건쉽 스트라이크 크래프트"
+tech_acot_strikecrafts_gunship_5_desc:  "타격기의 역할은 폭격기와 요격기로 잘 정의되어 있지만 몇 가지 문제가 있습니다. 이 두 유형의 타격 기술 모두 타격 거리에 도달하는 데 상당한 시간이 걸립니다. 많은 전투에서 항공모함은 이 민첩한 공격기가 첫 출격을 시도하기도 전에 오랫동안 파괴되었습니다. 대신 특수 장거리 공격 항공기를 만들 계획이 세워지고 있습니다."
+
+tech_acot_strikecrafts_gunship_6e:  "건쉽 스트라이크 크래프트"
+tech_acot_strikecrafts_gunship_6e_desc:  "타격기의 역할은 폭격기와 요격기로 잘 정의되어 있지만 몇 가지 문제가 있습니다. 이 두 유형의 타격 기술 모두 타격 거리에 도달하는 데 상당한 시간이 걸립니다. 많은 전투에서 항공모함은 이 민첩한 공격기가 첫 출격을 시도하기도 전에 오랫동안 파괴되었습니다. 대신 특수 장거리 공격 항공기를 만들 계획이 세워지고 있습니다."
+
+tech_acot_strikecrafts_gunship_6s:  "건쉽 스트라이크 크래프트"
+tech_acot_strikecrafts_gunship_6s_desc:  "타격기의 역할은 폭격기와 요격기로 잘 정의되어 있지만 몇 가지 문제가 있습니다. 이 두 유형의 타격 기술 모두 타격 거리에 도달하는 데 상당한 시간이 걸립니다. 많은 전투에서 항공모함은 이 민첩한 공격기가 첫 출격을 시도하기도 전에 오랫동안 파괴되었습니다. 대신 특수 장거리 공격 항공기를 만들 계획이 세워지고 있습니다."
+
+ACOT_SC_GUNSHIP_4:  "건쉽"
+ACOT_SC_GUNSHIP_4_DESC: Gunship"
+ACOT_SC_GUNSHIP_5:  "고급 건쉽"
+ACOT_SC_GUNSHIP_5_DESC:  "고급 건쉽"
+
+ACOT_SC_GUNSHIP_6E:  "매버릭 건쉽"
+ACOT_SC_GUNSHIP_6E_DESC:  "매버릭 건쉽"
+
+ACOT_SC_GUNSHIP_6S:  "매버릭 건쉽"
+ACOT_SC_GUNSHIP_6S_DESC:  "매버릭 건쉽"

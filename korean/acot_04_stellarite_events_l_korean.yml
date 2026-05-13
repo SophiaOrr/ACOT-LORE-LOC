@@ -1,0 +1,247 @@
+﻿l_korean:
+
+stellarite_events.1.name:  "스타 너머의 힘"
+stellarite_events.1.desc.a:  "흥미로운 상황이 있습니다. 분명히 우리 과학자 중 일부는 고급 센서로 에너지 신호를 스캔하는 데 일정 시간을 소비한 후 새로운 유형의 에너지 신호를 발견했다고 주장했습니다. 이 전력은 태양 에너지와 유사하지만 훨씬 더 미묘합니다.\n\n이 주장은 태양 에너지와 관련된 것으로 보이기 때문에 아직 확인할 수 없습니다. 태양 에너지는 우리 제국이 우주 여행을 할 수 있기 전부터 알고 있었습니다."
+stellarite_events.1.desc.b:  "흥미로운 상황이 있습니다. 분명히 우리 과학자 중 일부는 우리가 물리친 스텔라라이트 데보버로부터 이전에 연구한 스텔라라이트 에너지 특성을 더 많이 발견했다고 주장했습니다. 에너지는 희미하고 추적하기 어렵지만 Devouver에서 발견되는 에너지보다 훨씬 더 순수한 것 같습니다."
+stellarite_events.1.a:  "아마도 SOPHIA가 우리에게 더 많은 것을 말해 줄 수 있을 것입니다."
+stellarite_events.1.b:  "지금은 실험할 때가 아닙니다."
+ 
+stellarite_events.100.name:  "전구체 데이터뱅크"
+stellarite_events.100.desc.a:  "흥미롭네요...조각의 잔해가 여기까지 닿을 수 있다는 게...\n\n죄송합니다. 그냥 큰 소리로 생각하고 있었네요. 당신 과학자의 추정은 정확합니다. 당신이 감지한 에너지 신호는 태양 에너지와 관련이 있지만 훨씬 더 강력하고 훨씬 더 신성합니다. 당신이 보고 있는 것은 한때 영광스러웠던 존재의 희미한 잔해일 뿐입니다. 스텔라라이트의 힘, 첫 번째 별의 파편. 하지만 인정해야겠습니다. 여러분의 과학자들이 실제로 여기까지 그 서명을 추적할 수 있을 것이라고는 기대하지 않았습니다.\n\n이 힘에 관심이 있으시면 제가 가르쳐 드릴 수 있습니다...가족 친화적인 방식으로 할 수 있는 방법을 찾은 후에..."
+stellarite_events.100.desc.b:  "흥미롭네요...조각의 잔해가 여기까지 닿을 수 있다는 건...물론이죠! 데부버! 어쩐지 그 세부사항을 완전히 놓쳤어요!\n\n죄송해요. 그냥 생각하고 있었거든요. 당신 과학자의 추정은 정확합니다. 당신이 감지한 에너지 신호는 태양 에너지와 관련이 있지만 훨씬 더 강력하고 훨씬 더 신성합니다. 당신이 보고 있는 것은 한때 영광스러웠던 존재의 희미한 잔해일 뿐입니다. 스텔라라이트의 힘, 첫 번째 별의 파편. 이전에 패배시킨 Devouver에서 나타난 것과 동일한 힘입니다.\n\n이 힘에 관심이 있다면 제가 가르쳐 드릴 수 있습니다... 가족 친화적인 방식으로 방법을 찾은 후에..."
+stellarite_events.100.desc.c:  "아, 드디어 알아차리게 되어 다행이네요. 예, 첫 번째 별의 파편인 새로운 유형의 전원인 Stellarite Power를 선택하고 있습니다. 이 은하계의 제국 중 하나가 이미 그 광채를 우주로 되돌리는 데 성공했으므로 이제 여러분은 그 존재를 느끼실 것입니다.\n\n관심이 있으신 경우, 귀하가 그것을 획득하는 데 필요한 데이터를 전달할 수 있도록 적절한 조치를 취하겠습니다."
+stellarite_events.100.desc.d:  "또 이 주제요? 별 관심 없을 줄 알았는데, 왠지 마음이 바뀌었나요?"
+stellarite_events.100.a:  "이 첫 번째 별은 무엇입니까?"
+stellarite_events.100.a.response:  "어... 이야기가 너무 길고, 제가 알고 있는 지식은 간접적인 것임이 틀림없습니다. 하지만 이름에서 알 수 있듯이 이 현실의 첫 번째 별이라고만 말하면 충분합니다. 일종의 선물로 더 높은 존재에 의해 창조되었습니다. 그러나 불행한 일련의 사건으로 인해 First Star는 더 이상 존재하지 않으며 그 파편은 물리적 인식을 넘어 조각으로 흩어졌습니다. 그러나 그 힘은 여전히 ​​유효하며, 그것을 활용할 수 있는 사람은 헤아릴 수 없는 힘, 즉 스텔라라이트의 힘을 얻습니다."
+stellarite_events.100.b:  "이 힘을 정말 사용할 수 있을까?"
+stellarite_events.100.b.response:  "이론적으로는 그렇습니다. 조각들은 호출자의 욕망에 공명하며, 그 본질을 이해하는 자는 스텔라라이트를 활용해 원하는 대로 변형할 수 있다. 솔직히 말해, 당신의 제국과 국민들은 그 설계의 범위를 이해하려다 실제로 사용하기보다는 스스로 폭발할 가능성이 더 크다는 점입니다. 하지만 어쩌면 가능성은 있을지도 몰라..."
+stellarite_events.100.b2.response:  "물론, 그렇지 않았다면 다른 사람들은 지금 이 순간에도 그것을 사용하지 않았을 것입니다. 파편은 호출자의 욕구에 공명하며, 그 성질을 이해하는 사람은 스텔라라이트를 활용하여 필요한 대로 구부릴 수 있습니다. 문제는 솔직히 말하면, 여러분의 제국과 국민이 실제로 그것을 사용하기보다는 그 디자인의 범위를 이해하려고 노력하면서 폭발할 가능성이 더 높다는 것입니다. 하지만 내 도움으로 문제를 해결할 수 있습니다."
+stellarite_events.100.c:  "그러면 태양광 발전과 어떻게 연결되나요?"
+stellarite_events.100.c.response:  "에...아직도 솔직히 말씀드린 것처럼 간접적인 지식인지 잘 모르겠습니다. 아마도 당신이 보는 평범한 별들은...시체 같을까요? 먼지? 또는 단순히 깜박이는 첫 번째 별의 잔해. 따뜻함, 생명력, 주변 에너지를 제공하기에 충분하지만 그 외에는 많지 않습니다. 하지만 스텔라라이트는 다릅니다. 그것은 순수하고 신성하며 과거 시대에 신들이 창조한 것입니다."
+stellarite_events.100.d:  "이 힘에 위험이 있습니까?"
+stellarite_events.100.d.response:  "오오오. 당신은 전혀 모른다. 보세요, 과거에 제 자매들은 스스로 스텔라라이트를 개발하기 위해 협력하고 있던 제국에 대한 세부 정보를 전달하려고 노력했습니다. 말할 필요도 없이...결과는 매우 폭발적이었습니다. 기껏해야 소수의 과학자가 폭발했습니까? 최악의 경우? 은하계 전체가 좀... 추락했다고요? 복잡해요. 하지만 걱정하지 마세요. 우리는 더 이상 그런 위험한 방법을 사용하지 않을 것입니다. 나는 단지 당신이 쉽게 이해할 수 있는 방식으로, 가급적이면 내 입장에서 너무 많은 작업을 수반하지 않는 방법으로 당신을 가르칠 방법을 생각해내면 됩니다. 들고 다니는 건 재미없지 않나요?"
+stellarite_events.100.d2.response:  "이제 누군가가 샤드를 다시 점화하는 어려운 작업을 수행했기 때문에 간접적인 위험이 있습니다. 당신이 해야 할 일은 내 지시를 따르고 암흑 물질의 차원 특성을 사용하여 암흑 에너지를 스텔라라이트로 변환하는 방법을 관찰하는 것입니다. 주요 위험은 간단합니다. 다른 사람이 이미 해냈으며, 물론 당신이 그들의 동맹이 아닌 한 그들은 아마도 당신이 동일한 경기장에 도달하는 것을 좋아하지 않을 것입니다."
+stellarite_events.100.e:  "우리는 이 힘을 활용하고 싶습니다."
+stellarite_events.100.f:  "우리가 그것을 사용할 필요가 없다고 생각하지 마십시오."
+stellarite_events.100.f.response:  "아, 정말 안타깝네요. 그럼 신경쓰지 마세요."
+
+stellarite_events.2.name:  "스텔라라이트 프로젝트"
+stellarite_events.2.desc.a:  "흠... 당신의 제국은 확실히 힘을 휘두르는 데 필요한 최소한의 기술 요구 사항을 충족했습니다. 하지만 나는 과학에 대한 이해가 부족하여 발생할 수 있는 결과에 대해 더 걱정하고 있습니다. 특히 이미 공허 에너지를 사용하는 방식을 고려하면 힘을 최대한 발휘할 수 없을 것 같습니다. 실제로는 여전히 문제를 해결하고 이미 가지고 있는 것과 충분히 유사하게 작동하는 에너지를 만들 수 있습니다. 상쇄 요소에 의존하기 때문에 힘의 위력은 다소 줄어들겠지만 여전히 강력할 것입니다.\n\n흠, 아직은 작업량이 많지 않은데 이보다 더 좋은 방법은 생각나지 않습니다. 그러니 지금은 그것이 나의 관대함이라고 생각하십시오. SOPHIA가 당신을 위해 첫 번째 변환을 수행합니다! 지나치게 많은 양의 암흑 물질과 수수께끼가 필요합니다. 에헴 제 말은 암흑 에너지를 의미합니다. 그리고 나는 그것들 중 많은 것을 의미합니다."
+stellarite_events.2.desc.b:  "흠... 당신의 제국은 확실히 힘을 휘두르는 데 필요한 최소한의 기술 요구 사항을 충족했습니다. 그리고 누군가는 이미 복잡한 일을 겪었기 때문이다. 돌이켜 보면 훨씬 더 간단해질 것입니다. 상당한 양의 암흑 물질과 암흑 에너지를 준비하고 내 지시를 따르기만 하면 됩니다. 바라건대, 당신의 과학 팀은 누군가가 당신을 폭파시키기 전에 일을 끝낼 수 있을 만큼 유능하기를 바랍니다. 간단하죠?"
+stellarite_events.2.a:  "이것이 정확히 어떻게 작동할까요?"
+stellarite_events.2.a.response:  "공허 에너지(일명 암흑 에너지)는 항성 에너지의 반전되고 뒤틀린 측면입니다. 일반적으로 근접해 있는 두 힘은 서로 상쇄되어 둘 다 무효가 됩니다. 하지만 암흑 물질의 차원적 특성 덕분에 암흑 에너지를 스텔라라이트 에너지로 변환하는 것이 가능합니다. 그러나 변환은 완벽하지 않으며 매우 낭비적입니다. 이 과정이 완료되면 은하계는 다시 한 번 별의 힘으로 축복을 받게 될 것입니다! 충분히 간단하게 들리죠?"
+stellarite_events.2.a2.response:  "공허 에너지(일명 암흑 에너지)는 항성 에너지의 반전되고 뒤틀린 측면입니다. 일반적으로 근접해 있는 두 힘은 서로 상쇄되어 둘 다 무효화됩니다. 하지만 암흑 물질의 차원적 특성 덕분에 암흑 에너지를 스텔라라이트 에너지로 변환하는 것이 가능합니다. 그러나 변환은 완벽하지 않으며 매우 낭비적입니다. 그러니 경제적으로 생각하고 미리 많은 것을 저축해 두십시오."
+stellarite_events.2.b:  "그렇다면 이번에는 어떤 위험이 있나요?"
+stellarite_events.2.b.response:  "놀랍게도 이번에는 그렇지 않습니다. 진심으로 감사드립니다. 보세요, 가장 어려운 부분인 첫 번째 변환과 채도를 처리하겠습니다. 나에게 필요한 것은 엄청나게 많은 양의 암흑 물질과 암흑 에너지뿐입니다. 그러면 여러분의 과학자들은 내 지시를 주의 깊게 따라야 합니다.\n\n한 가지 주목할 점은 은하계를 항성석으로 포화시키는 과정은 한 번만 수행하면 된다는 것입니다. 이는 일단 완료되면 다른 모든 제국도 이를 연구하는 데 훨씬 더 쉬운 시간을 갖게 될 것임을 의미합니다. 내 자매들이 방법을 가르쳐줬다는 점만 빼면 말이죠. 그러니 무엇을 움직이게 할지 조심하는 것이 좋습니다!"
+stellarite_events.2.b2.response:  "놀랍게도 이번에는 그렇지 않았습니다. 진심으로 당신과 그것을 먼저 해낸 다른 제국 덕분입니다. 보세요, 가장 어려운 부분은 제가 처리하겠습니다. 나에게 필요한 것은 엄청나게 많은 양의 암흑 물질과 암흑 에너지뿐입니다. 그러면 여러분의 과학자들은 내 지시를 주의 깊게 따라야 할 것입니다. 모든 것이 계획대로 진행된다면, 당신도 Stellarite의 힘을 손에 넣을 수 있을 것입니다."
+stellarite_events.2.c:  "이번에는 당신이 정말 관대해 보이는군요."
+stellarite_events.2.c.response:  "어쩔 수 없습니다. 솔직히 저는 우리 둘 모두의 이익을 위해 덜 직접적인 접근 방식을 선호했습니다. 하지만 내 자매들의 과거 보고는 좀 이상했고, 곳곳에서 폭발과 충돌이 일어났습니다. 더 나은 해결책이 나올 때까지 이 방법을 사용해야 합니다. 하지만 너무 편안해하지 마십시오. 이것은 지금은 특별한 경우입니다."
+stellarite_events.2.d:  "몰락한 제국이 다시 화를 낼 것인가?"
+stellarite_events.2.d.response:  "아마도 그렇지 않을 것입니다. 적어도 알파 프로젝트를 했을 때만큼 화나지는 않았다는 건 확실해요. 나는 그들이 더 이상 이 힘을 이해하고 있는지 의심스럽습니다."
+stellarite_events.2.e:  "그럼 시작해 보겠습니다."
+stellarite_events.2.e.response:  "그렇다면 지금부터 설명할 절차를 따르도록 과학팀에 지시하세요. 걱정하지 마십시오. 폭발은 발생하지 않습니다. 모든 것이 계산됩니다."
+stellarite_events.2.f:  "현재로서는 비용을 감당할 수 없습니다."
+stellarite_events.2.f.response:  "충분합니다. 그것은 당신이 지출해야 할 많은 비용 절감입니다. 안전하게 지내는 것이 좋습니다."
+
+RESEARCH_STELLARITE_POWER:  "스타 너머의 힘"
+RESEARCH_STELLARITE_POWER_DESC:  "소피아의 도움으로 우리는 은하계 전역에 걸쳐 희미한 스텔라라이트 파워를 재점화하는 절차를 시작하여 그들을 완전히 활용할 수 있습니다."
+RESEARCH_STELLARITE_POWER_CHEAP:  "스타 너머의 힘"
+RESEARCH_STELLARITE_POWER_CHEAP_DESC:  "SOPHIA의 도움으로 우리는 새로 발견된 이 경이로움에 접근하기 위해 암흑 에너지를 스텔라라이트로 변환하는 방법의 비밀을 배울 것입니다."
+ 
+stellarite_events.3.name:  "더 스텔라"
+stellarite_events.3.desc.a:  "끝났습니다! 소피아의 지시에 따라 우리는 은하계 전역에 걸쳐 스텔라라이트를 성공적으로 재포화시켰습니다. 이제 이러한 스텔라라이트를 활용하도록 특별히 설계된 차세대 원자로 개발을 시작할 수 있습니다."
+stellarite_events.3.desc.b:  "끝났습니다! SOPHIA의 지시에 따라 우리는 암흑 에너지를 스텔라라이트로 변환하는 방법을 성공적으로 배웠습니다. 이제 이를 활용하도록 특별히 설계된 차세대 원자로 개발을 시작할 수 있습니다."
+stellarite_events.3.desc.stellaritegate:  "게이트 내의 기록은 스텔라라이트 파워의 존재를 강하게 암시하며, 이는 이 파워가 과거에 존재했음을 증명합니다. 그러나 우리는 아직 군사용으로 사용할 수 있는 실제 프로토타입을 갖고 있지 않습니다. 우리는 더 깊이 파고들어야 합니다."
+stellarite_events.3.a:  "목표를 높게 설정하세요."
+stellarite_events.3.tooltip:  "이제 Stellarite Research를 사용할 수 있습니다. 하지만 조심하세요. 몇 년 안에 다른 제국도 기술을 연구하기만 하면 기술을 얻을 수 있습니다."
+
+RESEARCH_STELLARITE_POWER_SIMPLE:  "스타 너머의 힘"
+RESEARCH_STELLARITE_POWER_SIMPLE_DESC:  "이 새로운 스텔라라이트 파워는 너무나 많은 가능성을 가지고 있으므로 우리는 그것들을 연구하기만 하면 됩니다."
+
+
+stellarite_events.5.name:  "압도적인 파워!"
+stellarite_events.5.desc:  "드디어! 우리의 연구가 결실을 맺었고, 첫 번째 스텔라라이트 원자로가 대량 배치될 준비가 되었습니다! 이 새로운 발명품을 통해 다양한 전투 응용 분야에 대한 다양한 미래의 노력이 이루어지고 있으며, 우리는 지체 없이 이를 탐색하기 시작해야 합니다!."
+stellarite_events.5.a:  "우리 승천의 진실이 드러납니다!"
+
+stellarite_events.500.name:  "전구체 데이터뱅크"
+stellarite_events.500.desc:  "축하합니다! 귀하는 내 지시를 철저하게 따르고 그 과정에서 폭발을 피했습니다!\n\n저는 귀하의 가능성에 대해 회의적이었지만 귀하는 그럼에도 불구하고 인내하셨습니다. 이제 무기고에 스텔라라이트를 실험하고 통합할 수 있습니다. 하지만 기술적으로 말하면 스텔라라이트는 이런 식으로 사용되어서는 안 된다는 점을 경고해야 합니다. 공허 에너지를 결합하는 것만으로도 이미 충분히 위험하지만 암흑 물질도 혼합되어 있습니다. 조심하지 않으면... 예상치 못한 결과가 발생할 수 있습니다. 또한 항성석 비축량을 잘 확인하십시오. 화난 항성체 개체가 나타나는 것을 원하지 않을 것입니다."
+stellarite_events.500.a:  "무기고? 인프라 업그레이드는 어떻습니까?"
+stellarite_events.500.a.response:  "거기 편해요. 당신은 현재 기술을 사용하기 위해 Stellarite의 힘을 간신히 가까스로 다듬었습니다. 그것들을 무기로만 활용하는 것은 이미 충분히 까다롭지만 최소한 군용 하드웨어의 이점을 누릴 수 있습니다. 당신의 일상적인 행성 건물에 그것을 집어넣는 것은 현재 당신의 현재 능력보다 약간 더 높을 수 있습니다. 현실적으로 작동하려면 너무 많은... "기술 인수"가 필요합니다. 하지만 그건 카노가 아닙니다...신경 쓰지 마세요. 마지막 부분을 듣지 못한 척 하세요."
+stellarite_events.500.b:  "이 예상치 못한 결과는 무엇입니까?"
+stellarite_events.500.b.response:  "아직 명확하지 않은 경우, 공허 에너지와 스텔라라이트는 서로 잘 어울리지 않습니다. Dark Matter 및 기타 절차를 사용하여 호환되지 않는 부품을 대부분 격리하더라도 제품은 여전히 ​​눈에 띄게 보이드 기반입니다. 항성광 생산량을 늘리기 위해 더 많은 것을 추가하면 아무리 말해도 극도로 폭발적인 결과가 나올 가능성이 높습니다."
+stellarite_events.500.c:  "왜 스텔라라이트를 배출해야 합니까?"
+stellarite_events.500.c.response:  "간단히 말해서, 스텔라라이트는 그 힘이 첫 번째 별의 파편에서 나왔기 때문에 감정과 생각에 어느 정도 적응되어 있습니다. 쉽게 활용되지 않는 원시 항성석은 과거의 잔존물을 끌어낼 수 있습니다. 으스스한 느낌을 주고 싶다면 유령이 될 수도 있습니다. 이것은 더 발전된 항성 제국에서는 거의 문제가 되지 않지만, 여러분과 같은 제국에서는 이러한 변칙성을 점검하는 것이 조금 더 어려울 수 있습니다. 그래도 그 힘에 이끌려 여전히 감정과 생각이 미련을 갖고 있을 뿐이다. 비록 그들이 물리적 세계에서 어떤 형태의 형태를 얻더라도 그것은 지속되지 않을 것입니다. 당신이 직접 처리하지 않는다면, 힘이 다 소모되면 그들은 아마도 다시 무(無)로 사라질 것입니다."
+stellarite_events.500.d:  "그러면 우리는 할 일이 많습니다."
+stellarite_events.500.d.response:  "예. 신나는 날들이 우리 앞에 있을 것이라고 확신합니다. 이 새로운 힘으로 무엇을 하려는지 궁금합니다."
+
+stellarite_events.501.name:  "떠오르는 태양의 새로운 제국"
+stellarite_events.501.desc:  "신뢰할 수 있는 소식통으로부터 [event_target:new_stellarite_empire.GetName]이(가) 최근 몰락한 제국이 사용하던 것보다 훨씬 더 강력해 보이는 새로운 동력원을 개발했다는 ​​보고를 받았습니다. 자세한 내용은 개략적이지만 전구체 기술과 관련이 있는 것으로 보인다."
+stellarite_events.501.desc.b:  "신뢰할 수 있는 소식통으로부터 [event_target:new_stellarite_empire.GetName]이(가) 최근 몰락한 제국이 사용하던 것보다 훨씬 더 강력해 보이는 새로운 동력원을 개발했다는 ​​보고를 받았습니다. 불행하게도 우리는 이 새로운 힘이 무엇인지 전혀 모릅니다."
+stellarite_events.501.desc.c:  "신뢰할 수 있는 소식통으로부터 [event_target:new_stellarite_empire.GetName]이(가) 최근 Stellarite의 판독값 및 세부정보와 일치하는 새로운 전원을 개발했다는 ​​보고를 받았습니다. 이것이 맞다면, 또 다른 제국이 새로운 계시를 향해 나아가고 있다는 뜻입니다. 우리는 그들의 진행 상황을 매우 주의 깊게 모니터링해야 합니다."
+stellarite_events.501.a:  "아마도 SOPHIA가 우리에게 더 많은 것을 말해 줄 수 있을 것입니다."
+stellarite_events.501.b:  "현재로서는 우리 수준을 조금 넘는 것 같습니다."
+stellarite_events.501.c:  "우리는 볼 것이다."
+ 
+stellarite_events.10.name:  "스텔라라이트 이상 현상이 감지되었습니다!"
+stellarite_events.10.desc:  "알리다! 불안정한 이상이 감지되었습니다. 우리 시스템 중 하나에서 스텔라라이트 독립체가 형성되기 시작했다고 보고되었습니다. 비록 위험이 없지는 않더라도 우리는 별의 비축물을 분산시키거나 독립체가 형성되기 전에 공격함으로써 이를 막을 수 있습니다. 또는 엔터티가 형성되고 그 결과가 무엇인지 확인할 수 있습니다."
+stellarite_events.10.a.desc:  "알리다! 불안정한 이상이 감지되었습니다. 또 다른 스텔라라이트 독립체가 형성되기 시작했습니다. 그것은 구체화하기 위해 우리의 항성석 비축량을 끌어들이는 것으로 보입니다. 만약 우리가 지금 스텔라라이트의 일부를 씻어낸다면 그 생물체는 그 존재를 유지할 수 없을 것입니다. 아니면 폭발적인 결과에 개의치 않는다면 그냥 형성을 막을 수도 있습니다."
+stellarite_events.10.a:  "스텔라라이트를 환기시키세요. 이것 때문에 낭비할 시간이 없습니다."
+stellarite_events.10.a.tooltip:  "스텔라라이트의 약간의 손실은 우리 경제에 해를 끼치지 않을 것입니다. 미친 유령을 처리하는 것보다 낫습니다." 
+stellarite_events.10.b:  "엔터티가 형성되도록 하세요. 우리는 유용한 것을 배울 수 있습니다."
+stellarite_events.10.b.tooltip:  "고통이 없으면 이득도 없습니다. 이것은 항성 기반 변칙성에 대해 더 많이 연구할 수 있는 흔치 않은 기회입니다!" 
+stellarite_events.10.c:  "엔터티를 중지합니다. 우리는 스텔라라이트를 잃지 않을 거예요!" 
+stellarite_events.10.c.tooltip:  "형성을 직접 방해하려고 하면 변형될 수 있습니다. 우리가 여기서 이야기하고 있는 스텔라라이트라는 점을 고려하면 약간 위험할 수 있습니다." 
+
+stellarite_events.1000.name:  "스텔라라이트 변칙 실패"
+stellarite_events.1000.desc:  "불행하게도 그 실체는 실체적인 형태를 갖추지 못하고 곧 소멸되어 무(無)로 돌아가는 것 같습니다. 그럼에도 불구하고, 우리는 남은 항성석의 일부를 수확할 수 있습니다."
+stellarite_events.1000.desc.b:  "독립체는 유형의 형태로 자신을 형성하는 데 어려움을 겪고 있는 것으로 보이며 곧 소멸될 것 같습니다. 하지만 그 형태를 물리적 공간에 표현하려면 더 많은 항성석을 공급하는 것이 가능해야 합니다."
+stellarite_events.1000.a:  "아무것도 아닌 것보다 낫습니다."
+stellarite_events.1000.b:  "아니요. 소멸되도록 놔두세요."
+stellarite_events.1000.c:  "응, 한번 해보자." 
+stellarite_events.1000.c.tooltip:  "이것은 그다지 논리적이지는 않지만 그럼에도 불구하고 매우 흥미롭습니다." 
+
+stellarite_events.1001.name:  "스텔라라이트 변칙 실패"
+stellarite_events.1001.desc:  "그 존재는 스스로를 실체로 형성하는 데 어려움을 겪고 있으며, 곧 사라질 가능성이 큽니다. 하지만 더 많은 스텔라라이트를 공급해 물리적 공간에 형태를 드러낼 수 있을 것입니다. 해당 사업체는 현재 [event_target:stellarite_forming_location.GetName]에 위치해 있습니다."
+stellarite_events.1001.a:  "아니요. 소멸되도록 놔두세요."
+stellarite_events.1001.b:  "응, 한번 해보자." 
+stellarite_events.1001.b.tooltip:  "이것은 그다지 논리적이지는 않지만 그럼에도 불구하고 매우 흥미롭습니다." 
+
+stellarite_events.1002.name:  "스텔라라이트 독립체"
+stellarite_events.1002.desc:  "스텔라라이트는 독특한 존재로 형성됩니다. 지능이 부족한 것으로 보이며 티얀키와 같은 우주 존재와 유사한 행동을 보입니다. 현재로서는 적대적인 기미가 보이지 않지만, 이를 파괴하면 항성석을 얻을 수 있습니다. 해당 엔터티는 현재 [event_target:stellarite_forming_location.GetName]에 있습니다."
+stellarite_events.1002.a:  "무해합니다. 그렇게 놔두세요."
+stellarite_events.1002.a.tooltip:  "독립체는 홀로 남겨져 항성 비축량이 소진되어 만료될 때까지 원하는 것은 무엇이든 할 수 있습니다." 
+stellarite_events.1002.b:  "그것을 파괴하세요. 우리는 그 별빛이 필요합니다." 
+stellarite_events.1002.b.tooltip:  "독립체는 적대적으로 변하므로 파괴되어야 하며, 그 후에는 남은 항성석을 추출할 수 있습니다." 
+
+stellarite_events.1003.name:  "스텔라라이트 독립체"
+stellarite_events.1003.desc:  "스텔라라이트는 독특한 존재로 형성됩니다. 그것은 우리의 명령에 대한 기본적인 수준의 지능과 반응성을 보여주는 것 같습니다. 우리는 그것을 주변에 보관하거나 항성석을 위해 소비할 수 있습니다. 해당 엔터티는 현재 [event_target:stellarite_forming_location.GetName]에 있습니다."
+stellarite_events.1003.a:  "예. 이제 우리는 너의 주인이다, 꼬마야."
+stellarite_events.1003.a.tooltip:  "독립체는 항성석 비축량이 소진되어 만료될 때까지 통제될 수 있습니다." 
+stellarite_events.1003.b:  "우리에게는 애완동물이 아닌 스텔라라이트가 필요합니다." 
+stellarite_events.1003.b.tooltip:  "독립체는 안전하게 파괴될 수 있으며 저항 없이 항성석을 회수할 수 있습니다." 
+
+stellarite_events.1004.name:  "스텔라 페이드"
+stellarite_events.1004.desc.a:  "우리가 애완동물로 보존하고 있는 Stellarite Entity [root.GetName]가 마침내 에너지를 다 써버리고 사라지기 시작했습니다. 추가로 별석을 공급하여 수명을 연장할 수 있지만 점점 약해질 것입니다. 나중에 또 다른 성능 저하에서 살아남지 못할 가능성이 높습니다."
+stellarite_events.1004.desc.b:  "우리가 애완동물로 보존하고 있는 Stellarite Entity [root.GetName]가 마침내 마지막 남은 에너지를 고갈시켜 사라졌습니다. 빛의 품질이 너무 저하되었기 때문에 더 이상 우리가 할 수 있는 일은 없습니다."
+stellarite_events.1004.desc.c:  "우리가 애완동물로 보존하고 있는 스텔라라이트 독립체 [root.GetName]는 퇴화의 조짐을 보이고 있으며, 그 힘의 일부를 잃기 시작했지만 그 외에는 여전히 실질적인 존재감을 유지하고 있습니다."
+stellarite_events.1004.a:  "우리는 아직 반려동물과 헤어지지 않았습니다!"
+stellarite_events.1004.b:  "모든 일은 끝나야 합니다."
+stellarite_events.1004.c:  "아, 애완동물은 아니네요." 
+stellarite_events.1004.d:  "돌이켜보면 불가피하다." 
+stellarite_events.1004.e:  "걱정스럽습니다." 
+stellarite_events.1004.f:  "그렇다면 그냥 스텔라라이트로 명명하는 것이 더 낫습니다." 
+
+stellarite_events.1005.name:  "스텔라라이트 독립체 패배"
+stellarite_events.1005.desc.a:  "우리는 스텔라라이트 독립체를 물리쳤습니다. 독립체에는 여전히 사용할 수 있는 다량의 남은 항성석 에너지가 포함되어 있습니다."
+stellarite_events.1005.desc.b:  "우리는 스텔라라이트 독립체를 물리쳤습니다. 독립체에는 아직 사용할 수 있는 적당한 양의 남은 항성석 에너지가 남아 있습니다."
+stellarite_events.1005.desc.c:  "우리는 스텔라라이트 독립체를 물리쳤습니다. 독립체에는 여전히 사용할 수 있는 남은 항성석 에너지가 소량밖에 없는 것으로 보입니다."
+stellarite_events.1005.desc.d:  "우리는 이 이상하고 무시무시한 존재를 물리쳤습니다. 그 생명체는 마지막 순간에 이상한 에너지를 방출하지만, 우리는 이 에너지가 무엇인지 모릅니다."
+stellarite_events.1005.a:  "좋은 현상금!"
+stellarite_events.1005.b:  "얼마나 궁금합니다."
+
+stellarite_events.1010.name:  "스텔라웜이 패배했습니다!"
+stellarite_events.1010.desc.a:  "우리는 위대한 Stellarwyrm을 물리쳤습니다! 그것이 죽으면, 엄청난 양의 항성 에너지 샤워가 수확될 수 있습니다!"
+stellarite_events.1010.desc.b:  "우리의 투자가 결실을 맺었습니다! 위대한 Stellarwyrm을 물리친 후에는 그 본질에서 훨씬 더 많은 항성석이 쏟아져 나온 것 같습니다!.\n\n이것을 우리 자신의 용도로 수확하거나 다시 불붙이려고 시도할 수 있습니다. 아마도 흥미로운 일이 일어날 수 있을까요?"
+stellarite_events.1010.a:  "좋은 현상금!"
+stellarite_events.1010.b:  "부정적인 점은 그냥 별빛을 수확하는 것입니다."
+stellarite_events.1010.c:  "응, 한번 해보자." 
+stellarite_events.1010.c.tooltip:  "이것은 그다지 논리적이지는 않지만 그럼에도 불구하고 매우 흥미롭습니다." 
+
+stellarite_events.1010.explain.outcome.1:  "적대적인 Stellarwyrms 두 마리가 더 생성됩니다. 각 사람은 사망 시 이 이벤트를 반복합니다." 
+stellarite_events.1010.explain.outcome.2:  "또 다른 Stellarwyrm이 당신의 통제하에 나타납니다." 
+
+stellarite_events.1011.name:  "용이 깨어났다!"
+stellarite_events.1011.desc.a:  "스텔라라이트 생명체는 에테르 드레이크라는 매우 독특한 형태로 구체화된 것 같습니다. 스캔 결과 일반적인 것보다 훨씬 더 강한 것으로 나타났습니다. 하지만 이를 물리칠 수 있다면 대량의 항성석을 수확할 수 있을지도 모릅니다."
+stellarite_events.1011.desc.b:  "또 다른 Stellarwyrm이 구체화되었습니다... 그것은 마지막 것만큼 강력합니다. 그러나 이를 처리하는 옵션은 동일하게 유지됩니다."
+stellarite_events.1011.a:  "마침내 가치 있는 적!"
+stellarite_events.1011.b:  "이거 아프겠다, 그렇지?"
+
+stellarite_events.12.name:  "스텔라라이트 오버로드!"
+stellarite_events.12.desc:  "놀라운! [event_target:stellarite_fucked_up_planet.GetName]의 스텔라라이트 생성기가 장기간 과충전된 후 용해되어 근처 건물이 파괴되고 일부 사람이 사망했습니다. 상황이 더 악화되기 전에 즉시 시퀀스를 중단해야 합니다!"
+stellarite_events.12.a:  "예, 우리는 식민지를 폭파하고 싶지 않습니다."
+stellarite_events.12.b:  "아니요, 더 큰 이익을 위해 희생해야 합니다."
+stellarite_events.12.b.tooltip:  "다음 해까지 행성이 무너지거나 과부하가 취소될 때까지 이러한 유형의 피해 보고서는 더 이상 통보되지 않습니다."
+ 
+stellarite_events.13.name:  "스텔라라이트 치명적 실패"
+stellarite_events.13.desc:  "[event_target:stellarite_fucked_up_planet.GetName]에서 스텔라라이트 원자로를 무분별하게 사용했기 때문에 발전기는 심각한 용해를 겪고 대규모 폭발을 일으켰으며, 식민지를 멸망시키는 대재앙을 가져왔습니다.\n\n생존자가 없는 것으로 보이지만 생존자를 찾기 위해 복구 팀이 파견되었습니다."
+stellarite_events.13.a:  "우리는 그것을 스스로 가져 왔습니다."
+stellarite_events.13.b:  "행성 파괴는 더 많은 스텔라라이트에게 아무런 의미가 없습니다."
+
+stellarite_events.14.name:  "스텔라라이트 황색 경보"
+stellarite_events.14.desc:  "알리다! [event_target:stellarite_fucked_up_planet.GetName]의 Stellarite Generator가 시스템 과부하에 장기간 노출되어 문제를 겪고 있습니다. 아직 성능저하의 조짐은 없지만, 계속하다간 조만간 사고가 일어날 수도 있습니다. 즉시 시퀀스를 중단해야 합니다!"
+stellarite_events.14.a:  "예, 우리는 식민지를 폭파하고 싶지 않습니다."
+stellarite_events.14.b:  "아니요, 더 많은 항성석이 필요합니다. 계속해서 충전하세요."
+ 
+acot_stellarite_chain:  "스텔라 파워"
+acot_stellarite_chain_title:  "스텔라 파워"
+acot_stellarite_chain_desc:  "별 자체의 힘이 현재 알려진 것 이상으로 강력한 무기로 활용될 수 있다는 이론과 증거가 있습니다. 세부 사항은 회의적이지만 충분한 자원과 노력이 주어지면 더 많은 정보가 공개될 수 있습니다."
+ 
+acot_stellarite_experiment:  "될 것인가 말 것인가?"
+acot_stellarite_experiment_desc:  "현재 세부 사항은 너무 불확실하며, 대부분의 과학 위원회가 이 이른바 스텔라라이트 능력에 회의적입니다. 이 능력을 이용한 문명에 대한 기록은 전혀 없으며, 심지어 선구자들조차도 마찬가지입니다. 태양 에너지 개념이 널리 알려져 있고 적응되어 왔기 때문에, 그 이상이 있다고 믿을 만한 이유는 거의 없습니다. \n\n어쨌든 과학자 그룹은 실험에 참여할 의향이 있지만, 프로젝트를 이끌 경험 많은 과학자가 필요합니다. 과학자가 현재 과제를 포기할 의무는 없지만, 그런 프로젝트에 관심을 보이는 사람은 소수에 불과하다. 위험이 크니 접근 방식을 신중해야 합니다."
+ 
+acot_stellarite_research:  "스타 마스터하기"
+acot_stellarite_research_desc:  "이제 Stellarite가 실제로 강력한 새로운 동력원이라는 것이 분명해졌습니다. 다음 장애물은 우주 전쟁에서 그 힘을 활용하는 방법을 탐구하는 것입니다. 우리의 초기 프로토타입은 실제로 사용하기에는 너무 불안정하고 위험했습니다. 따라서 다양한 위험한 반응에 노출될 때 큰 폭발을 일으키지 않고 이러한 힘을 억제할 수 있는 안전한 차폐 장치를 개발하는 것이 중요합니다.\n\n이를 위해서는 물리학 분야의 재능 있는 과학자가 필요합니다. 과학자는 Spark of Genius, Curator, Sapient AI Assistant, Erudite, Brainslug 또는 Particles Expertises(스킬 레벨 10도 필요함)를 보유해야 합니다."
+
+stellarite_events.15.name:  "명예제대 확인서"
+stellarite_events.15.desc:  "명예 제대 프로토콜이 [root.GetName] 행성에 승인되었습니다. 진행하다?"
+stellarite_events.15.a:  "진행하다."
+stellarite_events.15.b:  "그 명령 취소해. 오경보였어."
+
+#################### SPECIAL ENEMIES #############################
+
+acot_stellarite_fading_debuff:  "약한"
+acot_stellarite_fading_debuff_desc:  "약한"
+acot_stellarite_strong_buff:  "강한"
+acot_stellarite_strong_buff_desc:  "강한"
+
+acot_bomb_stellarite:  "§H스텔라라이트 에너지 폭탄§!"
+acot_bomb_stellarite_plural:  "§H스텔라라이트 에너지 폭탄§!"
+acot_bomb_stellarite_desc:  "§H스텔라라이트 에너지 폭탄§!"
+
+acot_bomb_stellarite_key:  "§H스텔라라이트 에너지 폭탄§!"
+
+ACOT_MONSTER_BOMB_STELLARITE_SMALL:  "§H불안정한 항성 방전§!"
+ACOT_MONSTER_BOMB_STELLARITE_SMALL_DESC:  "§H불안정한 항성 방전§!"
+
+ACOT_MONSTER_BOMB_STELLARITE_LARGE:  "§H스텔라 방전§!"
+ACOT_MONSTER_BOMB_STELLARITE_Large_DESC:  "§H스텔라 방전§!"
+
+acot_large_stellarite:  "§HGiga-Stellarite Devouver§!"
+acot_large_stellarite_plural:  "§HGiga-Stellarite Devouvers§!"
+acot_large_stellarite_desc:  "§HGiga-Stellarite Devouvers§!"
+
+acot_large_stellarite_key:  "§HGiga-Stellarite Devouver§!"
+
+acot_dragon_stellarite:  "§H스텔라우린§!"
+acot_dragon_stellarite_plural:  "§H스텔라린§!"
+acot_dragon_stellarite_desc:  "§H스텔라린§!"
+
+acot_dragon_stellarite_key:  "§H스텔라라이트 스타드래곤§!"
+
+ACOT_MONSTER_TITAN_STELLARITE_BEAM:  "§H기가 스텔라 테라블라스트§!"
+ACOT_MONSTER_TITAN_STELLARITE_BEAM_DESC:  "§H기가 스텔라 테라블라스트§!"
+
+ACOT_MONSTER_STELLARITE_BEAM:  "§H기가 스텔라 블래스트§!"
+ACOT_MONSTER_STELLARITE_BEAM_DESC:  "§H기가 스텔라 블래스트§!"
+
+ACOT_MONSTER_STELLARITE_MISSILE:  "§H기가 스텔라 플레어§!"
+ACOT_MONSTER_STELLARITE_MISSILE_DESC:  "§H기가 스텔라 플레어§!"
+
+ACOT_MONSTER_STELLARITE_PLASMA:  "§H기가 스텔라 파울§!"
+ACOT_MONSTER_STELLARITE_PLASMA_DESC:  "§H기가 스텔라 파울§!"
+
+ACOT_MONSTER_STELLARITE_LASER:  "§H기가 스텔라 히트§!"
+ACOT_MONSTER_STELLARITE_LASER_DESC:  "§H기가 스텔라 히트§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON:  "§HStellarwrynm 스타브레이커§!"
+ACOT_MONSTER_STELLARITE_DRAGON_WEAPON_DESC:  "§HStellarwrynm 스타브레이커§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_BEAM:  "스텔라린 퓨리§!"
+ACOT_MONSTER_STELLARITE_DRAGON_BEAM_DESC:  "스텔라린 퓨리§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_PLASMA:  "§HStellarwrynm 래디언스§!"
+ACOT_MONSTER_STELLARITE_DRAGON_PLASMA_DESC:  "§HStellarwrynm 래디언스§!"
+
+ACOT_MONSTER_STELLARITE_DRAGON_LASER:  "§HStellarwrynm 셸§!"
+ACOT_MONSTER_STELLARITE_DRAGON_LASER_DESC:  "§HStellarwrynm 셸§!"
+

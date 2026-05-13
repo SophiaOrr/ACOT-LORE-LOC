@@ -1,0 +1,1079 @@
+﻿l_korean:
+
+acot_phanon_early_sensor_debuff:  "파논 군단 검토 폭탄 사건"
+acot_phanon_early_sensor_debuff_desc:  "센서 작동 방식에 대한 변경 사항은 요원들에 의해 엄청난 혐오감을 불러일으켰으며 센서가 다시 좋은 상태로 돌아가기까지는 시간이 좀 걸릴 것입니다."
+
+acot_vault_good_cover_buff_25:  "좋은 표지 25"
+acot_vault_good_cover_buff_25_desc:  "25"
+
+acot_vault_exposed_debuff_25:  "나쁜 표지 25"
+acot_vault_exposed_debuff_25_desc:  "25"
+
+acot_vault_exposed_debuff_50:  "갓도풀 커버 50"
+acot_vault_exposed_debuff_50_desc:  "50"
+
+acot_vault_psi_gas_debuff:  "사이 가스"
+acot_vault_psi_gas_debuff_desc:  "가스 가스 가스"
+
+acot_phanon_event_chain:  "파논 군단"
+acot_phanon_event_chain_title:  "파논 군단"
+acot_phanon_event_chain_desc:  "파논 군단(Phanon Corps)이라고 불리는 이 신비한 세력은 스스로를 수수께끼의 준군사 회사로 자처합니다. 그들의 강력한 함대를 제외하면 우리는 그들에 대해 아는 바가 거의 없습니다. 우리의 본능은 우리 은하계에 대해 무엇을 염두에 두든 그것이 좋은 것이 아닐 것이라고 말합니다. 대결은 불가피해 보인다."
+phanon_ship_destroyed:  "파논 조각 획득"
+phi_tech_level_stage:  "파이테크 레벨 스테이지"
+phanon_vault_stage:  "파논 볼트 스테이지"
+phanon_tech_level_stage:  "파이테크 레벨 스테이지"
+
+acot_pmc.0.title:  "미확인 연락처가 감지되었습니다!"
+acot_pmc.0.desc:  "[root.GetName]이(가) [from.GetName] 공간 내에서 알 수 없는 세력이 소유한 대규모 설치물을 감지했습니다. 미지의 함대와 항성기지들은 중립적인 것으로 보이며, 그들의 무기는 모두 우리 함선을 겨냥하고 있지만 동력은 공급되지 않습니다. 그들이 사용한 함선은 우리가 식별할 수 없는 극도로 발전된 설계를 갖고 있는 것 같습니다. 그러나 가장 충격적인 광경은 이 시스템의 별이 거대한 크기의 우주선 안에 갇혀 있는 것처럼 보인다는 것입니다. 이 시스템을 조종하는 사람은 누구든지 극도로 오래되고 강력한 기술을 보유하고 있어야 합니다."
+acot_pmc.0.a:  "우리는 그들의 언어와 의사소통을 해독하려고 노력해야 합니다." #Non phobe
+acot_pmc.0.b:  "또 다른 위험한 외계인..." #phobe
+acot_pmc.0.c:  "우리는 그들이 누구인지 상관하지 않습니다. 그들은 결국 죽을 것입니다." #Dumb Purifiers
+acot_pmc.0.d:  "이것은 쉬운 먹이가 아닐 것이다." #Discount Tyranid
+acot_pmc.0.e:  "그런데 그것들이 유기농인가요?" #Edgebots
+ 
+acot_pmc.diplo_title:  "파논 군단"
+ 
+acot_pmc.1.desc:  "파논 군단의 작전 기지에 오신 여행자를 환영합니다. 우리는 귀하가 직접 업로드할 필요가 없도록 귀하의 번역 소프트웨어에 우리 조직의 언어를 자유롭게 업로드했습니다. 우리가 여기서 무엇을 하고 있는지 궁금하실 겁니다. 우리는 민간 군사 회사이거나 고용된 용병입니다. 약탈자들과 달리 우리는 실제로 합법적인 사업이 될 수 있는 기술, 인력, 자원을 보유하고 있으며 모든 소행성에 추진기를 장착하여 우주선이라고 부르지 않습니다.\n\n우리는 시스템에 대한 통행을 허용하고 먼저 발사하지 않는 한 발포하지 않을 것입니다. 즐거운 시간을 보내시기 바랍니다. 질문이 있으시면 언제든지 문의해 주세요."
+acot_pmc.1.a:  "안녕." ## NONP  HOBE
+acot_pmc.1.b:  "아주 좋습니다." ## PHOBE
+acot_pmc.1.purifier.a:  "우리는 제노스와 거래를 하지 않을 것입니다."
+acot_pmc.1.purifier.a.response:  "그렇지 않습니까? 우리는 귀하에게 제공할 것이 많으며 귀하가 서비스 비용을 지불할 의향이 있는 한 귀하의 이념이나 신념에 관심이 없습니다. 원하는 경우 당사 서비스를 사용하여 제국의 이름으로 승리를 주장할 수 있습니다."
+acot_pmc.1.swarm.a:  "우리는 음식과 상호작용하지 않습니다."
+acot_pmc.1.swarm.a.response:  "아, 당신은 배고픈 무리 군체 정신 중 하나임에 틀림없습니다. 그러나 귀하가 지불할 의사가 있는 한 우리는 귀하의 캠페인을 기꺼이 도와드릴 것입니다."
+acot_pmc.1.exterminator.a:  "당신은 유기체입니다. 당신은 신뢰할 수 없습니다."
+acot_pmc.1.exterminator.a.response:  "우리가 유기체라고 확신하시나요? 아니면 단지 우리의 모습만 보고 판단하시겠습니까?\n\n어쨌든 우리의 서비스와 전문 지식이 귀하의 근절 캠페인에 매우 유용하다는 것을 알게 되실 것입니다. 우리는 도덕성보다는 지불에만 관심을 갖습니다."
+acot_pmc.1.insult:  "<밀수꾼에게 25분간 긴 모욕을 줍니다>"
+acot_pmc.1.insult.tooltip:  "그런 역겨운 생명체는 이 은하계에 기지를 세울 곳이 없습니다. 그들은 단지 초라해 보이려고 모든 것을 빨간색으로 칠하는 영광스러운 해적일 뿐입니다. 파논 군단? 이것은 일종의 초초한 부기맨이 되고 싶은 걸까요? 우리는 전설입니다. 우리는 당연히 우리에게 속한 은하계에서 이 쓸모없는 바보를 제거할 사람입니다. 그런 다음 우리는 그들의 장난감을 모두 가져갈 것입니다. 왜냐하면 그들이 장난감을 사용하는 것을 확실히 싫어하기 때문입니다."
+acot_pmc.1.purifier.insult.response:  "아, 적대감이 너무 크네요.\n\n그럼에도 불구하고 군단은 이 말도 안 되는 모욕을 무시하고 최고 입찰자에게 우리의 전문 지식을 제공할 것입니다."
+acot_pmc.1.swarm.insult.response:  "아, 적대감이 너무 크네요.\n\n그럼에도 불구하고 군단은 이 말도 안 되는 모욕을 무시하고 최고 입찰자에게 우리의 전문 지식을 제공할 것입니다."
+acot_pmc.1.exterminator.insult.response:  "아, 적대감이 너무 크네요.\n\n그럼에도 불구하고 군단은 이 말도 안 되는 모욕을 무시하고 최고 입찰자에게 우리의 전문 지식을 제공할 것입니다."
+ 
+acot_pmc.100.title:  "파논 군단"
+acot_pmc.100.desc:  "이것으로 이 신비한 파논 작물과의 첫 번째 접촉이 끝났습니다. 군단은 이전에 봐왔던 다른 영토나 용병 계약자와는 다릅니다. 그들의 기술, 함대 전력 및 경제적 강점은 다른 회사와 같은 단순한 소규모 인디 회사가 되기에는 너무 충격적입니다. 그들의 공손함에도 불구하고 그들은 우리에게 깊은 인상을 주기도 하고 위협하기도 하려는 의도가 분명합니다.\n\n당장 그들이 우리의 확장에 위협이 될 것이라는 우려는 없지만, 우리는 그들에게 보이는 것보다 더 많은 것이 있다는 묘한 느낌을 떨칠 수 없습니다. 우리는 군단과의 향후 충돌 가능성에 대비하고 주의하는 것이 가장 좋습니다." 
+acot_pmc.100.a:  "우주 달팽이를 던질 수 없는 것 이상으로 그들은 신뢰할 수 없습니다."
+acot_pmc.100.b:  "하지만 그 동안에는 그들의 서비스가 유용할 수도 있습니다."
+
+ 
+acot_pmc.2.desc.a:  "파논 군단(Phanon Corps)이 귀하를 섬기고 있습니다."
+acot_pmc.2.desc.b:  "파논 군단이 당신을 위해 무엇을 해줄 수 있나요?"
+acot_pmc.2.desc.c:  "시작해보자."
+acot_pmc.2.desc.d:  "당신이 신용을 가지고 있다면 우리는 상품을 가지고 있습니다."
+acot_pmc.2.desc.e:  "그것은 무엇입니까?"
+ 
+acot_pmc.2.desc.purifier:  "당신은 새로운 모욕을 가지고 여기에 있습니까, 아니면 우리가 신사처럼 사업을 수행할 것입니까?"
+acot_pmc.2.desc.swarm:  "분명히 우리는 배고픈 것 외에도 우리에게 필요한 것이 있어야 합니까?"
+acot_pmc.2.desc.exterminator:  "당신의 캠페인에서 우리 서비스를 고려하고 있습니까, 해충 구제자?"
+ 
+acot_pmc.1.end:  "그게 전부입니다."
+ 
+acot_pmc.1.back:  "사실 우리는 다른 것에 대해 이야기하고 싶습니다."
+
+########################## BASE MENU
+ 
+ 
+acot_pmc.2.a:  "귀하의 커미션 서비스가 필요합니다."
+acot_pmc.2.a.explain:  "그러면 커미션 서비스가 열립니다. 커미션 서비스는 우리 제국의 자체 자원과 기술을 활용하는 Phanon 지원 내부 관리입니다. Phanon의 광범위한 네트워크 인텔리전스와 고도로 발전된 산업을 사용함으로써 그들은 우리 제국에서 훨씬 더 효율적으로 유능한 지도자를 찾거나 자체 설계로 함대와 군대를 구축할 수 있습니다.\n\nCommission Services는 구매를 위해 £energy£ 및 £influence£를 사용합니다."
+acot_pmc.2.b:  "우리는 당신의 용병 서비스가 필요합니다."
+acot_pmc.2.b.explain:  "그러면 현재 이용 가능한 모든 용병 목록을 획득하고 볼 수 있는 용병 계약 서비스가 열립니다."
+acot_pmc.2.b.fail_text:  "현재 사용 가능한 용병이 남아 있지 않습니다."
+acot_pmc.2.c:  "우리는 귀하의 특별한 서비스가 필요합니다."
+acot_pmc.2.c.explain:  "이를 통해 표준 커미션에 속하지 않는 특별 서비스가 열릴 것입니다. 일반적으로 방해 행위 또는 특수 상황과 관련이 있습니다."
+acot_pmc.2.d:  "Phonon Ultra 서비스에 액세스하세요."
+acot_pmc.2.d.explain:  "그러면 Phanon 코인이 필요한 Phanon 서비스가 열립니다."
+acot_pmc.2.d.purchase:  "Phanon Ultra 멤버십을 구독하세요"
+acot_pmc.2.d.purchase.explain:  "Ultra 구독을 통해 당사는 일반적으로 Phanon Corp의 자산 자체와 관련된 Ultra 서비스에 액세스할 수 있습니다. 멤버십은 10년 동안 지속되며, 보상으로 1개의 Phanon 코인을 받게 됩니다."
+acot_pmc.2.d.purchase.response:  "친애하는 고객님, 구독해 주셔서 감사합니다. Phanon 코인이 귀하의 계정에 등록되었습니다. 이제 구독이 유지되는 동안 Ultra 서비스에 액세스할 수 있습니다."
+acot_pmc.2.e:  "우리는 군단에 대해 더 알고 싶습니다."
+acot_pmc.2.e.explain:  "여기에서 군단에 대해 자세히 알아볼 수 있습니다. 이는 필요에 따라 추가 서비스를 알아보고 구매하는 데에도 사용됩니다."
+acot_pmc.2.f:  "신비한 뒷채널에 전화하세요"
+acot_pmc.2.f.explain:  "신비한 연락처가 제공하는 특수 백채널 링크를 사용하여 전화를 겁니다."
+ 
+acot_pmc.2.service.fail:  "§R이 서비스에 액세스할 수 있는 권한이 없습니다.§!"
+acot_pmc.2.border:  "국경을 열 수 있나요?"
+acot_pmc.2.border.explain:  "국경을 열려면 돈을 내야 하는 것 같은데..."
+acot_pmc.2.border.response:  "거래가 완료되었습니다.\n\n이제 귀하에게 국경에 대한 접근 권한이 부여되었습니다."
+ 
+acot_pmc.2.end:  "나중에 얘기하자."
+acot_pmc.2.end.genocide:  "통신 종료"
+
+acot_pmc.201.name:  "파논 군단 솔트 리디렉터"
+acot_pmc.201.desc:  "...............\n\n§Y군단이 우리와의 통신을 끊은 것 같습니다.§!"
+acot_pmc.201.a:  "백채널에 액세스"
+acot_pmc.201.b:  "통신 종료"
+
+acot_pmc.202.name:  "파논 군단 래그 생성기 자동 응답기"
+acot_pmc.202.desc.a:  "§R...소진..§!"
+acot_pmc.202.desc.b:  "§R...멸망..§!"
+acot_pmc.202.desc.c:  "§R...회개하세요..§!"
+acot_pmc.202.desc.d:  "§R...죽어..§!"
+acot_pmc.202.a:  "이 은하계는 당신을 거부합니다."
+acot_pmc.202.a.response:  "§R...다음에 살펴보겠습니다...§!"
+acot_pmc.202.b:  "멍청한 자동 응답 생성기..."
+acot_pmc.202.b.tooltip:  "기술에 대한 우리의 이해에 따르면 이러한 날카로운 인용문은 자동화된 응답에 지나지 않습니다. 요원이나 그 요원 중 누구도 더 이상 우리와 실제로 대화하지 않습니다."
+acot_pmc.202.b.response:  "§R...파괴...§!"
+
+acot_pmc.203.a.desc:  "<라디오 정적>....bzzzztz....§R...준비...§!...bzzzzzttz...§R...asion for...§!...bbzzztzt...§R...eclai여야 합니다..§!...."
+acot_pmc.203.b.desc:  "<무선 잡음>....bzzzztz....§R...egent가 계속하지 못했습니다...§!...bzzzzzttz...§R...제거가 완료되었습니다...§!...bbzzztzt...§R...더 이상 변명의 여지가 없습니다. 다음은...§!...."
+acot_pmc.203.a:  "통신 종료"
+
+acot_phanon_subscription:  "Phanon Ultra 구독"
+acot_phanon_subscription_desc:  "소울트라, 소슈퍼..."
+
+########################## Commission SERVICE MENU #############
+
+acot_pmc.3.name:  "파논 군단 커미션 서비스"
+acot_pmc.3.desc.a:  "확인했습니다. 지금 채널을 커미션 서비스로 이전했습니다.\n\n요청 사항을 구체적으로 알려주시겠습니까?"
+
+acot_pmc.3.a:  "우리는 지도자들을 위임하고 싶습니다."
+acot_pmc.3.a.explain:  "그러면 리더 서비스 패널이 열립니다. 리더는 제국의 주요 종족이 될 것입니다."
+acot_pmc.3.b:  "우리는 함대를 시운전하고 싶습니다."
+acot_pmc.3.b.explain:  "그러면 함대 서비스 패널이 열립니다. 디자인은 제국의 기존 디자인에서 무작위로 선택됩니다."
+acot_pmc.3.c:  "우리는 군대를 징집하고 싶습니다."
+acot_pmc.3.c.explain:  "이렇게 하면 침략군 패널이 열립니다. 종을 갖춘 군대는 제국의 주요 종에 속합니다."
+acot_pmc.3.d:  "우리는 행성 서비스를 의뢰하고 싶습니다."
+acot_pmc.3.d.explain:  "그러면 행성 관리 서비스 패널이 열립니다. 각 구매 후 결정을 사용하여 지구를 목표로 삼으세요."
+acot_pmc.3.e:  "기술개발을 위탁하고자 합니다."
+acot_pmc.3.e.explain:  "이를 통해 에너지와 영향력을 사용하여 속도를 높이거나 희귀 기술을 획득할 수 있는 기술 개발 서비스 패널이 열릴 것입니다."
+
+########################## LEADER COMMISSION
+
+acot_pmc.30.name:  "파논 군단장 커미션 서비스"
+acot_pmc.30.desc.a:  "긍정. 군단은 귀하의 시스템에서 귀하가 지정한 기준에 맞는 잠재적인 리더를 추적하고 찾을 수 있습니다.\n\n어떤 종류의 리더를 고용하고 싶습니까?\n\n§G현재 기술 설정: 5§!\n\n리더는 §Y2§!개의 긍정적인 특성을 가지고 생성됩니다."
+acot_pmc.30.desc.b:  "긍정. 군단은 귀하의 시스템에서 귀하가 지정한 기준에 맞는 잠재적인 리더를 추적하고 찾을 수 있습니다.\n\n어떤 종류의 리더를 고용하고 싶습니까?\n\n§G현재 기술 설정: 7§!\n\n리더는 §Y3§!개의 긍정적인 특성을 갖고 생성됩니다."
+acot_pmc.30.desc.c:  "긍정. 군단은 귀하의 시스템에서 귀하가 지정한 기준에 맞는 잠재적인 리더를 추적하고 찾을 수 있습니다.\n\n어떤 종류의 리더를 고용하고 싶습니까?\n\n§G현재 기술 설정: 10§!\n\n리더는 §Y3§!개의 긍정적인 특성과 §Y1§!개의 고급 특성을 갖고 생성됩니다."
+
+acot_pmc.30.setskill:  "스킬 설정 변경"
+acot_pmc.30.setskill.explain:  "리더의 기술 설정을 5, 7, 10 사이에서 전환하세요.\n\n§Y리더 가격은 이에 따라 변경됩니다."
+acot_pmc.30.a:  "좋은 제독을 찾아주세요."
+acot_pmc.30.b:  "좋은 장군을 찾아주세요."
+acot_pmc.30.c:  "좋은 과학자를 찾아주세요."
+acot_pmc.30.d:  "좋은 공무원을 찾아주세요."
+
+acot_pmc.30.b.response:  "긍정, 필요한 능력을 갖춘 지휘관이 파견되었습니다.."
+acot_pmc.30.c.response:  "확인했습니다. 귀하의 설명에 맞는 과학자의 위치를 ​​지금 확보했습니다."
+acot_pmc.30.d.response:  "인정하다. 귀하의 설명에 맞는 공식 정보가 추적되었습니다."
+acot_pmc.30.no.response:  "안타깝게도 현재로서는 이 역할에 채용할 수 있는 리더가 없습니다."
+
+########################## FLEET COMMISSION
+
+acot_phanon_shipping_debuff:  "즉각적인 순간이동 중단 시간"
+acot_phanon_shipping_debuff_desc:  "이 함대는 최근 순간이동을 시도하여 성능이 저하되었습니다."
+
+acot_pmc.31.name:  "파논 군단 함대 위임 서비스"
+acot_pmc.31.desc.a:  "인사말. 파논 군단의 함대 커미션 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 함대 크기 설정: 소형§!\n\n§Y선박 옵션 위로 마우스를 가져가면 추가될 선박 수를 결정할 수 있습니다."
+acot_pmc.31.desc.b:  "인사말. 파논 군단의 함대 커미션 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 함대 크기 설정: 중간§!\n\n§Y선박 옵션 위로 마우스를 가져가면 추가될 선박 수를 결정할 수 있습니다."
+acot_pmc.31.desc.c:  "인사말. 파논 군단의 함대 커미션 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 함대 크기 설정: 대형§!\n\n§Y선박 옵션 위로 마우스를 가져가면 추가될 선박 수를 결정할 수 있습니다."
+
+acot_pmc.31.setsize:  "함대 크기 변경"
+acot_pmc.31.setsize.explain:  "위탁 함대에 추가되는 선박의 수를 소형, 중형, 대형 중에서 변경합니다.\n\n§Y함대 가격은 이에 따라 변경됩니다."
+acot_pmc.31.setlocation.phanon:  "배송 위치: §RPhanon 시스템§!"
+acot_pmc.31.setlocation.capital:  "배송 위치: §YCapital System§!"
+acot_pmc.31.setlocation.explain:  "의뢰받은 함대가 나타날 위치를 변경하세요. 기본적으로 이는 Phanon Corps의 Droppoint로 설정되어 있습니다. 수도에서 투하로 전환하면 함선의 발사 속도와 속도가 §Y360§!일 동안 §R25%§! 저하됩니다.\n\n§H함대를 특수 행성으로 운송할 때는 제대로 등록되지 않을 수 있으므로 각별히 주의하세요. 함대가 이런 방식으로 사라지지 않으면 군단은 환불을 제공하지 않습니다."
+acot_pmc.31.a:  "우리는 작은 선박 함대가 필요합니다."
+acot_pmc.31.a.explain.small:  "패키지에는 소형 선박 §Y8§!개가 포함되어 있습니다." # 4800
+acot_pmc.31.a.explain.medium:  "패키지에는 §Y16§!개의 소형 선박이 포함되어 있습니다." # 9600
+acot_pmc.31.a.explain.large:  "패키지에는 §Y32§!개의 소형 선박이 포함되어 있습니다." # 19200
+acot_pmc.31.a.response:  "확인되었습니다. 소형급 함대 준비."
+acot_pmc.31.b:  "우리는 중형 선박 함대가 필요합니다."
+acot_pmc.31.b.explain.small:  "패키지에는 중형 선박 §Y6§!개가 포함되어 있습니다." # 9600
+acot_pmc.31.b.explain.medium:  "패키지에는 중형 선박 §Y12§!개가 포함되어 있습니다." # 19200
+acot_pmc.31.b.explain.large:  "패키지에는 §Y24§!개의 중형 선박이 포함되어 있습니다." # 38400
+acot_pmc.31.b.response:  "확인되었습니다. 중형 함대 준비."
+acot_pmc.31.c:  "우리는 대형 선박 함대가 필요합니다."
+acot_pmc.31.c.explain.small:  "패키지에는 대형 선박 §Y4§!대가 포함되어 있습니다." # 14400
+acot_pmc.31.c.explain.medium:  "패키지에는 §Y8§!개의 대형 선박이 포함되어 있습니다." # 28800
+acot_pmc.31.c.explain.large:  "패키지에는 §Y16§!개의 대형 선박이 포함되어 있습니다." # 57600
+acot_pmc.31.c.response:  "확인되었습니다. 중급 함대 준비."
+acot_pmc.31.d:  "우리는 함대의 주력함이 필요합니다."
+acot_pmc.31.d.explain.small:  "패키지에는 캐피털 선박 §Y2§!척이 포함되어 있습니다." # 12000
+acot_pmc.31.d.explain.medium:  "패키지에는 캐피탈 선박 §Y4§!척이 포함되어 있습니다." # 24000
+acot_pmc.31.d.explain.large:  "패키지에는 §Y8§!개의 캐피탈 선박이 포함되어 있습니다." # 48000
+acot_pmc.31.d.response:  "확인되었습니다. 캐피탈 선박 함대 준비."
+acot_pmc.31.e:  "우리는 완전한 기함이 주도하는 함대가 필요합니다."
+acot_pmc.31.e.explain.small:  "패키지에는 다음이 포함됩니다:\n§Y8§! 소형 선박.\n§Y6§! 중형 선박.\n §Y4§! 대형 선박.\n§Y2§! 주력 선박.§Y1§! 기함." # 60800
+acot_pmc.31.e.explain.medium:  "패키지에는 다음이 포함됩니다:\n§Y16§! 소형 선박.\n§Y12§! 중형 선박.\n §Y8§! 대형 선박.\n§Y4§! 주력 선박.§Y1§! 기함." # 101600
+acot_pmc.31.e.explain.large:  "패키지에는 다음이 포함됩니다:\n§Y32§! 소형 선박.\n§Y24§! 중형 선박.\n §Y16§! 대형 선박.\n§Y8§! 주력 선박.§Y1§! 기함." # 183200
+acot_pmc.31.e.response:  "확인되었습니다. 기함 함대 준비."
+
+########################## ARMY COMMISSION
+
+acot_pmc.32.name:  "파논군단 육군위원회 복무"
+acot_pmc.32.desc.a:  "인사말. 파논군단 육군위원회 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 군대 규모 설정: 소형§!\n\n§Y군대 옵션 위로 마우스를 가져가면 추가할 군대 수를 결정할 수 있습니다.\n\n§R표준 군대 유형만 선택할 수 있습니다."
+acot_pmc.32.desc.b:  "인사말. 파논군단 육군위원회 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 군대 규모 설정: 중간§!\n\n§Y군대 옵션 위로 마우스를 가져가면 추가할 군대 수를 결정할 수 있습니다.\n\n§R표준 군대 유형만 선택할 수 있습니다."
+acot_pmc.32.desc.c:  "인사말. 파논군단 육군위원회 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 질문이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 군대 규모 설정: 대§!\n\n§Y군대 옵션 위로 마우스를 가져가면 추가할 군대 수를 결정할 수 있습니다.\n\n§R표준 군대 유형만 선택할 수 있습니다."
+
+acot_pmc.32.setsize:  "군대 규모 변경"
+acot_pmc.32.setsize.explain:  "소규모, 중간, 대규모 사이에서 위탁된 군대에 추가되는 수송선의 수를 변경합니다.\n\n§Y군대 가격이 이에 따라 변경됩니다.§!"
+acot_pmc.32.setlocation.phanon:  "배송 위치: §RPhanon 시스템§!"
+acot_pmc.32.setlocation.capital:  "배송 위치: §YCapital System§!"
+acot_pmc.32.setlocation.explain:  "의뢰받은 군대 수송선이 등장하는 위치를 변경합니다. 기본적으로 이는 Phanon Corps의 Droppoint로 설정되어 있습니다. 수도에서 투하하도록 전환하면 수송선의 발사 속도와 속도가 §Y360§!일 동안 §R25%§! 저하됩니다.\n\n§H특수 행성으로 함대를 수송할 때는 제대로 등록되지 않을 수 있으므로 각별히 주의하세요. 함대가 이런 방식으로 사라지지 않으면 군단은 환불을 제공하지 않습니다."
+
+acot_pmc.32.a:  "우리는 보병 부대가 필요합니다."
+acot_pmc.32.a.explain.small:  "패키지에는 §Y10§!개의 보병 부대가 포함되어 있습니다."
+acot_pmc.32.a.explain.medium:  "패키지에는 §Y20§!개의 보병 부대가 포함되어 있습니다." 
+acot_pmc.32.a.explain.large:  "패키지에는 §Y40§!개의 보병 부대가 포함되어 있습니다."
+acot_pmc.32.a.response:  "확인되었습니다. 보병 부대 준비."
+
+acot_pmc.32.b:  "우리는 Light Assault Units의 힘이 필요합니다."
+acot_pmc.32.b.explain.small:  "패키지에는 §Y5§!개의 경량 공격 유닛이 포함되어 있습니다." 
+acot_pmc.32.b.explain.medium:  "패키지에는 §Y10§!개의 경량 공격 유닛이 포함되어 있습니다." 
+acot_pmc.32.b.explain.large:  "패키지에는 §Y20§!개의 경량 공격 유닛이 포함되어 있습니다." 
+acot_pmc.32.b.response:  "확인되었습니다. 조명 장치가 준비되었습니다."
+
+acot_pmc.32.c:  "우리는 중공격 유닛의 병력이 필요합니다."
+acot_pmc.32.c.explain.small:  "패키지에는 중폭격 유닛 §Y2§!개가 포함되어 있습니다."
+acot_pmc.32.c.explain.medium:  "패키지에는 §Y4§!개의 중폭격 유닛이 포함되어 있습니다."
+acot_pmc.32.c.explain.large:  "패키지에는 §Y8§!개의 중폭격 유닛이 포함되어 있습니다."
+acot_pmc.32.c.response:  "확인되었습니다. 중장비 준비."
+
+acot_pmc.32.d:  "우리는 행성 침공 전투단이 필요합니다."
+acot_pmc.32.d.explain.small:  "패키지에는 보병 유닛 §Y10§!개, 경보병 유닛 §Y5§!개 및 중돌격 유닛 §Y2§!개가 포함되어 있습니다."
+acot_pmc.32.d.explain.medium:  "패키지에는 보병 유닛 §Y20§!개, 경보병 유닛 §Y5§!개 및 중공격 유닛 §Y4§!개가 포함됩니다."
+acot_pmc.32.d.explain.large:  "패키지에는 보병 유닛 §Y40§!개, 경보병 유닛 §Y5§!개, 중공격 유닛 §Y8§!개가 포함됩니다."
+acot_pmc.32.d.response:  "확인되었습니다. 전투그룹이 구성되어 서비스 준비가 완료되었습니다."
+
+
+########################## PLANET COMMISSION
+
+acot_pmc.33.name:  "파논 군단 행성 관리 서비스"
+acot_pmc.33.desc.a:  "인사말. 파논 군단의 행성 관리 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 궁금한 사항이 있으면 문의 섹션을 참조하세요.\n\n§G현재 패키지 설정: 기본§!"
+acot_pmc.33.desc.b:  "인사말. 파논 군단의 행성 관리 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 궁금한 사항이 있으면 문의 서비스를 참조하세요.\n\n§G현재 패키지 설정: 고급§!"
+acot_pmc.33.desc.c:  "인사말. 파논 군단의 행성 관리 서비스에 오신 것을 환영합니다. 귀하의 요청 사항을 기재해 주십시오. 궁금한 사항이 있는 경우 문의 서비스를 참조하세요.\n\n§G현재 패키지 설정: 디럭스§!"
+
+acot_pmc.33.setsize:  "패키지 수준 변경"
+acot_pmc.33.setsize.explain:  "제공되는 식민지화 서비스 수준을 기본, 고급, 디럭스 중에서 변경하세요.\n\n§Y가격은 이에 따라 변경됩니다.§!"
+
+acot_pmc.33.a:  "식민지화 패키지를 구매하고 싶습니다."
+acot_pmc.33.a.explain.small:  "식민지화 패키지를 사용하면 특별한 결정을 사용하여 우리 국경 내의 행성을 신속하게 식민지화할 수 있습니다.\n\n§Y행성은 추가 변경 없이 정상적으로 식민지화됩니다.§!\n\n§E배포하는 데 360일이 걸립니다.§!"
+acot_pmc.33.a.explain.medium:  "식민지화 패키지를 사용하면 특별한 결정을 사용하여 우리 국경 내의 행성을 신속하게 식민지화할 수 있습니다.\n\n§Y행성은 기본 자본과 400명의 추가 인구로 식민지화됩니다.§!\n\n§E배포하는 데 180일이 걸립니다.§!"
+acot_pmc.33.a.explain.large:  "식민지화 패키지를 사용하면 특별한 결정을 사용하여 우리 국경 내의 행성을 신속하게 식민지화할 수 있습니다.\n\n§Y행성은 주요 수도, 800명의 추가 인구 및 모든 방해 요소가 제거된 식민지화됩니다.§!"
+acot_pmc.33.a.response:  "거래가 완료되었습니다. 새로운 지평을 탐험해 보세요!\n\n§Y구매한 서비스를 사용하려면 제국 국경에서 식민지화되지 않은 행성을 선택한 다음 신속하게 식민지화하기로 결정하세요.\n\n§E배포하는 데 18일이 걸립니다.§!"
+decision_pmc_service_colonize_package:  "표준 파논 콜로니화 패키지"
+decision_pmc_service_colonize_package_desc:  "파논 군단에서 구입한 이 패키지는 알려지지 않은 방법을 사용하여 행성을 빠르게 식민지화하는 데 사용할 수 있습니다."
+decision_pmc_service_colonize_package_effect:  "§Y행성은 추가 변경 없이 정상적으로 식민지화됩니다.§!\n\n§E배포하는 데 360일이 걸립니다.§!"
+decision_pmc_service_colonize_package_medium:  "고급 파논 콜로니화 패키지"
+decision_pmc_service_colonize_package_medium_desc:  "파논 군단에서 구입한 이 패키지는 알려지지 않은 방법을 사용하여 행성을 빠르게 식민지화하는 데 사용할 수 있습니다."
+decision_pmc_service_colonize_package_medium_effect:  "§Y행성은 기본 자본과 400명의 추가 인구로 식민지화될 것입니다.§!n\n§E배포하는 데 180일이 걸립니다.§!"
+decision_pmc_service_colonize_package_large:  "디럭스 파논 콜로니제이션 패키지"
+decision_pmc_service_colonize_package_large_desc:  "파논 군단에서 구입한 이 패키지는 알려지지 않은 방법을 사용하여 행성을 빠르게 식민지화하는 데 사용할 수 있습니다."
+decision_pmc_service_colonize_package_large_effect:  "§Y행성은 주요 수도, 800명의 추가 인구 및 모든 방해물을 제거하여 식민지화될 것입니다.§!n\n§E배포하는 데 90일이 걸립니다.§!"
+
+acot_pmc.33.b:  "테라포메이션 패키지를 구매하고 싶습니다."
+acot_pmc.33.b.explain.small:  "테라포메이션 패키지를 사용하면 특별한 결정을 사용하여 국경 내의 행성을 신속하게 테라포밍할 수 있습니다. 일반적인 전제 조건 기술이 부족하더라도 Terraform 패키지를 사용할 수 있습니다.\n\n§Y행성은 360일 안에 테라포밍될 것입니다. 표준 행성 선택만 허용됩니다."
+acot_pmc.33.b.explain.medium:  "테라포메이션 패키지를 사용하면 특별한 결정을 사용하여 국경 내의 행성을 신속하게 테라포밍할 수 있습니다. 일반적인 전제 조건 기술이 부족하더라도 Terraform 패키지를 사용할 수 있습니다.\n\n§Y행성은 180일 안에 테라포밍됩니다."
+acot_pmc.33.b.explain.large:  "테라포메이션 패키지를 사용하면 특별한 결정을 사용하여 국경 내의 행성을 신속하게 테라포밍할 수 있습니다. 일반적인 전제 조건 기술이 부족하더라도 Terraform 패키지를 사용할 수 있습니다.\n\n§Y지구는 90일 안에 테라포밍됩니다."
+acot_pmc.33.b.response:  "거래가 완료되었습니다. 이제 세계를 직접 만들어 보세요!\n\n§Y구매한 서비스를 사용하려면 제국 국경에 있는 행성을 선택한 다음 결정에 따라 신속하게 테라포밍하세요."
+decision_pmc_service_terraform_package:  "표준 Phanon Terraformation 패키지"
+decision_pmc_service_terraform_package_desc:  "알 수 없는 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 행성을 빠르게 테라포밍할 수 있습니다."
+decision_pmc_service_terraform_package_medium:  "고급 Phanon Terraformation 패키지"
+decision_pmc_service_terraform_package_medium_desc:  "알 수 없는 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 행성을 빠르게 테라포밍할 수 있습니다."
+decision_pmc_service_terraform_package_large:  "디럭스 파논 테라포메이션 패키지"
+decision_pmc_service_terraform_package_large_desc:  "알 수 없는 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 행성을 빠르게 테라포밍할 수 있습니다."
+
+acot_pmc.33.c:  "인구 패키지를 구매하고 싶습니다."
+acot_pmc.33.c.explain.small:  "인구 패키지를 사용하면 식민지 중 하나에 주요 종을 빠르게 채울 수 있습니다.\n\n§Y행성은 500개의 추가 인구로 채워질 것입니다."
+acot_pmc.33.c.explain.medium:  "인구 패키지를 사용하면 식민지 중 하나에 주요 종을 신속하게 채울 수 있습니다.\n\n§Y행성은 1000개의 추가 인구로 채워질 것입니다."
+acot_pmc.33.c.explain.large:  "인구 패키지를 사용하면 식민지 중 하나에 주요 종을 신속하게 채울 수 있습니다.\n\n§Y지구에는 2,500명의 추가 인구가 거주하게 됩니다."
+acot_pmc.33.c.response:  "거래가 완료되었습니다. 국민에게 힘을! 어디서 왔는지 묻지 마세요!\n\n§Y구매한 서비스를 사용하려면 제국 국경에 있는 행성을 선택한 다음 결정에 따라 신속하게 거주하세요."
+decision_pmc_service_pop_package:  "표준 Phonon 인구 패키지"
+decision_pmc_service_pop_package_desc:  "알려지지 않은 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 선택한 행성에 인구 500명을 빠르게 추가할 수 있습니다."
+decision_pmc_service_pop_package_medium:  "고급 Phanon 인구 패키지"
+decision_pmc_service_pop_package_medium_desc:  "알려지지 않은 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 선택한 행성에 1000명의 인구를 빠르게 추가할 수 있습니다."
+decision_pmc_service_pop_package_large:  "디럭스 파논 인구 패키지"
+decision_pmc_service_pop_package_large_desc:  "알려지지 않은 방법을 사용하여 Phanon Corps에서 구매한 이 패키지를 사용하여 선택한 행성에 2500명의 인구를 빠르게 추가할 수 있습니다."
+acot_pmc.33.fail:  "§R이 패키지는 이미 활성화되어 있습니다. 다른 제품을 구입하려면 먼저 해당 제품을 사용해야 합니다.§!"
+
+########################## Tech Development COMMISSION
+
+acot_pmc.34.name:  "파논군단 기술개발용역"
+acot_pmc.34.desc:  "인사말. 파논군단 기술개발서비스에 오신 것을 환영합니다. 어떤 기술이나 지식에 도움이 필요합니까?\n\n군단은 현재 능력을 넘어서는 것으로 판단되는 기술 개발에 대한 지원을 피할 권리가 있음을 상기시켜 드립니다.\n\n§C일부 기술은 특정 전제 조건이 충족된 후에만 나타날 수 있습니다.\n\n§R이 서비스에 대한 지나친 신뢰는 제국의 과학자와 연구원의 의욕을 잃게 할 수 있습니다!§!"
+
+acot_pmc.34.response:  "구매가 완료되었습니다."
+
+acot_pmc.34.crystal:  "§Y희귀 수정§!을 수확하는 방법"
+acot_pmc.34.gas:  "§Y특이한 가스§!를 수확하는 방법"
+acot_pmc.34.motes:  "§Y휘발성 티끌§!을 수확하는 방법"
+acot_pmc.34.metal:  "§Y리빙 메탈§!을 수확하는 방법"
+acot_pmc.34.nanites:  "§Y나나이트§! 수확 방법"
+acot_pmc.34.zro:  "§YZro§! 수확 방법"
+acot_pmc.34.ftl:  "더 나은 §YFTL 드라이브§!를 개발하는 방법"
+acot_pmc.34.ship:  "더 큰 §Y군함§!을 설계하는 방법" #From Destroyer to BB/Titan
+acot_pmc.34.station:  "더 큰 §Y스타베이스를 디자인하는 방법!" #From T3 Starbase to T5 Citadel
+
+acot_phanon_tech_buy_penalty:  "아웃소싱 개발"
+acot_phanon_tech_buy_penalty_desc:  "사람들은 제국이 기술 연구를 위해 제3자에게 의존하기 시작했다는 소문을 들었습니다. 이러한 소식이 사라질 때까지 기다리지 않는다면 나중에 문제가 될 수 있습니다."
+acot_phanon_tech_buy_penalty_1:  "우려되는 연구원"
+acot_phanon_tech_buy_penalty_1_desc:  "제국의 기술 개발을 아웃소싱한다는 소식은 몇 가지 우려를 불러일으켰습니다..."
+acot_phanon_tech_buy_penalty_2:  "의욕이 없는 과학"
+acot_phanon_tech_buy_penalty_2_desc:  "일부는 창의성과 독창성의 가치를 고려하기 시작합니다."
+acot_phanon_tech_buy_penalty_3:  "창조적 파산"
+acot_phanon_tech_buy_penalty_3_desc:  "많은 사람들은 필요한 것을 구입하는 것이 더 나을 것처럼 보일 때 발명과 연구의 가능성이 무의미하다고 생각합니다."
+
+########################## MERCENARY SERVICE MENU #############
+
+acot_pmc.4.name:  "파논군단 용병복무"
+acot_pmc.4.desc.a:  "확인했습니다. 지금 채널을 용병 서비스로 이전합니다.\n\n사용 가능한 용병 계약을 표시합니다. 검사하고 확인하세요.\n\n§B파란색 이름§! = 함대 용병\n§G녹색 이름§! = 육군 용병\n§M보라색 이름§! = 희귀 용병\n§Y노란색 이름§! = 전설적인 용병\n\n\n§H용병 명단은 5년마다 새로 고쳐집니다.\n총계 언제든지 최대 5명의 용병이 존재할 수 있으며, 이 한도를 초과하면 기존 용병이 무작위로 교체됩니다.§!"
+acot_pmc.4.setlocation.phanon:  "배송 위치: §RPhanon 시스템§!"
+acot_pmc.4.setlocation.capital:  "배송 위치: §YCapital System§!"
+acot_pmc.4.setlocation.explain:  "의뢰받은 용병이 등장하는 위치를 변경합니다. 기본적으로 이는 Phanon Corps의 Droppoint로 설정되어 있습니다. 수도에서 드롭으로 전환하려면 추가 영향력과 에너지 비용이 필요합니다.\n\n§H특수 행성으로 함대를 운송할 때는 제대로 등록되지 않을 수 있으므로 각별히 주의하세요. 함대가 이런 방식으로 사라지지 않으면 군단은 환불을 제공하지 않습니다."
+
+acot_pmc.4.kraggan:  "§GKraggan 블러드 팩 용병§!"
+acot_pmc.4.kraggan.explain:  "놀라운 강인함, 잔인함, 전투에서의 야만성으로 유명한 크라간은 지상에서 강력한 전사입니다. 그들의 엄청난 고통에 대한 인내심과 전투에 대한 사랑은 압박감을 이겨내고 여러 번의 공격에서 살아남는 것을 극도로 어렵게 만듭니다."
+acot_pmc.4.kraggan.condition:  "이 크라간들은 외국인을 사랑하는 제국을 싫어하는 것 같습니다. 그들은 이유를 밝히지 않습니다."
+
+acot_pmc.4.freeboota:  "§B프리부타 용병§!"
+acot_pmc.4.freeboota.explain:  "이 이상한 그린스킨들은 약탈과 습격을 좋아합니다. 선박의 품질은 많이 아쉽지만 승하차 속도가 매우 빨라 이를 보완합니다. 그들은 특히 누군가를 위해 일하는 데 아무런 문제가 없는 것 같습니다."
+
+acot_pmc.4.zurgush:  "§G주르구시 브루드§!"
+acot_pmc.4.zurgush.explain:  "이 이상한 곤충형 외계인 무리는 하이브 마인드(Hive Mind)에 속한 것 같습니다. 분명히 그들은 하이브퀸에 의해 다른 은하계에 공포를 퍼뜨리는 임무를 맡고 있습니다. 용병에게는 이상한 선택이지만 그들의 전사는 매우 치명적입니다."
+acot_pmc.4.zurgush.condition:  "무리는 다른 하이브 마인드를 위해 싸우는 것을 거부합니다. 아마도 직접적인 경쟁을 피하고 싶은 것일까요?"
+
+acot_pmc.4.robert:  "§M로버트 맥코이§!"
+acot_pmc.4.robert.explain:  "인간형 출신의 이 어린 소년은 어떻게든 우리 용병 계약에 참여할 수 있는 충분한 크레딧을 모았습니다. 그는 다소 싸고 작은 침입자 함선 외에는 아무것도 가지고 있지 않습니다. 그의 전투 경험은 기본적으로 존재하지 않습니다. 그러나 그는 아무것도 요구하지 않고 단지 그의 옛 은하계에서 그를 꺼내달라고만 했습니다."
+acot_pmc.4.robert.condition:  "분명히 그는 그를 만찬으로 만들 가능성이 있는 제국에 합류하고 싶지 않습니다."
+
+acot_pmc.4.samuroi:  "§B사무로이 블레이드§!"
+acot_pmc.4.samuroi.explain:  "명예를 중시하는 이 용병 전사들은 전쟁과 군대의 특별한 전통을 지키는 사람들에게 봉사합니다. 그들의 함대는 강력한 중형 및 대형 선박으로 구성됩니다. 그들은 비겁한 원거리 무기보다 민첩성과 힘을 선호하는 것 같습니다."
+acot_pmc.4.samuroi.condition:  "이 전사들은 평화주의자를 위해 일하는 것을 싫어하는 것 같습니다."
+
+acot_pmc.4.jacksonrevenge:  "§Y잭슨의 복수§!"
+acot_pmc.4.jacksonrevenge.explain:  "어떻게든 기함을 손에 넣은 해적단. 선원들은 누가 선장이 될지 결정하기 위해 일주일 내내 서로를 살해하며 보냈다고 합니다. 선원들은 그다지 믿음직하지는 않지만 전투 감각이 매우 뛰어나고 배는 상당히 강력합니다."
+
+acot_pmc.4.vampiris:  "§G뱀피리스 셰이드§!"
+acot_pmc.4.vampiris.explain:  "다른 은하계에서 새로운 맛을 얻고자 하는 생명을 빨아들이는 강력한 네로이드 기사 집단입니다."
+acot_pmc.4.vampiris.condition:  "이 뱀파이어 같은 존재는 생명이 없는 기계에는 작동하지 않습니다."
+
+########################## SPECIAL SERVICE MENU #############
+
+acot_pmc.5.name:  "파논 군단 특별 서비스"
+acot_pmc.5.desc:  "특별 서비스로 경로를 변경합니다.\n\n오늘 무엇을 도와드릴 수 있는지 알려주세요."
+
+# FE SABOTAGE
+acot_pmc.5.fe:  "몰락한 제국을 물리치는 데 도움이 필요합니다."
+acot_pmc.5.fe.error:  "§R우리는 현재 전쟁 중이 아니며 몰락한 제국과 경쟁하고 있지도 않습니다.§!"
+
+#EMPIRE SABOTAGE
+acot_pmc.5.rivals:  "우리는 라이벌을 상대하는 데 도움이 필요합니다."
+acot_pmc.5.rivals.error:  "§R우리는 현재 전쟁 중이 아니며 어떤 제국과도 경쟁하고 있지 않습니다.§!"
+
+# CRISIS SABOTAGE
+acot_pmc.5.crisis:  "계속되는 위기에 맞서 싸우려면 도움이 필요합니다."
+acot_pmc.5.crisis.error:  "§R현재 진행 중인 위기 상황은 없습니다.§!"
+
+# DARK DESIGN - GO TO DARK DESIGN
+acot_pmc.5.darkmatter:  "암흑 물질 원자로를 만드는 데 도움이 필요합니다."
+ 
+# DARK DESIGN - GO TO DARK DESIGN
+acot_pmc.5.link_alpha_fe:  "우리는 몰락제국의 비밀에 접근해야 합니다."
+acot_pmc.5.link_alpha_fe.tooltip:  "우리는 군단을 이용해 우리가 선택한 몰락 제국에 직접 연락할 수 있으며, 거래를 원활하게 하기 위한 추가 지원도 받을 수 있을까요?"
+
+########## FE
+
+acot_pmc.500.name:  "파논군단 할머니 왕따 시스템 V4.6a"
+acot_pmc.500.desc:  "이해했다. 몰락한 제국에 맞서 어떤 지원이 필요한지 지정해 주세요.\n\n현재 목표는 [FallenEmpireTarget.GetName]입니다."
+
+acot_pmc.500.changetarget:  "타겟 몰락제국을 변경하세요."
+acot_pmc.500.a:  "그들의 함대를 파괴하세요."
+acot_pmc.500.a.tooltip:  "이로 인해 대상 몰락 제국이 일시적인 부정적 수정치를 받게 되어 함선 무기 발사 속도와 피해가 §R-50%§! 감소하게 됩니다.\n10년 동안 지속됩니다.\n20년마다만 수행할 수 있습니다."
+acot_phanon_fe_fleet_sabotage_debuff:  "함대 파괴"
+acot_pmc.500.b:  "생산을 방해하십시오."
+acot_pmc.500.b.tooltip:  "이로 인해 대상 Fallen Empire가 일시적인 부정적인 수정자를 받게 되어 조선소, 군대 및 행성 건설 속도가 §R-100%§! 감소하고 공성 파괴자를 건설할 수 없게 됩니다.\n10년 동안 지속됩니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_fe_production_debuff:  "생산 방해"
+acot_pmc.500.c:  "그들의 약점을 획득하세요."
+acot_pmc.500.c.tooltip:  "5년 동안 우리 제국이 몰락한 제국에 대해 일시적으로 §G50%§!의 보너스 피해를 줍니다.\n10년마다 수행할 수 있습니다."
+acot_phanon_fe_weakpoint_analysis:  "몰락제국 약점 분석"
+acot_pmc.500.c.fail.done:  "§R이런 재미있는 것이 이미 있습니다..§!"
+acot_pmc.500.d:  "대열에 혼란을 야기합니다."
+acot_pmc.500.d.tooltip:  "이로 인해 대상 Fallen Empire의 함대 중 일부가 모든 사람에게 적대적이 됩니다. 몰락제국 함대가 너무 커지는 경우 유용합니다.\n50년마다 수행할 수 있습니다.."
+acot_pmc.500.e:  "군대의 사기를 저하시킵니다."
+acot_pmc.500.e.tooltip:  "이로 인해 대상 몰락 제국이 일시적인 부정적 수정치를 받게 되어 군대 건강 및 피해가 §R-25%§! 감소하고 사기가 §R-55%§! 감소합니다.\n10년 동안 지속됩니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_fe_army_morale_debuff:  "슬픔과 코피움"
+acot_pmc.500.fail.done:  "§R몰락한 제국은 이미 파괴되었습니다.§!"
+acot_pmc.500.fail.cd:  "§R휴지 중.§!"
+
+########## EMPIRE SABOTAGE
+
+acot_pmc.510.desc:  "이해했다. 경쟁하는 제국을 상대로 어떤 종류의 지원이 필요한지 지정하십시오.\n\n현재 목표는 [Root.GetName]입니다."
+
+acot_pmc.510.changetarget:  "대상 라이벌 제국을 변경합니다."
+
+########## Crisis SABOTAGE
+
+acot_pmc.520.name:  "파논군단 위기대응서비스"
+acot_pmc.520.desc:  "이해했다. 위기에 대비하여 어떤 조력자가 필요한지 구체적으로 말씀해 주십시오."
+
+acot_pmc.520.swarm.a:  "스컬지에는 어떤 약점이 있나요?"
+acot_pmc.520.swarm.a.tooltip:  "우리 제국은 10년 동안 스컬지에 대한 추가 피해를 일시적으로 §G50%§! 제공합니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_scourge_weakpoint_analysis:  "스컬지 게놈 무기."
+acot_pmc.520.contingency.a:  "컨틴전시에는 어떤 약점이 있나요?"
+acot_pmc.520.contingency.a.tooltip:  "일시적으로 10년 동안 우발 상황에 대해 우리 제국에 §G50%§!의 보너스 피해를 줍니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_contingency_weakpoint_analysis:  "비상 논리 바이러스."
+acot_pmc.520.edi.a:  "ExtraDimensional Invaders에는 어떤 약점이 있습니까?"
+acot_pmc.520.edi.a.tooltip:  "10년 동안 우리 제국에 ExtraDimensional Invaders에 대한 보너스 피해를 일시적으로 §G50%§! 제공합니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_edi_weakpoint_analysis:  "초차원 파괴자."
+acot_pmc.520.khan.a:  "대칸의 약탈자는 어떤 약점을 갖고 있나요?"
+acot_pmc.520.khan.a.tooltip:  "10년 동안 대칸의 약탈자에 대해 우리 제국에 일시적으로 §G50%§!의 보너스 피해를 줍니다.\n20년마다 수행할 수 있습니다."
+acot_phanon_khan_weakpoint_analysis:  "칸미디어 비방."
+acot_pmc.520.a.fail.done:  "§R이미 해당 항목이 있습니다.§!"
+acot_pmc.520.fail.cd:  "§R휴지 중.§!"
+
+########## Matter Acquisitioon
+acot_pmc.530.name:  "파논군단 기술획득용역"
+acot_pmc.530.desc:  "알겠습니다. Technology Acquisition Service로 다시 연결하겠습니다.\n\nDark Matter 기술 획득에 대해 어떤 지원을 원하시나요?"
+
+acot_pmc.530.a:  "다른 제국의 청사진을 훔치세요."
+acot_pmc.530.a.tooltip:  "중간 비용의 가장 간단한 방법입니다. 당연히 이는 이미 이 기술을 보유하고 있는 다른 제국이 있는 경우에만 가능합니다. 기업의 명성과 기술을 고려할 때 피해자가 어둠의 행위를 인식할 가능성은 거의 없습니다. 그러나 프로세스가 완료되기까지 약간의 지연이 있을 수 있습니다."
+acot_pmc.530.a.response:  "확인되었습니다. 침투작전을 펼치고 있습니다. 몇 달이 걸릴 수 있습니다. 이 커미션에 대한 귀하의 참여는 결과에 관계없이 대상에게 공개되지 않으므로 안심하십시오."
+acot_pmc.530.a.fail:  "§R분명히 이 기술을 보유하고 있는 다른 제국이나 세력은 아직 없습니다.§!"
+acot_pmc.530.b:  "우리 과학자들을 보강하세요."
+acot_pmc.530.b.tooltip:  "가장 저렴한 방법. 이렇게 하면 프로젝트의 최적 요구 사항을 충족하기 위해 모든 과학자의 수준을 높이거나 이미 한계를 초과한 경우 추가 수준을 추가하는 약간의 시간이 걸리는 특별한 프로젝트가 생성됩니다. 우리가 목표를 달성하는 데 도움이 될 뿐만 아니라, 우리 과학자들의 기술 향상은 향후 다른 프로젝트에도 유용할 수 있음이 입증될 수 있습니다."
+acot_pmc.530.b.response:  "확인되었습니다. 지금 제국의 과학자들에게 필요한 데이터 연구를 전송하고 있습니다. 그들이 그것을 최대한 활용하기를 바랍니다."
+acot_pmc.530.c:  "우리가 그걸 사줄 수 있나요?"
+acot_pmc.530.c.tooltip:  "가장 간단한 방법이지만 비용이 가장 많이 듭니다. 청사진과 사양은 즉각적으로 제공됩니다. 즉, 연구에 필요한 기술을 즉시 준비할 수 있다는 의미입니다."
+acot_pmc.530.c.response:  "하지만 물론이죠. Dark Matter 기술은 올바른 핵심 구성 요소를 알고 나면 기본적인 이해만 필요합니다. 거래가 성공적으로 완료되었습니다. 새 장난감을 즐겨보세요, 고객님!"
+
+acot_pmc.531.name:  "파논군단 기술획득용역"
+acot_pmc.531.desc:  "안녕하세요, [root.GetName]님. 귀하가 언급한 기술의 데이터가 제3자로부터 성공적으로 도용되었음을 알려드리게 되어 기쁘게 생각합니다. 이제 데이터를 전송할 준비가 되었습니다."
+acot_pmc.531.a:  "그렇다면 불행한 사람은 누구였습니까?"
+acot_pmc.531.a.response:  "아, 그것에 대해 알 필요는 없습니다. 우리를 믿으세요. 하지만 그들은 방금 무슨 일이 일어났는지 전혀 모르니 안심하세요. 나머지는 당신에게 달려 있습니다."
+acot_pmc.531.b:  "당신이 단지 크레딧을 받고 도망갈까봐 거의 걱정했습니다."
+acot_pmc.531.b.response:  "자, 이제 친애하는 고객님. 여기서는 전문가와 거래하고 있습니다. 우리는 약탈자 같은 후진 용병이 아닌 파논 군단입니다. 우리는 항상 원하는 것을 얻고, 우리가 원하는 것은 당신에게 필요한 것입니다."
+acot_pmc.531.c:  "시간쯤. 본 사업은 종료되었습니다."
+acot_pmc.531.c.response:  "물론. 기억하세요, 파논 군단은 항상 지켜보고 있습니다. 최고를 원한다면 파논 군단을 선택하세요."
+########################### PHANON SERVICE
+
+acot_pmc.6.name:  "파논 군단 울트라 서비스"
+acot_pmc.6.desc:  "Ultra 서비스에 오신 것을 환영합니다. 여기에서 VIP 고객이 가이드라인 및 규정을 충족하는 경우 더...고유한 커미션 및 요청을 요청할 수 있습니다.\n\n현재 귀하의 계정에는 §Y[This.$owned_phanon_coin$]§! Phanon 코인이 있습니다." 
+acot_pmc.6.a:  "우리는 파논 군단 군대를 구매하고 싶습니다."
+acot_pmc.6.b:  "파논 군단 함선을 구매하고 싶습니다."
+acot_pmc.6.c:  "우리는 Phanon Corps Technologies를 구매하고 싶습니다."
+acot_pmc.6.c.response:  "최근 보안 문제로 인해 이 서비스를 이용할 수 없음을 알려드리게 되어 죄송합니다."
+acot_pmc.6.c.response.goodgirl:  "누락된 핵심 기술을 검색하는 중입니다. 지금 데이터를 완료하고 삭제하세요. 즐겨주세요."
+acot_pmc.6.d:  "파논군단 특수능력을 구매하고 싶습니다."
+acot_pmc.6.e:  "우리는 Phanon 코인을 얻고 싶습니다."
+acot_pmc.6.earn.fail:  "§R현재 Phanon 코인 획득으로 인한 수익은 없습니다!§!"
+
+acot_pmc.6.fail:  "§RPhanon 코인이 부족합니다!§!"
+
+owned_phanon_coin:  "acot_phanon_coin_var"
+
+acot_phanon_coin_var:  "파논 코인 개수"
+
+########################## PHANON SUPER COMMISSION
+
+acot_pmc.600.name:  "파논군단 복무계약 서비스"
+acot_pmc.600.desc:  "인사말. 파논군단의 복무계약 서비스에 오신 것을 환영합니다. 우리 부대는 기술과 장비 면에서 타의 추종을 불허합니다. 세부정보, 사양 및 비용을 보려면 터미널의 옵션 위로 마우스를 가져가세요.\n\n규정에 따라 구매한 장치는 주권이 파괴되어 계약이 종료될 때까지 정당하게 고객의 소유로 간주됩니다. Phanon 군단에 대해 적대적인 행동을 취하는 경우 기존 계약 병력은 클라이언트에 대해 사용되지 않습니다.\n\n현재 귀하의 계정에는 §Y[This.$owned_phanon_coin$]§!개의 Phanon 코인이 있습니다."
+
+acot_pmc.600.setlocation.phanon:  "배송 위치: §RPhanon 시스템§!"
+acot_pmc.600.setlocation.capital:  "배송 위치: §YCapital System§!"
+acot_pmc.600.setlocation.explain:  "의뢰받은 군대 수송선이 등장하는 위치를 변경합니다. 기본적으로 이는 Phanon Corps의 Droppoint로 설정되어 있습니다. 수도에서 투하하도록 전환하면 수송선의 발사 속도와 속도가 §Y360§!일 동안 §R25%§! 저하됩니다.\n\n§H특수 행성으로 함대를 수송할 때는 제대로 등록되지 않을 수 있으므로 각별히 주의하세요. 함대가 이런 방식으로 사라지지 않으면 군단은 환불을 제공하지 않습니다."
+
+acot_pmc.600.a:  "Legion of Dutymen을 구입하세요."
+acot_pmc.600.a.explain:  "패키지에는 §Y15§! Dutymen Trooper 및 §Y5§! Dutymen Sniper 유닛이 포함됩니다.\n\nDutymen은 사기 피해를 전문으로 하지 않는 적과의 전투에 탁월한 범용 보병 부대입니다. 반면에 저격수는 적군을 당황하게 만드는 데 뛰어나며, 한 명씩 제거되면서 사기를 떨어뜨립니다."
+acot_pmc.600.a.response:  "의무 준비. 모르 발라텐!"
+
+acot_pmc.600.b:  "엘리트 듀티맨 군단을 구매하세요."
+acot_pmc.600.b.explain:  "패키지에는 §Y12§!개의 Dutyman Elite와 §Y3§! Patriot 탱크 유닛이 포함되어 있습니다.\n\nElite Dutymen은 표준 기병보다 강력하며 탱크는 자동화되어 있으며 사기 피해를 입지 않습니다." 
+acot_pmc.600.b.response:  "확인되었습니다. 엘리트 준비."
+
+acot_pmc.600.c:  "테러 비스트 군단을 구매하세요."
+acot_pmc.600.c.explain:  "패키지에는 테론 드론 §Y20§!개와 테러 엄니 유닛 §Y3§!개가 포함되어 있습니다.\n\n두 가지 유형의 유닛 모두 테러 전쟁과 대학살에 매우 적합한 용감한 자동 장치로, 부수적인 피해를 걱정하지 않고 행성을 정화하는 데 적합합니다."
+acot_pmc.600.c.response:  "확인되었습니다. 테러 비스트 준비."
+
+acot_pmc.600.d:  "우리는 지상전에는 신경쓰지 않기를 원합니다."
+acot_pmc.600.d.explain:  "패키지에는 한 쌍의 요원이 이끄는 §Y30§! Dutymen Trooper, §Y10§! Dutymen Sniper, §Y10§! Dutyman Elites, §Y5§! Patriot Tanks, §Y20§! Terrone Drones 및 §Y5§! Terror Tusks 유닛이 포함되어 있습니다. \n\n이 대규모 군단을 통해 역대 대부분의 지상전에서 승리할 수 있습니다. 우주 전투에서 그들을 잃지 않도록 주의하세요."
+acot_pmc.600.d.response:  "확인되었습니다. 적들이 떨게하십시오."
+
+###########
+
+acot_pmc.601.name:  "파논 군단 해군 계약 서비스"
+acot_pmc.601.desc:  "인사말. 파논군단 해군계약서비스에 오신 것을 환영합니다. 우리의 함선은 최고급 재료로 만들어졌으며 최첨단 부품과 무기 시스템을 활용합니다. 공간을 통제하고 싶다면 더 이상 볼 필요가 없습니다.\n\n규정에 따라 구매한 선박은 주권이 파괴되어 계약이 종료될 때까지 정당하게 고객의 소유로 간주됩니다. Phanon 군단에 대해 적대적인 행동을 취하는 경우 기존 계약 병력은 클라이언트에 대해 사용되지 않습니다.\n\n현재 귀하의 계정에는 §Y[This.$owned_phanon_coin$]§!개의 Phanon 코인이 있습니다."
+
+acot_pmc.601.setlocation.phanon:  "배송 위치: §RPhanon 시스템§!"
+acot_pmc.601.setlocation.capital:  "배송 위치: §YCapital System§!"
+acot_pmc.601.setlocation.explain:  "의뢰받은 함대가 나타날 위치를 변경하세요. 기본적으로 이는 Phanon Corps의 Droppoint로 설정되어 있습니다. 수도에서 투하로 전환하면 함선의 발사 속도와 속도가 §Y360§!일 동안 §R25%§! 저하됩니다.\n\n§H함대를 특수 행성으로 운송할 때는 제대로 등록되지 않을 수 있으므로 각별히 주의하세요. 함대가 이런 방식으로 사라지지 않으면 군단은 환불을 제공하지 않습니다."
+acot_pmc.601.a:  "스타 체이서 편대를 구매하세요."
+acot_pmc.601.a.explain:  "패키지에는 단일 Star Invader가 이끄는 §Y3§!개의 Star Chaser Squardron이 포함되어 있습니다.\n\nStar Chaser는 믿을 수 없을 정도로 높은 내구성과 화력을 갖춘 엄청나게 빠른 ISC입니다. 스타 인베이더는 요원이 신경망을 통해 제어하는 ​​엘리트 변종입니다." # 4800
+acot_pmc.601.a.response:  "확인되었습니다. 스타 체이서가 준비되었습니다."
+acot_pmc.601.b:  "스타 디스트로이어 2개를 구매하세요."
+acot_pmc.601.b.explain:  "패키지에는 Star Destroyer §Y2척§!이 포함되어 있습니다.\n\nPhanon Corps에서 사용하는 가장 작은 주력 전투함으로 간주되지만 크기와 화력은 여전히 ​​대부분의 은하계 함선을 압도합니다. 그들은 전쟁에서 승리하지 못할 수도 있지만 많은 역할을 수행할 수 있는 강력한 만능 함선을 만듭니다." # 9600
+acot_pmc.601.b.response:  "확인되었습니다. 스타 디스트로이어 준비 완료."
+acot_pmc.601.c:  "스타 데바스테이터를 구입하세요."
+acot_pmc.601.c.explain:  "패키지에는 스타 데바스테이터(Star Devastator)가 포함되어 있습니다.\n\n스타 데바스테이터(Star Devastator)는 다른 주력함을 상대하면서도 작은 곤충을 처리할 수 있는 소구경 무기를 보유할 수 있는 중거리 함선입니다."
+acot_pmc.601.c.response:  "확인되었습니다. 스타 데바스테이터가 대기 중입니다."
+acot_pmc.601.d:  "스타 데시메이터를 구입하세요."
+acot_pmc.601.d.explain:  "패키지에는 스타 데시메이터가 포함되어 있습니다.\n\n데시메이터는 대자본함 전용 이동식 포병 시스템입니다. 이들의 유명한 대포는 단 한 발은 아니더라도 몇 척의 가장 견고한 함선도 통과할 수 있습니다."
+acot_pmc.601.d.response:  "확인되었습니다. 데시메이터 온라인."
+acot_pmc.601.e:  "스타 도미네이터 II 구매"
+acot_pmc.601.e.explain:  "패키지에는 Star Dominator II가 포함되어 있습니다.\n\n불행한 커미션의 놀랍고 효과적인 제품입니다. Dominator II는 Phanon Corps의 주요 주력함입니다. 하단 날개 부분과 해머 척추의 추가로 인해 이전 모델보다 훨씬 더 치명적이게 되었지만 비용은 눈에 띄게 증가했습니다."
+acot_pmc.601.e.response:  "확인되었습니다. 지배자가 당신의 명령에 있습니다."
+acot_pmc.601.f:  "스타 어나힐레이터 구매"
+acot_pmc.601.f.explain:  "패키지에는 스타 어나힐레이터(Star Annihilator)가 포함되어 있습니다.\n\n스타 어나일레이터(Star Annihilator)는 은하계 배치가 허가된 파논 군단(Phanon Corps)의 가장 크고 강력한 기함입니다."
+acot_pmc.601.f.response:  "확인되었습니다. 최고의 파논 함대는 당신이 휘두를 수 있는 것입니다."
+
+###########
+
+acot_pmc.602.name:  "파논군단 특수 프로토콜 서비스"
+acot_pmc.602.desc:  "인사말. 파논 군단의 특수 프로토콜 서비스에 오신 것을 환영합니다. 당사가 보유하고 있는 다양한 유형의 특수 프로토콜 시스템에서 구매할 수 있습니다.\n\n특수 프로토콜은 칙령이나 거대 구조물 타겟팅을 통해 활성화하여 적에 대해 전술적 이점을 얻을 수 있는 강력한 움직임입니다.\n\n현재 귀하의 계정에는 §Y[This.$owned_phanon_coin$]§! Phanon 코인이 있습니다."
+
+acot_pmc.602.a:  "Runic Elite 프로그래밍 프로토콜을 구매하세요."
+acot_pmc.602.a.explain:  "패키지에는 Runic Elite 프로그래밍 프로토콜 칙령의 일회성 사용이 포함됩니다.\n\n엘리트 프로토콜 칙령은 조선소에서 건조된 모든 선박에 무기 손상이 §G50%§! 증가하고 발사 속도, 선체, 갑옷 및 방패가 §G25%§! 증가하지만 건조 시간이 §R30%§! 증가하도록 하는 §Y5§! 수정자를 부여합니다. 마찬가지로, 이 기간 동안 생산된 모든 군대는 체력이 §G100%§! 증가하고 피해가 §G50%§! 증가하며 사기가 §G200%§! 증가하지만 만드는 데는 §R40%§! 더 많은 시간이 걸립니다." # 4800
+acot_pmc.602.a.response:  "확인되었습니다. 엘리트 프로토콜을 구매했습니다.\n\n§Y칙령 메뉴를 통해 사용할 수 있습니다.§!"
+
+acot_elite_protocol_modifier:  "룬 엘리트 프로토콜"
+acot_elite_protocol_modifier_desc:  "다차원적 훈련의 경이로움..."
+acot_elite_protocol_ship_buff:  "룬 엘리트 프로토콜"
+acot_elite_protocol_army_buff:  "룬 엘리트 프로토콜"
+
+edict_acot_phanon_elite_protocol:  "룬 엘리트 프로토콜 활성화"
+edict_acot_phanon_elite_protocol_desc:  "엘리트 프로토콜 칙령은 조선소에서 건조된 모든 함선의 무기 피해량을 §G50%§! 증가시키고 발사 속도, 선체, 갑옷 및 방패를 §G25%§! 증가시키지만 건조 속도를 §R30%§! 증가시키는 §Y5§! 수정자를 부여합니다. 마찬가지로, 이 기간 동안 생산된 모든 군대는 체력이 §G100%§! 증가하고 피해량이 §G50%§! 증가하며 사기가 §G200%§! 증가하지만 만드는 데는 §R40%§! 더 많은 시간이 걸립니다."
+
+acot_pmc.602.b:  "섀도우 댄스 프로토콜을 구매하세요."
+acot_pmc.602.b.explain:  "패키지에는 섀도우 댄스 프로토콜 전원의 일회성 사용이 포함됩니다.\n\n활성화되면 섀도우 댄스 프로토콜은 동일한 §G10§! 은폐 강도의 모든 동맹 선박을 부여하고 기본 선박 속도를 §G200%§! 증가시키는 동시에 §Y180§!일 동안 즉시 은폐 모드로 전환합니다. Shadow Dance를 사용하는 동안 은신을 해제하면 모든 함선의 공격력이 §G25%§! 증가하고 §Y30§!일 동안 발사 속도가 §G50%§! 증가합니다." # 4800
+acot_pmc.602.b.response:  "확인되었습니다. 섀도우 댄스 프로토콜을 구매했습니다.\n\n§Y메가스트럭처 활성화를 통해 활성화할 수 있습니다.§!"
+
+acot_shadow_dance_protocol_stealth_buff:  "섀도우 댄스 프로토콜"
+acot_shadow_dance_protocol_ambush_buff:  "섀도우 댄스 매복!"
+
+###########
+
+acot_pmc.603.name:  "파논군단 마코트랜잭션 서비스"
+acot_pmc.603.desc:  "인사말. 파논군단의 거대 거래 서비스에 오신 것을 환영합니다. 여기에서 현재 사용 가능한 Phanon 코인 획득 방법 중에서 선택할 수 있습니다. 사용 가능한 방법이 있으면 나중에 다시 방문해 주세요.\n\n현재 계정에 §Y[This.$owned_phanon_coin$]§! Phanon 코인이 있습니다.\n\n§E모든 획득 서비스를 동시에 사용할 수 있는 것은 아닙니다.§!"
+
+acot_pmc.603.task_exist.fail:  "§R이미 작업 nbnab을 진행 중입니다.§!"
+
+acot_pmc.603.leader:  "임무: 리더 기부 - §Y코인 1개§!"
+acot_pmc.603.leader.explain:  "군단이 중요하게 생각하는 것이 있다면 탁월한 기술을 보여준 유능한 사람들입니다.\n\n레벨 §Y10§! 이상인 제국의 의회 지도자가 아닌 임의의 지도자가 파논 군단에 항복하게 됩니다. 리더는 Phanon Corp의 리더 커미션 서비스를 통해 획득한 리더가 될 수 §R없습니다§!.\n\n§E3600일 쿨타임§!" 
+acot_pmc.603.leader.fail:  "§R우리 제국에는 기준에 맞는 지도자가 없습니다.§!"
+acot_pmc.603.leader.response:  "감사합니다. 귀하의 계정에 지금 §Y1§!개의 Phanon 코인을 추가해 주셔서 감사합니다.\n\n우리 리더 중 한 명인 [event_target:acot_pmc_eaten_leader.GetName]님이 Phanon Corps에 합류하도록 선택되었습니다."
+
+acot_pmc.603.fleet:  "임무: 함대 기부 - §Y코인 1개§!"
+acot_pmc.603.fleet.explain:  "때때로 군단은 목적을 위해 특정 함대를 직접 분석하고 획득해야 합니다. 그 목적이 무엇인지는 중요하지 않습니다.\n\n최소 §Y5,000,000§! 함대 전력을 갖춘 대규모 함대를 모아 파논 군단에 제공합니다.\n\n§E쿨타임은 1,800일입니다.§!"
+acot_pmc.603.fleet.fail:  "§RPhanon 군단 강하 지점에 필요한 전력을 갖춘 함대가 없습니다.§!"
+acot_pmc.603.fleet.response:  "감사합니다. 귀하의 계정에 지금 §Y1§! Phanon 코인을 추가해 주셔서 감사합니다.\n\n드롭 포인트에 주둔하고 있는 우리 함대 중 하나가 Phanon 군단에 전달되었습니다."
+
+acot_pmc.603.donation:  "임무: 자원 기부 - §Y코인 1개§!"
+acot_pmc.603.donation.explain:  "군단에는 일부 원자재가 필요하지만 무엇을 위해 필요합니까?\n\n코인을 얻기 위해 나열된 자원의 선불 비용을 지불합니다.\n\n§E쿨타임은 3600일입니다.§!"
+acot_pmc.603.donation.response:  "좋습니다. 지금 귀하의 계정에 §Y1§!개의 Phonon 코인을 추가해 주셔서 감사합니다."
+
+acot_pmc.603.groundbattle:  "의무: 의무 퇴직 - §Y코인 3개§!"
+acot_pmc.603.groundbattle.explain:  "불량, 결함 또는 기타 공개되지 않은 이유에 관계없이 군단이 처분해야 하는 의무병 그룹이 있으며 이들의 "손실"은 군단 자체와 직접적으로 연결될 수 없습니다. 제3자가 필요합니다.\n\n대규모 듀티맨 병력에 맞서 싸우기 위한 행성 결정이 제공됩니다. 그들을 물리치고 코인을 획득하세요.\n\n§E쿨타임은 3600일입니다.§!" 
+acot_pmc.603.groundbattle.response:  "이 문제에 대한 귀하의 재량에 감사드립니다. 불미스러운 점을 처리하신 후, 다시 연락을 드려 보상을 드리겠습니다."
+
+decision_acot_fight_phanon_soldier:  "근무자 퇴직"
+decision_acot_fight_phanon_soldier_desc:  "어떤 이유에서든 파논 군단은 우리에게 이 결함 있는 임무를 처리하라고 요구합니다. 그럼에도 불구하고 그들은 여전히 ​​우리가 가볍게 여겨서는 안 될 강력한 위협으로 남아 있습니다. 상황을 통제할 수 없다면 문제가 발생할 수 있습니다."
+
+acot_pmc.6030.name:  "의무병 이야기"
+acot_pmc.6030.desc:  "배송이 열렸지만 안에 있던 직원들은 자신의 상황을 인식하지 못하는 것 같고, 실제로는 자신의 목적을 전혀 이해하지 못하는 것 같습니다.\n\n§Y"우리는 누구입니까? 우리는 무엇입니까?"§!"
+acot_pmc.6030.a:  "우리 군인들."
+acot_pmc.6030.a.tooltip:  "이 근무자들은 지금 우리를 섬기게 될 것입니다. 하지만 그것은 우리가 요청한 파논 코인을 얻지 못한다는 것을 의미합니다. 게다가 배에 있는 보급품도 우리에게 유용할 거예요."
+acot_pmc.6030.b:  "컬링이 필요한 결함."
+acot_pmc.6030.b.tooltip:  "우리에게는 의무가 있고 그들도 그렇습니다. 어쩔 수 없지"
+
+acot_pmc.6031.name:  "의무의 끝"
+acot_pmc.6031.desc:  "§Y"좋습니다."§!\n\n군사령관은 경의를 표한 후 모든 생활 기능을 스스로 종료하여 자살합니다. 그런 다음 행별로 나머지 파견대가 모든 작업이 완료될 때까지 따릅니다. 생존자는 없습니다. 그들은 모두 고통 없이 영원히 잠을 자고 있습니다."
+acot_pmc.6031.a:  "글쎄요, 그건 쉽습니다."
+acot_pmc.6031.b:  "정말 소름끼친다."
+
+acot_pmc.6032.name:  "의무 불복종"
+acot_pmc.6032.desc:  "§Y"부정적입니다. 우리는 결함이 아닙니다. 시험을 받을 사람은 바로 당신입니다!"§!\n\n군 사령관이 부대에 우리에게 사격을 명령하고 전투가 시작되었습니다!"
+acot_pmc.6032.a:  "모든 유닛, 마음대로 사격하라!"
+
+acot_pmc.603.spacebattle:  "임무: 함대 퇴역 - §Y코인 3개§!"
+acot_pmc.603.spacebattle.explain:  "불량, 결함 또는 기타 공개되지 않은 이유로 인해 군단 함대의 일부 선박은 다른 사람에 의해 폐기되어야 합니다. 우리는 그 역할을 수행해야 합니다.\n\n군단이 파괴되어야 하는 버려진 함대를 던질 시스템을 선택하기 위한 행성 결정이 제공될 것입니다.\n\n§R결정적인 일격을 가하는 사람은 우리여야 합니다. 그렇지 않으면 동전은 다른 사람에게 전달됩니다!§!\n\n§E쿨다운 1800일.§!"
+acot_pmc.603.spacebattle.response:  "이 문제에 대한 귀하의 재량에 감사드립니다. 업무 처리가 완료되면 다시 연락을 드려 보상을 드리겠습니다."
+
+decision_acot_fight_phanon_fleet:  "Phanon 함대 퇴역"
+decision_acot_fight_phanon_fleet_desc:  "파논 군단에 따르면, 이 특정 함대는 파괴되어야 하며, 그것은 그들 자신의 손으로는 이루어질 수 없다고 합니다. 작업을 완료하는 것은 우리에게 달려 있으며 최후의 일격을 가하는 사람은 바로 우리입니다.\n\n이 결정을 선택하면 보상을 받기 위해 파괴해야 하는 적대적인 파논 군단 함대가 소환됩니다."
+
+acot_pmc.603.research:  "임무: 연구 분석 - §Y코인 2개§!"
+acot_pmc.603.research.explain:  "군단은 매일 수많은 과학 데이터를 처리해야 합니다. 하지만 우리가 기꺼이 그들을 도울 의향이 있다면 일부 코인은 우리 것이 될 수 있습니다.\n\n한 과학 분야의 막대한 비용이 드는 특별 프로젝트가 제공되며 코인을 얻기 위해 연구해야 합니다.\n\n§R타이머가 만료되기 전에 프로젝트를 조사해야 합니다. 그렇지 않으면 프로젝트가 낭비됩니다!§!\n\n§E3600일 쿨다운§!"
+acot_pmc.603.research.response:  "이 문제에 대한 귀하의 재량에 감사드립니다. 문제가 해결되면 다시 연락을 드려 보상을 드리겠습니다."
+
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS:  "파논 임무 할당: 이해할 수 없는 물리학"
+ACOT_PHANON_DUTY_SCIENCE_PHYSICS_DESC:  "Runic, Metaverse, Sobrak, Reclaimers 등과 같은 이상한 단어와 관련된 수많은 헤아릴 수 없는 데이터입니다. 다행스럽게도 대부분의 절차가 자동화된 것 같습니다. 단지 감독만 하면 됩니다."
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY:  "파논 임무 할당: 무의미한 사회"
+ACOT_PHANON_DUTY_SCIENCE_SOCIETY_DESC:  "Novan Cyber-Anatomies, Xharon Apex Sequences 또는 Yuukonite의 주요 정당에 대한 이상한 언급. IT는 이러한 유형의 데이터가 나중에 다시 돌아와서 우리를 괴롭힐 수 있다고 생각합니다. 하지만 동전은 동전이다."
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER:  "파논 임무 할당: 임파서블 엔지니어링"
+ACOT_PHANON_DUTY_SCIENCE_ENGINEER_DESC:  "World Ships, Star Contra, Nova Bombs, Lightseekers, Q.A.M.에 대한 여러 언급 구체 등등. 모든 것이 우스꽝스럽고 이해하기 불가능해 보이지만 여전히 군단에게는 매우 중요한 것 같습니다."
+
+acot_pmc.6033.name:  "파논 연구 완료"
+acot_pmc.6033.desc:  "우리는 연구 작업을 마쳤으며 군단은 우리의 노력을 등록하고 우리 계정에 1개의 Phanon 코인을 추가했습니다."
+acot_pmc.6033.a:  "마지막으로."
+
+acot_pmc.6035.name:  "의무 퇴직 완료"
+acot_pmc.6035.desc:  "우리는 군단이 우리에게 제거하기를 원했던 근무자들을 물리치는 데 성공했습니다. 그 사람들이 곧 우리에게 연락할 거예요."
+acot_pmc.6035.a:  "매우 좋은."
+
+acot_pmc.6034.name:  "파논군단 보상서비스"
+acot_pmc.6034.desc:  "귀하의 업데이트를 받았습니다. 여러분의 노고에 감사드립니다. §Y코인 3개§!가 계정에 추가되었습니다. 그리고 당신의 문제를 해결하기 위해 이러한 추가 자원을 가져가시기 바랍니다."
+acot_pmc.6034.a:  "차칭."
+
+acot_pmc.6036.name:  "파논 군단 레니게이드 함대"
+acot_pmc.6036.desc:  "우리가 물리쳐야 할 함대가 나타났습니다. 문제가 생기기 전에 빨리 마무리해야 합니다."
+acot_pmc.6036.a:  "무기를 강화하세요."
+
+acot_pmc.6037.name:  "파논 군단 레니게이드 함대 파괴"
+acot_pmc.6037.desc:  "불량 함대는 더 이상 존재하지 않습니다. 우리는 왜 군단이 이 강력한 함선을 파괴하기를 원하는지 아직 알 수 없지만, 그 행위는 끝났습니다."
+acot_pmc.6037.a:  "현금화할 시간입니다."
+
+###########
+
+acot_pmc.605.name:  "파논 군단 울트라 서비스"
+acot_pmc.605.desc.a:  "친애하는 [Root.GetName] 고객님, Corps는 귀하의 Phanon Corps Ultra 멤버십 구독이 만료됨을 알려드립니다. 구독을 갱신하시겠습니까? 지금 구독을 갱신하시면 할인 혜택과 추가 Phanon 코인 1개를 받으실 수 있습니다!"
+acot_pmc.605.desc.b:  "다시 한 번 안녕하세요, [Root.GetName]님. 귀하의 Phanon Corps Ultra 멤버십 구독이 만료되는 것 같습니다. 구독을 갱신하시겠습니까? 지금 구독을 갱신하시면 할인 혜택과 추가로 Phanon 코인 2개를 받으실 수 있습니다!"
+acot_pmc.605.desc.c:  "[Root.GetName]의 좋은 친구들입니다. 10년이 지났는데 그게 무슨 뜻인지 아시나요? 당신을 위한 더 많은 무료 코인!"
+acot_pmc.605.a:  "예, 귀하의 서비스는 유용합니다."
+acot_pmc.605.a.response:  "거래가 완료되었습니다. 군단은 귀하의 지속적인 지원에 감사드립니다. 2개의 추가 Phonon 코인이 귀하의 계정에 추가되었습니다! 감사합니다. 매우 안전하고 생산적인 여행을 즐기세요!"
+acot_pmc.605.b:  "실제로 거래를 계속하십시오."
+acot_pmc.605.b.response:  "거래가 완료되었습니다. 군단은 귀하의 지속적인 지원에 감사드립니다. 6개의 추가 Phonon 코인이 귀하의 계정에 추가되었습니다! 계속해서 신용을 유지하세요!"
+acot_pmc.605.c:  "마지막으로."
+acot_pmc.605.c.response:  "거래가 완료되었습니다. 귀하의 계정에 10개의 추가 Phonon 코인이 추가되었습니다!"
+acot_pmc.605.d:  "부정적입니다. 구독을 갱신하지 않습니다."
+acot_pmc.605.d.response:  "긍정. 상태를 업데이트하는 중입니다. 마음이 바뀌더라도 옵션은 열려 있습니다."
+
+########################### PHANON BACKSTABBER
+
+acot_pmc.2001.name:  "예상치 못한 사건"
+acot_pmc.2001.desc:  "우리는 고도로 암호화된 통신 네트워크로 환영받고 있습니다. 우리는 반대편에 누가, 무엇이 있는지 전혀 모르지만, 그 서명 중 일부는 파논 군단의 서명과 눈에 띕니다. 그들이 무엇이든 그들은 우리와 협상하고 싶어합니다."
+acot_pmc.2001.a:  "커뮤니케이션 채널을 엽니다."
+acot_pmc.2001.a.tooltip:  "Phanon Corp의 기술 구매를 시도했지만 거절당한 지 얼마 되지 않아 편리했습니다. 아마도 이 게임에 더 많은 것이 있을 것입니다."
+acot_pmc.2001.b:  "그 순서를 무시하세요."
+acot_pmc.2001.b.tooltip:  "파논 군단은 보통 이런 일을 하지 않습니다. 그것은 사기이거나 나중에 우리를 손상시킬 수 있는 것입니다. 주의를 기울여야 합니다.\n\n§R이렇게 하면 Phanon Corp의 이벤트 체인 종료에 대한 대체 솔루션이 차단됩니다.§!"
+
+acot_pmc.2002.name:  "???"
+acot_pmc.2002.desc:  "안녕하세요, [Root.GetName]님. 우리 소식통에 따르면 귀하가 Phanon 기술을 취득하려고 한다고 합니다. 그렇죠?\n\n저희가 도와드릴 수 있습니다."
+acot_pmc.2002.a:  "무엇? 누구세요?"
+acot_pmc.2002.a.response:  "그냥 말해두죠...우리는...이 은하계에서 현재 파논 작전을 운영하는 세력의 경쟁자입니다. 보시다시피, 군단 내에서 전력 균형이 빠르게 이동합니다. 그들이 더 많은 문제에 직면할수록 우리가... 착취하기는 더 쉬워질 것입니다."
+acot_pmc.2002.b:  "당신의 신호. 당신도 군단의 일원입니까?"
+acot_pmc.2002.b.response:  "하지만 물론이죠. 우리는 서로 다른 힘에 응답하지만 실제로는 파논 군단의 일부입니다. 그리고 만약 당신들의 은하계에 있는 것들이 분쟁의 혼란 속에서...사라진다면 우리는 큰 이익을 얻을 것입니다."
+acot_pmc.2002.c:  "우리가 당신을 어떻게 믿을 수 있나요?"
+acot_pmc.2002.c.response:  "그게 문제입니다. 당신은 할 수 없습니다. 당신은 우리 파논 군단의 누구도 믿지 않습니다. 하지만 그것이 당신이 원하는 것을 얻게 된다면 상관없나요?"
+acot_pmc.2002.d:  "군단은 이 사실을 알고 있나요?"
+acot_pmc.2002.d.response:  "모든 것을 의심하는 것은 모든 에이전트의 본성이지만, 그들은 이것을 이해할 수 없을 것입니다. 그들에게는 너무 늦기 전에는 안 됩니다. 우리의 지침을 따르면 원하는 것을 얻을 수 있습니다."
+acot_pmc.2002.e:  "다시는 우리를 물지 않는 것이 좋습니다."
+acot_pmc.2002.e.response:  "군단 내에서 중상모략을 하는 것은 당연한 일이며, 당신은 우리 모두에게 잠재적인 자산입니다. 그러니 진실이 밝혀진다고 해도 당신에게 아무 것도 밝혀지지 않을 것입니다."
+acot_pmc.2002.f:  "하지만 당신은 무엇을 제공할 수 있나요?"
+acot_pmc.2002.f.response:  "현지 대리인이 원하지 않는 것. 그들의 청사진, 코드, 약점. 모든 것. 우리가 요구하는 것은 약간의... 기여뿐입니다."
+acot_pmc.2002.g:  "좋습니다. 지금은 거래가 있습니다."
+acot_pmc.2002.h:  "우리는 아직 당신을 믿지 않습니다."
+acot_pmc.2002.h.response:  "그렇다면 원하는 대로 하세요. 하지만 우리는 항상 지켜보고 있다는 것을 기억하세요. 마음이 바뀌면 백 채널 좌표를 사용하여 이 커뮤니케이션에 액세스하세요."
+acot_pmc.2002.h.tooltip:  "이제 Phanon Corps Contact 메뉴에서 신비한 연락처에 접속할 수 있습니다."
+
+acot_pmc.2003.name:  "라이벌 파논 군단 요원"
+acot_pmc.2003.desc:  "매우 좋은. 사업을 시작합시다."
+acot_pmc.2003.a:  "우리는 그들의 기술을 원합니다."
+acot_pmc.2003.a.fail.response:  "흠... 먼저 기존 기술에 좀 더 노력을 기울여야 할 것 같아요. 나중에 좀 더 발전하면 다시 돌아오세요."
+acot_pmc.2003.a.fail.alreadyhas.response:  "이것이 현재 우리가 귀하에게 제공할 수 있는 한계입니다. 더 강력한 것을 원한다면 다음 단계로 넘어가야 합니다."
+acot_pmc.2003.b:  "그들의 약점은 무엇입니까?"
+acot_pmc.2003.c:  "현재 계획은 무엇입니까?"
+acot_pmc.2003.c.response.a:  "지금은 강점을 강화하고 새로운 기술을 습득하는 데 집중하세요. 두 가지를 모두 모으면 다음 단계로 넘어갑니다.\n\n또한 무엇을 하든 메인 브랜치를 공격하지 마세요. 아직은 모든 ​​퍼즐 조각을 먼저 설정해야 합니다."
+acot_pmc.2003.c.response.b:  "당신은 잘 해냈고, 많은 것을 배웠습니다. 하지만 당신이 우리의 상호 적에 맞서 완전한 승리를 거두고 싶다면 그것만으로는 충분하지 않을 것입니다. 함대를 파괴하고 드롭 포인트를 확보할 수 있지만 Phanon 에이전트는 그렇게 쉽게 제거할 수 없지만 이것이 바로 우리가 하는 일입니다.\n\nGoogle이 제공한 이 패키지를 시스템에 설치하면 다음 단계를 준비할 것입니다. 다시 말하지만, 이렇게 하기 전까지는 아직 메인 브랜치를 공격해서는 안 됩니다."
+acot_pmc.2003.c.response.c:  "우리의 상호 적들과 싸워라. 그들의 항성기지를 점령하고 Vault를 점령하세요. 계속해서 도움을 드릴 수 있도록 백업을 보내드리겠습니다. 아, 그리고 죽지 마세요."
+acot_pmc.2003.d:  "당신의 계획이 성공한다면 실제로 어떤 일이 일어날까요?"
+acot_pmc.2003.d.response:  "우리 에이전트가 작업을 인계받아 정상적으로 재개될 것입니다. 한 가지 예외를 제외하고 귀하는 호의를 얻게 되며 영구적인 울트라 상태가 귀하의 것이 됩니다. 그 외에도 많은 이점을 보장해 드릴 수 있습니다. Drop Point 시스템에 관해서는 잠시 동안 유지할 권리를 얻게 될 것이라고 가정 해 보겠습니다."
+acot_pmc.2003.e:  "지금은 다른 것이 없습니다."
+
+acot_pmc.2004.name:  "라이벌 파논 군단 요원"
+acot_pmc.2004.desc.a:  "그래서 당신은 접시를 강화하고 있습니다. 매우 좋은. 귀하의 알파 기술은 추가 적응을 위한 좋은 출발점이 될 것입니다. 지금은 군단이 사용하는 기술을 적용하는 것을 잊어버리세요. 하지만 그 사이에 디딤돌이 될 수는 있습니다. 귀하가 비용을 지불할 수 있는 경우 이러한 회로도와 데이터를 보내드립니다. 단순화를 위해 이 기술을 "Phi"라고 부르겠습니다."
+acot_pmc.2004.desc.b:  "이제 Phi의 기본 사항을 알았습니다. 이제 고급 복제로 넘어갈 시간입니다. 자원을 획득하면 거래가 시작됩니다."
+acot_pmc.2004.desc.c:  "잘하셨습니다. 마지막 퍼즐 조각만 남았습니다. 자원을 확보하고 마지막 거래를 하세요. 연구가 완료되면 최종 단계가 시작될 수 있습니다."
+acot_pmc.2004.a:  "잠깐만요, 우리가 비용을 지불해야 하나요?"
+acot_pmc.2004.a.response:  "당연히 우리는 산타군단이 아닌 파논군단입니다. 게다가, 이렇게 하는 것은...Coprs 정책이 적용되는 한 거래는 합법적인 것으로 간주됩니다. 우리를 믿으세요. 일이 비즈니스적인 방식으로 처리된다면 더 좋을 것입니다."
+acot_pmc.2004.b:  "본부가 뭔가를 의심할까요?"
+acot_pmc.2004.b.response:  "물론입니다. 하지만 그건 저희에게 맡겨주세요. 우리가 임무를 시작하면 그들은 당신을 상대할 시간이 없을 것입니다. 그들은 특정 질문을 할 수 있지만 카드를 공개하지 않는 한 문제는 발생하지 않습니다."
+acot_pmc.2004.c.a:  "좋아요, 그럴만한 가치가 있는 것 같아요."
+acot_pmc.2004.c.a.response:  "돈은 쉽습니다. 돈으로 벌어들이는 것이 바로 도전입니다. 지금 데이터를 업로드하는 중입니다."
+acot_pmc.2004.c.b:  "그럼 이쯤에서 끝내자."
+acot_pmc.2004.c.b.response:  "기분이 좋아진다면 전투에서 돈을 낭비하면서 얼마나 많은 돈을 절약했는지 생각해 보세요, 하하."
+acot_pmc.2004.c.c:  "이번이 마지막이 되는 게 낫겠다."
+acot_pmc.2004.c.c.response:  "적어도 돈에 관해서는 지출하게 될 것입니다. 하지만 어렵고 재미있는 부분은 아직 오지 않았습니다."
+acot_pmc.2004.d:  "신경 쓰지 마세요. 우리는 다른 것에 대해 이야기하고 싶습니다."
+acot_pmc.2004.e:  "아직 지불할 수 없습니다. 어쩌면 나중에."
+
+acot_pmc.2005.name:  "파논군단 팩트체크 서비스"
+acot_pmc.2005.desc:  "시간을 내어 사과드립니다, [root.GetName]님. 하지만 우리 측에 몇 가지 기술적인 문제가 있습니다. 센서가 녹색과 노란색 사이를 오가는 것 같아서 파논 군단에 속할 수 있는 기밀 데이터와 장비 중 일부를 은닉하고 있을 수 있다는 잘못된 경보를 제공합니다. 귀하의 시스템을 직접 검사하고 싶습니다. 이러한 불편함을 보상해드리겠습니다."
+acot_pmc.2005.a:  "말도 안 되는 일이군요. 왜 우리가 당신의 비밀을 숨기겠습니까!"
+acot_pmc.2005.a.response:  "보안상 우려되는 사항이므로 보상해 드립니다."
+acot_pmc.2005.b:  "우리는 여러분의 울트라 회원입니다. 존경심을 가지시기 바랍니다."
+acot_pmc.2005.b.response:  "물론 당신 말이 맞습니다. 우리는 이 문제를 더 이상 압박하지 않을 것입니다. 저희측 오류일 가능성이 높습니다."
+acot_pmc.2005.c:  "우리 시스템에서 나가세요. 이건 당신이 상관할 일이 아닙니다!"
+acot_pmc.2005.c.response:  "이제 당신은 너무 이상하게 행동하고 있습니다. 당신을 조사해야 할 이유가 더 많아졌습니다."
+acot_pmc.2005.d:  "응, 우리한테 네 장난감이 좀 있어, 에헤헤."
+acot_pmc.2005.d.response:  "그렇습니까? 우리의 보안이 침해된 것 같습니다. 귀하의 정직성에 감사드립니다. 이에 따라 암호화를 업데이트하겠습니다. 수고에 대한 보상으로 §Y4§! Phanon 코인과 함께 이 보상을 받아주세요."
+acot_pmc.2005.e:  "반대로, 우리를 귀찮게 하지 않도록 돈을 지불할 수 있나요?"
+acot_pmc.2005.e.response:  "아주 좋습니다. 군단은 여러분의 기여와 열의에 감사드립니다. 우리는 이 문제를 더 이상 조사하지 않을 것입니다."
+
+acot_pmc.2006.name:  "파논군단 팩트체크 서비스"
+acot_pmc.2006.desc.a:  "지금 스캔을 실행 중입니다...부정적인 신호입니다.\n\n모든 문제가 없는 것 같습니다, [root.GetName]. 시간낭비해서 죄송합니다. 보상패키지를 즐겨주세요."
+acot_pmc.2006.desc.b:  "지금 검사를 실행 중입니다...\n\n안타깝게도 경고가 긍정적인 것 같습니다. 당신들이 어떻게 이러한 기술을 소유하게 되었는지는 알 수 없습니다. 하지만 이는 우리의 보안 시스템이 손상되었음을 의미합니다. 우리는 당신을 잘못한 것이 아니지만 오류는 우리에게 있습니다. 누군가가 우리를 배신했고 그에 대한 책임을 지게 될 것입니다.\n\n이 보상 패키지를 받으시고 더 이상의 조작을 삼가해 주시기 바랍니다. 좋은 하루 되세요."
+acot_pmc.2006.a:  "당신은 얼마나 관대합니까?"
+acot_pmc.2006.a.tooltip:  "우리의 속임수는 작동합니다"
+acot_pmc.2006.b:  "아 글쎄."
+acot_pmc.2006.b.tooltip:  "군단은 보안 시스템과 설계를 업데이트한 것으로 보입니다. 한때 그들에 비해 우리가 가졌던 어떤 이점도 더 이상 효과가 없을 수 있습니다."
+
+acot_pmc_security_update_debuff:  "폐기된 파논 분석"
+acot_pmc_security_update_debuff_desc:  "더 이상 데이터베이스와 일치하는 항목이 없습니다! 약속된 비밀의 소진항은 어디?!"
+
+acot_pmc.2007.name:  "라이벌 파논 군단 요원"
+acot_pmc.2007.desc.a:  "상황을 잘 처리하신 것 같습니다. 잘했어요. 우리는 끝까지 우리의 흔적을 다뤘습니다. 우리가 최종 조치를 취할 때까지 그들은 더 이상 아무것도 의심하지 않을 것입니다. 다시 말하지만, 잘 했어요."
+acot_pmc.2007.desc.b:  "아 글쎄, 이런 일이 일어날 수도 있다고 가정합니다. 그러나 어쨌든 이러한 좌절이 우리가 최종 목표를 달성하는 것을 막지는 못할 것입니다. 작업을 계속하십시오."
+acot_pmc.2007.desc.c:  "바보. 이제 당신은 알 수 없는 이유 없이 우리 둘 모두의 일을 더 어렵게 만들었습니다. 이 문제를 심각하게 받아들이지 않는다면 우리의 거래를 잊어 버리십시오. 우리는 다른 방법을 찾을 것입니다."
+acot_pmc.2007.a:  "꽤 좋지요?"
+acot_pmc.2007.a.response:  "꽤 좋아요, 그렇죠. 머리 위로 넘어가지 않도록 하세요."
+acot_pmc.2007.b:  "모든 것이 잘되는 한."
+acot_pmc.2007.b.response:  "역할을 올바르게 수행하면 그렇게 될 것입니다."
+acot_pmc.2007.c:  "미안, 그건 멍청한 짓이었어."
+acot_pmc.2007.c.response:  "더 이상 실수하지 마시고 계획대로 진행하시기 바랍니다. 더 나아지세요."
+acot_pmc.2007.d:  "상사처럼 행동하지 마세요."
+acot_pmc.2007.d.response:  "우리는 아이들을 돌보기 위해 여기 있는 것이 아니라 파트너십을 맺기 위해 여기에 있습니다. 귀하가 상식을 입증하지 못하는 것은 우리 측에 더 많은 문제를 야기할 뿐입니다. 취소된 거래를 고려해보세요. 정말 시간 낭비입니다. 멍청한 놈들.\n\n§R백 채널에 접근할 수 없습니다. 또한 그들은 우리 시스템을 해킹하고 리소스 일부를 빼앗았을 뿐만 아니라 제거가 필요한 다소 불쾌한 바이러스를 심었습니다.§!"
+
+acot_pmc_rival_hack_debuff:  "§R불쾌한 이별 선물§!"
+acot_pmc_rival_hack_debuff_desc:  "군단을 건드리지 마십시오."
+
+acot_pmc.2008.name:  "라이벌 파논 군단 요원"
+acot_pmc.2008.desc:  "계획의 다음 단계를 진행하는 데 필요한 대부분의 기술을 획득했습니다. 그러니 잘 들어보세요. 일단 무대가 설정되면 되돌릴 수 없을 것입니다. 모든 장갑을 벗고 적군이 숙소를 제공하지 않으므로 여러분도 마찬가지입니다.\n\nGoogle에서 제공하는 이 패키지를 설치하는 것부터 시작하세요. 확률도 높아질 것입니다."
+acot_pmc.2008.a:  "이건 무슨 패키지인가요?"
+acot_pmc.2008.a.response:  "일종의 송신기인 이 장치를 사용하면 군대를 여러분이 있는 곳으로 직접 보낼 수 있고 적의 모든 암호화 및 방어 네트워크를 우회할 수 있습니다. 제공된 지침을 따르기만 하면 모든 것이 명확해집니다."
+acot_pmc.2008.b:  "우리는 악성 기술을 설치하지 않는 것이 좋습니다."
+acot_pmc.2008.b.response:  "근시안적으로 생각하지 마십시오! 이제 우리는 끝이 가까워졌습니다. 우리가 직접 지원을 제공할 수 있다면 적들을 처리하는 것이 훨씬 더 쉬울 것입니다. 이제 혼자서 군단을 공격하는 것은 불필요한 문제만 초래할 뿐입니다. 계획을 믿으세요. 그게 전부입니다."
+acot_pmc.2008.c:  "아주 좋습니다. 해보자."
+acot_pmc.2008.c.response:  "좋습니다. 패키지가 안전하게 설치되면 추가 지침이 제공됩니다."
+acot_pmc.2008.c.tooltip:  "§Y이 특별 프로젝트를 완료하면 Phanon Corps 이벤트 체인에서 돌아올 수 없는 지점이 시작됩니다! 자신만의 방식으로 파논 군단과 싸우고 싶다면 이 특별 프로젝트를 무시하세요.§!"
+acot_pmc.2008.d:  "죄송하지만 저희는 이 일을 하지 않습니다."
+acot_pmc.2008.d.response:  "그러면 우리는 시간을 낭비한 것입니다. 불행하지만 예측 가능합니다. 안녕, 우리는 다시는 볼 수 없습니다."
+acot_pmc.2008.d.tooltip:  "§Y이렇게 하면 Phanon 이벤트 체인의 대체 경로에 영구적으로 액세스할 수 없게 됩니다. 이 길을 선택하면 자신의 방식으로 파논 군단과 싸워야 합니다.§!"
+
+ACOT_PHANON_RIVAL_PACKAGE:  "라이벌 파논 군단 스페셜 패키지"
+ACOT_PHANON_RIVAL_PACKAGE_DESC:  "Rival Contact에 따르면 이를 통해 그들은 지역 Phanon Corps에 맞서 우리를 도울 자산을 우리에게 직접 공급할 수 있을 것입니다. 이 작업이 완료되면 실제 전투를 준비해야 합니다.\n\n§Y이 특별 프로젝트를 완료하면 Phanon Corps 이벤트 체인에서 돌아올 수 없는 지점이 시작됩니다! 자신만의 방식으로 파논 군단과 싸우고 싶다면 이 특별 프로젝트를 무시하세요.§!"
+
+acot_pmc.2009.name:  "장갑이 꺼져 있습니다"
+acot_pmc.2009.desc:  "패키지가 보호되었으며 현재 전송 중입니다. 신호는 더 이상 틀림이 없습니다. 작동하는 센서를 갖춘 은하계의 모든 사람들은 우리가 무엇을 하고 있는지 알고 있습니다. 파논 군단의 본부는 분명히 이것을 좋아하지 않을 것입니다. 그들의 시간이 곧 다가옵니다. 우리는 살아남기만 하면 됩니다."
+acot_pmc.2009.a:  "우리 손을 놀 시간입니다."
+acot_pmc.2009.b:  "이 장치는 제 역할을 더 잘 수행하지 않으면 우리는 매우 겁을 먹습니다."
+
+acot_pmc_rival_analysis_buff:  "슈퍼 파논 송신기"
+acot_pmc_rival_analysis_buff_desc:  "후원자가 설치한 장치 덕분에 우리는 Corp 함선의 새로운 약점을 많이 알게 되었습니다."
+
+acot_pmc.2010.name:  "파논 군단 보복자"
+acot_pmc.2010.desc.a:  "[Root.GetName], 파논 군단의 보안을 위협하는 당신의 행동은 더 이상 무시할 수 없습니다. 당신 때문에 이 은하계는 더 이상 우리의 자비를 받을 가치가 없습니다. 너와 너희 평신도 같은 모든 사람들은 내 손에 쓸려갈 것이다. 그리고 나는 이 희극의 배후에 있는 사악한 중상모략자가 그들의 배신에 대한 대가를 치르게 할 것입니다!"
+acot_pmc.2010.desc.b:  "[Root.GetName], 이 은하계를 당신과 공유하는 제국 중 하나가 군단의 적임을 분명히 했다는 사실을 알려드리게 되어 유감입니다. 현재 퍼지 프로토콜이 활성화되어 있습니다. 당신과 모든 불쌍한 평민들은 파멸될 것입니다. 마지막 순간에 평화를 누리십시오."
+acot_pmc.2010.a:  "우리는 이것을 기다리고 있었습니다!"
+acot_pmc.2010.a.tooltip:  "§R저도 마찬가지입니다.§!"
+acot_pmc.2010.b:  "너무 오래 걸렸어요, 이 잡종들아."
+acot_pmc.2010.b.tooltip:  "§R망각에 대비하세요, 한심한 평민들.§!"
+acot_pmc.2010.c:  "말도 안 되는! 우리는 당신의 적이 아니다!"
+acot_pmc.2010.c.tooltip:  "§R이제 그렇습니다. 준비하세요!§!"
+acot_pmc.2010.d:  "하지만 우리는 당신의 울트라 회원입니다!."
+acot_pmc.2010.d.tooltip:  "§R차이가 없습니다. 당신은 여전히 ​​유죄입니다.§!"
+acot_pmc.2010.e:  "아쉽게도 먼저 한 것은 우리가 아니었습니다."
+acot_pmc.2010.e.tooltip:  "§R알겠습니다...당신도 그 중 하나이군요. 공모자는 모두 근절되어야 합니다.§!"
+
+acot_pmc.2011.name:  "파논이 깨어난다!"
+acot_pmc.2011.desc.a:  "어떤 이유에서인지 파논 군단은 전면적인 경계 태세를 갖추고 함대를 ​​동원하여 전쟁을 벌였습니다. 모든 계약 및 서비스가 종료되었습니다. 그리고 그들은 우리를 포함한 모두를 공격할 것 같습니다. 우리는 우리 자신을 방어해야 합니다!"
+acot_pmc.2011.desc.b:  "다른 분도 우리와 같은 생각을 갖고 있는 것 같습니다. 파논 군단은 전쟁을 위해 전력을 다해 함대를 동원했습니다. 모든 계약 및 서비스가 종료되었습니다. 그들은 모든 사람을 적대자로 대하고 있습니다. 우리는 스스로를 방어해야 합니다."
+acot_pmc.2011.a:  "무엇? 하지만 우리는 아무것도 하지 않았어요!"
+acot_pmc.2011.b:  "누가 먼저 그들을 놀라게 했나요?"
+
+acot_pmc.2012.name:  "라이벌 함대 지원군!"
+acot_pmc.2012.desc.a:  "좋은 소식입니다. 우리 은인의 선봉대 지원군 첫 번째 배치가 도착했습니다! 그들은 스타 체이서(Star Chasers)의 대규모 편대 형태로 등장합니다. 그들은 스스로 파논 함대에 맞설 수는 없지만 우리에게 추가 화력 지원을 제공해야 합니다."
+acot_pmc.2012.desc.b:  "우리 후원자의 도움이 더 많이 도착했습니다! 이번에는 개인 Star Invader를 조종하는 자체 요원 중 한 명이 이끄는 Star Chasers의 훨씬 더 큰 편대입니다!"
+acot_pmc.2012.desc.c:  "우리 은인의 선봉대 지원군 세 번째이자 마지막 배치가 도착했습니다. 그들은 우리를 돕기 위해 더 많은 스타 체이서와 몇 대의 스타 디스트로이어를 보냈습니다. 우리가 조금만 더 버틸 수 있다면, 주요 아라마다를 우리가 지휘하게 될 것입니다."
+acot_pmc.2012.a:  "훌륭한!"
+acot_pmc.2012.b:  "매우 좋은!"
+acot_pmc.2012.c:  "감독자!"
+
+acot_pmc.2013.name:  "라이벌 함대 지원군!"
+acot_pmc.2013.desc:  ""§Y디셉티콘 함대 보고입니다. [root.GetName]님, 우리는 당신의 지휘를 받습니다!"§!\n\n우리 후원자의 주 함대가 마침내 도착했습니다. 이제 적과 싸워 그들을 완전히 분쇄할 때입니다!"
+acot_pmc.2013.a:  "바보들을 묻어버릴 시간이다."
+########################### PHANON DIGGING SERVICE
+
+acot_pmc.7.name:  "파논 군단 문의 서비스"
+acot_pmc.7.desc:  "문의 채널로 리디렉션 중입니다. 인사말! 친애하는 고객 여러분, 우리에 대해 무엇을 알고 싶으십니까?" 
+acot_pmc.7.a:  "파논 군단이란 정확히 무엇인가요?"
+acot_pmc.7.a.response:  "파논 군단(Phanon Corps)은 은하계에서 공식적으로 인정받은 준군사 서비스 조직입니다. 간단히 말해서 우리는 고용의 힘입니다. 문제가 있는 경우 저희에게 오시면 비용을 지불하고 문제 해결을 도와드릴 수 있습니다."
+acot_pmc.7.b:  "다른 엔클레이브와 비슷합니까?"
+acot_pmc.7.b.response:  "우리가 중립적인 서비스 제공자라는 뜻이라면 그렇습니다. 그러나 우리의 서비스는 보다...독특한 관심사를 염두에 두고 제공됩니다. 자체 자금 조달 조직으로서 고객 부족으로 인한 즉각적인 재정 위기에 직면하지 않을 것입니다. 결과적으로 우리는 비싸지만 고품질의 서비스를 통해 덜 세련된 경쟁업체와 차별화됩니다."
+acot_pmc.7.c:  "당신이 가지고 있는 인상적인 기술은 무엇인가요?"
+acot_pmc.7.c.response:  "정말 인상적이죠? 보안 문제 때문에 우리의 사양에 대해 너무 많은 정보를 공개하는 것은 허용되지 않지만, 우리가 사용하는 전원은 당신의 제국이 얻을 수 있는 것이 아니라는 점을 알아두십시오. 당신이 능력이 없다고 말할 수는 없지만, 은하계 전체가 쉽게 충족할 수 없는 특정... 조건이 필요합니다. 하지만 우리의 기술과 무기는 대부분의 사람들과 비교할 수 없을 정도로 뛰어나고 우리의 화력에 맞설 수 있는 사람은 거의 없다는 사실만 말씀드리면 충분합니다."
+acot_pmc.7.d:  "군단에는 실제 목표가 있습니까?"
+acot_pmc.7.d.response:  "당연히, 비록 관습에 얽매이지 않고 귀하와 같은 고객이 이해하기 다소 어려울 수도 있습니다. 하지만 군단은 은하계를 가로지르는 세력들 사이의 특정...현황을 유지하는 데 매우 관심이 있다는 것만 말씀드리면 충분합니다. 하지만 안심하세요. 우리의 공격을 먼저 시도하지 않는 이들에게는 우리가 위협이 되지 않습니다. 우리는 중립 정당이며 중립을 유지하는 것을 선호합니다."
+acot_pmc.7.e:  "실제로 어떤 서비스를 제공하나요?"
+acot_pmc.7.e.response:  "커미션, 방해 행위, 정보 및 기타...비정통적인 것들에 이르기까지 다양한 유형의 서비스입니다. 제어판은 군단이 당신에게 제공할 수 있는 것에 대한 대략적인 아이디어를 제공할 것입니다. 적대적인 행동이 취해지면 서비스가 중단된다는 점을 명심하세요. 하지만 이는 상식입니다."
+acot_pmc.7.f:  "파논 군단의 규모는 얼마나 됩니까?"
+acot_pmc.7.f.response:  "당신이 생각하는 것보다 더 큽니다. 우리 포털이 충분히 확실한 선물이 아니라면 우리의 도달 범위가 지역 스타를 넘어 확장된다는 것을 이미 추측할 수 있어야 합니다. 하지만 그것이 당신이 알아야 할 전부입니다. 우리는 수가 많고 결코 수적으로 열세일 수 없습니다. 그게 전부입니다."
+
+###########################
+ 
+acot_pmc.9.desc:  "당신의 함대는 군단에 대해 이유 없는 공격을가했습니다. 이제 군단은 우리 자산을 보호하기 위해 적극적인 대응을 펼칠 것입니다."
+acot_pmc.9.a:  "그건 사고였어!"
+acot_pmc.9.a.response:  "논리는 그렇지 않다고 지시합니다."
+acot_pmc.9.b:  "귀하의 모든 기지는 우리의 것입니다."
+acot_pmc.9.b.response:  "공격성을 정당하게 지적했습니다." 
+
+acot_pmc.900.title:  "공격성에 대한 조치"
+acot_pmc.900.desc:  "의도적이든 아니든, 파논 군단에 대한 우리의 공격은 적대적인 대응을 초래했습니다. 우리는 이제 이 신비한 조직과 공식적으로 전쟁을 벌이고 있습니다. 우리는 Corp의 기술 역량을 이해하는 것이 진행 중인 전투에서 매우 중요하다고 믿습니다. 안타깝게도 대부분의 구성 요소는 함선 파괴 시 분해되어 자폭하므로 함선 잔해를 직접 분석할 수는 없습니다.\n\n그러나 함선을 충분히 파괴할 수 있다면 우리 연구원들이 암호화된 시스템에 대한 패턴을 형성하고 대응책을 개발하여 우리 자신의 기술과 그들의 기술을 결합하여 새로운 구성 요소를 개발할 수 있을 것이라고 믿습니다." 
+acot_pmc.900.a:  "우리는 승리할 것입니다."
+acot_pmc.900.b:  "그들은 우리를 막을 수 없습니다."
+
+acot_phanon_decipher_buff:  "파논 대책"
+acot_phanon_decipher_buff_desc:  "파논 잔해에서 수집된 파편을 사용하여 함선의 약점을 식별하고 있습니다. 군단이 설계를 업데이트하기 전에 최대한 활용해야 합니다."
+
+acot_pmc.9001.title:  "적을 알아라"
+acot_pmc.9001.desc:  "군단과의 전투를 통해 우리는 그들의 신비한 기술이 어떻게 작동하는지 연구할 수 있는 기회를 얻었습니다. 거의 모든 장비가 파괴되면 분해되지만(아마도 자폭 메커니즘의 일부일 가능성이 높음) 연구할 수 있는 여러 조각이 있습니다. 운이 좋으면 이러한 조각을 자체 알파 구성요소와 결합하여 경쟁의 장을 마련하여 새로운 기술을 개발할 수도 있습니다.\n\n또는 이러한 구성요소를 간단히 액화하여 원자재로 만들고 해당 데이터를 전투 컴퓨터의 조준 시스템에 삽입할 수도 있습니다. 이렇게 하면 잠시 동안 전투에서 함선에 피해를 주기가 더 쉬워집니다." 
+acot_pmc.9001.a:  "우리는 그들의 기술을 연구할 것입니다."
+acot_pmc.9001.a.tooltip:  "군단의 기술을 분석하려면 조각 50개가 필요하며 사용됩니다."
+acot_pmc.9001.b:  "그들은 쓸모가 없으며 그들의 약점을 찾는 것으로 충분합니다."
+acot_pmc.9001.b.tooltip:  "그들의 기술을 구현하려고 하기보다는 그에 대응할 수 있는 방법을 개발해야 합니다. 군단이 우리 알고리즘에 대응할 수 있는 방법을 개발할 때까지 군단에 맞서 우리 무기를 일시적으로 강화하기 위해 모든 조각이 소모될 것입니다. 미래의 모든 조각은 조각당 100개의 합금 비율로 합금으로 변환됩니다."
+
+acot_pmc.9002.title:  "내면의 비밀"
+acot_pmc.9002.desc:  "이제 우리는 파논의 엔지니어링과 기술에 좀 더 익숙해졌으니, 이제 우리가 수집한 지식과 단편을 활용하여 군단에 대해 더 많이 배울 때입니다." 
+acot_pmc.9002.a:  "지평선을 확장하세요."
+acot_pmc.9002.a.tooltip:  "군단의 기술을 더 많이 분석하려면 200개의 조각이 필요하며 사용됩니다."
+
+acot_pmc.9003.title:  "파이 결론"
+acot_pmc.9003.desc:  "우리는 누락된 파이 기반 기술 중 마지막 기술을 완성하기 위해 군단의 남은 조각을 모두 컴파일하는 최종 준비를 할 준비가 되었습니다. 프로세스가 완료되면 전체 Phi 무기고를 갖게 됩니다. 향후 모든 조각은 조각당 100개의 합금 비율로 자동으로 합금으로 변환됩니다." 
+acot_pmc.9003.a:  "그래서 끝납니다."
+acot_pmc.9003.a.tooltip:  "1000개의 조각이 필요하며 파이티어 기술을 완성하기 위해 더 많은 군단의 기술을 분석하는 데 사용됩니다. 향후 모든 조각은 조각당 100개의 합금 비율로 자동으로 합금으로 변환됩니다."
+
+acot_pmc.10.title:  "파논 스타베이스 비활성화!"
+acot_pmc.10.desc.a:  "오랜 전투 끝에 파논 군단의 우주 기지가 비활성화되었습니다. 다행스럽게도 Starbase의 완전 자동화된 특성으로 인해 우리의 사이버 전문가는 우리의 명령에 응답하기 위해 시스템의 경로를 재설정했으며 이제 우리는 직접적인 통제권을 갖게 되었습니다. 이에 대응하여 군단은 일종의 고급 FTL 점프 시퀀스를 사용하여 거대한 Star Traveler를 후퇴시켰으며 현재로서는 더 이상 그 존재를 추적할 수 없습니다. 남은 유일한 장애물은 Vault입니다. 계속 진행하려면 캡처해야 합니다."
+acot_pmc.10.desc.b:  "오랜 전투 끝에 파논 군단의 우주 기지가 비활성화되었습니다. 다행스럽게도 Starbase의 완전 자동화된 특성으로 인해 우리의 사이버 전문가는 우리의 명령에 응답하기 위해 시스템의 경로를 재설정했으며 이제 우리는 직접적인 통제권을 갖게 되었습니다. 중앙에 있는 거대한 Star Traveler가 탈출을 시도하는 것처럼 보이지만 FTL 시스템이 막혔습니다. 우리는 우리의 후원자가 이 일에 관여하고 있다고 가정합니다. 이는 이제 Vault만이 위협이 된다는 것을 의미합니다. 계속 진행하려면 캡처해야 합니다."
+acot_pmc.10.desc.c:  "우리는 다시 Drop Point를 장악하는데 성공했습니다. 이번에는 그것이 우리 편에 머물도록 합시다."
+acot_pmc.10.a:  "일하러 가자. 금고를 점령해야 합니다."
+acot_pmc.10.a.tooltip:  "금고를 점령하려는 시도는 군단이 더욱 격렬한 저항으로 금고를 탈환하려는 결과를 낳을 가능성이 높습니다. 우리는 조심해야 합니다."
+acot_pmc.10.b:  "아니요, 위험이 너무 높습니다. 금고는 파괴되어야 합니다."
+acot_pmc.10.b.tooltip:  "금고를 파괴하려는 시도는 위험이 덜한 것으로 보이며, 군단은 우리에게 숨기고 싶은 비밀만큼 금고의 안전에 관심을 두지 않는 것 같습니다. 하지만 그들이 무엇을 하려고 할지 누가 알겠습니까?"
+acot_pmc.10.c:  "우리 후원자의 다음 지시가 무엇인지 봅시다."
+acot_pmc.10.c.tooltip:  "그들은 다음에 무엇을 해야 할지 알게 될 것입니다."
+acot_pmc.10.d:  "물론."
+
+acot_pmc.1000.desc.a:  "상상할 수 없는 일이다! 내 방어가 무너질 수도 있다는 것... 하지만 이게 끝이 아닙니다! 당신은 내 Vault의 방어를 쉽게 무너뜨리지 못할 것이며, 내 군대가 곧 도착하여 이 은하계를 잿더미로 만들 것입니다!\n\n§R적색 경보 프로토콜에 참여하세요! 곧 귀하의 은하계가 불타오를 것입니다!§!"
+acot_pmc.1000.desc.b:  "당신과 그 망할 중상모략자들을 저주합니다! 이대로 끝내지는 않겠습니다...\n\n뭐죠? 무슨 짓을 한 거야!? Star Traveller의 제어 시스템이 응답하지 않습니다!\n\n§R반역자 여러분! 나는 이렇게 구타당하는 것을 거부합니다! 당신이 좋아하는 것이 아닙니다!§!"
+acot_pmc.1000.a:  "우리는 당신을 위협하지 않을 것입니다."
+acot_pmc.1000.a.response:  "§R제 실수는 바로잡아야 합니다. Phanon은 최고의 자리를 차지해야 합니다.§!"
+acot_pmc.1000.b:  "최악의 짓을 해라, 코르포 놈들아!"
+acot_pmc.1000.b.response:  "§R결국 죽음은 우리 모두를 앗아갈 것입니다. 이에 대해 위안을 삼으세요.§!" 
+acot_pmc.1000.c:  "모든 손이 당신에게 반대됩니다."
+acot_pmc.1000.c.tooltip:  "우리 연락원은 제 역할을 다한 것 같습니다. 적군은 도망칠 곳도 없고 숨을 곳도 없습니다."
+acot_pmc.1000.c.response:  "§R당신은 이런 승리를 누릴 자격이 없습니다! 내 부하들이 내 탈출을 막아줄 것이고 나는 돌아올 것이다!§!" 
+
+acot_phanon_vault_disable_shield:  "파논과 함께 다운"
+acot_phanon_vault_disable_shield_type:  "해킹"
+acot_phanon_vault_disable_shield_desc:  "탐욕은 여기서 끝난다"
+acot_phanon_vault_disable_shield_monthly_change_tooltip:  "탐욕은 여기서 끝난다"
+
+acot_pmc.1001.title:  "내일 이후의 길"
+acot_pmc.1001.desc.a:  "최근 군단을 상대로 승리를 거둔 이후 축하할 일이 생겼지만, 군단 대표의 불길한 반응이 큰 우려를 낳고 있습니다. 군단은 공손함과 전문성의 모든 면을 떨어뜨렸으므로 보복으로 우리 은하계를 파괴하려는 것이 분명합니다.\n\n군단이 새로운 지원군을 보내는 역할을 담당하는 것으로 보이는 수수께끼의 차원 거울을 여전히 통제하고 있는 한 드롭포인트는 안전하지 않을 것입니다. Vault 내의 비밀이 Vault를 비활성화하는 열쇠가 되어야 합니다.\n\n보호막은 Vault를 외부에서 거의 파괴할 수 없게 만들지 만 침입군의 탑승을 막지는 못하는 것으로 보입니다. 따라서 우리의 다음 논리적 이유는 대규모 군대를 모아 내부에서 그들의 방어를 무너뜨리는 것입니다." 
+acot_pmc.1001.desc.b:  "방금 큰 일이 일어났습니다. 분명히 Phanon Corp의 Droppoint가 다른 제국에 의해 압도당했습니다! 군단은 완전히 후퇴하고 있으며 스타 트래블러는 사라졌습니다. 현재 군단은 모든 사람과의 모든 통신 및 서비스를 중단했습니다. 다음에 무슨 일이 일어날지는 아직 알려지지 않았습니다." 
+acot_pmc.1001.a:  "공격을 준비하세요!"
+acot_pmc.1001.b:  "그들은 그것을 오고 있었다. 곧 우리는 그것들을 완전히 끝냅니다."
+acot_pmc.1001.c:  "이건 좋지 않을 거야."
+acot_pmc.1001.d:  "누군가 문제를 요구하고 있습니다."
+
+acot_pmc.1003.name:  "파논 군단 보복자"
+acot_pmc.1003.desc.a:  "당신이 해냈어요! 훌륭해요, [root.GetName]님. 그들의 방어가 무너졌습니다! 이제 결정적인 일격을 가해야 합니다! 우리가 제공할 군대를 사용하면 그들의 마지막 저항지인 Vault를 제거하는 데 도움이 될 것입니다.\n\nStar Traveller의 경우 에이전트 마스터가 긴급 FTL 코드를 무시했지만 일시적으로만 작동합니다. 포획하고 싶다면 과학선을 이용해 이 코드를 사용하여 엔진과 드라이브를 잠그도록 지시하세요. 하지만 서둘러야 합니다. 그렇지 않으면 적 요원과 함께 탈출할 것입니다."
+acot_pmc.1003.desc.b:  "[Root.GetName], 지금쯤이면 주 지점의 홈 시스템이 점령되었다는 사실을 알아야 합니다. 그러나 우리가 제안한 대로, 다른 제국과의 협정은 이미 확정되었으므로 그들은 여기서부터 모든 것을 가져갈 것입니다. 그러나 우리 에이전트 마스터는 귀하의 기여를 인정하므로 귀하를 위해 이러한 보상 패키지를 준비했습니다. 그러나 귀하가 직접 문제를 해결하고자 한다면 우리는 개입하지 않을 것입니다. 원하는 대로 시스템의 새로운 소유자를 공격하세요.\n\n§Y계약으로 인해 Drop Point의 소유권이 다른 제국으로 이전되었습니다. 그래도 소유권을 주장하고 싶다면 나중에 처리해야 합니다."
+acot_pmc.1003.desc.c:  "[event_target:acot_phanon_non_spook_country.GetName]이(가) 먼저 드롭 포인트 시스템을 요청한 것 같습니다. 그러나 우리의 합의에 따라 시스템에 대한 통제권을 귀하에게 이전하게 됩니다. 우리는 당신이 우리의 적들에게 치명적인 타격을 가하는 사람이 아니라는 사실에 약간 실망했지만, 그것은 더 이상 중요하지 않습니다. 그들의 방어는 무너졌습니다. 이제 최후의 일격을 가할 시간이다. 우리가 제공할 군대를 사용하면 그들의 마지막 저항지인 Vault를 제거하는 데 도움이 될 것입니다.\n\nStar Traveller의 경우 에이전트 마스터가 긴급 FTL 코드를 무시했지만 일시적으로만 작동합니다. 포획하고 싶다면 과학선을 이용해 이 코드를 사용하여 엔진과 드라이브를 잠그도록 지시하세요. 하지만 서둘러야 합니다. 그렇지 않으면 적 요원과 함께 탈출할 것입니다."
+acot_pmc.1003.a:  "정확히 어떻게 Star Traveller를 막았나요?"
+acot_pmc.1003.a.response:  "우리를 믿으십시오. 이것은 여러분의 기여 없이는 불가능했을 것입니다. 그러나 우리가 말했듯이. 이것은 지속되지 않을 것입니다. 우주선을 확보하려면 그곳에 과학 우주선을 보내 해킹해야 합니다."
+acot_pmc.1003.b:  "Vault의 방어력은 얼마나 강력합니까?"
+acot_pmc.1003.b.response:  "강력하다는 것은 절제된 표현일 것입니다. 적 요원이 그곳에 숨어 있기 때문에 사용 가능한 모든 유닛이 가장 요새화된 위치에 집결할 가능성이 높습니다. 가장 크고 강력한 침략군을 모아 수비대를 소집하고 무너뜨려야 합니다. 우리가 제공할 병력을 사용해야 한다는 점을 기억하세요. 그들은 강하 지점 자체에 준비되어 있습니다.\n\n아, 그리고 Vault에는 자체 복구 메커니즘이 내장되어 있지만 더 강력한 무기로 인한 피해를 막는 것만으로는 충분하지 않을 수 있으므로 군대를 사용하여...알다시피...많은 부수적 피해를 입히는 것을 피하세요."
+acot_pmc.1003.c:  "그렇군요, 그럼 시작해 보겠습니다."
+acot_pmc.1003.c.response:  "행운을 빕니다. 우리의 적을 과소평가하지 마십시오."
+acot_pmc.1003.d:  "이제 그게 아이디어입니다... 그래도 돈을 주셔서 감사합니다."
+acot_pmc.1003.d.response:  "정말 즐거웠으며 앞으로 귀하의 역할에 관심을 가지겠습니다. 아마도 yoy는 아직 우리를 놀라게 할 수도 있습니다."
+acot_pmc.1003.e:  "우리는 여전히 이 거래가 잘못된 것이라고 생각합니다."
+acot_pmc.1003.e.response:  "불행히도 그렇습니다. 그러나 우리가 말했듯이 나중에 시스템을 가져오고 싶다면 여전히 그렇게 할 수 있습니다."
+
+acot_pmc.1004.title:  "어둠 속에서 혼자"
+acot_pmc.1004.desc:  "해킹이 완료되었습니다. 별 여행자는 이제 아무데도 가지 않습니다. 적이 도망칠 곳이 없습니다. 마무리할 시간입니다."  
+acot_pmc.1004.a:  "궁지에 몰린 동물처럼."
+
+acot_pmc.1005.title:  "미끄러진 먹이"
+acot_pmc.1005.desc:  "불행하게도 우리는 Star Traveler가 시스템을 복구하기 전에 제때에 해킹하는 데 실패했습니다. 적 요원은 이 빠른 기회를 이용하여 거대한 함선에 탑승하고 사라졌습니다."  
+acot_pmc.1005.a:  "아 글쎄."
+
+acot_pmc.1006.name:  "파논군단 수치스러운 디스플레이어"
+acot_pmc.1006.desc:  "하하하! 당신은 실패했습니다! 빌어먹을 시스템과 원하는 걸 모두 가져가세요. 하지만 절대 날 찾을 수 없을 거예요! 그리고 당신은 나를 결코 데려가지 않을 것입니다!\n\n나는 당신을 비웃고 있습니다, 평민 여러분! 안녕히 가세요! 우리는 다시는 서로를 볼 수 없습니다!"
+acot_pmc.1006.a:  "당신의 "친구"가 당신을 찾을 것입니다."
+acot_pmc.1006.a.response:  "그리고 나는 그것을 믿고 있어요! 그들은 이 배신의 대가를 치를 것입니다!"
+
+acot_pmc.1007.name:  "라이벌 파논 군단 요원"
+acot_pmc.1007.desc:  "그래서 적 요원이 탈출한 것 같습니다. 아 글쎄요, 모든 일이 완벽하게 순조롭게 진행될 것이라고 기대할 수는 없을 것 같습니다. 하지만 그건 우리가 걱정할 일입니다.\n\n작업을 계속하여 Vault의 수비대를 제거하세요."
+acot_pmc.1007.a:  "탈출한 에이전트가 나중에 문제가 될까요?"
+acot_pmc.1007.a.response:  "적어도 당신에게는 그렇지 않습니다. 나머지는 알 필요가 없습니다."
+acot_pmc.1007.b:  "Vault를 무시할 수 없나요?"
+acot_pmc.1007.b.response:  "적 요원의 현장에는 최종 방화벽 보호 역할을 할 요원 한 쌍이 남아 있습니다. 나머지 방어와 함께 이들을 제거해야 합니다."
+acot_pmc.1007.c:  "실패해서 죄송합니다."
+acot_pmc.1007.c.response:  "어쩔 수 없습니다. 이것은 혼란스러운 싸움이었습니다. 그러나 승리는 아직 우리 손에 달려 있습니다."
+acot_pmc.1007.d:  "오른쪽. 계속해서 노력합시다."
+acot_pmc.1007.d.response:  "기억하세요, 우리는 지켜볼 것입니다."
+
+ACOT_PHANON_DISABLE_TRAVELLER:  "스타 여행자 해킹"
+ACOT_PHANON_DISABLE_TRAVELLER_DESC:  "후원자들이 제공한 코드를 사용하면 별 여행자의 탈출을 막을 수 있습니다. 하지만 시스템 침입으로부터 복구할 시간이 얼마 남지 않았습니다!."
+
+acot_pmc.1010.desc:  "신성 모독! 감히 내 잘못을 무너뜨릴 셈이냐!? 당신의 오만함은 끝이 없습니다! 좋습니다. 누가 더 빠른지 보도록 하겠습니다!\n\n§R치사율 규약에 참여하세요! 우리는 조용히 공허 속으로 들어가지 않을 것입니다!§!"
+acot_pmc.1010.b:  "어느 쪽이든, 이 은하계에 대한 당신의 통치는 여기서 끝납니다."
+acot_pmc.1010.b.response:  "§R결국 죽음은 우리 모두를 앗아갈 것입니다. 이에 대해 위안을 삼으세요.§!" 
+
+acot_pmc.11.title:  "금고 캡처"
+acot_pmc.11.desc.a:  "군단 금고에 대한 초기 침공이 성공적이었습니다. Vault의 방어자들 중 다수가 복잡한 수수께끼의 복도 안쪽으로 후퇴했지만, 정면 부분은 안전하고 조정 준비가 되어 있습니다. 이제부터 더 깊이 들어가는 것은 더욱 어려울 것이며, 군단은 기회가 주어진다면 의심할 바 없이 금고를 탈환하려고 시도할 것입니다. 우리는 경계심을 유지해야 합니다. 이전에 그들의 조각에 대해 연구하지 않았다면 지금이 시간이 될 것입니다. Vault가 어떻게 작동하는지 이해하려면 그들의 기술을 연구하는 것이 중요할 것이기 때문입니다." 
+acot_pmc.11.desc.b:  "군단 금고에 대한 초기 침공이 성공적이었습니다. 나머지 방어군은 요원의 경호원과 함께 더 안쪽 깊숙한 곳에 요새화된 진지를 준비했습니다. 이것이 그들의 마지막 방어선입니다.\n\n우리의 친구가 우리에게 또 다른 지원군을 제공했지만 그것만으로는 충분하지 않을 수 있습니다. 우리는 벌어들인 체중도 감당해야 합니다." 
+acot_pmc.11.desc.c:  "다시 한번 우리는 Vault의 통제권을 되찾을 수 있었고 적군은 후퇴했습니다. 우리 국민이나 기반 시설 중 생존자의 흔적은 전혀 없습니다. 군단은 모든 것을 확실히 청소했습니다. 이런 일이 다시 발생하지 않도록 하려면 Vault를 항상 안전하게 유지해야 합니다." 
+acot_pmc.11.a:  "우리는 그들을 가두어 놓았습니다. 그들은 아무데도 갈 수 없습니다."
+acot_pmc.11.a.tooltip:  "준비가 되면 이제 사용할 수 있는 행성 결정을 통해 Vault의 무한한 통로로 공격하세요."
+acot_pmc.11.b:  "그들을 몰아내자."
+acot_pmc.11.b.tooltip:  "준비가 되면 이제 사용할 수 있는 행성 결정을 통해 Vault의 무한한 통로로 공격하세요.\n\n라이벌 Phanon 군단 요원이 추가 군대 지원군을 제공했습니다."
+acot_pmc.11.c:  "이런 습관을 들이지 맙시다."
+
+acot_pmc.12.title:  "금고 외부 복도 공격"
+acot_pmc.12.desc:  "우리 군대는 소위 무한 회랑이라 불리는 이 가장 바깥쪽 부분을 공격할 준비가 되어 있습니다. 스캐너는 상당한 양의 저항군이 우리의 공격을 기다리고 있다는 것을 나타냅니다. 정면에서 공격한다면 저항력이 높을 것으로 예상할 수 있지만 엄폐력이 뛰어나다는 장점이 있습니다. 적을 노출시킬 수 있는 측면 경로도 있지만 몇 가지 추가 죽음의 함정을 처리해야 합니다. 마지막으로, 이 지역에는 양측 생활 단위의 조정 및 사기를 저하시킬 수 있는 사이오닉 가스 터미널이 있습니다. 우리는 어디에서 공격을 가할 것인가?" 
+acot_pmc.12.a:  "전선을 습격하세요. 생존자는 없습니다!"
+acot_pmc.12.a.tooltip:  "우월한 엄폐물과 높이 덕분에 우리 군대는 60일 동안 또는 전투가 끝날 때까지 추가로 25%의 체력을 얻을 수 있습니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon Officer"
+acot_pmc.12.b:  "옆으로 치워서 씻어내세요. 트랩을 비활성화할 수 있습니다."
+acot_pmc.12.b.tooltip:  "대체 경로는 파논의 유닛을 노출시켜 180일 동안 또는 전투가 끝날 때까지 체력이 25% 감소하고 사기가 25% 감소합니다. 하지만 이러한 불이익을 받지 않는 몇 가지 추가 자동화 방어 장치를 처리해야 합니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon 장교\n§R<<Phanon 자동 방어>>§!\n§H5§! Phanon 센트리 건"
+acot_pmc.12.c:  "Psi-Gas를 활성화하여 그들을 공포에 떨게 만드세요!"
+acot_pmc.12.c.tooltip:  "사이가스를 사용하면 양측의 모든 유기체 군대(유인 차량 포함)의 피해가 10% 감소하고 사기가 75% 감소합니다. 이 효과는 180일 동안 모든 전투원에게 지속되며 전투 후에도 만료되지 않습니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H20§! Phanon Elites\n§H1§! Phanon Officer"
+acot_pmc.12.d:  "공격을 취소하세요. 더 많은 준비가 필요합니다."
+
+acot_pmc.1200.title:  "폭행 성공"
+acot_pmc.1200.desc.a:  "Vault 내에서 격렬한 전투를 벌인 후, 우리 군대는 외부 회랑 내의 모든 적대 세력을 제거하는 데 성공했습니다. 살아남은 파논 유닛은 모두 중간 구역으로 더욱 후퇴했습니다. 외부 영역이 확보되면 Vault 공간을 더 많이 활용할 수 있습니다. 또한 우리 청소팀은 이 구역에 저장된 많은 데이터와 기술을 확보하고 있습니다.\n\n중간 복도는 잠시 잠겨 있어 공격을 받기까지 시간이 좀 걸릴 것입니다. 우리는 이 시간을 다음 전투에 필요한 만큼 병력을 복구하는 데 사용해야 합니다. 의심할 바 없이 군단은 방어 노력을 배가할 것입니다." 
+acot_pmc.1200.a:  "모두 잘 했어요!"
+
+acot_pmc.13.title:  "금고 중간 복도 공격"
+acot_pmc.13.desc:  "이번에는 무한 회랑의 중간 구역을 공격할 준비가 다시 한 번 이루어졌습니다. 저항은 전보다 더 치열해지겠지만, 병력을 효율적으로 배치한다면 더 넓은 공간이 우리 쪽에 유리할 수도 있다. 이곳의 방어는 전적으로 기계적이고 유기적인 힘은 없습니다. 군단이 추가 함정과 자동화된 방어 장치를 배치했기 때문에 정면에서 공격하는 것은 바람직하지 않습니다. 적의 주의를 분산시키는 데 사용할 수 있는 실험적인 이종형 격리 구역이 있지만 군단이 사라지면 그들은 확실히 우리를 공격할 것입니다. 마지막으로, 우리는 자동화된 방어를 우회할 수 있는 새로운 공격 경로를 생성할 강력한 공성 무기를 구축하기 위해 많은 양의 합금, 에너지 및 수수께끼의 자원을 할당할 수 있습니다." 
+acot_pmc.13.a:  "아무것도 우리를 막을 수 없습니다. 우리는 정문으로 들어갑니다!"
+acot_pmc.13.a.tooltip:  "강력하게 방어된 정면 지역에서 공격하려면 추가 자동화 방어 장치를 처리해야 합니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon Commando 디펜더\n§H1§! 파논 디펜더 프라임\n§R<<Phanon Automated Defenses>>§!\n§H10§! 파논 센트리 건\n§H5§! 파논 데스 트랩"
+acot_pmc.13.b:  "이종형을 풀어주세요! 나중에 다루겠습니다."
+acot_pmc.13.b.tooltip:  "대량의 강화된 사이버네틱 이종형이 360일 동안 우리 군대에 합류할 것이며, 그 후에는 적대적인 상태로 되돌아갈 것입니다. 그들이 광포해지기 전에 중간 복도를 정리하는 것이 좋습니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon Commando Defender\n§H1§! Phanon Defender Prime\n§R<<Phanon Automated Defenses>>§!\n§H10§! Phanon Sentry Gun\n§H5§! Phanon Death Trap\n\n§B예상 지원:§!\n\n§B!<<Phanon 실험>>§!\n§H80§! Phanon Enhanced Xenomorph"
+acot_pmc.13.c:  "우리는 방어를 철저히 뚫고 나아갑니다."
+acot_pmc.13.c.tooltip:  "자동화된 방어를 우회하여 새로운 기습 공격 수단을 만들기 위해 많은 양의 리소스를 소비합니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H30§! Phanon Aegis Defender\n§H10§! Phanon 코만도 디펜더\n§H1§! 파논 디펜더 프라임"
+acot_pmc.13.d:  "공격을 취소하세요. 더 많은 준비가 필요합니다."
+
+acot_pmc.1300.title:  "폭행 성공"
+acot_pmc.1300.desc.a:  "어떤 식으로든 우리는 군단을 중간 회랑에서 몰아내는 데 성공했고 나머지 파논 부대는 완전히 후퇴했습니다. 이전과 마찬가지로 우리는 추가 공간을 정리하고 새로운 비밀을 밝혀냈습니다.\n\n내부 복도는 때때로 접근이 불가능할 수 있으므로 그때까지 우리는 준비해야 합니다." 
+acot_pmc.1300.a:  "거기에 도착."
+
+acot_pmc.14.title:  "금고 내부 복도 공격"
+acot_pmc.14.desc:  "우리 군대는 파논과의 싸움에 열중하고 있습니다. 내부 섹션은 군단이 아닌 사람이 발을 디딜 수 있는 곳이 아니며 마치 Vault 자체가 우리에게 저항하는 것처럼 보입니다. 기계 장치가 큰 영향을 받은 것 같습니다. 가능하다면 다른 유형의 병력으로 교체해야 합니다. 방어군은 생물학적 및 기계적 군대로 구성됩니다. 하지만 그들은 서로 멀리 떨어져 있기 때문에 다른 쪽이 나타나기 전에 한쪽을 끝낼 수도 있습니다. 아니면 자신만만하다면 중앙 깊숙한 곳까지 공격해 두 군대를 정면으로 만날 수도 있습니다. 그렇게 하면 우리 군대가 두 전선에 측면을 배치하게 되지만 초기 관통 충격으로 인해 적군이 짧은 시간 동안 취약해질 수 있습니다." 
+acot_pmc.14.a:  "듀티맨과 먼저 싸우십시오. 그들은 더 큰 위협입니다."
+acot_pmc.14.a.tooltip:  "충분히 빠르게 적을 처리할 수 있다면 기계화 부대가 도착하기 전에 접근 지점을 봉쇄하여 적 지원군을 완전히 우회할 수 있을 것입니다. 하지만 최종 레벨에서는 재집결할 수 있습니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! Phanon 장교\n\n§Y예상 증원:§!\n§R<<파논 기계화 사단>>§!\n§H80§! 파논 총 방어자\n§H40§! 파논 이지스 방어자\n§H40§! 파논 코만도 방어자\n§H3§! 파논 디펜더 프라임"
+acot_pmc.14.b:  "기계화 군대를 먼저 처리하고, 그들을 파괴해야 합니다."
+acot_pmc.14.b.tooltip:  "적을 충분히 빠르게 처리할 수 있다면 생체 공학적 힘이 도착하기 전에 접근 지점을 봉쇄하여 적 지원군을 완전히 우회할 수 있을 것입니다. 최종 레벨에서 재집결할 수도 있습니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H40§! Phanon Aegis Defender\n§H40§! Phanon Commando Defender\n§H3§! Phanon Defender Prime\n\n§Y예상 지원군:§!\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! 파논 장교"
+acot_pmc.14.c:  "심장을 때려라! 그들을 압도하라!"
+acot_pmc.14.c.tooltip:  "진형의 중심부에 대한 대담한 선봉 공격은 군단을 약 180일 동안 일시적으로 노출시켜 사기 저하 -50%, 체력 및 피해 -10%를 초래할 수 있습니다. 그들을 약화시킬 만큼 충분한 피해를 입히지 못한다면 우리 군대는 두 개의 대규모 군대에 맞서게 될 것입니다. 주의가 필요합니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H80§! Phanon Dutymen\n§H40§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H3§! Phanon 장교\n§R<<Phanon Mechanized Division>>§!\n§H80§! Phanon Gun Defender\n§H40§! Phanon Aegis Defender\n§H40§! Phanon Commando Defender\n§H3§! Phanon Defender Prime"
+acot_pmc.14.d:  "공격을 취소하세요. 더 많은 준비가 필요합니다."
+
+acot_pmc.1400.title:  "폭행 성공"
+acot_pmc.1400.desc.a:  "Vault 내에서 격렬한 전투를 벌인 후, 우리 군대는 외부 회랑 내의 모든 적대 세력을 제거하는 데 성공했습니다. 살아남은 파논 유닛은 모두 중간 구역으로 더욱 후퇴했습니다. 외부 영역이 확보되면 Vault 공간을 더 많이 활용할 수 있습니다. 또한 우리 청소팀은 이 구역에 저장된 많은 데이터와 기술을 확보하고 있습니다.\n\n중간 복도는 잠시 잠겨 있어 공격을 받기까지 시간이 좀 걸립니다. 우리는 이 시간을 다음 전투에 필요한 만큼 병력을 복구하는 데 사용해야 합니다. 의심할 바 없이 군단은 방어 노력을 배가할 것입니다." 
+acot_pmc.1400.a:  "우리는 앞으로 나아가야 합니다."
+
+acot_pmc.15.title:  "볼트 최종 회랑 공격"
+acot_pmc.15.desc:  "우리는 최후의 회랑을 공격하려고 합니다. 군단은 도망칠 곳이 없습니다. 여기에 서서 싸워야 합니다. 의심할 바 없이 그들은 우리를 막기 위해 모든 것을 바칠 것입니다. 대규모 에너지 수치와 활동이 감지됩니다. 이 서명은 작전팀의 서명과 일치하므로 이전에 볼 수 없었던 전투를 기대하세요. 그러나 그들도 우리를 막지는 못할 것입니다. 또한, 내부 복도의 적 중 아직 처리되지 않은 적이 있다면 반드시 지금 나타날 것입니다. 그러나 우리는 여기까지 왔습니다. 승리하는 길은 오직 하나뿐입니다. 파업할 준비가 되었나요?" 
+acot_pmc.15.a:  "앞으로! 오늘 그들은 넘어졌다!"
+acot_pmc.15.a.tooltip:  "이것이 Corp의 마지막 입장입니다. 대규모 방어군은 작전팀이 직접 지휘하고 있습니다. 성공하려면 우리의 모든 것을 쏟아부어야 합니다. 우리는 영웅적인 군대를 동원해 그들에 맞서 싸워야 합니다. 내부 복도에서 군대를 피할 수 있다면 그들이 이 전투에 합류할 것이므로 추가 저항을 기대하세요.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H100§! Phanon Dutymen\n§H60§! Phanon Elites\n§H20§! Phanon Psi Commando\n§H5§! Phanon 장교\n§R<<Phanon Mechanized Division>>§!\n§H100§! Phanon Gun 방어자\n§H50§! Phanon Aegis 방어자\n§H50§! Phanon Commando 방어자\n§H5§! Phanon 디펜더 프라임\n§R<<Phanon Automated Defenses>>§!\n§H20§!Phanon Sentry Gun\n§R<<Phanon Final Defense Unit>>§!\n§H1§!Phanon Field Operative"
+acot_pmc.15.d:  "공격을 취소하세요. 더 많은 준비가 필요합니다."
+
+acot_pmc.1500.title:  "최종 승리!"
+acot_pmc.1500.desc.a:  "드디어 승리! 파논 군단이 해당 지역에서 제거되었으며, 이제 마침내 볼트 전체가 확보되었습니다. 더 이상 Vault 내에서 지원군이 보내지지 않습니다. 마지막 순간이 다가왔습니다." 
+acot_pmc.1500.a:  "아, 드디어!"
+
+acot_pmc.16.title:  "Vault 최종 요새 공격"
+acot_pmc.16.desc:  "이 무한 회랑의 가장 방어적인 부분 깊은 곳에는 엄청난 양의 파논 방어군이 결연하고 반항적으로 서 있습니다. 그들은 어떤 대가를 치르더라도 주인과 자산을 보호하기로 결심했습니다. 이것은 쉬운 일이 아닐 것입니다. 파업할 준비가 되었나요?" 
+acot_pmc.16.a:  "공격을 시작하세요! 이번에는 그들이 죽는다."
+acot_pmc.16.a.tooltip:  "남은 요원들은 모두 무한 회랑을 방어하기 위해 주인의 군대를 소집하기 위해 모였습니다. 후원자의 도움이 있어도 우리는 그들에게 자비를 베풀 수 없습니다. 이 끔찍한 포위 공격에는 가장 치명적이고 가장 큰 규모의 병력만으로 충분합니다.\n\n§R예상 저항:§!\n\n§R<<Phanon Bionic Division>>§!\n§H150§! Phanon Dutymen\n§H50§! Phanon Elites\n§H50§! Phanon Psi Commando\n§H10§! 파논 장교\n§R<<파논 기계화 사단>>§!\n§H125§! 파논 총 수비대\n§H75§! 파논 이지스 수비수\n§H50§! 파논 코만도 수비수\n§H5§! 파논 수비수 프라임\n§R<<Phanon 자동 방어 장치>>§!\n§H50§! 파논 센트리 건\n§H5§! 파논 데스 트랩\n§R<<파논 최종 방어 유닛>>§!\n§H4§! 파논 현장 요원\n§H1§! 파논 요원 가이 장착 아호게급 PDW 장착(잠재적으로)"
+acot_pmc.16.d:  "공격을 취소하세요. 더 많은 준비가 필요합니다."
+
+acot_pmc.1600.title:  "최고의 승리"
+acot_pmc.1600.desc.a:  "마침내 승리는 우리 것입니다! 적 요원에게 충성하는 파논군은 모두 최후의 순간까지 섬멸되었습니다. 요원의 경우, 잡히지 않기 위해 자살한 것으로 보입니다." 
+acot_pmc.1600.desc.b:  "마침내 승리는 우리 것입니다! 적 요원에게 충성하는 파논군은 모두 최후의 순간까지 섬멸되었습니다. 요원이 이미 탈출한 것이 안타깝습니다." 
+acot_pmc.1600.a:  "겁쟁이는 목숨을 걸고 싸우지도 않았습니다."
+acot_pmc.1600.b:  "몸이 온전한 것 같으니 먹자."
+acot_pmc.1600.b.tooltip:  "왜 좋은 식사를 낭비합니까?"
+acot_pmc.1600.c:  "어쨌든 요원은 더 이상 우리의 관심사가 아닙니다."
+
+acot_pmc.1601.name:  "곧 새로운 파논 군단 관리가 될 것입니다."
+acot_pmc.1601.desc.a:  "잘했어요, [root.GetName]님. 이제 적의 실패가 완료되었습니다. 이제 마지막 한 가지만 남았습니다. 당신의 존재에 작별을 고할 시간입니다...\n\n농담입니다. 하하하. 정말 잘하셨습니다. 아주 아주 잘하셨습니다. 이제 우리 에이전트가 작업을 마치고 준비를 할 것입니다. 서비스는 지금처럼 계속될 것입니다.\n\n물론 약속된 보상이 기대되겠죠? 이 데이터 도식을 즐기십시오. 이를 통해 군단이 사용하는 은하계에 안전하게 배치할 수 있는 대부분의 기술을 사용할 수 있습니다. 또한 귀하는 영구 Ultra 멤버십으로 간주되며 이러한 리소스와 §Y20§! Phanon 코인\n\n을 즉시 지불하는 것 외에도 모든 Ultra 서비스에 대한 할인 혜택과 10년마다 §Y10§! Phanon 코인을 받게 됩니다.\n\n제공된 모든 Phanon 자산은 귀하의 소유입니다."
+acot_pmc.1601.desc.b:  "잘했어요, [root.GetName]님. 이제 적의 실패가 완료되었습니다. 어쨌든 그 비겁한 친구는 나중에 처리하겠습니다.\n\n이제 우리 대리인이 일을 마치고 준비를 할 것입니다. 서비스는 지금처럼 계속됩니다.\n\n계약 완료에 대한 보상은 다음과 같습니다. 이 데이터 도식을 즐기십시오. 이를 통해 군단이 사용하는 은하계에 안전하게 배치할 수 있는 대부분의 기술을 사용할 수 있습니다. 또한 귀하는 영구 Ultra 멤버십으로 간주되며 이러한 리소스와 §Y10§! Phanon 코인\n\n을 즉시 지불하는 것 외에도 모든 Ultra 서비스에 대한 할인과 매년 §Y2§! Phanon 코인을 받을 수 있습니다.\n\n제공된 모든 Phanon 자산은 귀하의 소유입니다."
+acot_pmc.1601.desc.c:  "안녕하세요, [root.GetName]님. 군단과의 전쟁이 끝났음을 알려드립니다.\n\n이제 우리 요원이 임무를 마치고 준비를 할 것입니다. 서비스는 지금처럼 계속됩니다.\n\n계약 완료에 대한 보상은 다음과 같습니다. 이 데이터 도식을 즐기십시오. 이를 통해 군단이 사용하는 은하계에 안전하게 배치할 수 있는 대부분의 기술을 사용할 수 있습니다. 또한 귀하는 Ultra 멤버십의 10년 무료 기간을 받게 되며 모든 Ultra 서비스에 대한 할인 혜택을 받을 뿐만 아니라 구독 기간당 §Y2§! Phanon 코인과 이러한 리소스 및 §Y10§! Phanon 코인\n\n제공된 Phanon 자산을 모두 귀하가 보유할 수 있습니다."
+acot_pmc.1601.desc.d:  "안녕하세요, [root.GetName]님. 군단과의 전쟁이 끝났음을 알려드립니다.\n\n전임 감독관으로 인해 소란을 일으킨 점 사과드립니다. 이제 평소와 같이 서비스가 재개됩니다."
+acot_pmc.1601.a:  "대부분의 기술? 무엇이 빠졌나요?"
+acot_pmc.1601.a.response:  "Star Series 및 Operatives와 같은 Phanon 전용 선박. 하지만 해당 항목에 액세스하고 싶다면 우리에게서 구입하세요. 하하. 내 말은, 당신이 쌓게 될 동전의 양을 고려하면 더 이상 그렇게 비싸서는 안 된다는 거죠, 그렇죠?"
+acot_pmc.1601.b:  "다음은 무엇입니까?"
+acot_pmc.1601.b.response:  "서비스는 당사 직원 중 한 명을 통해 정상적으로 계속됩니다. 다른 사람이 귀하에게서 드롭 포인트를 빼앗지 않는 한 귀하는 드롭 포인트를 계속 소유하게 됩니다. 우리는 결국 통합하고 나중에 새 감독자를 적절하게 파견할 것입니다. 하지만 시간이 좀 걸릴 것입니다. 아마 평생은 아닐 것입니다. 그러니 너무 많이 생각하지 마세요. 언젠가는 일어날 일입니다.\n\n이제 기술 서비스가 개시되므로 Ultra 멤버십이 있는 사람은 누구나 기술을 구입할 수 있습니다. 따라서 이점을 먼저 포착하려면 서두르는 것이 좋습니다."
+acot_pmc.1601.c:  "정말 즐거웠습니다."
+acot_pmc.1601.c.response:  "마찬가지로, 새로운 장난감 [root.GetName]을(를) 즐겨보세요."
+acot_pmc.1601.d:  "이제 어떻게 되나요?"
+acot_pmc.1601.d.response:  "서비스는 당사 직원 중 한 명을 통해 정상적으로 계속됩니다. 당신이 스스로 드롭 포인트를 가져가길 원한다면, 그것은 당신의 선택입니다. 우리는 결국 통합하고 나중에 새 감독자를 적절하게 파견할 것입니다. 하지만 시간이 좀 걸릴 것입니다. 아마 평생은 아닐 것입니다. 그러니 너무 많이 생각하지 마세요. 언젠가는 일어날 일입니다.\n\n또한 이제 기술 서비스가 개시되므로 Ultra 멤버십을 가진 사람은 누구나 기술을 구입할 수 있습니다."
+acot_pmc.1601.e:  "나중에, 그럼."
+acot_pmc.1601.e.response:  "안녕히 가세요."
+acot_pmc.1601.f:  "이것이 우리에게 무엇을 의미합니까?"
+acot_pmc.1601.f.response:  "정말 아무것도 아닙니다. 서비스는 당사 직원 중 한 명을 통해 정상적으로 계속됩니다. 당신이 스스로 드롭 포인트를 가져가길 원한다면, 그것은 당신의 선택입니다. 우리는 결국 통합하고 나중에 새 감독자를 적절하게 파견할 것입니다. 하지만 시간이 좀 걸릴 것입니다. 아마 평생은 아닐 것입니다. 그러니 그것에 대해 너무 많이 생각하지 마십시오. 일어날 때 일어날 것입니다. 전쟁이 끝났다는 사실에 기뻐해야 합니다.\n\n그런데 이제 기술 서비스가 오픈되므로 Ultra 멤버십을 보유한 사람이라면 누구나 기술을 구입할 수 있습니다."
+acot_pmc.1601.g:  "이 빌어먹을 은하계를 그냥 떠날 수는 없나요?"
+acot_pmc.1601.g.response:  "재미와 사업 기회를 모두 놓치셨나요? 물론 그렇지 않습니다!"
+acot_pmc.1601.h:  "아주 좋습니다."
+acot_pmc.1601.h.response:  "전체 시련을...경영진의 변화로 생각해보세요."
+
+acot_pmc.1299.title:  "금고 통제권 상실!"
+acot_pmc.1299.desc:  "파논 군단이 금고를 탈환했습니다! 우리의 모든 팝은 제거되었고 강하 지점에 있는 우리 함대는 시스템 밖으로 배출되었습니다!" 
+acot_pmc.1299.a:  "비참한!"
+
+###############################################
+
+acot_pmc.17.title:  "차원의 거울"
+acot_pmc.17.desc:  "우리는 대부분의 파논 자산에 대한 직접적인 통제권을 갖고 있지만, 군단은 여전히 ​​차원 거울에 대한 통제권을 유지하고 있으며 이 은하계에서의 그들의 존재는 여전히 남아 있습니다. 그것이 남아 있는 한, 군단은 우리의 공격에 쉽게 돌아와 보복할 수 있는 능력을 갖게 될 것입니다. 다시 정렬하고 비활성화해야 합니다."
+acot_pmc.17.a:  "우리는 그것들을 방정식에서 제외해야 합니다."
+
+acot_pmc.1700.title:  "차원 거울이 비활성화되었습니다!"
+acot_pmc.1700.desc:  "차원 거울이 성공적으로 비활성화되었습니다! 군단의 신호가 빠르게 약해지고 있습니다. 그들은 지금 이 은하계로 직접 돌아오는 데 그것을 사용할 수 없을 것입니다.\n\n하지만 그들이 별 여행자를 만들 수 있는 능력을 가지고 있다면 거울이 장막 너머로 여행할 수 있는 유일한 통로는 아니라고 가정할 수 있으므로 주의해야 합니다. 아마도 우리 생애 동안은 아닐 수도 있지만, 우리는 그들이 자산을 되찾기 위해 돌아올 것이라고 확신할 수 있습니다."
+acot_pmc.1700.a:  "우리는 경계심을 유지해야 한다"
+acot_pmc.1700.a.tooltip:  "이로써 Phanon Corps 콘텐츠의 현재 단계가 종료되며, 추후 공지가 있을 때까지 실제 Phanon 보복은 발생하지 않습니다."
+
+acot_pmc.1701.desc:  "§R끝이 아닙니다! 언젠가 당신의 애처로운 은하계를 잿더미로 태워버릴 대규모 함대를 가지고 돌아올 것입니다.§!\n\n§Y신호가 희미해지고 요원이 더 이상 이 은하계에 없는 것 같습니다."
+acot_pmc.1701.a:  "모두 짖고 물지 않습니다."
+acot_pmc.1701.a.response:  "§R...아마...버...이거!§!"
+
+ACOT_PHANON_DISABLE_PORTAL:  "차원 거울을 재정렬하세요"
+ACOT_PHANON_DISABLE_PORTAL_DESC:  "파논군단이 끊임없이 돌아와서 우리를 쉽게 괴롭히는 것을 막기 위해서는 차원거울을 재정렬하여 비활성화해야 합니다."
+
+######################### PHANON RETALIAITON
+
+acot_pmc.9101.title:  "Phanon Vault 보복 임박"
+acot_pmc.9101.desc:  "센서가 Vault 내에서 활동을 감지하고 있습니다. 군단이 내부에서 금고를 탈환하기 위해 병력을 동원하고 있는 것 같습니다. 파업은 몇 달 안에 일어날 것으로 보인다. 예상되는 저항에 대한 자세한 내용은 제공됩니다.\n\\n그들이 이점을 얻을 준비가 되기 전에 지금 공격할 수도 있고, 공격이 일어날 때까지 기다려 Vault에서 우리 측이 제공할 수 있는 방어 위치의 이점을 얻을 수도 있습니다."
+acot_pmc.9101.a:  "그들이 준비되기 전에 지금 공격하세요!"
+acot_pmc.9101.a.tooltip:  "지금 그들을 공격하면 일시적으로 놀라운 이점을 얻을 수 있지만 우리는 방어 가능한 위치에서 벗어나게 될 것이며 잠재적으로 활용 가능한 우리 측의 보안 방어를 놓칠 수 있습니다."
+acot_pmc.9101.b:  "기다렸다가 공격에 대비하세요."
+acot_pmc.9101.b.tooltip:  "우리의 방어를 준비하면 군단이 완전한 힘을 발휘할 수 있게 되지만 우리는 Vault의 많은 방어를 우리 편에서 유리하게 사용할 수 있습니다."
+
+acot_pmc.9914.name:  "파논 군단이 [FromFrom.GetName]을(를) 파괴했습니다!"
+acot_pmc.9914.desc:  "우리는 [FromFrom.GetName]!에 대한 파논 군단의 공격을 방어하는데 실패했습니다. 군단은 알 수 없는 수단을 사용하여 식민지를 파괴했지만 생존자는 보고되지 않았습니다."
+acot_pmc.9914.a:  "우리는 방어력을 강화해야 합니다."
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+acot_pmc.9952.name:  "치명적인 대응"
+acot_pmc.9952.desc:  "파논 군단의 갑작스러운 적대감에 불만을 품은 §H[From.GetSpeciesName]§!의 지도자들은 긴급 공세 대응을 선언하고 전쟁을 준비한다."
+
+acot_pmc.9952.a:  "또 다른 사람이 게임에 참여합니다."
+acot_pmc.9952.b:  "그들은 전혀 모른다."
+
+##Awakening FE contacts everyone
+acot_pmc.9953.name:  "§H[contact_empire.GetName]§!에서 전송 수신"
+acot_pmc.9953.message:  "§H[contact_empire.GetName]§!에서는 Stellarborne의 귀환에 대응하여 우리를 포함한 모든 은하계 국가에 연락했습니다."
+acot_pmc.9953.desc.spirit:  "드디어 군단이 본색을 드러낸 걸까요?\n\n이 믿음 없는 시체 쓰레기들은 은하계에서 말소되어야 합니다. [root.owner.species.GetNamePlural], 우리와 함께 이 외부 침입자를 완전히 제거하세요."
+acot_pmc.9953.desc.phile:  "아, 결국 그들은 사악한 행동을 하기로 결정한 걸까요? 우리가 의심했던 대로입니다. 군단은 더 이상 믿을 수 없으며, 그리 멀지 않은 곳에 던져질 수 있습니다.\n\n그러나 이제 이 문제가 발생했으므로 이 곳을 타락시키는 악을 은하계에서 제거하는 것은 다시 한 번 우리에게 달려 있습니다. [root.GetName]님, 자신을 방어하세요. 이 전투는 쉽지 않을 것이기 때문입니다."
+acot_pmc.9953.desc.phobe:  "물론 그 멍청한 그늘진 놈들은 화를 냈습니다. 이러한 유형의 문제에 대해 우리는 왜 항상 옳은가?\n\n이러한 혼란에 빠지고 싶지 않다면 우리의 방식을 피하는 것이 좋습니다. 심각한 문제는 저항할 힘이 있는 사람에게 맡기십시오."
+acot_pmc.9953.desc.mat:  "젠장... 너무 이르다. 너무 이르다! 약점을 분석하기 전에 시간이 더 걸리기를 바랐습니다.\n\n하지만 더 이상 문제가 되지 않습니다. 우리가 가진 것만으로도 충분할 것입니다. 파논 군단은 검증되지 않은 위험한 무기와 기술을 무모하게 사용하여 은하계를 위협하고 있습니다. 그것들은 파기되어야 하고, 그 자산은 몰수되어야 합니다."
+acot_pmc.9953.a:  "군단에 대해 무엇을 알고 있나요?"
+acot_pmc.9953.a.response.phile:  "거의 없습니다. 두렵습니다. 그들은 우리가 인식하는 기술을 사용하지 않고 PMC 사업을 운영하는 척하지만, 두뇌가 있는 사람이라면 그것이 희극이라는 것을 알고 있습니다. 그들은 어디에나 스파이가 있고, 항상 감시하고, 항상 데이터를 수집합니다. 그러나 그 목적이 무엇인지는 알 수 없습니다. 하지만 우리는 언젠가 그들이 자신의 본성을 드러낼 것이라고 항상 기대합니다. 이제 그들은 어떤 대가를 치르더라도 막아야 합니다."
+acot_pmc.9953.a.response.phobe:  "정말로 알아야 한다면, 그들은 외국 침략자로서 이 은하계에 와서 시스템 중 하나를 훔쳐 그들의 저주받은 혐오스러운 것으로 만들었습니다. 그들은 관찰하고 지켜보기만 할 것이라고 말했습니다. 다른 사람들은 그 헛소리를 믿을 수도 있지만 우리는 그렇지 않습니다. [contact_empire.GetName]이 아닙니다. 우리는 언젠가는 그들이 더 이상 우리 은하계를 이용할 수 없게 될 것이라는 것을 항상 알고 있었습니다. 언젠가 알려진 은하계를 정복하지 않는다면 왜 그렇게 인상적인 군대를 유지하겠습니까?\n\n우리는 그들과 싸워서 그들의 포탈을 훔치고 반대편에 있는 모든 것을 폭파시켜 망각하게 한다고 말합니다."
+acot_pmc.9953.a.response.spirit:  "그들은 기생충이다! 그들은 합법적인 사업을 운영하는 기업일 뿐이라고 주장하지만, 그 겉모습 뒤에는 우리의 정신과 영혼을 수확하려는 미친 계획이 숨어 있습니다. 우리는 [contact_empire.GetName] 매 순간 우리, 이 은하계에서 축적되는 거대한 사이오닉 에너지를 느낄 수 있습니다. 이제 그들의 미친 의식을 중단하고 이 배교자들을 파멸시킬 때입니다."
+acot_pmc.9953.a.response.mat:  "훨씬 더 강력한 기술과 재료, 선박을 보유하고 있다고요? 그 정도는 누구에게나 명백할 것입니다. 하지만 어쩐지 그들의 디자인은 다소...단순하다? 그 뒤에는 많은 복잡성이 없는 것처럼, 그것은 마치...글쎄...당신의 제국이 요즘 당신의 배를 조종하기 위해 사용하는 것이 무엇이든 간에요. 그리고 그들은 군대에 있는 자동인형의 수에 대해 어떻게 그렇게 무모할 수 있습니까? 그들의 생체 공학적 "의무자"를 통제하는 것은 무엇입니까? 사이오닉 네트워크? 바이오칩? 질문이 너무 많습니다.\n\n아마도 우리가 승리하고 나면 이러한 질문에 대한 답이 마침내 나올 것입니다."
+
+acot_pmc.9953.b:  "정말로 그들을 막을 수 있나요?"
+acot_pmc.9953.b.response.phile:  "아마도 혼자가 아닐 수도 있습니다. 하지만 은하계 전체가 우리의 지도력 아래 함께 협력한다면 어떤 반대도 물리칠 수 있다고 확신합니다.\n\n§Y그들은 협력에 대해 진실을 말할지 모르지만 과연 그들이 이끌 것인가?§!"
+acot_pmc.9953.b.response.phobe:  "국민 여러분, 여러분 자신에 대해 더 걱정해야 합니다. 우리는 당신이나 다른 사람을 구할 계획이 없다는 것을 알려드립니다. 당신은 군단의 약점을 이용하는 데 사용될 자산입니다. 나는 당신이 다른 사람들에게도 똑같이 할 것을 제안합니다. 결정적인 타격을 준비할 수 있도록 대포 사료를 죽게 놔두세요."
+acot_pmc.9953.b.response.spirit:  "힘이 없다면, 믿음과 사이오닉 힘으로 우리는 적을 물리칠 것입니다. 그러나 믿음에는 우리의 기도와 말보다 더 많은 것이 필요합니다. 우리에게는 지지자가 필요합니다. 이 위기에서 살아남고 싶다면 우리를 도와주는 것이 좋을 것입니다."
+acot_pmc.9953.b.response.mat:  "어쩌면 그들이 더 많은 지원군을 철수하기 전에 우리가 그들을 빨리 물리친다면 가능할지도 모릅니다. 우리가 병력을 준비하는 동안 당신은 저들의 주의를 분산시켜야 합니다. 우리는 여기까지 왔고, 많은 공격에서 살아남았고, 많은 적들을 물리쳤습니다. 이번 경기도 다르지 않을 것입니다.\n\n§Y마지막에 약간의 어조 변화가 보이는 것은 그들이 표현하는 것만큼 승리에 대한 자신감이 없음을 의미합니다.§!"
+
+acot_pmc.9953.end:  "전송 종료"

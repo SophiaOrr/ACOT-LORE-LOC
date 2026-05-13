@@ -1,0 +1,10 @@
+﻿l_korean:
+
+job_acot_offspring:  "새끼 무리어미"
+job_acot_offspring_plural:  "자손 무리어미"
+job_acot_offspring_desc:  "자손 무리어미는 필요한 보살핌을 제공하고 미래의 산란을 돌봅니다."
+mod_job_acot_offspring_add:  "$job_acot_offspring$"
+
+sm_acot_offspring_supply_bay:  "자손 $sm_acot_supply_bay$"
+sm_acot_offspring_supply_bay_desc:  "$sm_acot_supply_bay_desc$"
+acot_offspring_supply_bay_tooltip:  "$acot_supply_bay_tooltip$"

@@ -1,0 +1,463 @@
+﻿l_korean:
+
+############################################################ REACTORS ############################################################
+
+ai_behaviour:  "기본 컴퓨터"
+special_ship_slot:  "특수 선박 슬롯"
+acot_tactical_computers:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+acot_support_defense_aura:  "수호자 방어 오라"
+acot_support_offense_aura:  "인터딕터 공격 오라"
+
+acot_flagship_defense_aura:  "주력 방어 오라"
+acot_flagship_offense_aura:  "기함 공격 오라"
+acot_flagship_utility_aura:  "플래그십 유틸리티 아우라"
+
+acot_command_defense_aura:  "지휘 방어 오라"
+acot_command_offense_aura:  "커맨드 오펜시브 오라"
+acot_command_utility_aura:  "명령 유틸리티 아우라"
+
+################################################ Bombardmeny ################################################
+
+ACOT_SA_BOMBARDMENT:  "정밀 궤도 페이로드"
+ACOT_SA_BOMBARDMENT_DESC:  "이러한 고급 페이로드는 추가 전력 소비를 차지할 수 있지만 표준 발행 궤도 폭격 페이로드에 비해 훨씬 더 강력하고 훨씬 적은 저장 공간을 필요로 합니다."
+
+ACOT_SA_FOCUSED_WEAPON_AMPLIFIER:  "바렐리안 포탑"
+ACOT_SA_FOCUSED_WEAPON_AMPLIFIER_DESC:  "근거리 교전을 위해 제작된 특수 포탑입니다. 이러한 유형의 포탑은 더 높은 화력을 제공하는 대신 더 적은 범위의 범위를 제공합니다."
+
+ACOT_SA_INFERNAL_CORE:  "지옥불 축전기"
+ACOT_SA_INFERNAL_CORE_DESC:  "지옥 콘덴서는 원자로의 최대 충전 시퀀스를 증폭시켜 무기 손상에 더 집중하도록 무기 시스템을 재보정합니다. 이로 인해 자연스럽게 발사 속도가 낮아집니다."
+
+ACOT_SA_CRYO_CORE:  "폭풍우 커패시터"
+ACOT_SA_CRYO_CORE_DESC:  "Tempest Capacitor는 무기의 열 방출을 냉각시켜 발사 속도에 더 집중하도록 무기 시스템을 재보정하지만 이로 인해 손상 가능성이 약간 낮아집니다."
+
+ACOT_SA_OVERCHARGED_DEFENSE:  "Ackbar 방어 증폭기"
+ACOT_SA_OVERCHARGED_DEFENSE_DESC:  "함선에 운동 장벽과 보호막을 위한 추가 중복 발전기를 장착합니다. 이러한 추가 발전기는 무기 시스템에 부담을 주지만 함선은 어떤 종류의 함정에도 갇히지 않습니다."
+
+ACOT_SA_SUPER_TARGETER:  "타겟 조정자"
+ACOT_SA_SUPER_TARGETER_DESC:  "적 목표에 대한 명중을 확인하기 위해 목표 해상도 매틱에 대한 추가 보정을 수행합니다. 시스템은 최적의 탄도를 계산하고 대상의 이동성에 대한 보상을 계산하는 데 추가 시간이 필요하므로 무기 발사 속도가 감소합니다."
+
+ACOT_SA_SUPPLY_UNIT:  "독립 물류 웨이포인트"
+ACOT_SA_SUPPLY_UNIT_DESC:  "자재 및 교체 유닛을 직접 제작할 수 있도록 독립적인 Logistic Waypoint를 추가하여 선박의 물류 및 월간 유지 예산을 확보합니다."
+
+ACOT_SA_POINT_DEFENSE_BUFF:  "고성능 PDS"
+ACOT_SA_POINT_DEFENSE_BUFF_DESC:  "미사일 및 타격 항공기에 대한 우수한 방어를 위해 추가 사양으로 함선의 지점 방어 시스템을 업그레이드합니다. 추가된 추가 전력은 부족한 화력도 보완해야 합니다."
+
+ACOT_SA_NANO_REPAIRER:  "나노 수리 드론"
+ACOT_SA_NANO_REPAIRER_DESC:  "선박의 선체를 자동으로 수리하는 강력한 나노 수리 드론을 선박에 장착하면 시스템이 더 큰 선박의 더 높은 선체 강도에 맞게 쉽게 조정할 수 있습니다."
+
+ACOT_SA_ELITE_INSIGNIA:  "엘리트 휘장 패턴"
+ACOT_SA_ELITE_INSIGNIA_DESC:  "함선의 성능과 사양을 전반적으로 업그레이드하여 제국의 정예 경비병을 만족시킵니다. 각 휘장은 아군과 적 모두로부터 적절한 존경을 요구하는 역량, 명예, 기술의 수준을 나타냅니다. 이것은 진짜 남자와 여자, 즉 기계를 위해 만들어진 배입니다."
+
+################################################ CREW SETUP ################################################
+
+############# ISC PILOTS
+
+acot_isc_pilot:  "ISC 조종사"
+acot_isc_pilot_desc:  "ISC는 일반적으로 원격 또는 신경망을 통해 제어하기에는 너무 크고 정교하므로 적극적인 조종사가 필요합니다."
+
+ACOT_ISC_PILOT_STANDARD:  "ISC 윙맨"
+ACOT_ISC_PILOT_STANDARD_DESC:  "ISC의 빠르고 격렬한 성격을 즐기는 대담한 개인. 각각은 이미 표준 신경망 시뮬레이션에 익숙해야 합니다."
+
+ACOT_ISC_PILOT_MACHINE:  "ISC 단위"
+ACOT_ISC_PILOT_MACHINE_DESC:  "ISC와 직접 인터페이스하려면 물리적 플랫폼이 필요합니다. 명령에 대한 더 높은 반응뿐만 아니라 표준 비플랫폼 타격 항공기가 할 수 없는 FTL 신호를 수신하고 교전하기 위한 것입니다."
+
+ACOT_ISC_PILOT_ACE:  "ISC 에이스 윙맨"
+ACOT_ISC_PILOT_ACE_DESC:  "이들 베테랑 전문가들은 다른 전문가들보다 훨씬 더 경험이 많을 뿐만 아니라 훨씬 더 강력한 장비를 부여받습니다. 그 중 가장 주목할만한 점은 생명 유지 시스템이 필요 없는 특수 기능이 추가되었다는 것입니다. 어떤 상황에도 적응하는 능력은 그들을 상대에게 위험한 적으로 만듭니다."
+
+############# CREWS
+
+acot_crew_department:  "승무원 부서"
+ship_crews:  "선박 승무원"
+
+tech_acot_crew_normal:  "스타쉽 크루"
+tech_acot_crew_normal_desc:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+
+TECH_UNLOCK_BASIC_CREW_TITLE:  "§H잠금 해제:§! 기본 승무원"
+TECH_UNLOCK_BASIC_CREW_DESC:  "§H기본 승무원§!\n함대 아카데미에서 교육을 받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+
+ACOT_CREW_STANDARD:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+ACOT_CREW_STANDARD_MEDIUM:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_MEDIUM_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+ACOT_CREW_STANDARD_LARGE:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_LARGE_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+ACOT_CREW_STANDARD_CAPITAL:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_CAPITAL_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+ACOT_CREW_STANDARD_FLAGSHIP:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_FLAGSHIP_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+ACOT_CREW_STANDARD_COMMAND:  "표준 승무원 구성"
+ACOT_CREW_STANDARD_COMMAND_DESC:  "함대 아카데미에서 훈련받은 정규 승무원입니다. 적당한 지불금과 식량 공급이 필요합니다. 특별히 놀라운 것은 아니지만 작업을 완료할 수 있을 만큼 잘 훈련되어 있습니다."
+
+tech_acot_crew_elite:  "엘리트 승무원"
+tech_acot_crew_elite_desc:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+
+TECH_UNLOCK_ELITE_CREW_TITLE:  "§H잠금 해제:§! 엘리트 승무원"
+TECH_UNLOCK_ELITE_CREW_DESC:  "§H엘리트 승무원§!\n엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+
+ACOT_CREW_ELITE:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+ACOT_CREW_ELITE_MEDIUM:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_MEDIUM_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+ACOT_CREW_ELITE_LARGE:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_LARGE_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+ACOT_CREW_ELITE_CAPITAL:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_CAPITAL_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+ACOT_CREW_ELITE_FLAGSHIP:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_FLAGSHIP_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+ACOT_CREW_ELITE_COMMAND:  "엘리트 승무원 구성"
+ACOT_CREW_ELITE_COMMAND_DESC:  "엘리트 승무원은 아카데미에서 최고 점수를 받아 졸업합니다. 그들은 압박감 속에서도 일하는 데 탁월하며 학습 속도가 빠릅니다. 그러나 일반 서비스에 비해 추가 크레딧 지불이 필요합니다."
+
+ACOT_CREW_HYBRID:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+ACOT_CREW_HYBRID_MEDIUM:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_MEDIUM_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+ACOT_CREW_HYBRID_LARGE:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_LARGE_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+ACOT_CREW_HYBRID_CAPITAL:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_CAPITAL_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+ACOT_CREW_HYBRID_FLAGSHIP:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_FLAGSHIP_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+ACOT_CREW_HYBRID_COMMAND:  "혼합 승무원 구성"
+ACOT_CREW_HYBRID_COMMAND_DESC:  "아마도 배를 조종하는 가장 좋은 방법은 유기체의 독창성과 기계의 효율성을 결합하는 것입니다. 이렇게 하면 두 그룹 중 하나가 손상되면 다른 그룹이 일을 유지하게 됩니다(둘 다 손상되지 않는 한...시트)."
+
+tech_acot_crew_machine:  "기계 승무원"
+tech_acot_crew_machine_desc:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+
+TECH_UNLOCK_MACHINE_TITLE:  "§H잠금 해제:§! 기계 작업자"
+TECH_UNLOCK_MACHINE_DESC:  "§H기계 작업자§!\n삑삑. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+
+ACOT_CREW_MACHINE:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+ACOT_CREW_MACHINE_MEDIUM:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_MEDIUM_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+ACOT_CREW_MACHINE_LARGE:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_LARGE_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+ACOT_CREW_MACHINE_CAPITAL:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_CAPITAL_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+ACOT_CREW_MACHINE_FLAGSHIP:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_FLAGSHIP_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+ACOT_CREW_MACHINE_COMMAND:  "기계 승무원 설정"
+ACOT_CREW_MACHINE_COMMAND_DESC:  "삐삐. 선박에서의 생활은 평화로운 시기에는 매우 끔찍할 정도로 지루하고 아무 일도 일어나지 않을 수 있으며, 전쟁 중에는 매우 어리석을 정도로 위험할 수 있습니다. 하지만 유기적인 승무원 대신 로봇 승무원을 활용하면 모든 문제를 쉽게 해결할 수 있습니다. 이는 또한 신체 유지를 위해 식량 공급이 미네랄로 대체된다는 것을 의미합니다."
+
+tech_acot_crew_automated:  "무인 우주선"
+tech_acot_crew_automated_desc:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+
+TECH_UNLOCK_AUTOMATED_TITLE:  "§H잠금 해제:§! USV 설정"
+TECH_UNLOCK_AUTOMATED_DESC:  "§HUSV 설정§!\n무인 우주선(USV)은 선박 내에서 수행되는 모든 작업이 활성 지휘 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 설정입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+
+ACOT_CREW_AUTOMATED:  "USV 설정"
+ACOT_CREW_AUTOMATED_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+ACOT_CREW_AUTOMATED_MEDIUM:  "USV 설정"
+ACOT_CREW_AUTOMATED_MEDIUM_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+ACOT_CREW_AUTOMATED_LARGE:  "USV 설정"
+ACOT_CREW_AUTOMATED_LARGE_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+ACOT_CREW_AUTOMATED_CAPITAL:  "USV 설정"
+ACOT_CREW_AUTOMATED_CAPITAL_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+ACOT_CREW_AUTOMATED_FLAGSHIP:  "USV 설정"
+ACOT_CREW_AUTOMATED_FLAGSHIP_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+ACOT_CREW_AUTOMATED_COMMAND:  "USV 설정"
+ACOT_CREW_AUTOMATED_COMMAND_DESC:  "무인 우주 선박(USV)은 선박 내에서 수행되는 모든 작업이 활성 명령 센터의 다양한 자동화 또는 원격 제어 기계에 의해 수행되는 일종의 승무원 구성입니다. 유기농 직원이 부족하다는 것은 모든 식량과 에너지 유지가 미네랄로 효과적으로 대체된다는 것을 의미합니다. 이로 인해 전반적으로 투자 비용이 저렴해졌지만 성과는 눈에 띄게 악화되었습니다."
+
+tech_acot_crew_solo:  "지휘권"
+tech_acot_crew_solo_desc:  "SOC는 승무원과 선박 컴퓨터 사이의 매우 진보된 실험적 신경망 인터페이스입니다. 이 시스템의 개발은 우주선 승무원을 다루는 방식에 혁명을 일으킬 것입니다. 머지않아 선박을 제공해야 하는 시대는 더 이상 과거의 일이 될 것이며 선박은 소수의 재능 있는 개인에 의해 관리될 수 있습니다."
+
+TECH_UNLOCK_SOLO_CREW_TITLE:  "§H잠금 해제:§! 사령부"
+TECH_UNLOCK_SOLO_CREW_DESC:  "§H지휘관§!\nSOC는 승무원과 선박 컴퓨터 사이의 극도로 발전된 실험적 신경망 인터페이스입니다. 이 시스템의 개발은 우주선 승무원을 다루는 방식에 혁명을 일으킬 것입니다. 머지않아 선박을 제공해야 하는 시대는 더 이상 과거의 일이 될 것이며 선박은 소수의 재능 있는 개인에 의해 관리될 수 있습니다."
+
+ACOT_CREW_SOLO:  "SOC 설정"
+ACOT_CREW_SOLO_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+ACOT_CREW_SOLO_MEDIUM:  "SOC 설정"
+ACOT_CREW_SOLO_MEDIUM_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+ACOT_CREW_SOLO_LARGE:  "SOC 설정"
+ACOT_CREW_SOLO_LARGE_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+ACOT_CREW_SOLO_CAPITAL:  "SOC 설정"
+ACOT_CREW_SOLO_CAPITAL_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+ACOT_CREW_SOLO_FLAGSHIP:  "SOC 설정"
+ACOT_CREW_SOLO_FLAGSHIP_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+ACOT_CREW_SOLO_COMMAND:  "SOC 설정"
+ACOT_CREW_SOLO_COMMAND_DESC:  "많은 수의 승무원에 의존하는 대신 선박에 지휘소(SOC)를 설치할 수 있습니다. 재능 있는 개인과 우주선의 기본 컴퓨터 사이의 일련의 강력한 신경 인터페이스입니다. 이를 통해 선박은 매우 적은 수의 승무원으로도 운영될 수 있습니다. 그러나 SoC는 매우 까다롭기 때문에 운영자는 태어날 때부터 교육을 받아야 하며 매우 어린 나이에 서비스를 시작해야 합니다. 필요한 유지 관리 비용은 엄청나지만 성능 향상은 부인할 수 없습니다."
+
+################################################ COMMANDING OFFICER ################################################
+
+acot_commanding_officer:  "부대 지휘관"
+
+ACOT_OFFICER_NONE:  "선박 선장"
+ACOT_OFFICER_NONE_DESC:  "아마도 덜 중요하거나 작은 선박에서는 자동으로 선장으로 지정되는 선박의 최고 직위 개인에게 명령을 내릴 수 있습니다."
+
+tech_acot_co_basic:  "지정사령관"
+tech_acot_co_basic_desc:  "적절하게 훈련되고 자격을 갖춘 선장을 선박에 배정함으로써 승무원 간의 더 나은 조정이 이루어질 수 있습니다."
+
+TECH_UNLOCK_CO_DEFAULT_TITLE:  "§H잠금 해제:§! CO 배송"
+TECH_UNLOCK_CO_DEFAULT_DESC:  "§H선박 CO§!\n적절한 교육을 받고 자격을 갖춘 선장을 선박에 할당하면 승무원 간의 협력이 더 잘 이루어질 수 있습니다."
+
+ACOT_OFFICER_DEFAULT:  "선박 선장"
+ACOT_OFFICER_DEFAULT_DESC:  "전통적으로 선박은 기본적인 리더십과 조정을 제공하는 선장이 지휘합니다."
+
+ACOT_OFFICER_COMMISSAR:  "선박 커미사르"
+ACOT_OFFICER_COMMISSAR_DESC:  "함선에 해군 커미사르(Navy Commissar)를 파견하여 함선의 승무원이 최대한의 잠재력을 발휘할 수 있도록 동기를 부여하십시오. 고위 사령부로부터 직접 명령이 내려지지 않는 한, 승무원들은 스스로 긴급 후퇴를 발령할 수 없습니다. 그들은 또한 커미사르가 검으로 적들을 직접 공격할 수 있도록 적에게 더 빠르고 더 가까이 다가가도록 훈련받았습니다. (적어도 그들은 그렇게 말하길 좋아합니다)"
+
+tech_acot_co_machine:  "마스터 컨트롤 유닛"
+tech_acot_co_machine_desc:  "우리 장치의 물리적 플랫폼은 중앙 프로세서에서 직접 명령을 받지만 자체 분석 알고리즘을 사용하여 적절한 MCU를 할당하면 선박의 개별 성능이 향상될 수 있습니다."
+
+ACOT_OFFICER_MACHINE:  "마스터 컨트롤 유닛"
+ACOT_OFFICER_MACHINE_DESC:  "우리 장치의 물리적 플랫폼은 중앙 프로세서에서 직접 명령을 받지만 자체 분석 알고리즘을 사용하여 적절한 MCU를 할당하면 선박의 개별 성능이 향상될 수 있습니다."
+
+ACOT_CREW_KHAN:  "대칸의 아이들"
+ACOT_CREW_KHAN_DESC:  "대칸의 아이들"
+
+################################################ BEHAVIOR CAMPUTOR ################################################
+
+acot_isc_tactical_computers:  "ISC 전술 컴퓨터"
+acot_isc_tactical_computers_desc:  "ISC는 본질적으로 타격 항공기입니다. 따라서 일반 함선과는 다른 종류의 전술적 기동을 사용해야 합니다."
+
+ACOT_TACTIC_ISC_MIN:  "차단 전술"
+ACOT_TACTIC_ISC_MIN_DESC:  "§H요청 전술:§! ISC는 최소 무기 범위로 돌진하고 목표물 주위를 돌게 됩니다. (§Y분§!)."
+
+ACOT_TACTIC_ISC_STRAFE:  "기총 전술"
+ACOT_TACTIC_ISC_STRAFE_DESC:  "§H기총 전술:§! ISC는 단거리로 돌진하여 공격을 가한 후 다시 기총을 쏘아 다시 공격합니다. (§Y30§!)."
+
+ACOT_TACTIC_ISC_FREE:  "자유 전술"
+ACOT_TACTIC_ISC_FREE_DESC:  "§HFreeTactics:§! ISC는 함대 사령부의 직접적인 지시를 기다리며 스스로 이동하지 않습니다. (§Y수동 제어§!)."
+
+ACOT_MIN_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌진하고 최단 거리 무기에 정지합니다. (§Y최소§!)."
+ACOT_MEDIAN_STATIONARY_DESC:  "§H전열 전술:§! 함선은 적에게 돌진하고 가장 긴 무기와 가장 짧은 사거리 무기 사이에 정지합니다. (§Y중앙값§!)."
+ACOT_MAX_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌격하고 사거리가 가장 긴 무기에 정지합니다. (§Y최대§!)."
+ACOT_30_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌격하고 사거리 30에서 정지합니다. (§Y30§!)."
+ACOT_60_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌진하고 범위 60에서 정지합니다. (§Y60§!)."
+ACOT_90_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌진하고 90 범위에서 정지합니다. (§Y90§!)."
+ACOT_150_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌진하고 범위 150에서 정지합니다. (§Y150§!)."
+ACOT_200_STATIONARY_DESC:  "§H전열 전술:§! 군함이 적에게 돌진하고 범위 200에서 정지합니다. (§Y200§!)."
+
+ACOT_MIN_ORBIT_DESC:  "§H회피 전술:§! 배는 적에게 돌진하고 최단 거리 무기를 사용하여 주위를 돌게 됩니다. (§Y최소§!)."
+ACOT_MEDIAN_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하고 가장 긴 무기와 가장 짧은 사거리의 무기 사이를 돌며 돌아갑니다. (§Y중앙값§!)."
+ACOT_MAX_ORBIT_DESC:  "§H회피 전술:§! 배는 사거리가 가장 긴 무기를 사용하여 적에게 돌진하고 주위를 돌게 됩니다. (§Y최대§!)."
+ACOT_30_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하고 범위 30을 중심으로 선회합니다. (§Y30§!)."
+ACOT_60_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하고 범위 60을 중심으로 선회합니다. (§Y60§!)."
+ACOT_90_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하고 90 범위를 중심으로 선회합니다. (§Y90§!)."
+ACOT_150_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하고 150 범위 내에서 선회합니다. (§Y150§!)."
+ACOT_200_ORBIT_DESC:  "§H회피 전술:§! 함선은 적에게 돌진하여 200 범위 내에서 선회합니다. (§Y200§!)."
+
+ACOT_MIN_PLATFORM_DESC:  "§H감시 모드:§! 플랫폼은 최단 거리 무기를 사용할 수 있을 때까지 적에게 돌진합니다. (§Y요금§!)."
+ACOT_MAX_PLATFORM_DESC:  "§H가디언 모드:§! 플랫폼은 항성기지 근처에 머물며 대형을 벗어나지 않습니다. (§Y고정식§!)."
+
+ACOT_FREE_TACTICS_DESC:  "§H자유 전술:§! 군함은 전술 사령부의 결정에 따르며 자체적으로 이동하지 않습니다. (§Y수동 제어§!)."
+
+ACOT_TACTIC_MIN_STATIOANRY:  "최소 라인 전술 컴퓨터"
+ACOT_TACTIC_MIN_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_30_STATIOANRY:  "30R 라인 전술 컴퓨터"
+ACOT_TACTIC_30_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_60_STATIOANRY:  "60R 라인 전술 컴퓨터"
+ACOT_TACTIC_60_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_90_STATIOANRY:  "90R 라인 전술 컴퓨터"
+ACOT_TACTIC_90_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_150_STATIOANRY:  "120R 라인 전술 컴퓨터"
+ACOT_TACTIC_150_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_MEDIAN_STATIOANRY:  "중앙선 전술 컴퓨터"
+ACOT_TACTIC_MEDIAN_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_MAX_STATIOANRY:  "Max Line 전술 컴퓨터"
+ACOT_TACTIC_MAX_STATIOANRY_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_MIN_ORBIT:  "최소 회피 전술 컴퓨터"
+ACOT_TACTIC_MIN_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_30_ORBIT:  "30R 회피 전술 컴퓨터"
+ACOT_TACTIC_30_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_60_ORBIT:  "60R 회피 전술 컴퓨터"
+ACOT_TACTIC_60_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_90_ORBIT:  "90R 회피 전술 컴퓨터"
+ACOT_TACTIC_90_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_150_ORBIT:  "150R 회피 전술 컴퓨터"
+ACOT_TACTIC_150_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_MEDIAN_ORBIT:  "중앙값 회피 전술 컴퓨터"
+ACOT_TACTIC_MEDIAN_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_MAX_ORBIT:  "최대 회피 전술 컴퓨터"
+ACOT_TACTIC_MAX_ORBIT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_FREE:  "수동 전술 컴퓨터"
+ACOT_TACTIC_FREE_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_PLATFORM_PROTECT:  "Guardian 전술 컴퓨터"
+ACOT_TACTIC_PLATFORM_PROTECT_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_TACTIC_PLATFORM_GOHAM:  "센티넬 전술 컴퓨터"
+ACOT_TACTIC_PLATFORM_GOHAM_DESC:  "전술 컴퓨터는 적과의 전투에서 선박이 어떻게 기동하는지를 지시합니다."
+
+ACOT_LR_BEHAVIOR_DESC:  "§H중포병:§! 함선은 다른 함선으로부터 더 멀리 떨어져 목표물에 제압 사격을 가합니다. (§Y120§!)."
+ACOT_MAX_RANGE_BEHAVIOR_DESC:  "§H후위 지원:§! 선박은 가장 멀리 떨어져 있고 다른 선박 뒤에 숨어 장거리 무기로 지원합니다.(§YMAX§!)"
+CARRIER_STATION_BEHAVIR_DESC:  "§H돌격모함:§! 이 함선은 다가오는 적군을 향해 전방을 향하지만 더 이상 전진하지는 않습니다. 이를 통해 적들이 다른 무기를 발사하기 위해 접근할 때까지 모선이 위험에 빠지지 않고 공격기들이 적들에게 접근할 수 있습니다."
+CARRIER_AVOID_BEHAVIR_DESC:  "§H회피 항공모함:§! 이 선박은 다가오는 적을 향해 전방을 향합니다. 적이 너무 가까워지면 선박은 회피를 시도하여 범위 밖으로 이동합니다. 이를 통해 모선이 보복을 피하는 동안 공습기가 적 함선을 침몰시킬 수 있습니다. 그러나 이는 함선이 적의 정면을 향하지 않기 때문에 대부분의 척추(XL/T)가 작동하지 않음을 의미합니다."
+################################################ AURA DRIVE ################################################
+
+
+station_small_aura_components:  "스몰"
+station_medium_aura_components:  "플레브"
+station_large_aura_components:  "빅보이"
+
+#### ISC AURA
+
+acot_isc_aura:  "ISC 간섭 매트릭스"
+acot_isc_aura_desc:  "ISC 간섭 매트릭스"
+
+ACOT_ISC_AURA_EMPTY:  "보조 발전기"
+ACOT_ISC_AURA_EMPTY_DESC:  "간섭 매트릭스 대신 보조 발전기를 장착하여 전력을 절약하십시오."
+
+ACOT_ISC_AURA_EMP_FIELD:  "EMP 분야"
+ACOT_ISC_AURA_EMP_FIELD_DESC:  "각 ISC에 단거리 전자기 펄스장을 장착하여 적의 보호막과 운동 장벽의 강도를 감소시킵니다.\n\n§Y반경§!: 30"
+acot_aura_isc_emp:  "EMP 분야"
+
+ACOT_ISC_AURA_BUZZDROID:  "버즈드로이드"
+ACOT_ISC_AURA_BUZZDROID_DESC:  "각 ISC에 방패를 무시하면서 소형 선박의 선체를 천천히 찢어버리는 Buzzdroid 팩을 장착합니다.\n\n§Y반경§!: 30"
+acot_aura_isc_buzzdroid:  "버즈드로이드"
+
+ACOT_ISC_AURA_TRACKING_JAMMER:  "타겟팅 간섭 매트릭스"
+ACOT_ISC_AURA_TRACKING_JAMMER_DESC:  "각 ISC에 적함의 표적 추적 및 발견 능력을 크게 방해하는 단거리 간섭 매트릭스를 장착합니다.\n\n§Y반경§! : 30"
+acot_aura_isc_tracking_jammer:  "타겟팅 간섭 매트릭스"
+
+ACOT_ISC_AURA_TRACTOR_FIELD:  "스네어링 필드"
+ACOT_ISC_AURA_TRACTOR_FIELD_DESC:  "각 ISC에 적함의 이동 및 회피 능력을 크게 방해하는 단거리 스네어링 필드를 장착합니다.\n\n§Y반경§!: 30"
+acot_aura_isc_tractor_field:  "스네어링 필드"
+
+ACOT_ISC_AURA_SC_NERFER:  "신경망 떼"
+ACOT_ISC_AURA_SC_NERFER_DESC:  "각 ISC에 단거리 신경망 군집 장치를 장착하여 적 항공모함이 공습함을 지휘하는 능력을 크게 방해합니다.\n\n§Y반경§! : 30"
+acot_aura_isc_sc_nerfer:  "신경망 떼"
+#### SUPPORT OFFENSIVE AURA
+
+ACOT_AURA_OFFENSIVE_EMPTY:  "보조 발전기"
+ACOT_AURA_OFFENSIVE_EMPTY_DESC:  "공간 조작장 대신 보조 발전기를 장착하여 전력을 절약하세요."
+
+ACOT_AURA_DEFENSIVE_EMPTY:  "보조 발전기"
+ACOT_AURA_DEFENSIVE_EMPTY_DESC:  "공간 조작장 대신 보조 발전기를 장착하여 전력을 절약하세요."
+
+ACOT_AURA_DEFENSE_JAMMER:  "방어억제제 분야"
+ACOT_AURA_DEFENSE_JAMMER_DESC:  "적의 방어막과 운동 장벽의 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_defense_jammer:  "방어억제제 분야"
+
+ACOT_AURA_DPS_JAMMER:  "전력감쇠장"
+ACOT_AURA_DPS_JAMMER_DESC:  "적의 화력 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_dps_jammer:  "전력감쇠장"
+
+ACOT_AURA_TARGETING_JAMMER:  "방해 전파 시스템 타겟팅"
+ACOT_AURA_TARGETING_JAMMER_DESC:  "적의 타겟팅 센서의 효율성을 감소시키는 강력한 간섭 매트릭스입니다.\n\n§Y반경§!: 100"
+acot_aura_targeting_jammer:  "방해 전파 시스템 타겟팅"
+
+ACOT_AURA_MOBILITY_JAMMER:  "부분공간 간섭장"
+ACOT_AURA_MOBILITY_JAMMER_DESC:  "적의 기동성 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_mobility_jammer:  "부분공간 간섭장"
+
+ACOT_AURA_FTL_JAMMER:  "중력 우물 생성기"
+ACOT_AURA_FTL_JAMMER_DESC:  "적의 FTL 시스템의 효율성을 감소시키는 강력한 보이지 않는 부분 공간 필드입니다.\n\n§Y반경§!: 200"
+acot_aura_ftl_jammer:  "중력 우물 생성기"
+
+#### SUPPORT DEFENSIVE AURA
+
+ACOT_AURA_DEFENSE_BUFFER:  "방어 매트릭스 필드"
+ACOT_AURA_DEFENSE_BUFFER_DESC:  "아군의 보호막과 운동 장벽의 효율성을 높이는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_defense_buffer:  "방어 매트릭스 필드"
+
+ACOT_AURA_DPS_BUFFER:  "전력 서지 분야"
+ACOT_AURA_DPS_BUFFER_DESC:  "아군의 화력 효율성을 높이는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_dps_buffer:  "전력 서지 분야"
+
+ACOT_AURA_MOBILITY_BUFFER:  "부분 공간 내비게이터 시스템"
+ACOT_AURA_MOBILITY_BUFFER_DESC:  "아군의 이동 효율성을 높이는 강력한 하위 공간 내비게이터입니다.\n\n§Y반경§!: 100"
+acot_aura_mobility_buffer:  "부분 공간 내비게이터 시스템"
+
+ACOT_AURA_TARGETING_BUFFER:  "네트워크 배열 타겟팅"
+ACOT_AURA_TARGETING_BUFFER_DESC:  "동맹국의 타겟팅 컴퓨터의 효율성을 높이는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_targeting_buffer:  "네트워크 배열 타겟팅"
+
+ACOT_AURA_REGENERATION_BUFFER:  "재생 분야"
+ACOT_AURA_REGENERATION_BUFFER_DESC:  "아군의 선체 지점을 점진적으로 복원하는 강력한 보이지 않는 하위 공간 필드입니다.\n\n§Y반경§!: 100"
+acot_aura_regeneration_buffer:  "재생 분야"
+
+#### FLAGSHIP OFFENSIVE AURA
+
+ACOT_AURA_OFFENSIVE_EMPTY_FLAGSHIP:  "보조 발전기"
+ACOT_AURA_OFFENSIVE_EMPTY_FLAGSHIP_DESC:  "공간 조작장 대신 보조 발전기를 장착하여 전력을 절약하세요."
+
+ACOT_AURA_DEFENSE_JAMMER_FLAGSHIP:  "첨단방어억제제 분야"
+ACOT_AURA_DEFENSE_JAMMER_FLAGSHIP_DESC:  "적의 보호막과 키네틱 장벽의 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_defense_jammer_flagship:  "첨단방어억제제 분야"
+
+ACOT_AURA_DPS_JAMMER_FLAGSHIP:  "고급 전력 감쇠 분야"
+ACOT_AURA_DPS_JAMMER_FLAGSHIP_DESC:  "적의 화력 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_dps_jammer_flagship:  "고급 전력 감쇠 분야"
+
+ACOT_AURA_TARGETING_JAMMER_FLAGSHIP:  "고급 타겟팅 방해 전파 시스템"
+ACOT_AURA_TARGETING_JAMMER_FLAGSHIP_DESC:  "적의 조준 센서의 효율성을 감소시키는 강력한 간섭 매트릭스입니다."
+acot_aura_targeting_jammer_flagship:  "고급 타겟팅 방해 전파 시스템"
+
+ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP:  "고급 부분공간 간섭장"
+ACOT_AURA_MOBILITY_JAMMER_FLAGSHIP_DESC:  "적의 기동력을 감소시키는 강력한 보이지 않는 부분공간장입니다."
+acot_aura_mobility_jammer_flagship:  "고급 부분공간 간섭장"
+
+ACOT_AURA_FTL_JAMMER_FLAGSHIP:  "고급 중력 우물 생성기"
+ACOT_AURA_FTL_JAMMER_FLAGSHIP_DESC:  "적의 FTL 시스템의 효율성을 감소시키는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_ftl_jammer_flagship:  "고급 중력 우물 생성기"
+
+#### FLAGSHIP DEFENSIVE AURA
+
+ACOT_AURA_DEFENSIVE_EMPTY_FLAGSHIP:  "보조 발전기"
+ACOT_AURA_DEFENSIVE_EMPTY_FLAGSHIP_DESC:  "공간 조작장 대신 보조 발전기를 장착하여 전력을 절약하세요."
+
+ACOT_AURA_DEFENSE_BUFFER_FLAGSHIP:  "첨단방어 매트릭스 분야"
+ACOT_AURA_DEFENSE_BUFFER_FLAGSHIP_DESC:  "아군의 쉴드와 키네틱 장벽의 효과를 증가시키는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_defense_buffer_flagship:  "첨단방어 매트릭스 분야"
+
+ACOT_AURA_DPS_BUFFER_FLAGSHIP:  "첨단전력서지분야"
+ACOT_AURA_DPS_BUFFER_FLAGSHIP_DESC:  "아군의 화력 효율성을 증가시키는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_dps_buffer_flagship:  "첨단전력서지분야"
+
+ACOT_AURA_MOBILITY_BUFFER_FLAGSHIP:  "고급 부분공간 내비게이터 시스템"
+ACOT_AURA_MOBILITY_BUFFER_FLAGSHIP_DESC:  "아군의 기동성 효율성을 높이는 강력한 하위 공간 내비게이터입니다."
+acot_aura_mobility_buffer_flagship:  "고급 부분공간 내비게이터 시스템"
+
+ACOT_AURA_TARGETING_BUFFER_FLAGSHIP:  "고급 타겟팅 네트워크 배열"
+ACOT_AURA_TARGETING_BUFFER_FLAGSHIP_DESC:  "아군의 조준 컴퓨터의 효율성을 높이는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_targeting_buffer_flagship:  "고급 타겟팅 네트워크 배열"
+
+ACOT_AURA_REGENERATION_BUFFER_FLAGSHIP:  "첨단재생 분야"
+ACOT_AURA_REGENERATION_BUFFER_FLAGSHIP_DESC:  "아군의 선체 포인트를 점진적으로 복원하는 강력한 보이지 않는 하위 공간 필드입니다."
+acot_aura_regeneration_buffer_flagship:  "첨단재생 분야"
+
+#### FLAGSHIP UTILITY AURA
+
+ACOT_AURA_UTILITY_EMPTY_FLAGSHIP:  "보조 발전기"
+ACOT_AURA_UTILITY_EMPTY_FLAGSHIP_DESC:  "공간 조작장 대신 보조 발전기를 장착하여 전력을 절약하세요."
+
+ACOT_AURA_UTILITY_EVASION_NULLIFIER:  "부분 공간 왜곡 필드"
+ACOT_AURA_UTILITY_EVASION_NULLIFIER_DESC:  "로컬 공간 내에 강력한 왜곡 필드를 생성하여 양측의 모든 회피 컴퓨터가 실패하게 만드는 양날의 검 조작 필드입니다."
+acot_aura_utility_evasion_nullifier_hostile:  "부분 공간 왜곡 필드"
+acot_aura_utility_evasion_nullifier_friendly:  "부분 공간 왜곡 필드"
+
+ACOT_AURA_UTILITY_GUARDIAN_SHIELD:  "가디언 쉴드"
+ACOT_AURA_UTILITY_GUARDIAN_SHIELD_DESC:  "기함은 성계 내 모든 아군 함선을 보호하는 강력한 장벽을 방출할 수 있습니다."
+acot_aura_utility_guardian_shield:  "가디언 쉴드"
+
+ACOT_AURA_UTILITY_UPKEEP_REDUCER:  "웨이포인트 물류 노드"
+ACOT_AURA_UTILITY_UPKEEP_REDUCER_DESC:  "이 이동식 웨이포인트 텔레포터를 사용하면 기함은 시스템 내 선박의 교체 부품을 효율적으로 운송할 수 있을 뿐만 아니라 긴급 FTL에서 손상된 선박에 사용할 수 있는 뛰어난 앵커를 제공할 수 있습니다."
+acot_aura_utility_upkeep_reducer:  "웨이포인트 물류 노드"
+
+ACOT_AURA_UTILITY_JUMP_COORDINATOR:  "점프 코디네이터"
+ACOT_AURA_UTILITY_JUMP_COORDINATOR_DESC:  "이 모듈을 사용하면 기함이 보다 효율적인 점프를 달성하기 위해 모든 선박에 연결할 수 있는 강력한 참조 네트워크 지점 역할을 할 수 있습니다."
+acot_aura_utility_jump_coordinator:  "점프 코디네이터"
+
+ACOT_AURA_UTILITY_GAP_GENERATOR:  "모바일 갭 생성기"
+ACOT_AURA_UTILITY_GAP_GENERATOR_DESC:  "기함이 있는 성계를 적의 센서로부터 가리고 이 성계로 뛰어드는 것을 방지하는 강력한 교란 장을 생성합니다."
+acot_aura_utility_evasion_nullifier_hostile:  "갭 생성기"
+
+ACOT_AURA_UTILITY_ACADEMY:  "병렬전투분석컴퓨터"
+ACOT_AURA_UTILITY_ACADEMY_DESC:  "모든 전투를 실시간으로 대규모 세부 정보로 검토할 수 있으므로 선박 승무원이 훨씬 더 빠르게 경험을 얻을 수 있습니다."
+acot_aura_utility_academy:  "병렬 전투 분석가"
+

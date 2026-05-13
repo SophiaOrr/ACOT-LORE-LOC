@@ -1,0 +1,498 @@
+﻿l_korean:
+
+#### SR ###
+ 
+acot_fallen_empire_repeatable_buff:  "몰락한 제국 선한 사람"
+acot_fallen_empire_repeatable_buff_desc:  "하지만 나쁜 소년"
+
+weapon_type_acot_enigmatic:  "§E수수께끼의 무기§!"
+weapon_type_acot_runic:  "§R룬 문자 무기§!"
+weapon_type_acot_stellarite:  "§H스텔라라이트 무기§!"
+weapon_type_acot_psionic:  "§M사이오닉 무기§!"
+
+ACOT_DARK_MATTER_REACTOR_DM_TOOLTIP:  "펄서 별, 우주 폭풍 및 톡소이드 별의 부정적인 효과에 대해 보호막 및 방어구 무효화 저항을 §G50%§! 부여합니다."
+ACOT_DARK_MATTER_THRUSTERS_DM_TOOLTIP:  "Neutron Stas의 부정적인 효과에 대해 속도 감소 저항을 §G50%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_DM_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G50%§! 저항을 부여합니다."
+
+ACOT_DARK_MATTER_REACTOR_AE_TOOLTIP:  "펄서 별, 톡소이드 별 및 모든 유형의 스페이스 스톰의 부정적인 효과에 대해 §G100%§! 방패 및 방어구 무효화 저항을 부여합니다.\n\n블랙홀 또는 공허 별이 있는 시스템에서 작동할 때 발사 속도 및 피해 보너스가 §G10%§! 부여됩니다."
+ACOT_DARK_MATTER_THRUSTERS_AE_TOOLTIP:  "중성자별의 부정적인 효과에 대해 속도 감소 저항을 §G100%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_AE_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G100%§! 저항을 부여합니다."
+
+ACOT_DARK_MATTER_REACTOR_PE_TOOLTIP:  "펄서 별, 톡소이드 별 및 모든 유형의 스페이스 스톰의 부정적인 효과에 대해 §G100%§! 방패 및 방어구 무효화 저항을 부여합니다.\n\n블랙홀 또는 공허 별이 있는 시스템에서 작동할 때 발사 속도 및 피해 보너스가 §G10%§! 부여됩니다."
+ACOT_DARK_MATTER_THRUSTERS_PE_TOOLTIP:  "중성자별의 부정적인 효과에 대해 속도 감소 저항을 §G100%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_PE_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G100%§! 저항을 부여합니다."
+
+ACOT_DARK_MATTER_REACTOR_RE_TOOLTIP:  "Pulsar Stars, Toxoid Star 및 모든 유형의 Space Storm의 부정적인 효과에 대해 §G100%§! 방패 및 방어구 무효화 저항을 부여합니다.\n\블랙홀 또는 공허 별이 있는 시스템에서 작동할 때 발사 속도 및 피해 보너스를 §G10%§! 부여합니다."
+ACOT_DARK_MATTER_THRUSTERS_RE_TOOLTIP:  "중성자별의 부정적인 효과에 대해 속도 감소 저항을 §G100%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_RE_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G100%§! 저항을 부여합니다."
+
+ACOT_DARK_MATTER_REACTOR_SE_TOOLTIP:  "펄서 별, 톡소이드 별 및 모든 유형의 우주 폭풍의 부정적인 효과에 대해 §G100%§! 방패 및 갑옷 무효화 저항을 부여합니다."
+ACOT_DARK_MATTER_THRUSTERS_SE_TOOLTIP:  "중성자별의 부정적인 효과에 대해 속도 감소 저항을 §G100%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_SE_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G100%§! 저항을 부여합니다."
+
+ACOT_DARK_MATTER_REACTOR_OE_TOOLTIP:  "펄서 별, 톡소이드 별 및 모든 유형의 우주 폭풍의 부정적인 효과에 대해 §G100%§! 방패 및 갑옷 무효화 저항을 부여합니다."
+ACOT_DARK_MATTER_THRUSTERS_OE_TOOLTIP:  "중성자별의 부정적인 효과에 대해 속도 감소 저항을 §G100%§! 부여합니다."
+ACOT_DARK_MATTER_FTL_OE_TOOLTIP:  "블랙홀의 부정적인 효과에 대해 §G100%§! 저항을 부여합니다."
+
+weapon_type_explosive_speed_mult:  "미사일 속도"
+mod_weapon_type_explosive_speed_mult:  "미사일 속도"
+ 
+acot_sr_light_matter:  "빛 에너지"
+acot_sr_dark_energy:  "암흑에너지"
+acot_sr_stellarite:  "스텔라라이트 에너지"
+acot_sr_dark_energy_desc:  "암흑 물질의 도움을 통해서만 얻을 수 있는 강력한 수수께끼의 힘입니다."
+acot_sr_stellarite_desc:  "별과 그 너머의 힘을 완전히 장악하여 얻은 신비로운 우주 에너지입니다."
+acot_sr_light_matter_desc:  "스텔라본이 활용하는 무한한 힘의 원천. 빛은 우리와 같은 저차원 생명체가 사용하도록 수정될 수 있습니다."
+ 
+weapon_type_explosive_speed_mult:  "미사일 이동 속도"
+shipsize_science_hull_add:  "과학선 선체 강도"
+shipsize_colonizer_hull_add:  "식민지 개척자 선체 강도"
+shipsize_constructor_hull_add:  "생성자 강도"
+### SHIP TEXTS
+mod_shipsize_fe_escort_hull_add:  "호위 선체 포인트"
+mod_shipsize_fe_battlecruiser_hull_add:  "전투순양함 선체 포인트"
+mod_shipsize_fe_titan_hull_add:  "타락한 타이탄 선체 포인트"
+mod_shipsize_fe_goliath_hull_add:  "골리앗 헐 포인트"
+ 
+mod_shipsize_fe_escort_build_speed_mult:  "호위 구축 속도"
+mod_shipsize_fe_battlecruiser_build_speed_mult:  "전투순양함 제작 속도"
+mod_shipsize_fe_titan_build_speed_mult:  "타락한 타이탄 건설 속도"
+mod_shipsize_fe_goliath_build_speed_mult:  "골리앗 빌드 속도"
+ 
+mod_shipsize_fe_escort_build_cost_mult:  "호위 건설 비용"
+mod_shipsize_fe_battlecruiser_build_cost_mult:  "전투순양함 제작 비용"
+mod_shipsize_fe_titan_build_cost_mult:  "몰락한 타이탄 제작 비용"
+mod_shipsize_fe_goliath_build_cost_mult:  "골리앗 제작 비용"
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_DM:  "헤라클레스의 거대 컴퓨터"
+BASE_COMBAT_COMPUTER_COLOSSUS_DM_DESC:  "우주 기지에서 활용되는 것을 개조한 헤라클레스 전투 기지의 초기 프로토타입입니다." 
+ 
+ACOT_LR_BEHAVIOR_DESC:  "§H중포병:§! 함선은 다른 함선으로부터 더 멀리 떨어져 목표물에 제압 사격을 가합니다. (§Y120§!)."
+ACOT_MAX_RANGE_BEHAVIOR_DESC:  "§H후위 지원:§! 선박은 가장 멀리 떨어져 있고 다른 선박 뒤에 숨어 장거리 무기로 지원합니다.(§YMAX§!)"
+CARRIER_STATION_BEHAVIR_DESC:  "§H돌격모함:§! 이 함선은 다가오는 적군을 향해 전방을 향하지만 더 이상 전진하지는 않습니다. 이를 통해 적들이 다른 무기를 발사하기 위해 접근할 때까지 모선이 위험에 빠지지 않고 공격기들이 적들에게 접근할 수 있습니다."
+CARRIER_AVOID_BEHAVIR_DESC:  "§H회피 항공모함:§! 이 선박은 다가오는 적을 향해 전방을 향합니다. 적이 너무 가까워지면 선박은 회피를 시도하여 범위 밖으로 이동합니다. 이를 통해 모선이 보복을 피하는 동안 공습기가 적 함선을 침몰시킬 수 있습니다. 그러나 이는 함선이 적의 정면을 향하지 않기 때문에 대부분의 척추(XL/T)가 작동하지 않음을 의미합니다."
+ 
+################################################ DEFAULT #
+ 
+BASE_DM_REACTOR:  "수정된 영점 원자로"
+BASE_DM_REACTOR_DESC:  "자원이 부족한 시기에 사용하기 위한 전구체 선박용 제로 포인트 원자로의 수정된 변형입니다."
+ 
+BASE_DM_REACTOR_SMALL:  "수정된 영점 원자로"
+BASE_DM_REACTOR_SMALL_DESC:  "자원이 부족한 시기에 사용하기 위한 전구체 선박용 제로 포인트 원자로의 수정된 변형입니다."
+ 
+BASE_DM_REACTOR_MEDIUM:  "수정된 영점 원자로"
+BASE_DM_REACTOR_MEDIUM_DESC:  "자원이 부족한 시기에 사용하기 위한 전구체 선박용 제로 포인트 원자로의 수정된 변형입니다."
+ 
+BASE_DM_REACTOR_LARGE:  "수정된 영점 원자로"
+BASE_DM_REACTOR_LARGE_DESC:  "자원이 부족한 시기에 사용하기 위한 전구체 선박용 제로 포인트 원자로의 수정된 변형입니다."
+ 
+BASE_DM_COMPUTER:  "기본 델픽 전투 컴퓨터"
+BASE_DM_COMPUTER_DESC:  "1세대 고급 컴퓨터. 기본적인 전투 계산이 가능합니다."
+ 
+BASE_DM_COMPUTER_LINE:  "기본 델픽 전투 컴퓨터"
+BASE_DM_COMPUTER_LINE_DESC:  "1세대 고급 컴퓨터. 기본적인 전투 계산이 가능합니다."
+ 
+BASE_DM_THRUSTER:  "수정된 임펄스 추진기"
+BASE_DM_THRUSTER_DESC:  "긴급 상황 발생 시 선구자 선박용으로 수정된 임펄스 추진기."
+ 
+BASE_DM_THRUSTER_LARGE:  "수정된 임펄스 추진기"
+BASE_DM_THRUSTER_LARGE_DESC:  "긴급 상황 발생 시 선구자 선박용으로 수정된 임펄스 추진기."
+ 
+BASE_DM_THRUSTER_TITAN:  "수정된 임펄스 추진기"
+BASE_DM_THRUSTER_TITAN_DESC:  "긴급 상황 발생 시 선구자 선박용으로 수정된 임펄스 추진기."
+
+ACOT_PRECURSOR_SMALL_CLOAKING_3:  "$CLOAKING_3$"
+ACOT_PRECURSOR_SMALL_CLOAKING_3_DESC:  "$CLOAKING_3_DESC$"
+ACOT_PRECURSOR_SMALL_CLOAKING_DARK_MATTER:  "$CLOAKING_DARK_MATTER$"
+ACOT_PRECURSOR_SMALL_CLOAKING_DARK_MATTER_DESC:  "$CLOAKING_DARK_MATTER_DESC$"
+ACOT_PRECURSOR_SMALL_CLOAKING_PSI:  "$CLOAKING_PSI$"
+ACOT_PRECURSOR_SMALL_CLOAKING_PSI_DESC:  "$CLOAKING_PSI_DESC$"
+
+ACOT_PRECURSOR_LARGE_CLOAKING_3:  "$CLOAKING_3$"
+ACOT_PRECURSOR_LARGE_CLOAKING_3_DESC:  "$CLOAKING_3_DESC$"
+ACOT_PRECURSOR_LARGE_CLOAKING_DARK_MATTER:  "$CLOAKING_DARK_MATTER$"
+ACOT_PRECURSOR_LARGE_CLOAKING_DARK_MATTER_DESC:  "$CLOAKING_DARK_MATTER_DESC$"
+ACOT_PRECURSOR_LARGE_CLOAKING_PSI:  "$CLOAKING_PSI$"
+ACOT_PRECURSOR_LARGE_CLOAKING_PSI_DESC:  "$CLOAKING_PSI_DESC$"
+
+############### COMBAT CAMPUTOR
+ 
+DM_COMBAT_COMPUTER_SMALL_1:  "델픽 전투 컴퓨터(스웜)"
+DM_COMBAT_COMPUTER_SMALL_1_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_SMALL_2:  "델픽 전투 컴퓨터(피켓)"
+DM_COMBAT_COMPUTER_SMALL_2_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_SMALL_3:  "델픽 전투 컴퓨터(라인)"
+DM_COMBAT_COMPUTER_SMALL_3_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_SMALL_4:  "델픽 전투 컴퓨터(포병)" 
+DM_COMBAT_COMPUTER_SMALL_4_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_LARGE_1:  "델픽 전투 컴퓨터(피켓)"
+DM_COMBAT_COMPUTER_LARGE_1_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_LARGE_2:  "델픽 전투 컴퓨터(라인)"
+DM_COMBAT_COMPUTER_LARGE_2_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_LARGE_3:  "델픽 전투 컴퓨터(포병)"
+DM_COMBAT_COMPUTER_LARGE_3_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_LARGE_4:  "델픽 전투 컴퓨터(중포병)"
+DM_COMBAT_COMPUTER_LARGE_4_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_TITAN_1:  "델픽 전투 컴퓨터(라인)"
+DM_COMBAT_COMPUTER_TITAN_1_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_TITAN_2:  "델픽 전투 컴퓨터(포병)"
+DM_COMBAT_COMPUTER_TITAN_2_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_TITAN_3:  "델픽 전투 컴퓨터(중포병)"
+DM_COMBAT_COMPUTER_TITAN_3_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_TITAN_4:  "Delphic 전투 컴퓨터(백라인 지원)"
+DM_COMBAT_COMPUTER_TITAN_4_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_CAPITAL_1:  "델픽 전투 컴퓨터(포병)"
+DM_COMBAT_COMPUTER_CAPITAL_1_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_CAPITAL_2:  "델픽 전투 컴퓨터(중포병)"
+DM_COMBAT_COMPUTER_CAPITAL_2_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+DM_COMBAT_COMPUTER_CAPITAL_3:  "Delphic 전투 컴퓨터(백라인 지원)" 
+DM_COMBAT_COMPUTER_CAPITAL_3_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+TOWER_COMBAT_COMPUTER:  "델픽 전투 컴퓨터(플랫폼)" 
+TOWER_COMBAT_COMPUTER_DESC:  "이 고급 선박은 Delphic 기반 기계 시스템을 활용합니다. 모든 침입 시도에 영향을 받지 않으며 타의 추종을 불허하는 전투 알고리즘을 보유하고 있습니다."
+ 
+ 
+TECH_UNLOCK_DELTA_COMPUTER_TITLE:  "§H구성요소 잠금 해제:§! Delphic 전투 컴퓨터"
+TECH_UNLOCK_DELTA_COMPUTER_DESC:  "Delphic 기계 시스템은 여러 면에서 합성 시스템과 유사합니다. 주요 차이점은 Synthetics는 진정한 자유 의지를 가지고 있는 반면 Delphic은 할당된 기능을 수행하려는 유일한 욕구를 가지고 만들어졌다는 것입니다. 그들은 자신의 목적과 역할을 이해합니다. 불행하게도 다른 유기물처럼 자유를 위해 비논리적인 결정과 집착을 할 수 있는 Synthetics와는 달리 이들은 임무의 중요성을 이해합니다.\n\n이는 Delphic Machines가 방법이나 이유에 대해 의문을 제기하지 않고 대의를 위해 기꺼이 죽을 것임을 의미합니다. 이는 많은 사람들의 마음을 괴롭혔던 잠재적인 멍청한 AI 반란의 모든 위험을 제거합니다. 이 시스템을 통해 몰락제국은 기계의 반란으로 고통받지 않고 자동인형을 유지할 수 있었습니다."
+tech_dm_combat_computer:  "델픽 머신 센티언스"
+tech_dm_combat_computer_desc:  "Delphic 기계 시스템은 여러 면에서 합성 시스템과 유사합니다. 주요 차이점은 Synthetics는 진정한 자유 의지를 가지고 있는 반면 Delphic은 할당된 기능을 수행하려는 유일한 욕구를 가지고 만들어졌다는 것입니다. 그들은 자신의 목적과 역할을 이해합니다. 불행하게도 다른 유기물처럼 자유를 위해 비논리적인 결정과 집착을 할 수 있는 Synthetics와는 달리 이들은 임무의 중요성을 이해합니다.\n\n이는 Delphic Machines가 방법이나 이유에 대해 의문을 제기하지 않고 대의를 위해 기꺼이 죽을 것임을 의미합니다. 이는 많은 사람들의 마음을 괴롭혔던 잠재적인 멍청한 AI 반란의 모든 위험을 제거합니다. 이 시스템을 통해 몰락제국은 기계의 반란으로 고통받지 않고 자동인형을 유지할 수 있었습니다."
+ 
+ 
+### WEAPONS CHECK OK #####
+ 
+SMALL_ACOT_LASER_DM:  "소형 델타 레이저"
+MEDIUM_ACOT_LASER_DM:  "중간 델타 레이저"
+LARGE_ACOT_LASER_DM:  "대형 델타 레이저"
+ACOT_LASER_DM:  "델타 레이저"
+ACOT_LASER_DM_DESC:  "Delta Lasers는 암흑 에너지를 강력한 빔 무기로 활용합니다. 또한 이전 세대보다 보호막 과부하에 더 강력합니다."
+tech_laser_dm:  "델타 레이저"
+tech_laser_dm_desc:  "Delta Lasers는 암흑 에너지를 강력한 빔 무기로 활용합니다. 정밀도가 향상됨에 따라 Delta Laser는 매우 정확하고 정밀해졌습니다."
+ 
+ 
+SMALL_ACOT_PLASMA_DM:  "소형 델타 플라즈마 캐논"
+MEDIUM_ACOT_PLASMA_DM:  "중형 델타 플라즈마 캐논"
+LARGE_ACOT_PLASMA_DM:  "대형 델타 플라즈마 캐논"
+ACOT_PLASMA_DM:  "델타 플라즈마 캐논"
+ACOT_PLASMA_DM_DESC:  "델타 플라즈마 캐논은 이름에서 알 수 있듯이 집중된 암흑 에너지 발사체를 발사하여 열등한 함선의 장갑과 선체를 빠르게 녹입니다. 암흑 에너지 물질의 특성으로 인해 무기는 기존 플라즈마 무기보다 보호막에 더 잘 대처할 수 있습니다."
+tech_plasma_dm:  "델타 플라즈마 캐논"
+tech_plasma_dm_desc:  "휘발성 암흑 에너지는 플라즈마 기반 무기에 대한 이전 인식보다 훨씬 치명적인 강력한 무기로 사용될 수 있습니다."
+ 
+SMALL_ACOT_DISRUPTOR_DM:  "소형 델타 교란기"
+MEDIUM_ACOT_DISRUPTOR_DM:  "미디엄 델타 디스럽터"
+LARGE_ACOT_DISRUPTOR_DM:  "대형 델타 교란기"
+ACOT_DISRUPTOR_DM:  "델타 디스럽터"
+ACOT_DISRUPTOR_DM_DESC:  "Delta Disruptor는 암흑 에너지를 활용하여 이전 세대의 Disruptor에 비해 선박의 선체를 쉽게 찢습니다."
+tech_disruptor_dm:  "디스럽터 무기고 확장"
+tech_disruptor_dm_desc:  "새로운 Delta Disruptor의 파괴력을 높이기 위해 암흑 에너지를 명백하게 적용하는 것 외에도 모듈식 설계를 통해 마침내 이전 설계에서는 오랫동안 누락되었던 대형 변형을 배치할 수 있게 되었습니다. 게다가 보상을 위해"
+ 
+ACOT_ENERGY_CANNON_DM:  "델타 에너지 캐논"
+ACOT_ENERGY_CANNON_DM_DESC:  "암흑 에너지 캐논은 멀리서 집중된 암흑 에너지 광선을 발사하여 적 갑옷에 막대한 피해를 줍니다."
+tech_energy_cannon_dm:  "델타 에너지 캐논"
+tech_energy_cannon_dm_desc:  "우리는 에너지 기반 포병 무기의 가능성을 대부분 무시해 왔다는 사실이 이제 막 밝아졌습니다. 우리 군국주의 장교들과 과학자들 모두 이 명백한 감독에 당혹스러워합니다. 마치 알려지지 않은 더 높은 존재가 의도적으로 그것을 잊게 만든 것 같습니다. 아마도 에너지 기반 포병이 동일한 역할을 수행하지 않는 에너지 어뢰로 바뀌었기 때문일까요? 어쨌든 이 문제는 즉시 해결되어야 합니다."
+
+ACOT_ENERGY_TORPEDO_DM:  "델타 에너지 어뢰"
+ACOT_ENERGY_TORPEDO_DM_DESC:  "암흑 에너지는 조직을 녹이는 강력한 무기로 변신할 수 있습니다."
+tech_energy_torpedo_dm:  "델타 에너지 어뢰"
+tech_energy_torpedo_dm_desc:  "암흑 에너지 기반 무기의 원리를 기반으로 하는 이 세대의 에너지 어뢰는 에너지의 부정적인 특성을 플라즈마와 같은 발사체에 집중하여 적 선박의 선체를 빠르게 파괴합니다."
+ 
+ACOT_POINT_DEFENSE_DM:  "델타 지점 방어"
+SMALL_ACOT_POINT_DEFENSE_DM:  "단순화된 델타 지점 방어"
+MEDIUM_ACOT_POINT_DEFENSE_DM:  "집중된 델타 지점 방어"
+ACOT_POINT_DEFENSE_DM_DESC:  "이 암흑 에너지 지점 방어는 적의 미사일을 무력화하기 위해 순수한 암흑 에너지의 집중된 빔을 발사합니다. 광선은 기존 지점 방어보다 강력하므로 유효 범위가 약간 더 길어질 수 있습니다.\n\nPD가 아닌 포탑에 추가된 지점 방어는 미사일에만 발사됩니다."
+tech_point_defense_dm:  "모듈식 포인트 디펜스"
+tech_point_defense_dm_desc:  "명백한 정밀도 증가 외에도 새로운 Delta PDS는 이제 일반 지점 방어, 소형 또는 중형 포탑 모두에 배치될 수 있어 함대 전체의 유용성이 크게 향상됩니다.\n\n비PD 포탑에 추가된 지점 방어는 미사일에만 발사됩니다."
+ 
+SMALL_ACOT_MASS_DRIVER_DM:  "소형 델타 키네틱 블래스터"
+MEDIUM_ACOT_MASS_DRIVER_DM:  "중형 델타 키네틱 블래스터"
+LARGE_ACOT_MASS_DRIVER_DM:  "대형 델타 키네틱 블래스터"
+ACOT_MASS_DRIVER_DM:  "델타 키네틱 블래스터"
+ACOT_MASS_DRIVER_DM_DESC:  "Delta Kinetic Blaster는 Gauss Cannon보다 훨씬 향상되었습니다. 하드라이트 소재, 고급 센서 및 암흑 에너지를 도입하면 장갑에 대한 단점이 적은 극도로 발전된 발사체 발사기를 만들 수 있습니다."
+tech_mass_driver_dm:  "델타 키네틱 블래스터"
+tech_mass_driver_dm_desc:  "Delta Kinetic Blaster는 Gauss Cannon보다 훨씬 향상되었습니다. 하드라이트 소재, 고급 센서 및 암흑 에너지를 도입하면 장갑에 대한 단점이 적은 극도로 발전된 발사체 발사기를 만들 수 있습니다."
+ 
+ 
+ACOT_AUTOCANNON_DM:  "델타 자동포"
+MEDIUM_ACOT_AUTOCANNON_DM:  "중형 델타 자동포"
+LARGE_ACOT_AUTOCANNON_DM:  "대형 델타 자동포"
+ACOT_AUTOCANNON_DM_DESC:  "암흑 에너지와 하드라이트 재료를 활용하는 이전 세대의 기관포에 대한 개선으로 인해 훨씬 ​​더 높은 발사 속도를 생성할 수 있는 프로세스가 만들어졌습니다. 이러한 변경 사항을 통해 상당히 향상된 속도로 적의 보호막을 비활성화할 수 있습니다."
+tech_autocannons_dm:  "기관포 확장"
+tech_autocannons_dm_desc:  "암흑 에너지와 하드라이트 재료를 활용하는 이전 세대의 기관포에 대한 개선으로 인해 훨씬 ​​더 높은 발사 속도를 생성할 수 있는 프로세스가 만들어졌습니다. 이러한 변경 사항을 통해 상당히 향상된 속도로 적의 보호막을 비활성화할 수 있습니다."
+ 
+ACOT_MASS_ACCELERATOR_DM_LARGE:  "델타 매크로캐논"
+ACOT_MASS_ACCELERATOR_DM_LARGE_DESC:  "하드라이트 조작의 발전을 통해 우리는 무거운 하드라이트 발사체로 빠르게 발사되는 자동포를 수용할 수 있을 만큼 강력한 포탑을 만들 수 있습니다."
+tech_macrocannon_dm:  "매크로캐논"
+tech_macrocannon_dm_desc:  "새로운 모듈식 자동포 설계에 대한 몇 가지 실험을 거친 후, 우리는 엄청난 증가된 발사 속도와 공격 범위를 위해 약간의 화력만 희생하는 훨씬 더 치명적인 매크로포를 만드는 것이 가능하다고 믿습니다."
+ 
+ACOT_ARTILLERY_DM:  "델타 키네틱 포병"
+ACOT_ARTILLERY_DM_DESC:  "델타 포병은 순수 하드라이트로 제작된 동적으로 생성된 발사체를 무기로 사용하여 방패에 대해 매우 치명적이며 갑옷에 대해 더 좋습니다."
+tech_kinetic_artillery_dm:  "델타 키네틱 포병"
+tech_kinetic_artillery_dm_desc:  "델타 포병은 순수 하드라이트로 제작된 동적으로 생성된 발사체를 무기로 사용하여 방패에 대해 매우 치명적이며 갑옷에 대해 더 좋습니다. 뛰어난 조준 시스템은 또한 구형 모델보다 포병의 사거리를 훨씬 향상시킵니다."
+ 
+ACOT_FLAK_CANNON_DM:  "델타 방어 매트릭스"
+SMALL_ACOT_FLAK_CANNON_DM:  "델타 방어 매트릭스"
+MEDIUM_ACOT_FLAK_CANNON_DM:  "델타 방어 매트릭스"
+ACOT_FLAK_CANNON_DM_DESC:  "델타 방어 매트릭스는 하드라이트 블레이드 공세로 적 공격 항공기를 깎아내며 공격 항공기를 쉽게 분쇄합니다.\n\nPD가 아닌 포탑에 추가된 지점 방어는 공격 항공기에만 발사됩니다."
+tech_flak_batteries_dm:  "모듈식 운동 방어 매트릭스"
+tech_flak_batteries_dm_desc:  "오래된 Flak 기반 무기 시스템을 대체하는 것이 새로운 Kinetic-Defense System(KDS)입니다. 모듈식 설계로 더 많은 옵션이 가능하므로 기본 지점 방어 포탑 외에 중소형 포탑에 설치할 수 있습니다.\n\nPD가 아닌 포탑에 추가된 지점 방어는 타격기에만 발사됩니다."
+ 
+ACOT_MISSILE_DM:  "델타 미사일"
+MEDIUM_ACOT_MISSILE_DM:  "델타 미사일"
+ACOT_MISSILE_DM_DESC:  "암흑 에너지 추진기와 경광 재료를 더욱 강화하여 원래 속도의 거의 3배에 달하는 속도와 훨씬 더 내구성이 뛰어난 케이스를 갖춘 고급 미사일을 탄생시켰습니다. 새로운 델타 미사일은 엘리트 위협을 신속하게 제거할 수 있습니다."
+tech_missile_dm:  "모듈형 미사일 시스템"
+tech_missile_dm_desc:  "암흑 에너지 추진기와 경광 재료를 더욱 강화하여 훨씬 더 내구성이 뛰어나고 빠른 고급 미사일이 탄생했습니다. 최첨단 모듈식 설계 덕분에 중형 포탑에도 배치할 수 있습니다."
+ 
+ACOT_TORPEDO_DM:  "델타 어뢰"
+ACOT_TORPEDO_DM_DESC:  "델타 어뢰는 경광장갑으로 보호되며 충격 시 폭발하는 강력한 암흑 에너지를 포함하고 있어 기존 어뢰보다 성능이 뛰어납니다."
+tech_torpedo_dm:  "델타 어뢰"
+tech_torpedo_dm_desc:  "델타 어뢰는 경광장갑으로 보호되며 충격 시 폭발하는 강력한 암흑 에너지를 포함하고 있어 기존 어뢰보다 성능이 뛰어납니다."
+ 
+ACOT_SWARMER_MISSILES_DM:  "델타 클러스터 미사일"
+ACOT_SWARMER_MISSILES_DM_DESC:  "델타 클러스터 미사일은 제한된 생체공학 링크로 유도되어 더 높은 속도와 속도를 달성할 수 있으며 기본적인 회피 기동을 수행할 수 있어 격추하기가 매우 어렵습니다."
+tech_swarmer_missile_dm:  "델타 클러스터 미사일"
+tech_swarmer_missile_dm_desc:  "델타 클러스터 미사일은 제한된 생체공학 링크로 유도되어 더 높은 속도와 속도를 달성할 수 있으며 기본적인 회피 기동을 수행할 수 있어 격추하기가 매우 어렵습니다."
+ 
+ACOT_MISSILE_BARRAGE_DM:  "델타 로켓 사격 시스템"
+ACOT_MISSILE_BARRAGE_DM_DESC:  "화력을 높이기 위해 추적 기능을 희생하는 4연장 발사대에서 발사되는 치명적인 장거리 로켓 시스템입니다."
+tech_barrage_missile_dm:  "실험적인 미사일 포격 시스템"
+tech_barrage_missile_dm_desc:  "추진력, 폭발물, 하드 라이트 조작의 발전을 통해 우리는 폭발물 무기고를 개선할 수 있는 새로운 방법을 모색할 수 있습니다. 가장 까다로운 새로운 개념 중 하나는 대형 선박에 장착할 수 있는 새로운 무기 시스템입니다. 여러 번의 테스트를 거쳐 새로운 설계인 Delta Barrage System을 고안했습니다.\n\n페이로드의 양이 증가하면 추가 전용 조정이 필요하지만 화력, 범위 및 페이로드 생산량을 대폭 늘리기 위해 탄두의 추적 기능을 희생합니다."
+ 
+ACOT_MISSILE_XL_DM:  "델타 SMBS"
+ACOT_MISSILE_XL_DM_DESC:  "높은 추적 능력을 갖춘 한 쌍의 고속, 치명적이고 정확한 미사일을 발사하는 강력한 척추 기반 미사일 시스템입니다."
+tech_xl_missile_dm:  "척추 미사일 배터리 시스템"
+tech_xl_missile_dm_desc:  "우리 함대 사령관과 승무원들은 강력한 척추 고정형 폭발 무기가 부족하다는 사실에 항상 당황하고 있습니다. 이 요청을 통해 우리 과학팀은 다양한 당사자의 요구에 맞는 새로운 폭발성 무기를 고안할 영감을 얻었습니다. 델타 미사일 포대는 추적 및 추적이 가능하지만 가장 파악하기 어려운 표적을 추적할 수 있는 첨단 표적 시스템을 사용하여 장거리에서 빠르게 발사할 수 있는 극도로 진보된 탄두 발사기입니다."
+ 
+ACOT_MISSILE_NUKE_DM:  "델타 기가 탄두 발사기"
+ACOT_MISSILE_NUKE_DM_DESC:  "주력함을 제거하기 위해 현재까지 가장 큰 탑재량을 갖도록 설계된 대규모 어뢰 발사기입니다."
+tech_missile_nuke_dm:  "기가 탄두"
+tech_missile_nuke_dm_desc:  "캐피털 함선을 파괴하기 위한 무기의 필요성은 우리 해군 제독들에 의해 계속해서 반복되었습니다. 이것이 현재 진행 중인 프로젝트인 Delta-Giga Warhead로 이어졌습니다. 이 거대한 무기는 지금까지의 가장 큰 폭발 탑재량으로 이전 세대의 모든 미사일을 능가합니다. 어딘가에서 우리는 한 번의 직격으로 전체 함대는 물론 대형 캐피탈 함선까지 파괴할 수 있는 미사일을 제작했다는 사실에 자부심을 느낍니다."
+ 
+ACOT_PARTICLE_LANCE_DM:  "델타 에너지 랜스"
+ACOT_PARTICLE_LANCE_DM_DESC:  "델타 에너지 랜스는 집중된 암흑 에너지 광선으로 적의 갑옷을 관통합니다. 랜스는 에너지 보호막의 일부를 과부하시킬 만큼 강력합니다."
+tech_energy_lance_dm:  "델타 에너지 랜스"
+tech_energy_lance_dm_desc:  "델타 에너지 랜스는 집중된 암흑 에너지 광선으로 적의 갑옷을 관통합니다. 랜스는 에너지 보호막의 일부를 과부하시킬 만큼 강력합니다."
+ 
+ACOT_ARC_EMITTER_DM:  "델타 이미터"
+ACOT_ARC_EMITTER_DM_DESC:  "이 수수께끼의 무기는 암흑 에너지를 활용하여 그 특성상 적 함선의 내부 시스템에 큰 피해를 줄 수 있는 매우 치명적인 아크 방출기를 생성합니다."
+tech_arc_emitter_dm:  "델타 이미터"
+tech_arc_emitter_dm_desc:  "이 수수께끼의 무기는 암흑 에너지를 활용하여 그 특성상 적 함선의 내부 시스템에 큰 피해를 줄 수 있는 매우 치명적인 아크 방출기를 생성합니다."
+ 
+ACOT_MASS_ACCELERATOR_DM:  "델타 가속포"
+ACOT_MASS_ACCELERATOR_DM_DESC:  "암흑 에너지가 주입된 이 척추-포병 플랫폼의 고급 운동 시스템을 통해 발사체를 가속하면 델타 캐논은 강력한 대자본함 무기가 됩니다."
+tech_mass_accelerator_dm:  "델타 질량가속기포"
+tech_mass_accelerator_dm_desc:  "암흑 에너지가 주입된 이 척추-포병 플랫폼의 고급 운동 시스템을 통해 발사체를 가속하면 델타 캐논은 강력한 대자본함 무기가 됩니다."
+ 
+ACOT_PERDITION_BEAM_DM:  "델타 기가빔 캐논"
+ACOT_PERDITION_BEAM_DM_DESC:  "암흑 에너지의 도입으로 우리는 기존 Perdition Beam Design을 개선할 수 있습니다. 기가빔 캐논은 순수한 파괴의 광선을 발사할 수 있는 거대한 암흑 에너지 도관입니다."
+tech_perdition_beam_dm:  "델타 기가빔 캐논"
+tech_perdition_beam_dm_desc:  "암흑 에너지의 도입으로 우리는 기존 Perdition Beam Design을 개선할 수 있습니다. 기가빔 캐논은 순수한 파괴의 광선을 발사할 수 있는 거대한 암흑 에너지 도관입니다."
+ 
+ACOT_TITAN_EMITTER_DM:  "델타 타이탄 안정화 이미터"
+ACOT_TITAN_EMITTER_DM_DESC:  "훨씬 더 뛰어난 무기 안정성과 피해 가능성을 지닌 강력한 방출기입니다."
+tech_titan_emitter_dm:  "델타 타이탄 안정화 이미터"
+tech_titan_emitter_dm_desc:  "타이탄급 선박용 이미터 무기 개발을 시작한 지 오래되었습니다. 가장 중요한 측면은 일반 방출기가 다소 혼란스럽고 신뢰할 수 없는 방전과 달리 안정화된 방출기가 이제 지속적인 피해를 준다는 것입니다."
+ 
+ACOT_TITAN_ACCELERATOR_DM:  "타이탄 델타 가속포"
+ACOT_TITAN_ACCELERATOR_DM_DESC:  "극한 거리에 걸쳐 목표물을 공격할 수 있는 델타 타이타닉 규모의 질량 가속기입니다."
+tech_titan_accelerator_dm:  "타이탄 델타 가속기"
+tech_titan_accelerator_dm_desc:  "새롭게 개선된 가속 시스템과 강화된 철도를 통해 우리는 마침내 거대한 규모의 운동 가속기를 개발할 수 있게 되었습니다."
+ 
+ACOT_FIGHTERS_HANGAR_DM:  "델타 파이터스"
+ACOT_FIGHTERS_HANGAR_DM_DESC:  "델타 전투기는 모선의 타격 항공기에 대한 엄폐물을 제공할 뿐만 아니라 적의 더 큰 함선을 괴롭히도록 설계되었습니다. 그들이 가지고 있는 자동포는 방패에 특히 효과적입니다. 하지만 그들은 전용 도그파이터인 요격기에 취약합니다."
+ACOT_SCOUT_HANGAR_DM:  "델타 요격기"
+ACOT_SCOUT_HANGAR_DM_DESC:  "델타 요격기는 공중 우위를 위해 설계된 전용 도그파이터입니다. 전투기와 달리 요격체는 적 타격 항공기와 미사일을 모두 동일한 효율성으로 표적으로 삼습니다. 그러나 그들의 지점 방어 기반 무기는 더 큰 선박에는 전혀 효과적이지 않습니다."
+ACOT_BOMBERS_HANGAR_DM:  "델타 폭격기"
+ACOT_BOMBERS_HANGAR_DM_DESC:  "선구자 청사진을 기반으로 하는 이 새로운 타격 항공기는 이전 세대보다 훨씬 뛰어납니다. 암흑 에너지 추진 장치, 디플렉터, 하드 라이트 도금, 생체 공학 센서. 이러한 모든 요소로 인해 이러한 공격 선박은 더 큰 선박에 대항할 수 있는 강력한 적으로 만듭니다."
+ACOT_GUNSHIP_HANGAR_DM:  "델타 건쉽"
+ACOT_GUNSHIP_HANGAR_DM_DESC:  "건쉽은 장거리 화력 지원으로 대형 함선을 지원하는 데 탁월한 특수 공격기입니다. 그러나 소수의 숫자로 배치되며 강화하는 데 훨씬 더 오랜 시간이 걸립니다."
+tech_strike_craft_scout_dm:  "인터셉터 구현"
+tech_strike_craft_scout_dm_desc:  "현재 전투기는 스크리닝과 선박 괴롭힘 모두에 적합합니다. 우리가 연구한 기록은 적 타격 항공기에 맞서 에이스를 할 뿐만 아니라 적 미사일을 표적으로 삼고 모선을 보호하는 지점 방어 역할을 하는 헌신적인 도그 파이터에 대한 좋은 사례를 보여줍니다."
+tech_strike_craft_fighter_dm:  "델타 파이터스"
+tech_strike_craft_fighter_dm_desc:  "선구자 청사진을 바탕으로 특정 시점에 페르세우스 인터코프(Perseus Intercorp)라는 신비한 은하 세력이 타격기 배치에 관한 다양한 청사진과 전략을 의도적으로 제거한 것으로 밝혀졌습니다. 이로 인해 대부분의 후속 문명이 요격기 및 폭격기와 같은 다른 많은 종류의 공격기를 잊어버리게 되는 큰 변화가 발생했습니다. 우리 전략가의 얼굴이 창백해졌습니다. 우리는 왜 이렇게 당연한 사실을 무시했을까요? 미사일을 발사하고 호위함이라고 부르는 점만 제외하면 모양은 똑같고 완전히 새로운 유형의 코르벳함을 만들기로 결정한 방식과 같습니다.\n\n어쨌든 이 오류는 수정되어야 합니다. 타격 항공기는 이제 다른 타격 항공기를 추적하고 미사일에 대한 차단 기능을 제공하도록 설계된 요격체부터 전용 대함 외과 공격기 역할을 하는 폭격기, 이 두 가지를 혼합한 전투기에 이르기까지 다양한 디자인으로 나타납니다. 우리의 두뇌가 녹지 않고 Persues Intercorp의 의심스러운 행동이 결코 잊혀지지 않기를 바랍니다."
+tech_strike_craft_bomber_dm:  "폭격기 구현"
+tech_strike_craft_bomber_dm_desc:  "폭격기는 유망해 보이는 또 다른 새로운 분기 디자인입니다. 그들은 같은 크기의 함선에 비해 상당한 펀치를 담은 폭발 탑재량으로 적 함선에 대해 정확한 정밀 공격을 수행합니다. 폭격기는 적군을 괴롭힐 공격 항공기가 없을 때 더 매력적인 옵션을 제공해야 합니다."
+tech_strike_craft_gunship_dm:  "건쉽 구현"
+tech_strike_craft_gunship_dm_desc:  "타격기의 역할은 폭격기, 요격기, 전투기로 잘 정의되어 있지만 몇 가지 문제가 있습니다. 이 두 유형의 타격 기술 모두 타격 거리에 도달하는 데 상당한 시간이 걸립니다. 많은 전투에서 항공모함은 이 타격 항공기가 첫 출격을 하기도 전에 오랫동안 파괴되었습니다. 대신 특수 장거리 공격 항공기를 만들 계획이 세워지고 있습니다."
+
+######## ARMOR HERE
+ 
+SMALL_ACOT_ARMOR_DM:  "소형 하드라이트 아머"
+MEDIUM_ACOT_ARMOR_DM:  "중형 경광 방어구"
+LARGE_ACOT_ARMOR_DM:  "대형 하드라이트 아머"
+ACOT_ARMOR_DM:  "하드라이트 아머"
+ACOT_ARMOR_DM_DESC:  "Hard-Light는 순수한 고체 빛으로 구성된 동적 소재입니다. 완전하게 형성되면 뉴트로늄보다 훨씬 더 밀도가 높고 단단합니다."
+tech_armor_dm:  "하드라이트 아머"
+tech_armor_dm_desc:  "Hard-Light는 순수한 고체 빛으로 구성된 동적 소재입니다. 완전하게 형성되면 뉴트로늄보다 훨씬 더 밀도가 높고 단단합니다. 또한, 장갑은 함선 선체에 자연적인 강화 기능을 제공할 뿐만 아니라 양쪽 모두에 재생 요소를 제공합니다. 그러나 이제 갑옷에 전원을 공급해야 하므로 이러한 발전에는 비용이 듭니다."
+ 
+SMALL_ACOT_ENIGMATIC_SHIELD_DM:  "소형 암흑 에너지 보호막"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_DM:  "중간 암흑 에너지 보호막"
+LARGE_ACOT_ENIGMATIC_SHIELD_DM:  "대형 암흑 에너지 보호막"
+ACOT_ENIGMATIC_SHIELD_DM:  "암흑 에너지 보호막"
+ACOT_ENIGMATIC_SHIELD_DM_DESC:  "암흑 에너지 쉴드는 전통적인 에너지 쉴드보다 눈에 띄게 강력하며, 함선의 선체 전력을 증가시키는 일회성 포스 쉴드 사용을 투사할 수 있는 추가 능력을 갖추고 있습니다."
+tech_dark_matter_deflector_dm:  "암흑 에너지 보호막"
+tech_dark_matter_deflector_dm_desc:  "암흑 에너지 보호막은 기존 에너지 보호막보다 눈에 띄게 강력하며 재충전 속도가 크게 향상됩니다. 그러나 가장 중요한 개선 사항은 임시 Force Shield를 생성하는 기능입니다. 선박의 선체 내구성을 높이는 일회용 내부 장벽이지만 자체적으로 Force Shield를 재생성할 수 없으며 재충전하려면 외부 소스가 필요합니다."
+
+############################
+
+ACOT_SHIP_THRUSTER_DM:  "델타 추진기"
+ACPOT_SHIP_THRUSTER_DN_DESC:  "Delta Thruster는 최적의 속도와 회피 기능을 제공하기 위해 모든 선박 크기에 설치할 수 있는 모듈식 프로펠러 시스템입니다."
+
+tech_thrusters_dm:  "서브라이트 추진기 최적화"
+tech_thrusters_dm_desc:  "우리가 곧 구현하게 될 차세대 추진기는 더 빠를 뿐만 아니라 더 모듈화될 것입니다. 이를 통해 추진기는 모든 선박 유형에 걸쳐 최대 속도와 회피를 달성할 수 있습니다."
+TECH_UNLOCK_DM_THRUSTER_TITLE:  "§H구성요소 잠금 해제:§! 델타 추진기"
+TECH_UNLOCK_DM_THRUSTER_DESC:  "§H델타 스러스터§!\n곧 구현될 차세대 스러스터는 더 빠를 뿐만 아니라 더 모듈화될 것입니다. 이를 통해 추진기는 모든 선박 유형에 걸쳐 최대 속도와 회피를 달성할 수 있습니다."
+
+CORVETTE_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+CORVETTE_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+DESTROYER_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+DESTROYER_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+CRUISER_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+CRUISER_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+BATTLESHIP_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+BATTLESHIP_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+TITAN_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+TITAN_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+COLOSSUS_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+COLOSSUS_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+PLATFORM_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+PLATFORM_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+ION_CANNON_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+ION_CANNON_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+STARBASE_DARK_MATTER_REACTOR_DM:  "델타 원자로"
+STARBASE_DARK_MATTER_REACTOR_DM_DESC:  "정제된 암흑 에너지를 통해 구동되는 Delta Reactor는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율적이므로 함선이 추가적인 선체 보강을 위해 더 많은 공간을 할당할 수 있습니다."
+ 
+tech_dark_matter_power_core_dm:  "델타급 수수께끼의 힘"
+tech_dark_matter_power_core_dm_desc:  "이제 우리는 암흑 물질과 암흑 에너지의 개념을 모두 이해했으므로, 영점 원자로를 능가하는 훨씬 더 강력한 동력원을 만드는 것이 곧 가능할 수도 있습니다. 그 계시는 우리에게 많은 새로운 가능성을 열어줄 것입니다.\n\n§R이 기술을 연구하면 기본적으로 기술을 앞지르게 되므로 몰락한 제국을 동요시킬 수 있습니다.§!"
+TECH_UNLOCK_DARK_MATTER_POWER_DM_TITLE:  "§H구성요소 잠금 해제:§! Delta Reactor"
+TECH_UNLOCK_DARK_MATTER_POWER_DM_DESC:  "§H델타 수수께끼의 원자로(Delta Enigmatic Reactor)§!\n정제된 암흑 에너지로 구동되는 델타 원자로(Delta Reactor)는 격납 크기 내에서 더 즉각적인 전력 입력을 제공할 뿐만 아니라 공간 효율성도 높아 선박이 추가 선체 보강을 위해 더 많은 공간을 할당할 수 있도록 해줍니다."
+ 
+######## OTHER STUFFS HERE
+ENIGMATIC_DRIVE_DM:  "델타 전위 드라이브"
+ENIGMATIC_DRIVE_DM_DESC:  "이 수수께끼의 점프 드라이브는 암흑 에너지를 사용하여 함선이 새로운 공간을 향해 단계적으로 이동하도록 하여 기존의 점프 드라이브보다 더 멀리 점프할 수 있게 해줍니다. 이 프로세스는 전통적인 차원 균열에 의존하지 않으므로 기존 점프 드라이브보다 안전합니다."
+tech_enigmatic_drive_dm:  "공간 전위"
+tech_enigmatic_drive_dm_desc:  "전통적인 점프 드라이브는 예상치 못한 차원의 폭포를 만들 가능성이 있는 제로 포인트 에너지의 원리와 구성을 기반으로 합니다. 그러나 암흑 에너지를 활용하여 우주선을 우주의 새로운 위치에 "다시 작성"하는 새로운 FTL 기술을 개발하는 것은 가능합니다."
+TECH_UNLOCK_ENIG_DRIVE_DM:  "§H구성요소 잠금 해제:§! Translocator Drive"
+TECH_UNLOCK_ENIG_DRIVE_DM_DESC:  "§H전위 기술§!\n이 새로운 FTL 기술을 사용하면 기존 점프 드라이브를 아직 활용하지 않는 한 선박이 치수 이상 현상의 위험 없이 점프 기술을 사용할 수 있습니다."
+ 
+DM_SENSOR_SHIP:  "델타 센서"
+DM_SENSOR_SHIP_DESC:  "이 고급 센서 장비는 우주 곳곳에 흩어져 있는 암흑 에너지 층의 갑작스러운 이동을 연구하여 여러 시스템에서 떨어진 선박의 움직임을 감지합니다. 무기를 배송하기 위한 모든 이동 활동을 실시간으로 보고하고 가능한 모든 적의 움직임을 계산하는 센서입니다."
+tech_sensors_dm:  "암흑 에너지 이동 패턴 분석"
+tech_sensors_dm_desc:  "이제 우리는 블랙홀뿐만 아니라 모든 항성계에도 암흑에너지가 존재한다는 사실을 알고 있습니다. 이러한 암흑 에너지의 양은 너무 낮아서 사용할 수 없지만 여전히 움직임에 따라 눈에 띄는 변화 반응을 생성합니다. 이 반응을 연구할 수 있다면 잠재적으로 기존 방법보다 우수한 새로운 센서 기술을 만들 수 있습니다."
+TECH_UNLOCK_DM_SENSOR_TITLE:  "§H구성요소 잠금 해제:§! 델타 센서"
+TECH_UNLOCK_DM_SENSOR_DESC:  "§H델타 센서§!\n$DM_SENSOR_SHIP$"
+ 
+ACOT_AFTERBURNERS_DM:  "델타 애프터버너"
+ACOT_AFTERBURNERS_DM_DESC:  "스러스터만으로는 선박이 빠르게 움직일 수 없는 경우. 이 차세대 애프터버너는 선박의 최고 속도를 높이는 데 사용할 수 있습니다."
+tech_darkmatter_afterburners_dm:  "델타 애프터버너"
+tech_darkmatter_afterburners_dm_desc:  "우리 함선이 눈에 띄는 효율성으로 우주를 횡단하기 시작했지만, 아직 추가로 강화할 여지가 남아 있습니다. 현재의 애프터버너는 너무 비효율적인 것으로 간주됩니다. 아마도 Dark Energy Thruster가 도입되면 애프터버너도 개선될 수 있을까요?"
+ 
+ 
+ACOT_REPAIR_COUNTERMEASURES_DM:  "델타 대응 대응 드론"
+ACOT_REPAIR_COUNTERMEASURES_DM_DESC:  "대응 대책 드론(RCD)은 두 가지 기능을 갖춘 새로운 유형의 자동화 드론입니다. 전투 중이 아닐 때 함선의 장갑을 수리하고 함선 대신 들어오는 공격으로 인한 피해를 흡수하여 대응책 역할을 합니다."
+tech_darkmatter_reactive_drone_dm:  "대응 대응 시스템"
+tech_darkmatter_reactive_drone_dm_desc:  "대응 대책 드론(RCD)은 두 가지 기능을 갖춘 새로운 유형의 자동화 드론입니다. 전투 중이 아닐 때 함선의 장갑을 수리하고 함선 대신 들어오는 공격으로 인한 피해를 흡수하여 대응책 역할을 합니다."
+ 
+ 
+ACOT_REACTOR_BOOSTER_DM:  "델타 보조 전력 증폭기"
+ACOT_REACTOR_BOOSTER_DM_DESC:  "Dark Energy APA는 주 원자로가 충분히 강력하지 않은 경우 추가 백업 전력을 제공합니다. 또한, 이 모듈은 방어막 재생 능력이 있는 경우 함선의 전반적인 성능을 소폭 향상시킬 뿐만 아니라 함선의 전반적인 성능을 향상시킵니다."
+tech_darkmatter_reactor_booster_dm:  "암흑 에너지 보조 전력 증폭기"
+tech_darkmatter_reactor_booster_dm_desc:  "Dark Energy APA는 주 원자로가 충분히 강력하지 않은 경우 추가 백업 전력을 제공합니다. 또한, 이 모듈은 방어막 재생 능력이 있는 경우 함선의 전반적인 성능을 소폭 향상시킬 뿐만 아니라 함선의 전반적인 성능을 향상시킵니다."
+ 
+ 
+ACOT_SHIELD_BOOSTER_DM:  "델타 슈퍼차지 쉴드"
+ACOT_SHIELD_BOOSTER_DM_DESC:  "과급 보호막은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 증가시킵니다. 또한 쉴드에 경화 효과를 제공합니다."
+tech_darkmatter_shield_supercharger_dm:  "슈퍼차지 쉴드"
+tech_darkmatter_shield_supercharger_dm_desc:  "과급 장벽은 전력 소비를 희생하면서 함선의 보호막 생성기의 효능을 증가시킵니다. 또한 쉴드에 경화 효과를 제공합니다."
+ 
+ACOT_ARMOR_BOOSTER_DM:  "Delta 강화 키네틱 배리어"
+ACOT_ARMOR_BOOSTER_DM_DESC:  "강화된 키네틱 배리어는 함선의 장갑과 키네틱 흡수 능력을 향상시킬 뿐만 아니라 강화 효과도 제공합니다."
+tech_darkmatter_armor_supercharger_dm:  "Delta 강화 키네틱 배리어"
+tech_darkmatter_armor_supercharger_dm_desc:  "강화된 키네틱 배리어는 함선의 장갑과 키네틱 흡수 능력을 향상시킬 뿐만 아니라 강화 효과도 제공합니다."
+  
+ACOT_STARCHARTER_DM:  "델타 스타 헌장"
+ACOT_STARCHARTER_DM_DESC:  "시스템 항법과 무기 추적을 위한 여러 센서 유닛을 확장하는 특수 보조 챔버."
+tech_darkmatter_star_charter_dm:  "스타 헌장 모듈"
+tech_darkmatter_star_charter_dm_desc:  "시스템 탐색 및 무기 추적을 위해 함선의 센서를 확장하는 여러 센서 장치가 포함된 특수 보조 챔버입니다. 이 모듈은 현재 구식인 사격 통제 시스템을 효과적으로 대체합니다."
+ 
+ACOT_CLOAKING_LIGHT_DM_TOOLTIP:  "§ELight Stealth Generator는 교전 중 실드 패널티가 없지만 제한된 클로킹 기능을 제공합니다.§!\n\n"
+ACOT_CLOAKING_HEAVY_DM_TOOLTIP:  "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R100%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$는 델타 등급 이상의 실드 증폭기 보조 구성요소를 장착한 경우 절반으로 줄어들 수 있습니다.§!\n\n"
+ACOT_CLOAKING_DIMENSIONAL_TOOLTIP:  "§E차원 위상 생성기는 물리적 공간 외부에서 우주선의 위상을 조정하여 거의 모든 유형의 감지에서 우주선의 존재를 완전히 제거합니다. 그러나 위상을 조정하는 동안 함선은 평범한 갑옷이 아무런 효과가 없고 선체가 더욱 취약해지는 무형의 상태가 됩니다. 이 상태는 단계 클로킹이 해제된 후에도 90일 동안 지속됩니다.§!\n\n클로킹으로 인한 방어력 무효화: §R100%§!\n클로킹으로 인한 선체 감소: §R50%§!\n클로킹으로 인한 아광속 감소: §R50%§!\n\n§E클로킹으로 인한 방어력 무효화가 다음과 같은 경우에만 적용됩니다. 함선에는 일반 장갑 부품(1~5단계)이 장착되어 있습니다.§!\n§E최소 델타 등급의 선체 증폭기 보조 부품이 장착된 경우 은폐로 인한 선체 감소가 제거될 수 있습니다.§!\n\n§R모든 부정적 효과는 해당 값의 절반으로 은폐 해제 후 90일 동안 지속됩니다!§!"
+
+tech_darkmatter_stealth_generator_dm:  "수수께끼의 스텔스 생성기"
+tech_darkmatter_stealth_generator_dm_desc:  "분명히 암흑 에너지를 사용한 클로킹 기술의 도식은 이전 응용 프로그램과 상당히 다르게 작동하는 것 같습니다. 설계에서는 대신 "스텔스 발전기"라는 용어를 사용하며 선박의 에너지 신호 전체를 발전기 자체의 에너지 신호로 대체하여 작동합니다. 여기에는 장단점이 있습니다. 새로운 디자인을 사용하면 가장 큰 함선도 상대적으로 쉽게 은폐할 수 있지만 더 작은 함선은 낮은 에너지 특성으로 인해 이점을 얻을 수 없다는 의미이기도 합니다. 모든 선박은 사실상 동일한 은폐 강도를 갖습니다."
+
+ACOT_CLOAKING_LIGHT_DM:  "델타 스텔스 생성기"
+ACOT_CLOAKING_LIGHT_DM_DESC:  "델타 스텔스 생성기"
+ACOT_CLOAKING_FULL_DM:  "델타 슈퍼 스텔스 생성기"
+ACOT_CLOAKING_FULL_DM_DESC:  "델타 슈퍼 스텔스 생성기"
+ACOT_CLOAKING_DIMENSIONAL:  "차원 위상 생성기"
+ACOT_CLOAKING_DIMENSIONAL_DESC:  "차원 위상 생성기"
+ 
+tech_enigmatic_ships:  "하드라이트 선박"
+tech_enigmatic_ships_desc:  "Hard-Light 기술을 활용하기 위해 모든 표준 함대를 업그레이드하면 전투 내구성이 크게 향상됩니다."
+tech_enigmatic_ships_desc_short:  "더 높은 방어력을 갖춘 새로운 선박 섹션을 잠금 해제합니다. 이 새로운 섹션에는 본질적인 암흑 에너지와 암흑 물질이 필요합니다."
+ 
+tech_bombardment_dm:  "종말론적인 폭격"
+tech_bombardment_dm_desc:  "이제 우리는 첨단 암흑 에너지 무기고에 접근할 수 있으므로 새로운 폭격 캠페인과 이론을 연구할 수 있습니다."
+ 
+TECH_UNLOCK_DM_BOMBARD_TITLE:  "§E폭격 자세 잠금 해제:§! 종말론적"
+TECH_UNLOCK_DM_BOMBARD_DESC:  "§EPA포칼립스:§! 함선에 세계를 멸망시키는 포격을 퍼부어 향후 정복을 위한 기반을 마련하도록 명령합니다.\n- §R치명적인§! 피해(§Y군대§!\n)- §R치명적인§! 피해(§Y타일§!\n- §R치명적인§! 피해(§Y팝§!\n) - Will Bombard 완전히 지워질 때까지 방어되지 않은 행성.\n- §R행성에 영구적인 손상을 입힐 수 있습니다.§!"
+ 
+DELTA_CORVETTE_MID_A:  "델타 코르벳 A"
+DELTA_CORVETTE_MID_B:  "델타 코르벳 B"
+DELTA_CORVETTE_MID_C:  "델타 코르벳 C"
+ 
+DELTA_DESTROYER_BOW_1:  "델타 구축함 활 A"
+DELTA_DESTROYER_BOW_2:  "델타 디스트로이어 보우 B"
+DELTA_DESTROYER_BOW_3:  "델타 디스트로이어 보우 C"
+DELTA_DESTROYER_BOW_4:  "델타 디스트로이어 보우 D"
+DELTA_DESTROYER_STERN_1:  "델타 구축함 Stern A"
+DELTA_DESTROYER_STERN_2:  "델타 구축함 Stern B"
+DELTA_DESTROYER_STERN_3:  "델타 구축함 Stern C"
+DELTA_DESTROYER_STERN_4:  "델타 구축함 스턴 D"
+ 
+DELTA_CRUISER_BOW_1:  "델타 크루저 활 A"
+DELTA_CRUISER_BOW_2:  "델타 크루저 보우 B"
+DELTA_CRUISER_BOW_3:  "델타 크루저 활 C"
+DELTA_CRUISER_BOW_4:  "델타 크루저 활 D"
+DELTA_CRUISER_MID_1:  "델타 크루저 미드 A"
+DELTA_CRUISER_MID_2:  "델타 크루저 미드 B"
+DELTA_CRUISER_MID_3:  "델타 크루저 미드 C"
+DELTA_CRUISER_MID_4:  "델타 크루저 미드 D"
+DELTA_CRUISER_STERN_1:  "델타 순양함 선미 A"
+DELTA_CRUISER_STERN_2:  "델타 순양함 선미 B"
+DELTA_CRUISER_STERN_3:  "델타 순양함 선미 C"
+ 
+DELTA_BATTLESHIP_BOW_1:  "델타 전함 활 A"
+DELTA_BATTLESHIP_BOW_2:  "델타 전함 활 B"
+DELTA_BATTLESHIP_BOW_3:  "델타 전함 활 C"
+DELTA_BATTLESHIP_BOW_4:  "델타 전함 활 D"
+DELTA_BATTLESHIP_MID_1:  "델타 전함 Mid A"
+DELTA_BATTLESHIP_MID_2:  "델타 전함 Mid B"
+DELTA_BATTLESHIP_MID_3:  "델타 전함 Mid C"
+DELTA_BATTLESHIP_MID_4:  "델타 전함 Mid D"
+DELTA_BATTLESHIP_MID_5:  "델타 전함 Mid E"
+DELTA_BATTLESHIP_STERN_1:  "델타 전함 Stern A" 
+DELTA_BATTLESHIP_STERN_2:  "델타 전함 Stern B"
+DELTA_BATTLESHIP_STERN_3:  "델타 전함 Stern C"
+DELTA_BATTLESHIP_STERN_4:  "델타 전함 Stern D"
+ 
+DELTA_TITAN_BOW_1:  "델타 타이탄 활 A"
+DELTA_TITAN_BOW_2:  "델타 타이탄 보우 B"
+DELTA_TITAN_BOW_3:  "델타 타이탄 활 C"
+DELTA_TITAN_MID_1:  "델타 타이탄 미드 A"
+DELTA_TITAN_MID_2:  "델타 타이탄 미드 B"
+DELTA_TITAN_MID_3:  "델타 타이탄 미드 C"
+DELTA_TITAN_MID_4:  "델타 타이탄 미드 D"
+DELTA_TITAN_STERN_1:  "델타 타이탄 스턴 A"
+DELTA_TITAN_STERN_2:  "델타 타이탄 스턴 B"
+DELTA_TITAN_STERN_3:  "델타 타이탄 스턴 C"
+ 
+
+

@@ -1,0 +1,1622 @@
+﻿l_korean:
+
+################################ FALLEN EMPIRE EXCLUSE STUFFS ##
+
+acot_fallen_outpost:  "무너진 전초기지"
+acot_fallen_outpost_plural:  "무너진 전초기지"
+
+acot_fallen_starbase:  "타락한 항성기지"
+acot_fallen_starbase_plural:  "타락한 항성기지"
+
+acot_fallen_orbital_ring:  "타락한 궤도 반지"
+acot_fallen_orbital_ring_plural:  "타락한 궤도 고리"
+
+############################
+
+tech_acot_precursor_herculean_supply_line_e7:  "엄청난 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_e7_desc:  "엄청난 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_e7_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스(Herculeans)를 업그레이드합니다.\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_e8:  "헤라클레스 알파 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_e8_desc:  "헤라클레스 알파 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_e8_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스(Herculeans)를 업그레이드합니다.\n\n§Y10000 £energy£\n10000 £minerals£\n10000 £food£\n5000 £alloys£\n500 £sr_dark_matter£\n500 £acot_sr_dark_energy£§!"
+tech_acot_precursor_herculean_supply_line_s7:  "헤라클레스 시그마 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_s7_desc:  "헤라클레스 시그마 내부 국내 제작업체"
+tech_acot_precursor_herculean_supply_line_s7_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스(Herculeans)를 업그레이드합니다.\n\n§Y15000 £energy£\n15000 £minerals£\n15000 £food£\n7500 £alloys£\n750 £sr_dark_matter£\n750 £acot_sr_dark_energy£§!\n375 £acot_sr_stellarite£§!"
+
+tech_acot_precursor_herculean_spirit_weapon:  "헤라클레스의 무기화된 스펙트럼 구조물"
+tech_acot_precursor_herculean_spirit_weapon_desc:  "헤라클레스의 무기화된 스펙트럼 구조물"
+tech_acot_precursor_herculean_spirit_weapon_s7:  "헤라클레스 항성 스펙트럼 구조물"
+tech_acot_precursor_herculean_spirit_weapon_s7_desc:  "헤라클레스 항성 스펙트럼 구조물"
+
+tech_acot_precursor_herculean_wmd_pk:  "헤라클레스 공명 캐스케이드"
+tech_acot_precursor_herculean_wmd_pk_desc:  "헤라클레스 공명 캐스케이드"
+tech_acot_precursor_herculean_wmd_pk_s7:  "헤라클레스 항성 공진 캐스케이드"
+tech_acot_precursor_herculean_wmd_pk_s7_desc:  "헤라클레스 항성 공진 캐스케이드"
+
+tech_acot_precursor_herculean_component:  "엄청나게 전문화된 슈퍼컴포넌트"
+tech_acot_precursor_herculean_component_desc:  "엄청나게 전문화된 슈퍼컴포넌트"
+tech_acot_precursor_herculean_component_s7:  "엄청난 항성 수퍼컴포넌트"
+tech_acot_precursor_herculean_component_s7_desc:  "엄청난 항성 수퍼컴포넌트"
+
+tech_acot_precursor_herculean_basic_weapon:  "헤라클레스식 삼각 조례 시스템"
+tech_acot_precursor_herculean_basic_weapon_desc:  "헤라클레스식 삼각 조례 시스템"
+tech_acot_precursor_herculean_basic_weapon_s7:  "헤라클레스 항성 조례 시스템"
+tech_acot_precursor_herculean_basic_weapon_s7_desc:  "헤라클레스 항성 조례 시스템"
+
+tech_acot_precursor_herculean_advanced_weapon:  "헤라클레스의 고급 삼각측량 무기 시스템"
+tech_acot_precursor_herculean_advanced_weapon_desc:  "헤라클레스의 고급 삼각측량 무기 시스템"
+tech_acot_precursor_herculean_advanced_weapon_s7:  "헤라클레스의 고급 항성 무기 시스템"
+tech_acot_precursor_herculean_advanced_weapon_s7_desc:  "헤라클레스의 고급 항성 무기 시스템"
+
+tech_acot_precursor_herculean_hangar_escort:  "헤라클레스 호위 마이크로 공장"
+tech_acot_precursor_herculean_hangar_escort_desc:  "헤라클레스 호위 마이크로 공장"
+tech_acot_precursor_herculean_hangar_escort_s7:  "헤라클레스 스텔라 호위 마이크로 공장"
+tech_acot_precursor_herculean_hangar_escort_s7_desc:  "헤라클레스 스텔라 호위 마이크로 공장"
+
+tech_acot_precursor_herculean_hangar_bc:  "헤라클레스 전투순양함 마이크로 공장"
+tech_acot_precursor_herculean_hangar_bc_desc:  "헤라클레스 전투순양함 마이크로 공장"
+tech_acot_precursor_herculean_hangar_bc_s7:  "헤라클레스 항성 전투순양함 마이크로 공장"
+tech_acot_precursor_herculean_hangar_bc_s7_desc:  "헤라클레스 항성 전투순양함 마이크로 공장"
+
+tech_acot_precursor_herculean_shield:  "실험적인 헤라클레스 차원 장벽"
+tech_acot_precursor_herculean_shield_desc:  "실험적인 헤라클레스 차원 장벽"
+tech_acot_precursor_herculean_shield_s7:  "헤라클레스 항성 차원 장벽"
+tech_acot_precursor_herculean_shield_s7_desc:  "헤라클레스 항성 차원 장벽"
+
+tech_acot_precursor_herculean_science_e7:  "헤라클레스 과학 넥서스"
+tech_acot_precursor_herculean_science_e7_desc:  "Herculean이 자체 과학 부서를 지원할 수 있다면 도움이 될 것입니다. 그렇다면 단순히 Science Nexus를 그 안에 넣어두면 어떨까요?"
+tech_acot_precursor_herculean_science_e7_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스족을 업그레이드합니다.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!"
+
+tech_acot_precursor_herculean_science_e8:  "헤라클레스의 첨단 과학 넥서스"
+tech_acot_precursor_herculean_science_e8_desc:  "모든 새로운 지식, 모든 기술, 모든 새로운 이해는 우리를 영원한 유산에 더욱 가깝게 만듭니다."
+tech_acot_precursor_herculean_science_e8_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스족을 업그레이드합니다.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!"
+
+tech_acot_precursor_herculean_science_curator:  "엄청난 큐레이터 아카이브 패키지"
+tech_acot_precursor_herculean_science_curator_desc:  "비록 큐레이터가 헤라클레스 뒤에 있는 과학과 관련된 어떤 것도 제공할 수는 없지만 은하 역사에 대한 그들의 지식은 미래에 유용할 수 있습니다."
+tech_acot_precursor_herculean_science_curator_modifier:  "다음 자원을 생산할 수 있는 능력으로 헤라클레스족을 업그레이드합니다.\n\n§Y5000 £physics£\n§Y5000 £society£\n§Y5000 £engineering£!\n§Y500 £unity£!\n§Y5 £minor_artifacts£!"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E:  "스펙트럼 투영"
+ACOT_HERCULEAN_SPIRIT_WEAPON_8E_DESC:  "하드 라이트와 차원 기술의 조합을 활용하여 적 목표를 향해 발사할 수 있는 헤라클레스 심장 자체의 스펙트럼 형태를 생성하는 강력한 대자본함 무기입니다. 형태가 목표물에 도달하면 물리적 공간으로 구체화되어 대규모 음에너지 폭발을 일으켜 자신과 목표물을 모두 소멸시킵니다.\n\n§W손상:§! §Y200000-200000§!\n§W정확도:§! §Y100§!\n§W추적:§! §Y100§!"
+
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S:  "항성 스펙트럼 투영"
+ACOT_HERCULEAN_SPIRIT_WEAPON_7S_DESC:  "하드 라이트와 차원 기술의 조합을 활용하여 적 목표를 향해 발사할 수 있는 헤라클레스 심장 자체의 스펙트럼 형태를 생성하는 강력한 대자본함 무기입니다. 형태가 목표물에 도달하면 물리적 공간으로 구체화되어 대규모 음에너지 폭발을 일으켜 자신과 목표물을 모두 소멸시킵니다.\n\n§W피해:§! §Y500-1000§!\n§W정확도:§! §Y100§!\n§W추적:§! §Y100§!\n§W범위:§! §Y250§!"
+
+ACOT_HERCULEAN_L_WEAPON_8E:  "헤라클레스 삼중포병"
+ACOT_HERCULEAN_L_WEAPON_8E_DESC:  "헤라클레스 삼중포병"
+ACOT_HERCULEAN_L_WEAPON_7S:  "헤라클레스 항성 삼중포병"
+ACOT_HERCULEAN_L_WEAPON_7S_DESC:  "헤라클레스 항성 삼중포병"
+
+ACOT_HERCULEAN_PD_WEAPON_8E:  "엄청난 삼중력 PDS"
+ACOT_HERCULEAN_PD_WEAPON_8E_DESC:  "엄청난 삼중력 PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S:  "헤라클레스 스텔라 트라이포스 PDS"
+ACOT_HERCULEAN_PD_WEAPON_7S_DESC:  "헤라클레스 스텔라 트라이포스 PDS"
+
+ACOT_HERCULEAN_XL_WEAPON_8E:  "헤라클레스 삼중창"
+ACOT_HERCULEAN_XL_WEAPON_8E_DESC:  "헤라클레스 삼중창"
+ACOT_HERCULEAN_XL_WEAPON_7S:  "헤라클레스 항성 삼중창"
+ACOT_HERCULEAN_XL_WEAPON_7S_DESC:  "헤라클레스 항성 삼중창"
+
+ACOT_HERCULEAN_T_WEAPON_8E:  "헤라클레스 삼중력 슈퍼차지 랜스"
+ACOT_HERCULEAN_T_WEAPON_8E_DESC:  "헤라클레스 삼중력 슈퍼차지 랜스"
+ACOT_HERCULEAN_T_WEAPON_7S:  "헤라클레스 항성 삼중력 슈퍼차지 랜스"
+ACOT_HERCULEAN_T_WEAPON_7S_DESC:  "헤라클레스 항성 삼중력 슈퍼차지 랜스"
+
+ACOT_HERCULEAN_ESCORT_HANGAR_8E:  "알파 자동 에스코트"
+ACOT_HERCULEAN_ESCORT_HANGAR_8E_DESC:  "피켓 지원 선박 역할을 하기 위해 Herculeans에 현장에 구축된 신뢰할 수 있는 호위함의 자동화된 변형입니다."
+ACOT_HERCULEAN_BC_HANGAR_8E:  "알파 자동 전투순양함"
+ACOT_HERCULEAN_BC_HANGAR_8E_DESC:  "장거리 건쉽 지원 역할을 하기 위해 Herculeans에 탑승하여 현장에서 제작된 유서 깊은 전투순양함의 자동화된 변형입니다."
+
+ACOT_HERCULEAN_ESCORT_HANGAR_7S:  "시그마 자동 에스코트"
+ACOT_HERCULEAN_ESCORT_HANGAR_7S_DESC:  "피켓 지원 선박 역할을 하기 위해 Herculeans에 현장에 구축된 신뢰할 수 있는 호위함의 자동화된 변형입니다."
+ACOT_HERCULEAN_BC_HANGAR_7S:  "시그마 자동화 전투순양함"
+ACOT_HERCULEAN_BC_HANGAR_7S_DESC:  "장거리 건쉽 지원 역할을 하기 위해 Herculeans에 탑승하여 현장에서 제작된 유서 깊은 전투순양함의 자동화된 변형입니다."
+
+ACOT_HERCULEAN_SHIELD_8E:  "헤라클레스 통합 방어 매트릭스"
+ACOT_HERCULEAN_SHIELD_8E_DESC:  "헤라클레스 통합 방어 매트릭스"
+ACOT_HERCULEAN_SHIELD_7S:  "헤라클레스적인 항성 방어 매트릭스"
+ACOT_HERCULEAN_SHIELD_7S_DESC:  "헤라클레스적인 항성 방어 매트릭스"
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E:  "응축 공진 캐스케이드"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_DESC:  "순수한 공허 에너지와 차원 촉매제를 한 번에 집중시켜 제국 전체를 전멸시킬 수 있는 여전히 무시무시한 헤라클레스 초강력 무기의 수정되고 압축된 버전입니다. 완전히 충전되면 캐스케이드는 성계 별을 전체 차원 붕괴시켜 공허 별과 다른 모든 천체를 인식할 수 없을 정도로 뒤틀게 만들고 그 과정에서 대부분의 우주 물체를 전멸시킵니다."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E_ACTION:  "응축된 공명 파열"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E:  "$PLANET|Y$에서 공진 캐스케이드 발생 준비 중"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7E:  "공진 캐스케이드를 발생시키는 데 사용되었습니다."
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E:  "공명 캐스케이드"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_DESC:  "순수한 공허 에너지와 차원 촉매를 한 번에 집중시켜 제국 전체를 전멸시킬 수 있는 무시무시한 초능력 무기입니다. 완전히 충전되면 캐스케이드는 성계 별을 전체 차원 붕괴시켜 공허 별과 다른 모든 천체를 인식할 수 없을 정도로 뒤틀게 만들고 그 과정에서 대부분의 우주 물체를 전멸시킵니다. 하지만 이 무기가 정말로 무서운 이유는 적대 세력이 통제하는 근처의 모든 시스템에 연쇄 반응을 일으킬 수 있다는 점입니다. 이러한 시스템은 60일 이내에 동일한 공명 폭포를 겪게 되며 인접한 적대적인 시스템이 더 이상 없을 때까지 계속 확산됩니다. 이 무기로 한 번의 공격을 가하면 제국 전체가 죽을 수도 있습니다."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E_ACTION:  "공명 찢어짐"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E:  "$PLANET|Y$에서 공진 캐스케이드 발생 준비 중"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_8E:  "공진 캐스케이드를 발생시키는 데 사용되었습니다."
+
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S:  "과급 공진 캐스케이드"
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_DESC:  "순수한 공허 에너지와 차원 촉매를 한 번에 집중시켜 제국 전체를 전멸시킬 수 있는 무시무시한 초능력 무기입니다. 완전히 충전되면 캐스케이드는 성계 별을 전체 차원 붕괴시켜 공허 별과 다른 모든 천체를 인식할 수 없을 정도로 뒤틀게 만들고 그 과정에서 대부분의 우주 물체를 전멸시킵니다. 하지만 이 무기가 정말로 무서운 이유는 적대 세력이 통제하는 근처의 모든 시스템에 연쇄 반응을 일으킬 수 있다는 점입니다. 이러한 시스템은 60일 이내에 동일한 공명 폭포를 겪게 되며 인접한 적대적인 시스템이 더 이상 없을 때까지 계속 확산됩니다. 게다가, 그 효과는 바로 이웃한 성계를 넘어 적대 세력이 소유한 무작위 성계까지 퍼져 슈퍼차지 변종에서 탈출할 수 없게 만듭니다."
+ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S_ACTION:  "초강력 공명 눈물"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S:  "$PLANET|Y$에서 공진 캐스케이드 발생 준비 중"
+MESSAGE_DESC_FOR_ACOT_HERCULEAN_PLANET_RESONANT_BEAM_7S:  "공진 캐스케이드를 발생시키는 데 사용되었습니다."
+
+
+ACOT_HERCULEAN_REACTOR:  "헤라클레스 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_DESC:  "헤라클레스 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_E7:  "헤라클레스의 이상화된 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_E7_DESC:  "헤라클레스의 이상화된 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_S7:  "헤라클레스 별의 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_S7_DESC:  "헤라클레스 별의 슈퍼 원자로"
+ACOT_HERCULEAN_REACTOR_S8:  "헤라클레스 오메가 슈퍼 리액터"
+ACOT_HERCULEAN_REACTOR_S8_DESC:  "헤라클레스 오메가 슈퍼 리액터"
+
+acot_aura_herculean_reactor_dot:  "헤라클레스 차원의 지진 엔진"
+acot_aura_herculean_reactor_dot_desc:  "헤라클레스 차원의 지진 엔진"
+
+acot_aura_herculean_reactor_defense_buff:  "헤라클레스 방어 증폭기"
+acot_aura_herculean_reactor_defense_buff_desc:  "헤라클레스 방어 증폭기"
+
+acot_aura_herculean_reactor_defense_debuff:  "엄청난 공격 억제제"
+acot_aura_herculean_reactor_defense_debuff_desc:  "엄청난 공격 억제제"
+
+ACOT_HERCULEAN_COMPUTER:  "엄청난 슈퍼 컴퓨터"
+ACOT_HERCULEAN_COMPUTER_DESC:  "엄청난 슈퍼 컴퓨터"
+ACOT_HERCULEAN_COMPUTER_E7:  "엄청나게 이상화된 슈퍼 컴퓨터"
+ACOT_HERCULEAN_COMPUTER_E7_DESC:  "엄청나게 이상화된 슈퍼 컴퓨터"
+ACOT_HERCULEAN_COMPUTER_S7:  "거대한 스텔라 슈퍼 컴퓨터"
+ACOT_HERCULEAN_COMPUTER_S7_DESC:  "거대한 스텔라 슈퍼 컴퓨터"
+
+acot_aura_herculean_computer_buff:  "헤라클레스 조정 행렬"
+acot_aura_herculean_computer_buff_desc:  "헤라클레스 조정 행렬"
+
+acot_aura_herculean_computer_debuff:  "헤라클레스 간섭 행렬"
+acot_aura_herculean_computer_debuff_desc:  "헤라클레스 간섭 행렬"
+
+ACOT_HERCULEAN_FTL:  "헤라클레스 슈퍼 드라이버"
+ACOT_HERCULEAN_FTL_DESC:  "헤라클레스 슈퍼 드라이버"
+ACOT_HERCULEAN_FTL_E7:  "엄청나게 이상화된 슈퍼 드라이버"
+ACOT_HERCULEAN_FTL_E7_DESC:  "엄청나게 이상화된 슈퍼 드라이버"
+ACOT_HERCULEAN_FTL_S7:  "헤라클레스 스텔라 슈퍼 드라이버"
+ACOT_HERCULEAN_FTL_S7_DESC:  "헤라클레스 스텔라 슈퍼 드라이버"
+
+acot_aura_herculean_ftl_dot:  "엄청난 충격 속도"
+acot_aura_herculean_ftl_dot_desc:  "엄청난 충격 속도"
+
+acot_aura_herculean_ftl_buff:  "헤라클레스 차원의 조작자"
+acot_aura_herculean_ftl_buff_desc:  "헤라클레스 차원의 조작자"
+
+acot_aura_herculean_ftl_debuff:  "헤라클레스 차원의 조작자"
+acot_aura_herculean_ftl_debuff_desc:  "헤라클레스 차원의 조작자"
+
+ACOT_HERCULEAN_BEHAVIOR:  "엄청난 슈퍼 분석기"
+ACOT_HERCULEAN_BEHAVIOR_DESC:  "엄청난 슈퍼 분석기"
+ACOT_HERCULEAN_BEHAVIOR_E7:  "엄청나게 이상화된 슈퍼 분석기"
+ACOT_HERCULEAN_BEHAVIOR_E7_DESC:  "엄청나게 이상화된 슈퍼 분석기"
+ACOT_HERCULEAN_BEHAVIOR_S7:  "헤라클레스 항성 슈퍼 분석기"
+ACOT_HERCULEAN_BEHAVIOR_S7_DESC:  "헤라클레스 항성 슈퍼 분석기"
+
+ACOT_HERCULEAN_SPECIAL_1:  "헤라클레스 차원의 조작자"
+ACOT_HERCULEAN_SPECIAL_1_DESC:  "헤라클레스 차원의 조작자"
+
+ACOT_HERCULEAN_SPECIAL_2:  "헤라클레스 슈퍼 팩토리"
+ACOT_HERCULEAN_SPECIAL_2_DESC:  "헤라클레스 슈퍼 팩토리"
+
+####################################
+
+ACOT_PRECURSOR_STARBASE_AURA:  "이상한 아우라"
+ACOT_PRECURSOR_STARBASE_AURA:  "그것이 무엇을 하는지 솔직하게 말할 수는 없습니다."
+
+ap_precursor_dream:  "과거의 추구"
+ap_precursor_dream_desc:  "과거는 많은 비밀로 가득 차 있으며, 그들의 지식과 힘은 시간이 지나면서 사라져 버립니다. 타락한 자들은 그들을 버렸을지 모르지만, 우리는 고대인의 영광을 되찾을 것입니다."
+ap_precursor_dream_tooltip:  "최대 재상상 시도 횟수가 §Y6§!으로 증가합니다.\n\n몰락한 제국에서는 사용하지 않았던 더욱 발전된 재상상 디자인이 가능합니다."
+
+
+requires_asking_sophia:  "Precursor Databank의 자세한 정보가 필요합니다." 
+
+mod_shipsize_precursor_escort_hull_add:  "선구자 호위 선체 지점"
+mod_shipsize_precursor_battlecruiser_hull_add:  "선구자 전투순양함 선체 지점"
+mod_shipsize_precursor_assault_carrier_hull_add:  "프리커서 어썰트 캐리어 선체 포인트"
+mod_shipsize_precursor_sentinel_hull_add:  "선구자 센티넬 헐 포인트"
+mod_shipsize_sofe_gatekeeper_warden_hull_add:  "선구자 문지기 선체 지점"
+mod_shipsize_precursor_titan_hull_add:  "전구체 하이페리온 헐 포인트"
+mod_shipsize_precursor_colossus_hull_add:  "선구자 헤라클레스 헐 포인트"
+mod_shipsize_precursor_guardian_hull_add:  "프리커서 가디언 헐 포인트"
+
+mod_shipsize_precursor_science_hull_add:  "선구자 오라클 헐 포인트"
+mod_shipsize_precursor_constructor_hull_add:  "전구체 이니셜라이저 헐 포인트"
+mod_shipsize_precursor_colonizer_hull_add:  "선구자 사절 헐 포인트"
+
+mod_shipsize_precursor_platform_l_hull_add:  "전구체 이니셜라이저 헐 포인트"
+mod_shipsize_precursor_platform_m_hull_add:  "전구체 이니셜라이저 헐 포인트"
+
+
+mod_shipsize_precursor_escort_build_speed_mult:  "선구자 호위 건설 속도"
+mod_shipsize_precursor_battlecruiser_build_speed_mult:  "선구자 전투순양함 건설 속도"
+mod_shipsize_precursor_titan_build_speed_mult:  "전구체 Hyperion 빌드 속도"
+mod_shipsize_precursor_assault_carrier_build_speed_mult:  "선구자 돌격모함 제작 속도"
+mod_shipsize_precursor_sentinel_build_speed_mult:  "선구자 센티넬 건설 속도"
+mod_shipsize_precursor_guardian_build_speed_add:  "선구자 가디언 빌드 속도"
+mod_shipsize_sofe_gatekeeper_warden_build_speed_mult:  "게이트키퍼 빌드 속도"
+mod_shipsize_precursor_guardian_build_speed_mult:  "선구자 가디언 빌드 속도"
+
+####PRECURSOR SHIP NAMES
+
+precursor_escort:  "선구자 호위"
+precursor_escort_plural:  "선구자 호위"
+
+precursor_battlecruiser:  "선구자 전투순양함"
+precursor_battlecruiser_plural:  "선구자 전투순양함"
+
+precursor_assault_carrier:  "선구자 돌격모함"
+precursor_assault_carrier_plural:  "선구자 돌격모함"
+
+precursor_titan:  "전구체 하이페리온"
+precursor_titan_plural:  "전구체 하이페리온"
+
+precursor_guardian:  "선구자 수호자"
+precursor_guardian_plural:  "선구자 수호자"
+
+precursor_sentinel:  "선구자 파수꾼"
+precursor_sentinel_plural:  "선구자 파수꾼"
+
+sofe_gatekeeper_warden:  "문지기 소장"
+sofe_gatekeeper_warden_plural:  "문지기 감시자"
+
+precursor_colossus:  "헤라클레스의 선구자"
+precursor_colossus_plural:  "헤라클레스의 선구자"
+
+precursor_science:  "선구자 오라클"
+precursor_science_plural:  "전구체 오라클"
+
+precursor_constructor:  "전구체 초기화 장치"
+precursor_constructor_plural:  "전구체 초기화"
+
+precursor_colonizer:  "선구자 사절"
+precursor_colonizer_plural:  "선구자 사절"
+
+precursor_world_shaper:  "선구자 천상의 위조자"
+precursor_world_shaper_plural:  "선구자 천상의 위조자"
+
+precursor_platform_l:  "프리커서 인스턴트 파일론"
+precursor_platform_l_plural:  "선구자 인스턴트 파일런"
+
+precursor_platform_m:  "전구체 인스턴트 리펠러"
+precursor_platform_m_plural:  "전구체 인스턴트 리펠러"
+
+#### PRECURSOR SHIP SECTION #####
+##################################################################################################
+fallen_empire_sentinel_hull_key:  "파수꾼의 눈"
+fallen_empire_sentinel_core_key:  "센티넬 윙 A"
+fallen_empire_sentinel_data_key:  "센티넬 윙 B"
+
+alpha_fallen_empire_sentinel_hull_key:  "알파 센티넬 아이"
+alpha_fallen_empire_sentinel_core_key:  "알파 센티넬 윙 A"
+alpha_fallen_empire_sentinel_data_key:  "알파 센티넬 윙 B"
+
+stellar_fallen_empire_sentinel_hull_key:  "시그마 센티넬 아이"
+stellar_fallen_empire_sentinel_core_key:  "시그마 센티넬 윙 A"
+stellar_fallen_empire_sentinel_data_key:  "시그마 센티넬 윙 B"
+
+phanon_fallen_empire_sentinel_hull_key:  "파논 센티넬 아이"
+phanon_fallen_empire_sentinel_core_key:  "파논 센티넬 윙A"
+phanon_fallen_empire_sentinel_data_key:  "파논 센티넬 윙 B"
+
+omega_fallen_empire_sentinel_hull_key:  "오메가 센티넬 아이"
+omega_fallen_empire_sentinel_core_key:  "오메가 센티넬 윙A"
+omega_fallen_empire_sentinel_data_key:  "오메가 센티넬 윙 B"
+
+
+PRECURSOR_GUARDIAN_TOP_KEY:  "가디언 포병 시스템"
+PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY:  "가디언 미사일 시스템"
+PRECURSOR_GUARDIAN_LEFT_KEY:  "가디언 건캐논 시스템"
+PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY:  "가디언 미사일 시스템"
+PRECURSOR_GUARDIAN_RIGHT_KEY:  "가디언 방어 시스템"
+PRECURSOR_GUARDIAN_HANGER_KEY:  "가디언 격납고 시스템"
+
+ALPHA_PRECURSOR_GUARDIAN_TOP_KEY:  "알파 가디언 포병 시스템"
+ALPHA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY:  "알파 가디언 미사일 시스템"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_KEY:  "알파 가디언 건캐논 시스템"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY:  "알파 가디언 미사일 시스템"
+ALPHA_PRECURSOR_GUARDIAN_RIGHT_KEY:  "알파 가디언 방어 시스템"
+ALPHA_PRECURSOR_GUARDIAN_HANGER_KEY:  "알파 가디언 격납고 시스템"
+
+SIGMA_PRECURSOR_GUARDIAN_TOP_KEY:  "시그마 가디언 포병 시스템"
+SIGMA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY:  "시그마 가디언 미사일 시스템"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_KEY:  "시그마 가디언 건캐논 시스템"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY:  "시그마 가디언 미사일 시스템"
+SIGMA_PRECURSOR_GUARDIAN_RIGHT_KEY:  "시그마 가디언 방어 시스템"
+SIGMA_PRECURSOR_GUARDIAN_HANGER_KEY:  "시그마 가디언 격납고 시스템"
+
+PHANON_PRECURSOR_GUARDIAN_TOP_KEY:  "파논 가디언 포병 시스템"
+PHANON_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY:  "파논 가디언 미사일 시스템"
+PHANON_PRECURSOR_GUARDIAN_LEFT_KEY:  "파논 가디언 건캐논 시스템"
+PHANON_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY:  "파논 가디언 미사일 시스템"
+PHANON_PRECURSOR_GUARDIAN_RIGHT_KEY:  "파논 가디언 디펜스 시스템"
+PHANON_PRECURSOR_GUARDIAN_HANGER_KEY:  "파논 가디언 격납고 시스템"
+
+OMEGA_PRECURSOR_GUARDIAN_TOP_KEY:  "오메가 가디언 포병 시스템"
+OMEGA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY:  "오메가 가디언 미사일 시스템"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_KEY:  "오메가 가디언 건캐논 시스템"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY:  "오메가 가디언 미사일 시스템"
+OMEGA_PRECURSOR_GUARDIAN_RIGHT_KEY:  "오메가 가디언 방어 시스템"
+OMEGA_PRECURSOR_GUARDIAN_HANGER_KEY:  "오메가 가디언 격납고 시스템"
+
+PRECURSOR_COLOSSUS_W_SECTION:  "헤라클레스의 심장"
+PRECURSOR_COLOSSUS_T_SECTION:  "헤라클레스 타이탄 기둥"
+PRECURSOR_COLOSSUS_XL_SECTION:  "헤라클레스 공성 기둥"
+PRECURSOR_COLOSSUS_L_SECTION:  "헤라클레스 공격 기둥"
+PRECURSOR_COLOSSUS_H_SECTION:  "헤라클레스 캐리어 기둥"
+
+ALPHA_PRECURSOR_COLOSSUS_W_SECTION:  "알파 헤라클레스 하트"
+ALPHA_PRECURSOR_COLOSSUS_T_SECTION:  "알파 헤라클레스 타이탄 기둥"
+ALPHA_PRECURSOR_COLOSSUS_XL_SECTION:  "알파 헤라클레스 공성 기둥"
+ALPHA_PRECURSOR_COLOSSUS_L_SECTION:  "알파 헤라클레스 공격 기둥"
+ALPHA_PRECURSOR_COLOSSUS_H_SECTION:  "알파 헤라클레스 캐리어 기둥"
+
+SIGMA_PRECURSOR_COLOSSUS_W_SECTION:  "시그마 헤라클레스 하트"
+SIGMA_PRECURSOR_COLOSSUS_T_SECTION:  "시그마 헤라클레스 타이탄 기둥"
+SIGMA_PRECURSOR_COLOSSUS_XL_SECTION:  "시그마 헤라클레스 공성 기둥"
+SIGMA_PRECURSOR_COLOSSUS_L_SECTION:  "시그마 헤라클레스 공격 기둥"
+SIGMA_PRECURSOR_COLOSSUS_H_SECTION:  "시그마 헤라클레스 캐리어 기둥"
+
+PHANON_PRECURSOR_COLOSSUS_W_SECTION:  "파논 헤라클레스 하트"
+PHANON_PRECURSOR_COLOSSUS_T_SECTION:  "파논 헤라클레스 타이탄 기둥"
+PHANON_PRECURSOR_COLOSSUS_XL_SECTION:  "파논 헤라클레스 공성 기둥"
+PHANON_PRECURSOR_COLOSSUS_L_SECTION:  "파논 헤라클레스 공격 기둥"
+PHANON_PRECURSOR_COLOSSUS_H_SECTION:  "파논 헤라클레스 캐리어 기둥"
+
+OMEGA_PRECURSOR_COLOSSUS_W_SECTION:  "오메가 헤라클레스 하트"
+OMEGA_PRECURSOR_COLOSSUS_T_SECTION:  "오메가 헤라클레스 타이탄 기둥"
+OMEGA_PRECURSOR_COLOSSUS_XL_SECTION:  "오메가 헤라클레스 공성 기둥"
+OMEGA_PRECURSOR_COLOSSUS_L_SECTION:  "오메가 헤라클레스 공격 기둥"
+OMEGA_PRECURSOR_COLOSSUS_H_SECTION:  "오메가 헤라클레스 캐리어 기둥"
+
+##################################################################################################
+PRECURSOR_ESCORT_BOW_KEY:  "호위 기지 코어"
+PRECURSOR_ESCORT_BOW_TORPEDO_KEY:  "미사일 호위 코어"
+PRECURSOR_ESCORT_MID_KEY:  "인터셉터 매트릭스"
+PRECURSOR_ESCORT_MID_MEDIUM_KEY:  "건쉽 매트릭스"
+PRECURSOR_ESCORT_MID_TORPEDO_KEY:  "안내 매트릭스"
+PRECURSOR_ESCORT_STERN_KEY:  "포인트 디펜스 매트릭스"
+PRECURSOR_ESCORT_STERN_MIX_KEY:  "관리인 매트릭스"
+PRECURSOR_ESCORT_STERN_SMALL_KEY:  "인터셉터 매트릭스"
+
+ALPHA_PRECURSOR_ESCORT_BOW_KEY:  "알파 에스코트 코어"
+ALPHA_PRECURSOR_ESCORT_BOW_TORPEDO_KEY:  "알파 미사일 호위 코어"
+ALPHA_PRECURSOR_ESCORT_MID_KEY:  "알파 인터셉터 매트릭스"
+ALPHA_PRECURSOR_ESCORT_MID_MEDIUM_KEY:  "알파 건쉽 매트릭스"
+ALPHA_PRECURSOR_ESCORT_MID_TORPEDO_KEY:  "알파 안내 매트릭스"
+ALPHA_PRECURSOR_ESCORT_STERN_TORPEDO_KEY:  "알파 미사일 매트릭스"
+ALPHA_PRECURSOR_ESCORT_STERN_MIX_KEY:  "알파 관리인 매트릭스"
+ALPHA_PRECURSOR_ESCORT_STERN_SMALL_KEY:  "알파 인터셉터 매트릭스"
+
+STELLAR_PRECURSOR_ESCORT_BOW_KEY:  "시그마 에스코트 코어"
+STELLAR_PRECURSOR_ESCORT_BOW_TORPEDO_KEY:  "시그마 미사일 호위 코어"
+STELLAR_PRECURSOR_ESCORT_MID_KEY:  "시그마 인터셉터 매트릭스"
+STELLAR_PRECURSOR_ESCORT_MID_MEDIUM_KEY:  "시그마 건쉽 매트릭스"
+STELLAR_PRECURSOR_ESCORT_MID_TORPEDO_KEY:  "시그마 안내 매트릭스"
+STELLAR_PRECURSOR_ESCORT_STERN_TORPED_KEY:  "시그마 미사일 매트릭스"
+STELLAR_PRECURSOR_ESCORT_STERN_MIX_KEY:  "시그마 관리인 매트릭스"
+STELLAR_PRECURSOR_ESCORT_STERN_SMALL_KEY:  "시그마 인터셉터 매트릭스"
+
+PHANON_PRECURSOR_ESCORT_BOW_KEY:  "파논 에스코트 코어"
+PHANON_PRECURSOR_ESCORT_BOW_TORPEDO_KEY:  "파논 미사일 호위 코어"
+PHANON_PRECURSOR_ESCORT_MID_KEY:  "파논 인터셉터 매트릭스"
+PHANON_PRECURSOR_ESCORT_MID_MEDIUM_KEY:  "파논 건쉽 매트릭스"
+PHANON_PRECURSOR_ESCORT_MID_TORPEDO_KEY:  "Phanon 안내 매트릭스"
+PHANON_PRECURSOR_ESCORT_STERN_TORPED_KEY:  "파논 미사일 매트릭스"
+PHANON_PRECURSOR_ESCORT_STERN_MIX_KEY:  "파논 커스터디안 매트릭스"
+PHANON_PRECURSOR_ESCORT_STERN_SMALL_KEY:  "파논 인터셉터 매트릭스"
+
+OMEGA_PRECURSOR_ESCORT_BOW_KEY:  "오메가 에스코트 코어"
+OMEGA_PRECURSOR_ESCORT_BOW_TORPEDO_KEY:  "오메가 미사일 호위 코어"
+OMEGA_PRECURSOR_ESCORT_MID_KEY:  "오메가 인터셉터 매트릭스"
+OMEGA_PRECURSOR_ESCORT_MID_MEDIUM_KEY:  "오메가 건쉽 매트릭스"
+OMEGA_PRECURSOR_ESCORT_MID_TORPEDO_KEY:  "오메가 가이던스 매트릭스"
+OMEGA_PRECURSOR_ESCORT_STERN_TORPEDO_KEY:  "오메가 미사일 매트릭스"
+OMEGA_PRECURSOR_ESCORT_STERN_KEY:  "오메가 커스터디안 매트릭스"
+OMEGA_PRECURSOR_ESCORT_STERN_SMALL_KEY:  "오메가 인터셉터 매트릭스"
+##################################################################################################
+PRECURSOR_BATTLECRUISER_BOW_KEY:  "전투순양함 베이스 코어"
+PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY:  "전투순양함 미사일 코어"
+PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY:  "전투순양함 캐리어 코어"
+PRECURSOR_BATTLECRUISER_MID_KEY:  "크루저 매트릭스"
+PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY:  "안내 매트릭스"
+PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY:  "포병 매트릭스"
+PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY:  "캐리어 매트릭스"
+PRECURSOR_BATTLECRUISER_STERN_KEY:  "격납고 매트릭스"
+PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY:  "화재 지원 매트릭스"
+PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY:  "미사일 매트릭스"
+
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_KEY:  "알파 전투순양함 코어"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY:  "알파 전투순양함 미사일 코어"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY:  "알파 전투순양함 캐리어 코어"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY:  "알파 안내 매트릭스"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY:  "알파 포병 매트릭스"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY:  "알파 캐리어 매트릭스"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_KEY:  "알파 격납고 매트릭스"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY:  "알파 파이어 지원 매트릭스"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY:  "알파 미사일 매트릭스"
+
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_KEY:  "시그마 배틀크루저 코어"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY:  "시그마 배틀크루저 미사일 코어"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY:  "시그마 배틀크루저 캐리어 코어"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY:  "시그마 안내 매트릭스"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY:  "시그마 포병 매트릭스"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY:  "시그마 캐리어 매트릭스"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_KEY:  "시그마 격납고 매트릭스"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY:  "시그마 화재 지원 매트릭스"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY:  "시그마 미사일 매트릭스"
+
+PHANON_PRECURSOR_BATTLECRUISER_BOW_KEY:  "파논 배틀크루저 코어"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY:  "파논 배틀크루저 미사일 코어"
+PHANON_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY:  "파논 배틀크루저 캐리어 코어"
+PHANON_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY:  "Phanon 안내 매트릭스"
+PHANON_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY:  "파논 포병 매트릭스"
+PHANON_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY:  "파논 캐리어 매트릭스"
+PHANON_PRECURSOR_BATTLECRUISER_STERN_KEY:  "파논 격납고 매트릭스"
+PHANON_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY:  "Phanon 화재 지원 매트릭스"
+PHANON_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY:  "파논 미사일 매트릭스"
+
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_KEY:  "오메가 전투순양함 코어"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY:  "오메가 전투순양함 미사일 코어"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY:  "오메가 전투순양함 캐리어 코어"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY:  "오메가 가이던스 매트릭스"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_KEY:  "오메가 포병 매트릭스"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY:  "오메가 캐리어 매트릭스"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_KEY:  "오메가 격납고 매트릭스"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY:  "오메가 화재 지원 매트릭스"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY:  "오메가 미사일 매트릭스"
+##################################################################################################
+SOFE_GATEKEEPER_WARDEN_SPINAL_KEY:  "문지기 척추"
+SOFE_GATEKEEPER_WARDEN_SHOTO_KEY:  "문지기 초점"
+SOFE_GATEKEEPER_WARDEN_MID_KEY:  "게이트키퍼 외부 코어"
+SOFE_GATEKEEPER_WARDEN_STERN_KEY:  "게이트키퍼 내부 코어"
+
+ALPHA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY:  "알파 게이트키퍼 척추"
+ALPHA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY:  "알파 문지기 초점"
+ALPHA_SOFE_GATEKEEPER_WARDEN_MID_KEY:  "알파 게이트키퍼 외부 코어"
+ALPHA_SOFE_GATEKEEPER_WARDEN_STERN_KEY:  "알파 게이트키퍼 내부 코어"
+
+SIGMA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY:  "시그마 게이트키퍼 척추"
+SIGMA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY:  "시그마 게이트키퍼 포컬 포인트"
+SIGMA_SOFE_GATEKEEPER_WARDEN_MID_KEY:  "시그마 게이트키퍼 외부 코어"
+SIGMA_SOFE_GATEKEEPER_WARDEN_STERN_KEY:  "시그마 게이트키퍼 내부 코어"
+
+PHANON_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY:  "파논 게이트키퍼 척추"
+PHANON_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY:  "파논 게이트키퍼 포컬 포인트"
+PHANON_SOFE_GATEKEEPER_WARDEN_MID_KEY:  "파논 게이트키퍼 외부 코어"
+PHANON_SOFE_GATEKEEPER_WARDEN_STERN_KEY:  "파논 게이트키퍼 내부 코어"
+
+SOFE_GATEKEEPER_OMEGA_SPINAL_KEY:  "오메가 게이트키퍼 척추"
+SOFE_GATEKEEPER_OMEGA_SHOTO_KEY:  "오메가 게이트키퍼 초점"
+SOFE_GATEKEEPER_OMEGA_MID_KEY:  "오메가 게이트키퍼 외부 코어"
+SOFE_GATEKEEPER_OMEGA_STERN_KEY:  "오메가 게이트키퍼 내부 코어"
+##################################################################################################
+acot_precursor_assault_carrier_spinal_section:  "돌격모함 척추"
+acot_precursor_assault_carrier_large_section:  "돌격모함 전방 포병"
+acot_precursor_assault_carrier_hanger1_section:  "돌격모함 격납고 A"
+acot_precursor_assault_carrier_hanger2_section:  "돌격모함 격납고 B"
+acot_precursor_assault_carrier_hanger3_section:  "돌격모함 격납고 C"
+
+alpha_acot_precursor_assault_carrier_spinal_section:  "알파 PAC 척추"
+alpha_acot_precursor_assault_carrier_large_section:  "알파 PAC 전방 포병"
+alpha_acot_precursor_assault_carrier_hanger1_section:  "알파팩 격납고A"
+alpha_acot_precursor_assault_carrier_hanger2_section:  "알파팩 격납고 B"
+alpha_acot_precursor_assault_carrier_hanger3_section:  "알파팩 격납고 C"
+
+stellar_acot_precursor_assault_carrier_spinal_section:  "시그마 PAC 척추"
+stellar_acot_precursor_assault_carrier_large_section:  "시그마 PAC 전방 포병"
+stellar_acot_precursor_assault_carrier_hanger1_section:  "시그마 PAC 격납고 A"
+stellar_acot_precursor_assault_carrier_hanger2_section:  "시그마 PAC 격납고 B"
+stellar_acot_precursor_assault_carrier_hanger3_section:  "시그마 PAC 격납고 C"
+
+phanon_acot_precursor_assault_carrier_spinal_section:  "Phanon PAC 척추"
+phanon_acot_precursor_assault_carrier_large_section:  "파논 PAC 전방 포병"
+phanon_acot_precursor_assault_carrier_hanger1_section:  "파논 PAC 격납고 A"
+phanon_acot_precursor_assault_carrier_hanger2_section:  "파논 PAC 격납고 B"
+phanon_acot_precursor_assault_carrier_hanger3_section:  "파논 PAC 격납고 C"
+
+omega_acot_precursor_assault_carrier_spinal_section:  "오메가 PAC 척추"
+omega_acot_precursor_assault_carrier_large_section:  "오메가 PAC 전방 포병"
+omega_acot_precursor_assault_carrier_hanger1_section:  "오메가 PAC 격납고 A"
+omega_acot_precursor_assault_carrier_hanger2_section:  "오메가 PAC 격납고 B"
+omega_acot_precursor_assault_carrier_hanger3_section:  "오메가 PAC 격납고 C"
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_KEY:  "하이페리온 코어"
+PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:  "하이페리온 미사일 코어"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY:  "하이페리온 캐리어 코어"
+PRECURSOR_TITAN_MID_KEY:  "히페리온 A-윙 포병"
+PRECURSOR_TITAN_MID_TORPEDO_KEY:  "하이페리온 A-윙 미사일"
+PRECURSOR_TITAN_MID_CARRIER_KEY:  "하이페리온 A-Wing 격납고"
+PRECURSOR_TITAN_CORE_KEY:  "히페리온 B-윙 포병"
+PRECURSOR_TITAN_CORE_TORPEDO_KEY:  "하이페리온 B-윙 미사일"
+PRECURSOR_TITAN_CORE_CARRIER_KEY:  "하이페리온 B-윙 격납고"
+PRECURSOR_TITAN_STERN_KEY:  "하이페리온 격납고 매트릭스"
+PRECURSOR_TITAN_STERN_LARGE_KEY:  "Hyperion 화재 지원 매트릭스"
+PRECURSOR_TITAN_STERN_TORPEDO_KEY:  "하이페리온 안내 매트릭스"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_KEY:  "알파 하이페리온 코어"
+ALPHA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:  "알파 하이페리온 미사일 코어"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY:  "알파 하이페리온 캐리어 코어"
+ALPHA_PRECURSOR_TITAN_MID_KEY:  "알파 히페리온 A-윙 포병"
+ALPHA_PRECURSOR_TITAN_MID_TORPEDO_KEY:  "알파 하이페리온 A-윙 미사일"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY:  "알파 히페리온 A-Wing 격납고"
+ALPHA_PRECURSOR_TITAN_CORE_KEY:  "알파 히페리온 B-윙 포병"
+ALPHA_PRECURSOR_TITAN_CORE_TORPEDO_KEY:  "알파 하이페리온 B-윙 미사일"
+ALPHA_PRECURSOR_TITAN_CORE_CARRIER_KEY:  "알파 히페리온 B-윙 격납고"
+ALPHA_PRECURSOR_TITAN_STERN_KEY:  "알파 히페리온 격납고 매트릭스"
+ALPHA_PRECURSOR_TITAN_STERN_LARGE_KEY:  "Alpha Hyperion 화재 지원 매트릭스"
+ALPHA_PRECURSOR_TITAN_STERN_TORPEDO_KEY:  "알파 하이페리온 안내 매트릭스"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_KEY:  "시그마 하이페리온 코어"
+SIGMA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:  "시그마 하이페리온 미사일 코어"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY:  "시그마 하이페리온 캐리어 코어"
+SIGMA_PRECURSOR_TITAN_MID_KEY:  "시그마 하이페리온 A-윙 포병"
+SIGMA_PRECURSOR_TITAN_MID_TORPEDO_KEY:  "시그마 하이페리온 A-윙 미사일"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY:  "시그마 하이페리온 A-Wing 격납고"
+SIGMA_PRECURSOR_TITAN_CORE_KEY:  "시그마 하이페리온 B-윙 포병"
+SIGMA_PRECURSOR_TITAN_CORE_TORPEDO_KEY:  "시그마 하이페리온 B-윙 미사일"
+SIGMA_PRECURSOR_TITAN_CORE_CARRIER_KEY:  "시그마 하이페리온 B-윙 격납고"
+SIGMA_PRECURSOR_TITAN_STERN_KEY:  "시그마 하이페리온 격납고 매트릭스"
+SIGMA_PRECURSOR_TITAN_STERN_LARGE_KEY:  "Sigma Hyperion 화재 지원 매트릭스"
+SIGMA_PRECURSOR_TITAN_STERN_TORPEDO_KEY:  "시그마 하이페리온 안내 매트릭스"
+
+PHANON_PRECURSOR_TITAN_SPINAL_KEY:  "파논 하이페리온 코어"
+PHANON_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:  "파논 하이페리온 미사일 코어"
+PHANON_PRECURSOR_TITAN_SPINAL_CARRIER_KEY:  "Phanon Hyperion 캐리어 코어"
+PHANON_PRECURSOR_TITAN_MID_KEY:  "파논 하이페리온 A-윙 포병"
+PHANON_PRECURSOR_TITAN_MID_TORPEDO_KEY:  "파논 하이페리온 A-윙 미사일"
+PHANON_PRECURSOR_TITAN_MID_CARRIER_KEY:  "파논 하이페리온 A-Wing 격납고"
+PHANON_PRECURSOR_TITAN_CORE_KEY:  "파논 히페리온 B-윙 포병"
+PHANON_PRECURSOR_TITAN_CORE_TORPEDO_KEY:  "파논 하이페리온 B-윙 미사일"
+PHANON_PRECURSOR_TITAN_CORE_CARRIER_KEY:  "파논 하이페리온 B-윙 격납고"
+PHANON_PRECURSOR_TITAN_STERN_KEY:  "파논 하이페리온 격납고 매트릭스"
+PHANON_PRECURSOR_TITAN_STERN_LARGE_KEY:  "Phanon Hyperion 화재 지원 매트릭스"
+PHANON_PRECURSOR_TITAN_STERN_TORPEDO_KEY:  "Phanon Hyperion 안내 매트릭스"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_KEY:  "오메가 하이페리온 코어"
+OMEGA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:  "오메가 하이페리온 미사일 코어"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY:  "오메가 하이페리온 캐리어 코어"
+OMEGA_PRECURSOR_TITAN_MID_KEY:  "오메가 히페리온 A-윙 포병"
+OMEGA_PRECURSOR_TITAN_MID_TORPEDO_KEY:  "오메가 하이페리온 A-윙 미사일"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY:  "오메가 하이페리온 A-Wing 격납고"
+OMEGA_PRECURSOR_TITAN_CORE_KEY:  "오메가 히페리온 B-윙 포병"
+OMEGA_PRECURSOR_TITAN_CORE_TORPEDO_KEY:  "오메가 하이페리온 B-윙 미사일"
+OMEGA_PRECURSOR_TITAN_CORE_CARRIER_KEY:  "오메가 하이페리온 B-윙 격납고"
+OMEGA_PRECURSOR_TITAN_STERN_KEY:  "오메가 하이페리온 격납고 매트릭스"
+OMEGA_PRECURSOR_TITAN_STERN_LARGE_KEY:  "Omega Hyperion 화재 지원 매트릭스"
+OMEGA_PRECURSOR_TITAN_STERN_TORPEDO_KEY:  "오메가 하이페리온 안내 매트릭스"
+
+PRECURSOR_SCIENCE_MID_KEY:  "오라클 윙"
+PRECURSOR_SCIENCE_STERN_KEY:  "오라클 안테나"
+ALPHA_PRECURSOR_SCIENCE_MID_KEY:  "알파 오라클 윙"
+ALPHA_PRECURSOR_SCIENCE_STERN_KEY:  "알파 오라클 안테나"
+SIGMA_PRECURSOR_SCIENCE_MID_KEY:  "시그마 오라클 윙"
+SIGMA_PRECURSOR_SCIENCE_STERN_KEY:  "시그마 오라클 안테나"
+PHANON_PRECURSOR_SCIENCE_MID_KEY:  "파논 오라클 윙"
+PHANON_PRECURSOR_SCIENCE_STERN_KEY:  "Phonon 오라클 안테나"
+OMEGA_PRECURSOR_SCIENCE_MID_KEY:  "오메가 오라클 윙"
+OMEGA_PRECURSOR_SCIENCE_STERN_KEY:  "오메가 오라클 안테나"
+
+PRECURSOR_CONSTRUCTOR_BOW_KEY:  "초기화 망막"
+PRECURSOR_CONSTRUCTOR_MID_KEY:  "초기화 코어"
+PRECURSOR_CONSTRUCTOR_STERN_KEY:  "초기화 맨"
+ALPHA_PRECURSOR_CONSTRUCTOR_BOW_KEY:  "알파 초기화 프로그램 레티나"
+ALPHA_PRECURSOR_CONSTRUCTOR_MID_KEY:  "알파 초기화 코어"
+ALPHA_PRECURSOR_CONSTRUCTOR_STERN_KEY:  "알파 이니셜라이저 맨"
+SIGMA_PRECURSOR_CONSTRUCTOR_BOW_KEY:  "시그마 초기화 Retina"
+SIGMA_PRECURSOR_CONSTRUCTOR_MID_KEY:  "시그마 초기화 코어"
+SIGMA_PRECURSOR_CONSTRUCTOR_STERN_KEY:  "시그마 이니셜라이저 맨"
+PHANON_PRECURSOR_CONSTRUCTOR_BOW_KEY:  "파논 초기화 레티나"
+PHANON_PRECURSOR_CONSTRUCTOR_MID_KEY:  "Phonon 초기화 코어"
+PHANON_PRECURSOR_CONSTRUCTOR_STERN_KEY:  "파논 이니셜라이저 맨"
+OMEGA_PRECURSOR_CONSTRUCTOR_BOW_KEY:  "오메가 이니셜라이저 레티나"
+OMEGA_PRECURSOR_CONSTRUCTOR_MID_KEY:  "오메가 초기화 코어"
+OMEGA_PRECURSOR_CONSTRUCTOR_STERN_KEY:  "오메가 이니셜라이저 맨"
+
+PRECURSOR_PLATFORM_M_TOP_1_KEY:  "델타 리펠러 탑"
+PRECURSOR_PLATFORM_M_BOTTOM_1_KEY:  "델타 리펠러 바닥"
+ALPHA_PRECURSOR_PLATFORM_M_TOP_1_KEY:  "알파 리펠러 탑"
+ALPHA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY:  "알파 리펠러 바닥"
+SIGMA_PRECURSOR_PLATFORM_M_TOP_1_KEY:  "시그마 리펠러 탑"
+SIGMA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY:  "시그마 리펠러 바닥"
+PHANON_PRECURSOR_PLATFORM_M_TOP_1_KEY:  "Phanon 리펠러 탑"
+PHANON_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY:  "Phonon 리펠러 바닥"
+OMEGA_PRECURSOR_PLATFORM_M_TOP_1_KEY:  "오메가 리펠러 탑"
+OMEGA_PRECURSOR_PLATFORM_M_BOTTOM_1_KEY:  "오메가 리펠러 바닥"
+
+PRECURSOR_PLATFORM_L_TOP_1_KEY:  "델타 파일런 탑"
+PRECURSOR_PLATFORM_L_BOTTOM_1_KEY:  "델타 파일론 바닥"
+ALPHA_PRECURSOR_PLATFORM_L_TOP_1_KEY:  "알파 파일론 탑"
+ALPHA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY:  "알파 파일론 바닥"
+SIGMA_PRECURSOR_PLATFORM_L_TOP_1_KEY:  "시그마 파일론 탑"
+SIGMA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY:  "시그마 파일론 바닥"
+PHANON_PRECURSOR_PLATFORM_L_TOP_1_KEY:  "파논 파일론 탑"
+PHANON_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY:  "파논 파일론 바닥"
+OMEGA_PRECURSOR_PLATFORM_L_TOP_1_KEY:  "오메가 파일론 탑"
+OMEGA_PRECURSOR_PLATFORM_L_BOTTOM_1_KEY:  "오메가 파일론 바닥"
+
+
+PRECURSOR_COLONIZER_BOW_KEY:  "밀사 레티나"
+PRECURSOR_COLONIZER_MID_KEY:  "사절 코어"
+PRECURSOR_COLONIZER_STERN_KEY:  "밀사 남자"
+ALPHA_PRECURSOR_COLONIZER_BOW_KEY:  "알파 사절 레티나"
+ALPHA_PRECURSOR_COLONIZER_MID_KEY:  "알파 사절 코어"
+ALPHA_PRECURSOR_COLONIZER_STERN_KEY:  "알파 밀사 남자"
+SIGMA_PRECURSOR_COLONIZER_BOW_KEY:  "시그마 에미서리 레티나"
+SIGMA_PRECURSOR_COLONIZER_MID_KEY:  "시그마 에미서리 코어"
+SIGMA_PRECURSOR_COLONIZER_STERN_KEY:  "시그마 에미서리 맨"
+PHANON_PRECURSOR_COLONIZER_BOW_KEY:  "파논 에미서리 레티나"
+PHANON_PRECURSOR_COLONIZER_MID_KEY:  "파논 에미서리 코어"
+PHANON_PRECURSOR_COLONIZER_STERN_KEY:  "파논 밀사 남자"
+OMEGA_PRECURSOR_COLONIZER_BOW_KEY:  "오메가 에미서리 레티나"
+OMEGA_PRECURSOR_COLONIZER_MID_KEY:  "오메가 사절 코어"
+OMEGA_PRECURSOR_COLONIZER_STERN_KEY:  "오메가 에미서리맨"
+
+#### PRECARSOR TECH #####
+
+tech_precursor_sentinel:  "전구체 센티넬 설계도"
+tech_precursor_sentinel_desc:  "선체 내구성이 매우 뛰어나 대캐피털 함선 역할을 위해 특별히 제작된 변형된 선각자 방어 플랫폼입니다."
+
+tech_precursor_design:  "전구체 데이터뱅크 분석"
+tech_precursor_design_desc:  "Precursor의 역사를 더 자세히 이해하려면 Databank AI Assistant를 분석하고 활성화해야 합니다.\n\n분석을 마치고 AI가 보안에 위협이 될지 여부를 판단하고 나면 다음에 무엇을 시작할지 결정할 수 있습니다."
+
+tech_precursor_design_engineering:  "알파 프로젝트: 전구체 엔지니어링"
+tech_precursor_design_engineering_desc:  "과거의 선각자가 어떻게 다양한 재료, 디자인, 프로토타입 및 선박을 개발했는지에 대한 포괄적이고 철저한 연구를 통해 우리는 알파 프로젝트의 새로운 에너지원의 힘을 유지하고 억제할 수 있는 구성 요소를 가장 잘 만드는 방법에 대한 대략적인 이해를 얻을 수 있습니다."
+
+tech_precursor_design_history:  "알파 프로젝트: 선구자 역사"
+tech_precursor_design_history_desc:  "방대한 다큐멘터리와 과거의 기록을 연구해야 합니다. 우리는 선구자들의 실패와 그들의 고통스러운 과거를 이해하여 그런 일이 반복되지 않도록 해야 합니다. 각 장은 우리의 진정한 목표인 알파 승천의 범위에 대한 대략적인 아이디어를 제공합니다."
+
+tech_precursor_design_physics:  "알파 프로젝트: 선구자 실험"
+tech_precursor_design_physics_desc:  "암흑 물질 및 암흑 에너지 장 조작의 한계를 돌파하려는 선구자의 시도에 관한 엄청난 양의 데이터 캐시를 문서화해야 합니다. 그래야만 우리는 알파 프로젝트의 진정한 힘과 한계를 이해할 수 있을 것이고, 그런 다음 그러한 한계를 제거하고 타락한 자들을 능가할 수 있을 것입니다."
+
+tech_precursor_escort:  "호위 기지 템플릿"
+tech_precursor_escort_desc:  "이 기술 캐시에는 쓰러진 자들이 활용하는 호위 청사진과 템플릿이 포함되어 있습니다. 순찰선, 피켓, 요격기부터 주력함 사냥꾼까지 다양한 목적을 충족하도록 설계된 것으로 보입니다.\n\n그러나 실제 특정 역할에 특화되어 있지는 않은 것 같습니다."
+
+tech_precursor_bc:  "전투순양함 기본 템플릿"
+tech_precursor_bc_desc:  "이 기술 캐시에는 전사자들이 활용하는 전투순양함 청사진과 템플릿이 포함되어 있습니다. 순양함, 포병, 전함 또는 항공모함에 이르기까지 다양한 목적을 충족하도록 설계된 것 같습니다.\n\n그러나 디자인은 다소 엉성하며 특정 강점에 중점을 두지 않는 섹션이 많습니다. 마치 더 발전된 디자인에서 축소된 것처럼 보입니다..."
+
+tech_precursor_assault_carrier:  "프리커서 어썰트 캐리어 설계도"
+tech_precursor_assault_carrier_desc:  "Precursor Transport 선체의 원래 목적은 강력한 공격 캐리어 역할을 하는 것으로 밝혀졌습니다. 그러나 몰락제국은 모든 일에 있어서 끔찍할 정도의 능력을 갖고 있었기 때문에, 그들은 그 일을 제대로 하는 데 실패했습니다. 우리는 그들의 실수를 바로잡을 것입니다."
+
+tech_precursor_titan:  "전구체 하이페리온 청사진"
+tech_precursor_titan_desc:  "이 기술 캐시에는 "Hyperion"으로만 알려진 오랫동안 폐기된 타락한 전구체 청사진이 포함되어 있습니다. 플래그십의 첫 번째 프로토타입인 것 같습니다. 기록에 따르면 높은 유지 관리 비용과 소규모 적에 대한 과잉 공격으로 인해 이 설계를 폐기한 것으로 나타났습니다.\n\n또한 선박의 큰 프로필로 인해 "Elders"에게 취약하다는 의견도 있습니다. 그럼에도 불구하고, 타락한 선구자들은 여전히 ​​함선의 거대한 척추 모듈을 구현하기를 원했습니다. 그래서 그들은 기존 선체 중 하나에 부품을 개조하고 이를 타이탄이라고 불렀습니다.\n\n요즘 그들이 보유하고 있는 Fallen Titans는 기본적으로 광산 기지의 멸망 포탑이 그 위에 묶여 있는 건설선 선체로 만든 군용 민간 선박인 것 같습니다. 그건... 뭔가요."
+
+tech_gatekeepers:  "게이트키퍼 회로도"
+tech_gatekeepers_desc:  "타락한 선구자들의 기록을 바탕으로 게이트키퍼는 원래 수호자로 설계되었습니다. 그러나 극도로 발전된 지능으로 인해 함선은 타락한 자의 성장과 진행이 부족하여 자신의 창조자에게 반항했습니다.\n\n현재 우리가 가지고 있는 디자인은 초기 설명에 비해 크게 축소된 것 같습니다. 가능한 이론은 원래 설계가 훨씬 더 강력했을 것이라는 것입니다.\n\n그럼에도 불구하고 이는 간과해서는 안 될 매우 강력한 주력함 설계입니다."
+
+tech_precursor_guardian:  "선구자 수호자 설계도"
+tech_precursor_guardian_desc:  "몰락한 선구자들이 활용한 방어 플랫폼에 대한 여러 기록과 설계 변형이 있는 것 같습니다. 가장 잘 알려진 것은 우리가 본 몰락자들이 정기적으로 사용하는 방어 전초기지입니다. 그러나 우리는 "Guardians"라는 또 다른 더 흥미로운 디자인이 있다는 것을 발견했습니다. 전초 기지보다 더 크고 강력하며 개선의 여지가 훨씬 더 많은 것 같습니다. 기록에 따르면 더 정교한 디자인으로 인해 Guardian을 활용하지 않았습니다. 그들은 선체가 기본적으로 광산 스테이션과 동일하게 만들어지기 때문에 건설하기 쉬운 전초 기지를 사용하는 것을 선호했습니다. 그러한 쾌락주의적 성향이 그들을 몰락하게 만든 원인이 되었습니다."
+
+tech_precursor_escort_delta:  "모듈식 에스코트 디자인"
+tech_precursor_escort_delta_desc:  "이제 우리가 타락한 함선들의 경직성을 제거할 시간은 지났습니다. 우리는 훨씬 더 강력하면서도 에스코트에 대한 새로운 변형을 제공하는 보다 현대적인 템플릿을 구현할 것입니다."
+
+tech_precursor_bc_delta:  "모듈식 전투순양함 설계"
+tech_precursor_bc_delta_desc:  "이제 우리가 타락한 함선들의 경직성을 제거할 시간은 지났습니다. 우리는 훨씬 더 강력하면서도 Battlecruiser에 대한 새로운 변형을 제공하는 보다 현대적인 템플릿을 구현할 것입니다."
+
+tech_precursor_colossus:  "헤라클레스 전쟁터"
+tech_precursor_colossus_desc:  "이 데이터는 숨겨진 진실을 드러냅니다. 타락한 선구자들이 사용했던 거상은 사실 불완전했습니다...그것은 훨씬 더 큰 무기의 일부일 뿐입니다. 이 "헤라클레스"는 성채조차 왜소하게 만드는 거대한 전투 기지입니다. 이 함선은 2개의 기본 원자로를 지원할 수 있을 만큼 거대하며, 처음으로 치명적인 손상을 입자마자 선체를 완전한 상태로 수리할 수 있는 자가 수리 프로토콜이 내장되어 있습니다. "Colossus" 부분은 스테이션의 내부 레이어를 구성합니다. 몰락한 제국은 원래 디자인을 없애고 세계를 바꾸는 무기에만 콜로서스 섹션만 활용하기로 결정한 것 같습니다.\n\n이건 말이 되지 않습니다. 몰락한 선구자들이 왜 우리에게 이 설계도를 제공하기로 결정했을까요? 어쩌면 그들은 우리가 그렇게 거대한 선박을 만들 수 없을 것이라고 생각할까요? 함선을 단번에 날려버릴 수 있는 배기구가 어딘가에 숨겨져 있나요? 우리는 추측만 할 수 있습니다."
+
+tech_acot_precursor_herculean_regain:  "또 다른 유산, 또 다른 헤라클레스"
+tech_acot_precursor_herculean_regain_desc:  "우리는 단 하나의 헤라클레스(Herculean)만으로는 우리의 유산을 이행하기에 충분하지 않을 수 있다는 점을 우려할 이유가 있습니다. 아니면 우리 사람들 중 일부는 다른 사람을 갖는 것이 더 멋지고 더 좋다고 생각할 수도 있습니다. 그러나 각각의 헤라클레스는 세심한 주의를 기울여 제작되어야 하며, 하나가 타협되더라도 다른 하나는 같은 운명을 겪지 않도록 해야 합니다."
+
+tech_precursor_orbital_ring:  "전구체 궤도 고리 설계"
+tech_precursor_orbital_ring_desc:  "데모맨"
+
+tech_precursor_sigma_citadel:  "시그마 시타델 프로젝트"
+tech_precursor_sigma_citadel_desc:  "프리커서 시타델은 유연하고 신뢰할 수 있으며 매우 무장이 잘 되어 있지만, 암흑물질과 암흑에너지 기반 기술에 크게 의존합니다. 이제 스텔라라이트 시대에 접어들기 시작했으니, 프리커서의 설계를 시그마 변형으로 개선할 새로운 방법을 모색해야 합니다."
+
+tech_precursor_citadel:  "선구자 성채 설계 계획"
+tech_precursor_citadel_desc:  "몰락 제국의 성채는 오랫동안 시대의 시험을 견뎌왔고, 거대한 중앙 오벨리스크는 그 기지에 거의 무한한 힘을 제공했습니다. 그러나 디자인은 엉성하고 미완성인 것처럼 보였습니다. 오랫동안 우리는 단순히 노후화로 인한 것이라고 이론화했지만 이 디자인 계획은 우리에게 새로운 계시를 제공했습니다. 성채 자체의 기원은 타락한 자들이 발명한 것이 아닙니다.\n\n암흑 물질과 에너지에 대한 적절한 이해 부족으로 인해 설계의 유망한 많은 기능을 줄일 수밖에 없었습니다. 궁극적으로 그들이 지금 가지고 있는 스테이션은 복제품에 지나지 않으며, 젊은 종족에게 겁을 주기 위해 인상적으로 보이도록 제작되었습니다. 하지만 이제는 타락한 사람들에게 완벽함과 가식의 차이를 보여줄 때입니다.\n\n스테이션의 복잡한 메커니즘으로 인해 실제 작업을 시작하기 전에 프레임워크를 거대 구조물의 일부로 구성해야 합니다."
+
+tech_precursor_science:  "전구체 Oracle 설계 계획"
+tech_precursor_science_desc:  "이 설계도는 Fallen Empires가 활용하는 호위 기지 템플릿을 수정한 것으로 보입니다. 오라클은 자기 방어 능력과 합리적인 수준의 보호 기능을 갖춘 선구자의 프로토타입 첨단 과학 및 탐사 선박으로 기능하는 것으로 보입니다. 이 디자인이 흥미로운 이유는 선박이 어떤 우주 전투에서도 즉시 탈출할 수 있게 해주는 비상 웨이포인트 순간이동 능력을 보유하고 있는 것 같다는 것입니다.\n\n탐험가보다 군함에 더 많은 관심을 요구하는 선구자 간의 전쟁과 알려진 은하계를 탐험하려는 동기가 부족하여 디자인이 확정되지 않은 것 같습니다."
+
+tech_precursor_construcor:  "전구체 초기화 시스템"
+tech_precursor_construcor_desc:  "우리는 Fallen Ones가 생성자를 위해 독특한 디자인을 활용하는 것을 보았지만 이러한 청사진은 크기와 범위가 훨씬 더 발전되고 훨씬 더 큰 것처럼 보입니다. 이니셜라이저는 적대적인 영토에 들어가 지원을 제공하기 위해 강력한 방어 시스템을 직접 배치하는 중장비 건설 선박으로 기능하는 것으로 보입니다. 또한 대량의 서비터 프로브를 배치하여 행성의 건설 진행 상황을 대폭 늘릴 수 있는 행성 측 건설 네트워크 역할도 하는 것으로 보입니다.\n\n폴른 원의 현재 상태로 인해 설계가 불리해졌고 프로젝트는 최종 결론에 도달하지 못했습니다."
+
+tech_precursor_colonizer:  "선구자 사절 MCV"
+tech_precursor_colonizer_desc:  "승천 전쟁(Ascension War)으로 알려진 고대 은하계 규모의 전쟁 동안 행성은 모든 세력의 주요 놀이터가 되었으며, 비어 있는 행성은 거의 또는 전혀 손대지 않은 채로 남겨졌습니다. 표면의 저항을 근절하기 위해 행성 표면에 대규모 침공 함대를 배치하는 데 따르는 불편함과 뒤따르는 행성의 재식민지화의 오랜 과정으로 인해 선각자는 확장에 대한 접근 방식을 다시 검토하게 되었습니다. 에미서리(Emissary)는 이론상 문자 그대로 지상에 배치될 수 있는 대규모 도시와 군대를 운반하는 대규모 이동식 식민지화 함선입니다. 그 후 대규모 테라포마 장치는 차원 조작 및 물질 재구성을 통해 행성의 생태계를 신속하게 재구성합니다.\n\n폴른 원이 사용하는 사절이 없다는 점은 프로젝트가 결코 결실을 맺지 못했음을 시사하는 것으로 보이며, 대신 간단하고 복제하기 쉬운 재료로 인해 표준 콜로니라이저가 새로운 행성을 식민지화하는 데 사용됩니다."
+
+tech_precursor_world_shaper:  "선구자 천상의 위조자 설계 계획"
+tech_precursor_world_shaper_desc:  "이 설계도는 꽤 대단합니다. 우리가 처음에 생각했던 것은 아니지만, 처음부터 새로운 천체를 만드는 능력은 꽤 흥미로웠습니다. 대량살상무기의 사용이 증가하고 있는 상황에서 파괴를 상쇄할 수 있는 능력은 우리의 생존에 큰 도움이 될 것입니다.\n\n몰락한 제국은 대부분의 경우 행성 제작을 중복시키는 고립주의 정책으로 인해 이 설계를 중단한 것 같습니다. 아니면 단순히 그럴 필요가 없을까요?"
+
+###ALPHA###
+
+tech_precursor_escort_alpha:  "알파급 호위대"
+tech_precursor_escort_alpha_desc:  "알파 원자로를 사용하면 이제 쓰러진 선구자들을 완전히 능가하고 우리만의 불가사의한 호위 디자인을 만드는 것이 가능해졌습니다. 우리는 바보들에게 그것이 어떻게 이루어졌는지 보여줄 것입니다."
+TECH_UNLOCK_ALPHA_ESCORT_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 호위대"
+TECH_UNLOCK_ALPHA_ESCORT_DESC:  "§Y알파 섹션:§! §tech_precursor_escort_alpha_desc§"
+
+tech_precursor_bc_alpha:  "알파급 전투순양함"
+tech_precursor_bc_alpha_desc:  "알파 원자로를 사용하면 이제 무너진 선구자를 완전히 능가하고 고유한 수수께끼의 전투순양함 디자인을 만드는 것이 가능해졌습니다. 우리는 바보들에게 그것이 어떻게 이루어졌는지 보여줄 것입니다."
+TECH_UNLOCK_ALPHA_BC_TITLE:  "§H함선 섹션 잠금 해제:§! 알파급 전투순양함"
+TECH_UNLOCK_ALPHA_BC_DESC:  "§Y알파 섹션:§! §tech_precursor_bc_alpha_desc§"
+
+tech_precursor_sentinel_alpha:  "알파급 파수꾼"
+tech_precursor_sentinel_alpha_desc:  "Alpha Reactor를 사용하면 이제 타락한 전구체를 완전히 능가하고 자체 센티넬 디자인을 만드는 것이 가능합니다. 우리는 바보들에게 그것이 어떻게 이루어졌는지 보여줄 것입니다."
+TECH_UNLOCK_ALPHA_SENTINEL_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 파수꾼"
+TECH_UNLOCK_ALPHA_SENTINEL_DESC:  "§Y알파 섹션:§! §tech_precursor_sentinel_alpha_desc§"
+
+tech_precursor_assault_carrier_alpha:  "알파급 돌격모함"
+tech_precursor_assault_carrier_alpha_desc:  "알파 원자로를 사용하면 이제 무너진 선구자들을 완전히 능가하고 우리만의 돌격모함 설계를 만드는 것이 가능해졌습니다. 우리는 바보들에게 그것이 어떻게 이루어졌는지 보여줄 것입니다."
+TECH_UNLOCK_ALPHA_AC_TITLE:  "§H함선 섹션 잠금 해제:§! 알파급 돌격모함"
+TECH_UNLOCK_ALPHA_AC_DESC:  "§Y알파 섹션:§! §tech_precursor_assault_carrier_alpha_desc§"
+
+tech_precursor_titan_alpha:  "알파급 히페리온"
+tech_precursor_titan_alpha_desc:  "Alpha Reactor를 사용하면 마침내 Hyperion을 원래 프로토타입의 기반으로 다시 업그레이드하고 복원할 수 있습니다. 아직 그 수준에는 미치지 못하지만 알파급 하이페리온은 무너진 선구자 함선을 쉽게 능가하는 강력한 주력함입니다."
+TECH_UNLOCK_ALPHA_TITAN_TITLE:  "§H함선 섹션 잠금 해제:§! 알파급 Hyperion"
+TECH_UNLOCK_ALPHA_TITAN_DESC:  "§Y알파 섹션:§! §tech_precursor_titan_alpha_desc§"
+
+tech_gatekeepers_alpha:  "문지기 알파"
+tech_gatekeepers_alpha_desc:  "알파 원자로(Alpha Reactor)는 이제 게이트키퍼 설계를 일부 조정하고 함선을 원래 상태에 더 가깝게 만드는 것이 가능할 정도로 충분한 전력을 제공합니다."
+TECH_UNLOCK_ALPHA_GATEKEEPER_TITLE:  "§H선박 섹션 잠금 해제:§! 게이트키퍼 알파"
+TECH_UNLOCK_ALPHA_GATEKEEPER_DESC:  "§Y알파 섹션:§! §tech_gatekeepers_alpha_desc§"
+
+tech_precursor_guardian_alpha:  "알파급 수호자"
+tech_precursor_guardian_alpha_desc:  "알파 리액터를 사용하면 이제 타락한 전구체를 완전히 능가하고 우리만의 가디언 디자인을 만드는 것이 가능해졌습니다. 우리는 바보들에게 그것이 어떻게 이루어졌는지 보여줄 것입니다."
+TECH_UNLOCK_ALPHA_GUARDIAN_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 수호자"
+TECH_UNLOCK_ALPHA_GUARDIAN_DESC:  "§Y알파 섹션:§! §tech_precursor_guardian_alpha_desc§"
+
+tech_precursor_colossus_ae:  "알파급 헤라클레스"
+tech_precursor_colossus_ae_desc:  "Alpha Reactor는 이제 Herculean 설계를 일부 조정하고 함선을 원래 상태에 더 가깝게 만드는 것이 가능할 정도로 충분한 전력을 제공합니다."
+TECH_UNLOCK_ALPHA_COLOSSUS_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 헤라클레스"
+TECH_UNLOCK_ALPHA_COLOSSUS_DESC:  "§Y알파 섹션:§! §tech_precursor_colossus_ae_desc§"
+
+tech_precursor_construcor_alpha:  "알파 클래스 초기화 프로그램"
+tech_precursor_construcor_alpha_desc:  "우리는 모든 곳에서 확장을 구축해야 합니다. 반대의 존재는 중요하지 않습니다. 왜냐하면 알파 초기화 프로그램이 실제 남성과 여성이 무엇을 할 수 있는지 보여줄 것이기 때문입니다."
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_TITLE:  "§H선박 섹션 잠금 해제:§! 알파 클래스 초기화 프로그램"
+TECH_UNLOCK_ALPHA_CONSTRUCTOR_DESC:  "§Y알파 섹션:§! §tech_precursor_construcor_alpha§"
+
+tech_precursor_colonizer_alpha:  "알파급 사절"
+tech_precursor_colonizer_alpha_desc:  "우리가 발을 디딘 곳을 우리는 스스로 만들어갑니다. 보잘것없는 작은 배를 위한 시간은 오래 전에 지나갔습니다. 이 새로운 상승의 새벽에 우리는 명령하고 정복하는 탁월한 방법을 알고 있습니다."
+TECH_UNLOCK_ALPHA_COLONIZER_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 사절"
+TECH_UNLOCK_ALPHA_COLONIZER_DESC:  "§Y알파 섹션:§! §tech_precursor_colonizer_alpha_desc§"
+
+tech_precursor_science_alpha:  "알파급 오라클"
+tech_precursor_science_alpha_desc:  "우리가 잊힌 역사의 오래된 화석인 몰락제국에 비해 얼마나 더 발전하고, 더 역동적이고, 더 적응력이 있는지 보여주는 것이 중요합니다. 우리는 새로 발전된 알파급 오라클을 그들의 쇠퇴하는 공간으로 날려 보내야 합니다. 그들의 쾌락주의적인 마음이 쏟아낼 수 있는 가장 강력한 무기가 우리의 작은 배를 무너뜨리지 못하자 그들이 좌절감에 소리를 지르게 하십시오."
+TECH_UNLOCK_ALPHA_SCIENCE_TITLE:  "§H선박 섹션 잠금 해제:§! 알파급 오라클"
+TECH_UNLOCK_ALPHA_SCIENCE_DESC:  "§Y알파 섹션:§! §tech_precursor_science_alpha_desc§"
+
+
+###SIGMA###
+
+tech_precursor_escort_sigma:  "시그마급 호위대"
+tech_precursor_escort_sigma_desc:  "Stellarite Reactor 도입 최근 외부 클러스터의 숨겨진 기록 보관소에서 획득한 정보에서 얻은 추가 통찰력을 결합하여 강화를 위한 추가 커패시터를 갖춘 훨씬 더 내구성 있는 호위대를 만들 수 있었습니다."
+TECH_UNLOCK_SIGMA_ESCORT_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마급 호위함"
+TECH_UNLOCK_SIGMA_ESCORT_DESC:  "§Y시그마 섹션:§! §tech_precursor_escort_sigma_desc§"
+
+tech_precursor_bc_sigma:  "시그마급 전투순양함"
+tech_precursor_bc_sigma_desc:  "Stellarite Reactor 도입 최근 외부 성단의 숨겨진 기록 보관소에서 획득한 정보에서 얻은 추가 통찰력을 결합하여 강화를 위한 추가 커패시터를 갖춘 훨씬 더 내구성이 뛰어난 전투순양함을 만들 수 있었습니다."
+TECH_UNLOCK_SIGMA_BC_TITLE:  "§H함선 섹션 잠금 해제:§! 시그마급 전투순양함"
+TECH_UNLOCK_SIGMA_BC_DESC:  "§Y시그마 섹션:§! §tech_precursor_bc_sigma_desc§"
+
+tech_precursor_sentinel_sigma:  "시그마급 파수꾼"
+tech_precursor_sentinel_sigma_desc:  "Stellarite Reactor 도입 최근 외부 클러스터의 숨겨진 아카이브에서 얻은 정보에서 얻은 추가 통찰력을 결합하여 증강을 위한 추가 커패시터를 갖춘 훨씬 더 내구성이 뛰어난 센티넬을 만들 수 있었습니다."
+TECH_UNLOCK_SIGMA_SENTINEL_TITLE:  "§H함선 섹션 잠금 해제:§! 시그마급 센티넬"
+TECH_UNLOCK_SIGMA_SENTINEL_DESC:  "§Y시그마 섹션:§! §tech_precursor_sentinel_sigma_desc§"
+
+tech_gatekeepers_sigma:  "게이트키퍼 시그마"
+tech_gatekeepers_sigma_desc:  "예상 계산에 따르면 Sigma Gatekeeper 템플릿은 이제 파괴적인 공격 및 방어 능력을 갖춘 이 거대한 함선의 원래 설계와 매우 유사해야 합니다."
+TECH_UNLOCK_SIGMA_GATEKEEPER_TITLE:  "§H선박 섹션 잠금 해제:§! Gatekeeper Sigma"
+TECH_UNLOCK_SIGMA_GATEKEEPER_DESC:  "§Y시그마 섹션:§! §tech_gatekeepers_sigma_desc§"
+
+tech_precursor_titan_sigma:  "시그마급 하이페리온"
+tech_precursor_titan_sigma_desc:  "Stellarite Reactor 도입 최근에 외부 클러스터의 숨겨진 아카이브에서 얻은 정보에서 얻은 추가 통찰력을 결합하여 증강을 위한 추가 커패시터를 갖춘 훨씬 더 내구성이 뛰어난 Hyperion을 만들 수 있었습니다."
+TECH_UNLOCK_SIGMA_TITAN_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마급 하이페리온"
+TECH_UNLOCK_SIGMA_TITAN_DESC:  "§Y시그마 섹션:§! §tech_precursor_titan_sigma_desc§"
+
+tech_precursor_assault_carrier_sigma:  "시그마급 돌격모함"
+tech_precursor_assault_carrier_sigma_desc:  "Stellarite Reactor 도입 combined with additional insights gained from the recently acquired pieces of information from the Outer Cluster's hidden archives have enable us to create a much more durable Assault Carrier with extra capacitors for augmentations."
+TECH_UNLOCK_SIGMA_AC_TITLE:  "§H함선 섹션 잠금 해제:§! 시그마급 돌격모함"
+TECH_UNLOCK_SIGMA_AC_DESC:  "§Y시그마 섹션:§! §tech_precursor_assault_carrier_sigma_desc§"
+
+tech_precursor_guardian_sigma:  "시그마급 수호자"
+tech_precursor_guardian_sigma_desc:  "Stellarite Reactor 도입 최근 외부 클러스터의 숨겨진 아카이브에서 획득한 정보에서 얻은 추가 통찰력을 결합하여 증강을 위한 추가 커패시터를 갖춘 훨씬 더 내구성이 뛰어난 Guardian을 만들 수 있었습니다."
+TECH_UNLOCK_SIGMA_GUARDIAN_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마급 수호자"
+TECH_UNLOCK_SIGMA_GUARDIAN_DESC:  "§Y시그마 섹션:§! §tech_precursor_guardian_sigma_desc§"
+
+tech_precursor_colossus_se:  "시그마급 헤라클레스"
+tech_precursor_colossus_se_desc:  "예상 계산에 따르면, 헤라클레스 시그마 템플릿은 이제 파괴적인 공격 및 방어 능력을 갖춘 이 대규모 전투 스테이션의 원래 디자인과 매우 유사해야 합니다."
+TECH_UNLOCK_SIGMA_COLOSSUS_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마급 헤라클레스"
+TECH_UNLOCK_SIGMA_COLOSSUS_DESC:  "§Y시그마 섹션:§! §tech_precursor_colossus_se_desc§"
+
+tech_precursor_construcor_sigma:  "시그마 클래스 초기화 프로그램"
+tech_precursor_construcor_sigma_desc:  "Stellarite 기술의 발전을 통해 초기화 프로그램에 대한 또 다른 개선 사항을 제시할 수 있습니다. 새로운 디자인을 사용하면 일반 평민 생성자에 의한 공격에서도 살아남을 수 있습니다."
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마 클래스 초기화 프로그램"
+TECH_UNLOCK_SIGMA_CONSTRUCTOR_DESC:  "§Y시그마 섹션:§! §tech_precursor_construcor_sigma_desc§"
+
+tech_precursor_colonizer_sigma:  "시그마급 사절"
+tech_precursor_colonizer_sigma_desc:  "태양 제국의 시대는 우리의 확장을 수행하기 위해 새로운 사절단의 창설을 요구합니다. 돌을 돌리지 않고 남겨두지 말고, 파낸 물을 남기지 말고, 유약을 바르지 않은 별을 남겨 두지 마십시오. 우리의 눈은 열려 있습니다."
+TECH_UNLOCK_SIGMA_COLONIZER_TITLE:  "§H함선 섹션 잠금 해제:§! 시그마급 사절"
+TECH_UNLOCK_SIGMA_COLONIZER_DESC:  "§Y시그마 섹션:§! §tech_precursor_colonizer_sigma_desc§"
+
+tech_precursor_science_sigma:  "시그마급 오라클"
+tech_precursor_science_sigma_desc:  "누구도 우리의 우수한 설계의 비밀을 알아내지 못할 것입니다. 왜냐하면 새로운 시그마급 오라클은 현실의 차가운 깊이를 훨씬 더 깊이 탐구하고 무사히 나타날 수 있기 때문입니다. 우리는 이 새로운 종마를 타고 우주 할아버지의 공간으로 가서 그들이 얼마나 접촉이 없는지 말해줄 것입니다."
+TECH_UNLOCK_SIGMA_SCIENCE_TITLE:  "§H선박 섹션 잠금 해제:§! 시그마급 Oracle"
+TECH_UNLOCK_SIGMA_SCIENCE_DESC:  "§Y시그마 섹션:§! §tech_precursor_science_sigma_desc§"
+
+###OMEGA###
+tech_omega_escort:  "오메가급 호위대"
+tech_omega_escort_desc:  "모듈식 무기 선택 시스템을 통해 Omega Escort는 이동성을 희생하지 않고도 다양한 무기고를 배치할 수 있습니다. 이것은 최대의 대학살을 위해 설계된 우주선입니다."
+TECH_UNLOCK_OMEGA_ESCORT_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 호위함"
+TECH_UNLOCK_OMEGA_ESCORT_DESC:  "§YOmega 섹션:§! §tech_omega_escort_desc§"
+
+tech_omega_battlecruiser:  "오메가급 전투순양함"
+tech_omega_battlecruiser_desc:  "오메가 호위함과 마찬가지로 오메가급 전투순양함의 고급 모듈식 특성을 통해 치명적인 양의 무기와 방어 장치를 배치할 수 있어 비교하면 구형 디자인이 원시적입니다."
+TECH_UNLOCK_OMEGA_BATTLECRUISER_TITLE:  "§H함선 섹션 잠금 해제:§! 오메가급 전투순양함"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_DESC:  "§YOmega 섹션:§! §tech_omega_battlecruiser_desc§"
+
+tech_omega_carrier:  "오메가급 돌격모함"
+tech_omega_carrier_desc:  "몰락한 제국들이 돌격모함 복제를 포기한 것도 당연합니다. 이 수수께끼의 항공모함의 오메가급에는 엄청난 양의 내부 행어가 포함되어 있습니다."
+TECH_UNLOCK_OMEGA_CARRIER_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 항공모함"
+TECH_UNLOCK_OMEGA_CARRIER_DESC:  "§YOmega 섹션:§! §tech_omega_carrier_desc§"
+
+tech_omege_sentinel:  "오메가급 파수꾼"
+tech_omege_sentinel_desc:  "이런 효율성... 시조 전쟁 당시 시조의 방어는 뚫을 수 없을 정도라고 합니다. 우리는 이제 그 이유를 이해하기 시작했습니다."
+TECH_UNLOCK_OMEGA_SENTINEL_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 파수꾼"
+TECH_UNLOCK_OMEGA_SENTINEL_DESC:  "§YOmega 섹션:§! §tech_omege_sentinel_desc§"
+
+tech_omega_titan:  "오메가급 하이페리온"
+tech_omega_titan_desc:  "따라서 이것은 고대 프로토타입이 오메가 히페리온을 나타내기로 되어 있는 것임에 틀림없습니다. 정말 파괴적이고 위험합니다."
+TECH_UNLOCK_OMEGA_TITAN_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 Hyperion"
+TECH_UNLOCK_OMEGA_TITAN_DESC:  "§YOmega 섹션:§! §tech_omega_titan_desc§"
+
+tech_omega_gatekeeper:  "문지기 오메가"
+tech_omega_gatekeeper_desc:  "그리고 이것이 바로... 악명 높은 고대 문지기의 진정한 디자인입니다. 몰락한 제국들이 처음부터 이 경이로움을 역설계할 수 있었다는 것은 놀라운 일입니다."
+TECH_UNLOCK_OMEGA_GATEKEEPER_TITLE:  "§H선박 섹션 잠금 해제:§! Gatekeeper Omega"
+TECH_UNLOCK_OMEGA_GATEKEEPER_DESC:  "§YOmega 섹션:§! §tech_omega_gatekeeper_desc§"
+
+tech_omega_guardian:  "오메가급 수호자"
+tech_omega_guardian_desc:  "이런 효율성... 시조 전쟁 당시 시조의 방어는 뚫을 수 없을 정도라고 합니다. 우리는 이제 그 이유를 이해하기 시작했습니다."
+TECH_UNLOCK_OMEGA_GUARDIAN_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 수호자"
+TECH_UNLOCK_OMEGA_GUARDIAN_DESC:  "§YOmega 섹션:§! §tech_omega_guardian_desc§"
+
+tech_omega_colossus:  "오메가급 헤라클레스"
+tech_omega_colossus_desc:  "오메가급 헤라클레스...프로제니터스가 한때 사용했던 바로 그 이동식 전투 스테이션입니다. 무기 로드아웃은 방대하며 아마도 이 시대에 사용할 수 있는 가장 치명적인 무기 중 하나일 것입니다."
+TECH_UNLOCK_OMEGA_COLOSSUS_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 헤라클레스"
+TECH_UNLOCK_OMEGA_COLOSSUS_DESC:  "§YOmega 섹션:§! §tech_omega_colossus_desc§"
+
+tech_precursor_construcor_omega:  "오메가급 초기화 장치"
+tech_precursor_construcor_omega_desc:  "처음에는 Static Light의 힘에 초기화 장치를 적용하는 것이 어려웠지만, 최신 디자인이 지금까지 가장 발전된 건설 선박이 될 것이라고 확신합니다."
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가 클래스 초기화 프로그램"
+TECH_UNLOCK_OMEGA_CONSTRUCTOR_DESC:  "§YOmega 섹션:§! §tech_precursor_construcor_omega_desc§"
+
+tech_precursor_colonizer_omega:  "오메가급 사절"
+tech_precursor_colonizer_omega_desc:  "Stellarborne은 처음부터 식민지화가 필요하지 않았기 때문에 Emissary와 유사한 것을 전혀 활용하지 않았지만 그럼에도 불구하고 우리는 Emissary를 위한 고유한 Omega 디자인을 생각해 낼 수 있습니다."
+TECH_UNLOCK_OMEGA_COLONIZER_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 사절"
+TECH_UNLOCK_OMEGA_COLONIZER_DESC:  "§YOmega 섹션:§! §tech_precursor_colonizer_omega_desc§"
+
+tech_precursor_science_omega:  "오메가급 오라클"
+tech_precursor_science_omega_desc:  "고대에는 은하계가 용, 죄를 먹는 자, 어둠의 구름 등 어리석고 위험한 것들로 가득 차 있었다고 합니다. 오라클은 혼돈의 시간 속에서 안전한 하이퍼레인을 만들어 혼돈에 질서를 부여합니다. 우리 마음속에 부여된 힘으로 유사한 디자인을 달성할 수 있습니다.\n\n주변에 몰락한 제국이 있다고 가정할 때, 우리는 새로운 오라클을 그들의 센서 범위로 날아가서 그들보다 확실히 우월한 누군가를 위해 기본적으로 어떻게 폐기되는지 알려야 합니다."
+TECH_UNLOCK_OMEGA_SCIENCE_TITLE:  "§H선박 섹션 잠금 해제:§! 오메가급 오라클"
+TECH_UNLOCK_OMEGA_SCIENCE_DESC:  "§YOmega 섹션:§! §tech_precursor_science_omega_desc§"
+
+###MASTERCRAFT###
+
+tech_precursor_escort_cost:  "마스터크래프트 에스코트"
+tech_precursor_escort_cost_desc:  "선박의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 호위함을 구축할 수 있었습니다."
+
+tech_precursor_bc_cost:  "마스터크래프트 전투순양함"
+tech_precursor_bc_cost_desc:  "함선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 전투순양함을 제작할 수 있었습니다."
+
+tech_precursor_sentinel_cost:  "마스터크래프트 센티넬"
+tech_precursor_sentinel_cost_desc:  "함선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 센티넬을 구축할 수 있었습니다."
+
+tech_precursor_assault_carrier_cost:  "장인의 캐리어"
+tech_precursor_assault_carrier_cost_desc:  "함선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 돌격모함을 제작할 수 있었습니다."
+
+tech_precursor_guardian_cost:  "장인의 수호자"
+tech_precursor_guardian_cost_desc:  "우주선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 Guardians를 제작할 수 있었습니다."
+
+tech_gatekeepers_cost:  "장인정신의 문지기"
+tech_gatekeepers_cost_desc:  "함선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 게이트키퍼를 제작할 수 있었습니다."
+
+tech_precursor_titan_cost:  "마스터크래프트 하이페리온"
+tech_precursor_titan_cost_desc:  "함선의 실제 기원과 메커니즘에 대한 통찰력을 통해 우리는 더 빠른 속도와 향상된 내구성을 갖춘 Hyperions를 제작할 수 있었습니다."
+
+
+sm_acot_precursor_database:  "조선소 전구체 데이터뱅크"
+sm_acot_precursor_database_desc:  "전구체 용기 건조를 처리하는 데 필요한 지식과 데이터로 가득 찬 고급 기록 보관소와 컴퓨터입니다."
+acot_precursor_database_tooltip:  "§Y선도선 건조를 허용합니다.§!"
+
+TECH_UNLOCK_FE_SHIP_TITLE:  "§H스타베이스 건물 잠금 해제:§! 조선소 선구자 데이터뱅크"
+TECH_UNLOCK_FE_SHIP_DESC:  "전구체 용기 건조를 처리하는 데 필요한 지식과 데이터로 가득 찬 고급 기록 보관소와 컴퓨터입니다."
+
+TECH_UNLOCK_DELTA_ESCORT_TITLE:  "§H선박 섹션 잠금 해제:§! 모듈식 호위"
+TECH_UNLOCK_DELTA_ESCORT_DESC:  "§Y델타 섹션:§! §tech_precursor_escort_delta_desc§"
+
+TECH_UNLOCK_DELTA_BC_TITLE:  "§H함선 섹션 잠금 해제:§! 모듈식 전투순양함"
+TECH_UNLOCK_DELTA_BC_DESC:  "§Y델타 섹션:§! §tech_precursor_bc_delta_desc§"
+#########################################################
+
+#########################################################
+###############################################################
+
+ORACLE_DELTA_COMPUTER:  "Delta Oracle 플롯 장치"
+ORACLE_DELTA_COMPUTER_DESC:  "오라클이 고향으로 돌아갈 수 있도록 하는 긴급 웜홀을 생성하여 오라클이 치명적인 상황에서 벗어날 수 있도록 하는 특수 웨이포인트 시스템입니다. 사용 후 충전하려면 §Y1800§!일이 필요합니다."
+
+ORACLE_ALPHA_COMPUTER:  "Alpha Oracle 플롯 장치"
+ORACLE_ALPHA_COMPUTER_DESC:  "오라클이 고향으로 돌아갈 수 있도록 하는 긴급 웜홀을 생성하여 오라클이 치명적인 상황에서 벗어날 수 있도록 하는 특수 웨이포인트 시스템입니다. 매 사용 후 충전하려면 §Y1080§!일이 필요합니다. 시스템이 실패하면 비상 개인 순간이동 장치를 사용하여 선두 과학자가 수도로 탈출할 수 있는 §Y25%§! 기회를 얻습니다."
+
+ORACLE_SIGMA_COMPUTER:  "Sigma Oracle 플롯 장치"
+ORACLE_SIGMA_COMPUTER_DESC:  "오라클이 고향으로 돌아갈 수 있도록 하는 긴급 웜홀을 생성하여 오라클이 치명적인 상황에서 벗어날 수 있도록 하는 특수 웨이포인트 시스템입니다. 매 사용 후 충전하려면 §Y360§!일이 필요합니다. 시스템이 실패하면 비상 개인 순간이동 장치를 통해 주요 과학자가 수도로 다시 탈출할 수 있는 §Y50%§! 기회를 얻습니다."
+
+ORACLE_OMEGA_COMPUTER:  "오메가 오라클 플롯 장치"
+ORACLE_OMEGA_COMPUTER_DESC:  "오라클이 고향으로 돌아갈 수 있도록 하는 긴급 웜홀을 생성하여 오라클이 치명적인 상황에서 벗어날 수 있도록 하는 특수 웨이포인트 시스템입니다. 매 사용 후 충전하려면 §Y600§!일이 필요합니다. 시스템이 실패하면 비상 개인 순간이동 장치를 사용하여 주요 과학자가 수도로 다시 탈출할 수 있는 §Y100%§! 기회를 얻습니다."
+
+####
+
+INITIALIZER_DELTA_COMPUTER:  "델타 초기화 코덱스"
+INITIALIZER_DELTA_COMPUTER_DESC:  "이니셜라이저가 행성의 발전을 지원하고 짧은 시간 동안 지속되는 강력한 방어 시스템을 구축할 수 있게 해주는 특수 코덱스입니다.\n\n행성 건설 속도가 §E10%§! 향상됩니다.\nRepeller는 §E60§!일 동안 지속됩니다.\nPylon은 §E120§!일 동안 지속됩니다."
+
+INITIALIZER_ALPHA_COMPUTER:  "알파 초기화 코덱스"
+INITIALIZER_ALPHA_COMPUTER_DESC:  "이니셜라이저가 행성의 개발을 지원하고 짧은 시간 동안 지속되는 강력한 방어 시스템을 구축할 수 있게 해주는 특수 코덱스입니다.\n\n행성 건설 속도와 팝 ​​조립 속도가 §E20%§! 향상됩니다.\nRepeller는 §E120§!일 동안 지속됩니다.\nPylon은 §E240§!일 동안 지속됩니다."
+
+INITIALIZER_SIGMA_COMPUTER:  "시그마 초기화 코덱스"
+INITIALIZER_SIGMA_COMPUTER_DESC:  "이니셜라이저가 행성의 발전을 지원하고 짧은 시간 동안 지속되는 강력한 방어 시스템을 구축할 수 있게 해주는 특수 코덱스입니다.\n\n행성 건설 속도가 §E25%§! 증가하고 조립 속도가 빨라집니다.\n행성은 §E25§! 안정성과 §E-25§! 범죄율을 얻습니다.\n리펠러는 §E240§!일 동안 지속됩니다.\n파일론은 지속됩니다. §E480§!일."
+
+INITIALIZER_OMEGA_COMPUTER:  "오메가 초기화 코덱스"
+INITIALIZER_OMEGA_COMPUTER_DESC:  "이니셜라이저가 행성의 발전을 지원하고 짧은 시간 동안 지속되는 강력한 방어 시스템을 구축할 수 있게 해주는 특수 코덱스입니다.\n\n행성 건설 속도, 팝 조립 속도 및 군대 건설 속도가 §E50%§! 향상됩니다.\n행성이 §E50§! 안정성과 §E-50§! 범죄율을 얻습니다.\n리펠러는 §E480§!일 동안 지속됩니다.\n파일론 §E960§!일 동안 지속됩니다."
+
+acot_modifier_builder_delta:  "초기화 코덱스"
+acot_modifier_builder_delta_desc:  "이니셜라이저의 코덱스에서 배포된 강력한 수수께끼의 정렬이 이 행성을 모니터링하여 생산성을 높이고 있습니다."
+
+acot_modifier_builder_alpha:  "초기화 코덱스"
+acot_modifier_builder_alpha_desc:  "이니셜라이저의 코덱스에서 배포된 강력한 수수께끼의 정렬이 이 행성을 모니터링하여 생산성을 높이고 있습니다."
+
+acot_modifier_builder_sigma:  "초기화 코덱스"
+acot_modifier_builder_sigma_desc:  "이니셜라이저의 코덱스에서 배포된 강력한 수수께끼의 정렬이 이 행성을 모니터링하여 생산성을 높이고 있습니다."
+
+acot_modifier_builder_omega:  "초기화 코덱스"
+acot_modifier_builder_omega_desc:  "이니셜라이저의 코덱스에서 배포된 강력한 수수께끼의 정렬이 이 행성을 모니터링하여 생산성을 높이고 있습니다."
+
+####
+
+EMISSARY_DELTA_COMPUTER:  "델타 사절 프레임워크"
+EMISSARY_DELTA_COMPUTER_DESC:  "중장비 인프라와 침략군의 신속한 배치에 필요한 강력한 나노 기술 및 프레임워크 세트입니다.\n\n사절은 §Y5§! 팝으로 행성에 정착할 것입니다.\n§Y10§! 블랙 가드를 수비대 또는 침략군으로 제공합니다."
+
+EMISSARY_ALPHA_COMPUTER:  "알파 사절 프레임워크"
+EMISSARY_ALPHA_COMPUTER_DESC:  "중장비 인프라와 침략군의 신속한 배치에 필요한 강력한 나노 기술 및 프레임워크 세트입니다.\n\n사절은 §Y10§! 팝으로 행성에 정착할 것입니다.\n수비대 또는 침략군으로 §Y15§! 블랙 가드를 제공합니다."
+
+EMISSARY_SIGMA_COMPUTER:  "시그마 에미서리 프레임워크"
+EMISSARY_SIGMA_COMPUTER_DESC:  "중장비 인프라와 침략군의 신속한 배치에 필요한 강력한 나노 기술 및 프레임워크 세트입니다.\n\n사절은 §Y15§! 팝으로 행성에 정착할 것입니다.\n§Y20§! 블랙 가드를 수비대 또는 침략군으로 제공합니다."
+
+EMISSARY_OMEGA_COMPUTER:  "오메가 사절 프레임워크"
+EMISSARY_OMEGA_COMPUTER_DESC:  "중장비 인프라와 침략군의 신속한 배치에 필요한 강력한 나노 기술 및 프레임워크 세트입니다.\n\n사절은 §Y20§! 팝으로 행성에 정착할 것입니다.\n§Y25§! 블랙 가드를 수비대 또는 침략군으로 제공합니다."
+
+ACOT_EMISSART_EXTRA_POP:  "추가 인력 부서"
+ACOT_EMISSART_EXTRA_POP_DESC:  "§E10§!명 이상의 현장 인력을 지원하는 데 필요한 추가 편의 시설을 갖춘 Emissary를 설치하면 새로 배포된 Emissary가 작업 할당을 위해 준비된 추가 인력을 수송할 수 있습니다.\n\n§R서로 중복되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_TROOPS:  "추가 수비대"
+ACOT_EMISSART_EXTRA_TROOPS_DESC:  "§E10§!개 이상의 수비대를 지원하는 데 필요한 추가 편의 시설과 함께 사절을 설치합니다. 이 부대는 행성의 지역 방어군의 일부로 배치되거나 적대적인 행성에 배치된 경우 침공군의 일부로 배치됩니다. 수비대는 전투에서 살아남으면 행성에 남게 됩니다.\n\n§R서로 중복되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_DROIDS:  "추가 센티넬 유닛"
+ACOT_EMISSART_EXTRA_DROIDS_DESC:  "§E10§!개 이상의 수비대를 지원하는 데 필요한 추가 편의 시설과 함께 사절을 설치합니다. 이 부대는 행성의 지역 방어군의 일부로 배치되거나 적대적인 행성에 배치된 경우 침공군의 일부로 배치됩니다. 수비대는 전투에서 살아남으면 행성에 남게 됩니다.\n\n§R서로 중복되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_LAB:  "오토랩 나노코어"
+ACOT_EMISSART_EXTRA_LAB_DESC:  "Emissary와 함께 배포하여 즉시 과학 실험실을 건설할 수 있는 특수 나노 코어입니다.\n\n§R서로 중첩되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_GIGA:  "자동기가나노코어"
+ACOT_EMISSART_EXTRA_GIGA_DESC:  "사절과 함께 배치하여 즉시 기가 포트리스를 건설할 수 있는 특수 나노 코어입니다. 세 개의 주요 기가 캐논은 적대적인 지역에 대한 지상 침공을 지원하는 데에도 사용되며, 전투가 끝나면 주 요새에서 분리되어 독립적인 지상 방어 유닛으로 작동합니다.\n\n§R서로 중첩되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_SKYSHIELD:  "자동 스카이실드 나노 코어"
+ACOT_EMISSART_EXTRA_SKYSHIELD_DESC:  "스카이 쉴드 행성 쉴드 생성기를 즉시 구성하기 위해 에미서리와 함께 배치할 수 있는 특수 나노 코어입니다. 모듈은 사절의 보호막 생성기도 증가시킵니다.\n\n§R서로 중복되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_ASSEMBLY:  "자동 조립 나노 코어"
+ACOT_EMISSART_EXTRA_ASSEMBLY_DESC:  "에미서리와 함께 배치하여 로봇 조립체를 즉시 구성할 수 있는 특수 나노 코어입니다. \n\n§R서로 중복되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+ACOT_EMISSART_EXTRA_NEXUS:  "Auto-Nexus 나노 코어"
+ACOT_EMISSART_EXTRA_NEXUS_DESC:  "Emissary와 함께 배포하여 즉시 합성기를 구성할 수 있는 특수 나노 코어입니다.\n\n§R서로 스택되지 않으며 동일한 유형의 모듈 하나만 적용됩니다.§!"
+
+###########################################
+
+ACOT_EMISSARY_BEAM:  "사절의 축복 메시지"
+ACOT_EMISSARY_BEAM_DESC:  "행성을 테라포밍하거나 수리할 수 있는 특수 궤도 빔입니다."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM:  "§PLANET|Y§에 축복 메시지 전달 준비 중"
+emissary_beam_need_target:  "적 행성이나 우리 국경 아래 행성에만 발사할 수 있습니다."
+emissary_beam_type_target:  "거주 가능한 행성에서만 발사할 수 있습니다."
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM:  "축복의 메시지를 받았습니다."
+
+
+ACOT_EMISSARY_BEAM_ACTION:  "축복의 메시지를 전하다"
+ACOT_EMISSARY_BEAM_ACTION_DESC:  "빔을 사용하여 행성을 테라포밍하거나 수리하세요."
+
+#################
+
+ACOT_EMISSARY_BEAM_LANDING:  "사절의 도착 메시지"
+ACOT_EMISSARY_BEAM_LANDING_DESC:  "행성에 정착하거나 침입할 수 있는 특수 궤도 빔입니다."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_LANDING:  "§PLANET|Y§에 도착 메시지 전달 준비 중"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_LANDING:  "도착 메시지를 받았습니다"
+
+ACOT_EMISSARY_BEAM_LANDING_ACTION:  "도착 메시지 전달"
+ACOT_EMISSARY_BEAM_LANDING_ACTION_DESC:  "빔을 사용하여 행성에 정착하거나 침략하세요."
+
+#################
+
+ACOT_EMISSARY_BEAM_REMOVE:  "사절의 작별 메시지"
+ACOT_EMISSARY_BEAM_REMOVE_DESC:  "불필요한 천체를 제거할 수 있는 특수 궤도 빔입니다."
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_EMISSARY_BEAM_REMOVE:  "§PLANET|Y§에 작별 인사 전달 준비 중"
+
+MESSAGE_DESC_FOR_ACOT_EMISSARY_BEAM_REMOVE:  "에게 작별 인사를 받았다."
+
+ACOT_EMISSARY_BEAM_REMOVE_ACTION:  "작별 메시지 전달"
+ACOT_EMISSARY_BEAM_REMOVE_ACTION_DESC:  "빔을 사용하여 불필요한 천체를 제거하세요."
+
+#### HERCULER ###
+
+acot_precursor_colossus_site:  "선구자 헤라클레스 조립 포털"
+acot_precursor_colossus_site_DESC:  "이 조립 포털은 Herculean Heart로 변환됩니다."
+acot_precursor_colossus_site_MEGASTRUCTURE_DETAILS:  "이 조립 포털은 Herculean Heart로 변환됩니다."
+
+acot_precursor_colossus_base:  "선구자 헤라클레스 심장"
+acot_precursor_colossus_base_DESC:  "헤라클레스의 심장은 추가 건축물이 건설될 주요 허브 역할을 합니다."
+acot_precursor_colossus_base_MEGASTRUCTURE_DETAILS:  "헤라클레스의 심장은 추가 건축물이 건설될 주요 허브 역할을 합니다."
+
+acot_precursor_colossus_stage_one:  "선구자 헤라클레스 반지"
+acot_precursor_colossus_stage_one_DESC:  "헤라클레스의 고리에는 수백만 개의 네트워크와 엄청난 양의 선박을 건설할 수 있는 경광철도가 있습니다."
+acot_precursor_colossus_stage_one_MEGASTRUCTURE_DETAILS:  "Herculean Rings에는 일반 선박과 전구체 선박을 모두 생산할 수 있는 20개의 조선소가 있습니다."
+
+acot_precursor_colossus_stage_two:  "선구자 헤라클레스 아이기스"
+acot_precursor_colossus_stage_two_DESC:  "헤라클레스의 아이기스는 반지와 심장을 보호하는 동시에 앞으로 오랫동안 자금을 조달할 수 있는 거대한 발전기 역할도 합니다."
+acot_precursor_colossus_stage_two_MEGASTRUCTURE_DETAILS:  "Herculean의 모든 유지 관리가 제거되고 이제 거대 구조물이 대신 자원을 생산합니다."
+
+acot_precursor_colossus_final:  "헤라클레스의 선구자"
+acot_precursor_colossus_final_DESC:  "완전히 완료되면 Precursor Herculean은 수도로 이동하여 최종 검사를 준비하고 완전히 이동식 항성계가 됩니다."
+acot_precursor_colossus_final_MEGASTRUCTURE_DETAILS:  "Herculean은 모든 사람을 무릎 꿇게 만드는 완전한 작동 유닛이 될 것입니다."
+
+### PLATFORM
+
+acot_precursor_platform_m_site:  "인스턴트 리펠러 워프 포털"
+acot_precursor_platform_m_site_DESC:  "이 포털은 Instant Repeller에서 워프 중이며 짧은 시간 내에 작동될 예정입니다."
+acot_precursor_platform_m_site_MEGASTRUCTURE_DETAILS:  "이 워프 포털은 우리가 만든 사용 가능한 디자인 중 하나를 사용하여 완료되면 Instant Repeller로 바뀔 것입니다."
+acot_precursor_platform_m_complete:  "인스턴트 리펠러 워프 포털"
+acot_precursor_platform_m_complete_DESC:  "이 포털은 Instant Repeller에서 워프 중이며 짧은 시간 내에 작동될 예정입니다."
+acot_precursor_platform_m_complete_MEGASTRUCTURE_DETAILS:  "이 워프 포털은 우리가 만든 사용 가능한 디자인 중 하나를 사용하여 완료되면 Instant Repeller로 바뀔 것입니다."
+
+acot_precursor_platform_l_site:  "즉시 수정탑 워프 포털"
+acot_precursor_platform_l_site_DESC:  "이 포털은 순간 선구자 수정탑에서 워핑 중이며 짧은 시간 내에 작동될 예정입니다."
+acot_precursor_platform_l_site_MEGASTRUCTURE_DETAILS:  "이 워프 포털은 우리가 만든 사용 가능한 디자인 중 하나를 사용하여 완료되면 즉시 수정탑으로 변합니다."
+acot_precursor_platform_l_complete:  "즉시 수정탑 워프 포털"
+acot_precursor_platform_l_complete_DESC:  "이 포털은 순간 선구자 수정탑에서 워핑 중이며 짧은 시간 내에 작동될 예정입니다."
+acot_precursor_platform_l_complete_MEGASTRUCTURE_DETAILS:  "이 워프 포털은 우리가 만든 사용 가능한 디자인 중 하나를 사용하여 완료되면 즉시 수정탑으로 변합니다."
+
+### ORBIT RING
+
+acot_precusor_orbital_ring_t1:  "선구자 궤도 고리"
+acot_precusor_orbital_ring_t1_plural:  "선구자 궤도 고리"
+acot_precusor_orbital_ring_t2:  "프리커서 고급 궤도 링"
+acot_precusor_orbital_ring_t2_plural:  "프리커서 고급 궤도 링"
+acot_precusor_orbital_ring_t3:  "프리커서 마스터 오비탈 링"
+acot_precusor_orbital_ring_t3_plural:  "프리커서 마스터 오비탈 링"
+ACOT_PRECURSOR_ORBITAL_RING_1_SECTION:  "궤도 링 맨"
+ACOT_PRECURSOR_ORBITAL_RING_2_SECTION:  "궤도 링 맨"
+ACOT_PRECURSOR_ORBITAL_RING_3_SECTION:  "궤도 링 맨"
+
+acot_precursor_orbital_ring_assembly:  "전구체 궤도 링 조립 포털"
+acot_precursor_orbital_ring_assembly_DESC:  "선구자 궤도 링으로 변환되는 조립 포털입니다."
+acot_precursor_orbital_ring_assembly_MEGASTRUCTURE_DETAILS:  "선구자 궤도 링으로 변환되는 조립 포털입니다."
+
+acot_precursor_orbital_ring_mega:  "전구체 궤도 링 조립 포털"
+acot_precursor_orbital_ring_mega_DESC:  "선구자 궤도 링으로 변환되는 조립 포털입니다."
+acot_precursor_orbital_ring_mega_MEGASTRUCTURE_DETAILS:  "선구자 궤도 링으로 변환되는 조립 포털입니다."
+
+sm_acot_orbital_ring_shipyard:  "전구체 궤도 조선소"
+sm_acot_orbital_ring_shipyard_desc:  "동시에 두 척의 선박을 건조할 수 있는 첨단 조선소."
+
+sm_acot_orbital_ring_anchorage:  "전구체 궤도 앵커리지"
+sm_acot_orbital_ring_anchorage_desc:  "대량의 선박을 수용하고 재보급할 수 있는 첨단 정박지입니다."
+
+sm_acot_orbital_ring_habitat:  "전구체 궤도 서식지 모듈"
+sm_acot_orbital_ring_habitat_desc:  "대량의 선박을 수용하고 재보급할 수 있는 첨단 정박지입니다."
+
+sm_acot_orbital_ring_pd:  "전구체 궤도 지점 방어"
+sm_acot_orbital_ring_pd_desc:  "궤도 방어를 위한 추가 화력을 제공하도록 설계된 고급 방어 모듈입니다."
+
+sm_acot_orbital_ring_battery:  "전구체 궤도 배터리"
+sm_acot_orbital_ring_battery_desc:  "궤도 방어를 위한 추가 화력을 제공하도록 설계된 고급 방어 모듈입니다."
+
+sm_acot_orbital_ring_missile:  "전구체 궤도 미사일 발사기"
+sm_acot_orbital_ring_missile_desc:  "궤도 방어를 위한 추가 화력을 제공하도록 설계된 고급 방어 모듈입니다."
+
+sm_acot_orbital_ring_hangar:  "선구자 궤도 격납고 베이"
+sm_acot_orbital_ring_hangar_desc:  "궤도 방어를 위한 추가 화력을 제공하도록 설계된 고급 방어 모듈입니다."
+
+#### FPRTRESS
+
+acot_precusor_starbase:  "선구자 요새"
+acot_precusor_starfortress:  "선구자 성채"
+acot_precusor_starcitadel:  "선구자 넥서스"
+acot_precusor_starbase_plural:  "선구자 요새"
+acot_precusor_starfortress_plural:  "선구자 성채"
+acot_precusor_starcitadel_plural:  "선구자 넥시"
+
+acot_precursor_citadel_site:  "선구자 요새 조립 포털"
+acot_precursor_citadel_site_DESC:  "이 조립 포털은 Precursor Starbase로 변환됩니다."
+acot_precursor_citadel_site_MEGASTRUCTURE_DETAILS:  "이 조립 포털은 Precursor Starbase로 변환됩니다."
+
+acot_precursor_citadel_base:  "선구자 요새"
+acot_precursor_citadel_base_DESC:  "완전히 완료되면 Precursor Fortress는 기존 항성 기지를 대체하고 완전히 작동하는 Precursor 항성 기지로 기능하게 됩니다."
+acot_precursor_citadel_base_MEGASTRUCTURE_DETAILS:  "완료되면 Precursor Fortress는 인상적인 무기고를 갖춘 매우 강력한 항성 기지의 역할을 할 것이며 더욱 업그레이드될 수 있습니다."
+
+#### SUPPORT MODULE #####
+
+sm_acot_supply_bay:  "전구체물류센터"
+sm_acot_supply_bay_desc:  "정거장이 제국의 보급품과 물류를 지원할 수 있도록 설계된 강력한 항성 기지 모듈입니다. 자원 저장량을 크게 늘리고 광물과 합금을 생성하며 함대 유지 관리 비용을 절반으로 줄입니다."
+acot_supply_bay_tooltip:  "§Y차량 유지 관리 비용을 50% 줄입니다.§!"
+
+sm_acot_super_reactor:  "전구체 알파 슈퍼로"
+sm_acot_super_reactor_desc:  "추가 에너지 수입을 제공하는 고급 원자로 모듈."
+acot_super_reactor_tooltip:  "§Y기지의 기본 암흑 물질 및 암흑 에너지 유지 비용을 절반으로 줄이고 추가 리소스를 제공합니다.§!"
+
+sm_acot_starbase_super_computer:  "전구체 생체 공학 가상 지원 업링크"
+sm_acot_starbase_super_computer_desc:  "Precursor B.V.A는 은하계 전역의 최고위 제독들이 내리는 명령을 조정하고 발행하여 스테이션이 함대와 전략적 네트워크를 빠르게 형성할 수 있도록 합니다."
+acot_starbase_super_computer_tooltip:  "§Y이 스테이션에서 건조된 선박은 1000의 시작 경험치를 가질 수 있고 추가 방어 슬롯을 제공하며 Precursor Master Anchorage가 지원하는 해군 용량의 양을 늘릴 수 있습니다.§!"
+
+sm_acot_starbase_aura_generator:  "선구자 차원 균열 생성기"
+sm_acot_starbase_aura_generator_desc:  "적 함대를 교란하고 우리 함대에 전투 이점을 제공하기 위해 시스템 주변의 물리 법칙을 다시 작성하는 강력한 차원 생성기입니다."
+acot_starbase_aura_generator_tooltip:  "§Y스테이션이 표준 스테이션에서 사용하는 모든 Aura 기반 모듈을 하나의 단일 모듈로 활용할 수 있습니다.§!"
+
+sm_acot_starbase_reinforced_wall:  "선구자가 숨겨진 요새"
+sm_acot_starbase_reinforced_wall_desc:  "스테이션의 프로필을 높이지 않고도 스테이션의 내구성을 크게 향상시키는 숨겨진 방어 시스템입니다."
+acot_starbase_reinforced_wall_tooltip:  "§Y스테이션에 추가 방패, 갑옷 및 선체 지점을 제공합니다.§!"
+#### MAIN MODULE ####
+
+sm_acot_starbase_shipyard:  "선구자 스타포지"
+sm_acot_starbase_shipyard_desc:  "동시에 두 척의 선박을 건조할 수 있는 첨단 조선소."
+acot_starbase_shipyard_tooltip:  "§Y모듈당 두 척의 선박을 건설할 수 있습니다.§!"
+
+sm_acot_starbase_anchorage:  "프리커서 마스터 앵커리지"
+sm_acot_starbase_anchorage_desc:  "이 정박지 내에서 생성된 암흑 에너지 풀 내에는 여러 선박이 안전하게 정박할 수 있습니다."
+acot_starbase_anchorage_tooltip:  "§Y추가 함대 해군 용량을 제공합니다.§!"
+
+sm_acot_starbase_gun_battery:  "전구체 은폐형 구충제 시스템"
+sm_acot_starbase_gun_battery_desc:  "이러한 모듈 내에 숨겨져 있는 경화광 생성 무기 시스템은 스테이션의 프로필을 높이지 않고도 증가된 화력을 스테이션에 제공합니다."
+acot_starbase_gun_battery_tooltip:  "§Y추가 L-무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_starbase_laser_battery:  "전구체 은폐 센티넬 시스템"
+sm_acot_starbase_laser_battery_desc:  "이 모듈 내에 숨겨져 있는 경광 생성 지점 방어 시스템은 기지에 프로필을 높이지 않고도 유도 무기 시스템과 공격 항공기를 격퇴할 수 있는 능력을 제공합니다."
+acot_starbase_laser_battery_tooltip:  "§Y8개의 추가 PD 무기 슬롯을 제공합니다.§!"
+
+sm_acot_starbase_missile_battery:  "전구체 은폐형 이지스 시스템"
+sm_acot_starbase_missile_battery_desc:  "이 모듈 내에 숨겨진 하드라이트 생성 미사일 배터리는 프로필을 높이지 않고도 스테이션에 추가 미사일 발사기를 제공합니다."
+acot_starbase_missile_battery_tooltip:  "§YG-무기 슬롯 6개를 추가로 제공합니다.§!"
+
+sm_acot_starbase_hangar_bay:  "선구자 은폐 프로토스 시스템"
+sm_acot_starbase_hangar_bay_desc:  "이러한 모듈 내에 숨겨진 자동 공격 항공기를 갖춘 하드라이트 생성 행거는 스테이션의 프로필을 높이지 않고도 추가 공격 항공기 지원을 제공합니다."
+acot_starbase_hangar_bay_tooltip:  "§Y추가 H 무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_starbase_dark_generator:  "전구체 마이크로 다크 도관"
+sm_acot_starbase_dark_generator_desc:  "스테이션이 추가 암흑 물질과 암흑 에너지를 생성하는 데 도움이 되는 Dark Portal Nexus의 축소 변형입니다."
+acot_starbase_dark_generator_tooltip:  "§Y추가 리소스 생성을 제공합니다.§!"
+
+sm_acot_starbase_lab:  "전구체 전투 연구실"
+sm_acot_starbase_lab_desc:  "일부 과학자와 엔지니어는 잘 강화된 우주 정거장에서 작업하는 것을 선호하며 여기에 주둔할 수도 있습니다."
+acot_starbase_lab_tooltip:  "§Y추가 과학 연구를 제공합니다.§!"
+
+acot_hostile_precursor_starbase_aura:  "안녕 적 오라"
+acot_friendly_precursor_starbase_aura:  "안녕 친구 아우라"
+
+################ SIGMA SPACE STRICTIRE ##################################
+
+acot_precusor_sigma_starbase:  "시그마 요새"
+acot_precusor_sigma_starfortress:  "시그마 시타델"
+acot_precusor_sigma_starcitadel:  "시그마 넥서스"
+acot_precusor_sigma_starbase_plural:  "시그마 요새"
+acot_precusor_sigma_starfortress_plural:  "시그마 시타델"
+acot_precusor_sigma_starcitadel_plural:  "시그마 넥시"
+
+acot_precursor_sigma_citadel_site:  "시그마 포트리스 조립 포털"
+acot_precursor_sigma_citadel_site_DESC:  "이 조립 포털은 Precursor Starbase로 변환됩니다."
+acot_precursor_sigma_citadel_site_MEGASTRUCTURE_DETAILS:  "이 조립 포털은 Precursor Starbase로 변환됩니다."
+
+acot_precursor_sigma_citadel_base:  "시그마 요새"
+acot_precursor_sigma_citadel_base_DESC:  "완전히 완료되면 Precursor Fortress는 기존 항성 기지를 대체하고 완전히 작동하는 Precursor 항성 기지로 기능하게 됩니다."
+acot_precursor_sigma_citadel_base_MEGASTRUCTURE_DETAILS:  "완공되면 시그마 요새는 인상적인 무기고를 갖춘 매우 강력한 항성 기지의 역할을 할 것이며 더욱 업그레이드될 수 있습니다."
+
+#### SUPPORT MODULE #####
+
+sm_acot_sigma_supply_bay:  "시그마 물류센터"
+sm_acot_sigma_supply_bay_desc:  "정거장이 제국의 보급품과 물류를 지원할 수 있도록 설계된 강력한 항성 기지 모듈입니다. 자원 저장 공간을 크게 늘리고 차량 유지 관리 비용을 절반으로 줄입니다."
+acot_sigma_supply_bay_tooltip:  "§Y차량 유지 관리 비용을 50% 줄입니다.§!"
+
+sm_acot_sigma_super_reactor:  "스텔라라이트 슈퍼리액터"
+sm_acot_sigma_super_reactor_desc:  "추가 에너지 수입을 제공하는 고급 원자로 모듈."
+acot_super_reactor_tooltip:  "§Y정전소의 항성석 유지 비용을 50% 줄이고 추가 에너지를 제공합니다.§!"
+
+sm_acot_sigma_starbase_super_computer:  "Sigma Bionic 가상 지원 업링크"
+sm_acot_sigma_starbase_super_computer_desc:  "Precursor B.V.A는 은하계 전역의 최고위 제독들이 내리는 명령을 조정하고 발행하여 스테이션이 함대와 전략적 네트워크를 빠르게 형성할 수 있도록 합니다."
+acot_sigma_starbase_super_computer_tooltip:  "§Y이 스테이션에서 건조된 선박은 1000의 시작 경험치를 가질 수 있고 추가 방어 슬롯을 제공하며 Precursor Master Anchorage가 지원하는 해군 용량의 양을 늘릴 수 있습니다.§!"
+
+sm_acot_sigma_starbase_aura_generator:  "시그마 차원 균열 생성기"
+sm_acot_sigma_starbase_aura_generator_desc:  "적 함대를 교란하고 우리 함대에 전투 이점을 제공하기 위해 시스템 주변의 물리 법칙을 다시 작성하는 강력한 차원 생성기입니다."
+acot_sigma_starbase_aura_generator_tooltip:  "§Y스테이션이 표준 스테이션에서 사용하는 모든 Aura 기반 모듈을 하나의 단일 모듈로 활용할 수 있습니다.§!"
+
+sm_acot_sigma_starbase_reinforced_wall:  "시그마 은폐 요새"
+sm_acot_sigma_starbase_reinforced_wall_desc:  "스테이션의 프로필을 높이지 않고도 스테이션의 내구성을 크게 향상시키는 숨겨진 방어 시스템입니다."
+acot_sigma_starbase_reinforced_wall_tooltip:  "§Y스테이션에 추가 방패, 갑옷 및 선체 지점을 제공합니다.§!"
+#### MAIN MODULE ####
+
+sm_acot_sigma_starbase_shipyard:  "시그마 스타포지"
+sm_acot_sigma_starbase_shipyard_desc:  "동시에 두 척의 선박을 건조할 수 있는 첨단 조선소."
+acot_sigma_starbase_shipyard_tooltip:  "§Y모듈당 두 척의 선박을 건설할 수 있습니다.§!"
+
+sm_acot_sigma_starbase_anchorage:  "시그마 마스터 앵커리지"
+sm_acot_sigma_starbase_anchorage_desc:  "이 정박지 내에서 생성된 암흑 에너지 풀 내에는 여러 선박이 안전하게 정박할 수 있습니다."
+acot_sigma_starbase_anchorage_tooltip:  "§Y추가 함대 해군 용량을 제공합니다.§!"
+
+sm_acot_sigma_starbase_gun_battery:  "시그마 은폐형 방충제 시스템"
+sm_acot_sigma_starbase_gun_battery_desc:  "이러한 모듈 내에 숨겨져 있는 경화광 생성 무기 시스템은 스테이션의 프로필을 높이지 않고도 증가된 화력을 스테이션에 제공합니다."
+acot_sigma_starbase_gun_battery_tooltip:  "§Y추가 L-무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_sigma_starbase_laser_battery:  "시그마 은폐형 센티넬 시스템"
+sm_acot_sigma_starbase_laser_battery_desc:  "이 모듈 내에 숨겨져 있는 경광 생성 지점 방어 시스템은 기지에 프로필을 높이지 않고도 유도 무기 시스템과 공격 항공기를 격퇴할 수 있는 능력을 제공합니다."
+acot_sigma_starbase_laser_battery_tooltip:  "§Y8개의 추가 PD 무기 슬롯을 제공합니다.§!"
+
+sm_acot_sigma_starbase_missile_battery:  "시그마 은폐형 이지스 시스템"
+sm_acot_sigma_starbase_missile_battery_desc:  "이 모듈 내에 숨겨진 하드라이트 생성 미사일 배터리는 프로필을 높이지 않고도 스테이션에 추가 미사일 발사기를 제공합니다."
+acot_sigma_starbase_missile_battery_tooltip:  "§YG-무기 슬롯 6개를 추가로 제공합니다.§!"
+
+sm_acot_sigma_starbase_hangar_bay:  "시그마 은폐 프로토스 시스템"
+sm_acot_sigma_starbase_hangar_bay_desc:  "이러한 모듈 내에 숨겨진 자동 공격 항공기를 갖춘 하드라이트 생성 행거는 스테이션의 프로필을 높이지 않고도 추가 공격 항공기 지원을 제공합니다."
+acot_sigma_starbase_hangar_bay_tooltip:  "§Y추가 H 무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_sigma_starbase_dark_generator:  "스텔라라이트 전력 도관"
+sm_acot_sigma_starbase_dark_generator_desc:  "스테이션이 스텔라라이트를 생성하는 데 도움이 되는 스텔라라이트 넥서스의 축소 변형입니다."
+acot_sigma_starbase_dark_generator_tooltip:  "§Y추가 리소스 생성을 제공합니다.§!"
+
+sm_acot_sigma_starbase_lab:  "시그마 배틀 ​​연구소"
+sm_acot_sigma_starbase_lab_desc:  "일부 과학자와 엔지니어는 잘 강화된 우주 정거장에서 작업하는 것을 선호하며 여기에 주둔할 수도 있습니다."
+acot_sigma_starbase_lab_tooltip:  "§Y추가 과학 연구를 제공합니다.§!"
+
+######################################################
+
+################ PHANON SPACE STRICTIRE ##################################
+
+acot_precusor_phanon_starcitadel:  "파논 오버워치"
+acot_precusor_phanon_starcitadel_plural:  "파논 넥시"
+
+acot_precursor_phanon_citadel_site:  "파논 오버워치 건설 현장"
+acot_precursor_phanon_citadel_site_DESC:  "이 거대한 플랫폼은 Phanon Overwatch Starbase의 건설 현장 역할을 할 것이며, 건설 선박은 파일론의 에너지 중심 역할을 하며 전체 정거장 건설을 진행하는 과정에서 소진될 것입니다."
+acot_precursor_phanon_citadel_site_MEGASTRUCTURE_DETAILS:  "이 건설 현장은 Phanon Overwatch Starbase를 건설하는 데 사용됩니다. 공정이 완료되면 건설선은 건설 철탑과 융합됩니다."
+
+acot_precursor_phanon_citadel_base:  "파논 오버워치"
+acot_precursor_phanon_citadel_base_DESC:  "완전히 완료되면 Phanon Overwatch는 기존 항성 기지를 대체하고 완전히 작동하는 우주 정거장으로 기능하게 됩니다."
+acot_precursor_phanon_citadel_base_MEGASTRUCTURE_DETAILS:  "완성되면 파논 요새는 인상적인 무기고를 갖춘 매우 강력한 항성 기지의 역할을 할 것이며 더욱 업그레이드될 수 있습니다."
+
+#### SUPPORT MODULE #####
+
+sm_acot_phanon_supply_bay:  "파논 물류센터"
+sm_acot_phanon_supply_bay_desc:  "정거장이 제국의 보급품과 물류를 지원할 수 있도록 설계된 강력한 항성 기지 모듈입니다. 자원 저장량을 크게 늘리고 광물과 식량을 생성하며 함대 유지 관리 비용을 절반으로 줄입니다."
+acot_phanon_supply_bay_tooltip:  "§Y차량 유지 관리 비용을 50% 줄입니다.§!"
+
+sm_acot_phanon_super_reactor:  "파논 슈퍼 리액터"
+sm_acot_phanon_super_reactor_desc:  "스테이션의 기본 유지를 무효화할 뿐만 아니라 추가 암흑 물질과 암흑 에너지를 제공하는 고급 원자로 모듈입니다."
+acot_super_reactor_tooltip:  "§Y스테이션에서 암흑물질과 암흑에너지 유지를 제거하고 추가 자원을 제공합니다.§!"
+
+sm_acot_phanon_starbase_super_computer:  "Phanon Bionic 가상 지원 업링크"
+sm_acot_phanon_starbase_super_computer_desc:  "Precursor B.V.A는 은하계 전역의 최고위 제독들이 내리는 명령을 조정하고 발행하여 스테이션이 함대와 전략적 네트워크를 빠르게 형성할 수 있도록 합니다."
+acot_phanon_starbase_super_computer_tooltip:  "§Y이 스테이션에서 건조된 선박은 1000의 시작 경험치를 가질 수 있고 추가 방어 슬롯을 제공하며 Precursor Master Anchorage가 지원하는 해군 용량의 양을 늘릴 수 있습니다.§!"
+
+sm_acot_phanon_starbase_aura_generator:  "파논 차원 균열 생성기"
+sm_acot_phanon_starbase_aura_generator_desc:  "적 함대를 교란하고 우리 함대에 전투 이점을 제공하기 위해 시스템 주변의 물리 법칙을 다시 작성하는 강력한 차원 생성기입니다."
+acot_phanon_starbase_aura_generator_tooltip:  "§Y스테이션이 표준 스테이션에서 사용하는 모든 Aura 기반 모듈을 하나의 단일 모듈로 활용할 수 있습니다.§!"
+
+sm_acot_phanon_starbase_reinforced_wall:  "파논의 숨겨진 요새"
+sm_acot_phanon_starbase_reinforced_wall_desc:  "스테이션의 프로필을 높이지 않고도 스테이션의 내구성을 크게 향상시키는 숨겨진 방어 시스템입니다."
+acot_phanon_starbase_reinforced_wall_tooltip:  "§Y스테이션에 추가 방패, 갑옷 및 선체 지점을 제공합니다.§!"
+#### MAIN MODULE ####
+
+sm_acot_phanon_starbase_shipyard:  "파논 스타포지"
+sm_acot_phanon_starbase_shipyard_desc:  "동시에 두 척의 선박을 건조할 수 있는 첨단 조선소."
+acot_phanon_starbase_shipyard_tooltip:  "§Y모듈당 두 척의 선박을 건설할 수 있습니다.§!"
+
+sm_acot_phanon_starbase_anchorage:  "파논 마스터 앵커리지"
+sm_acot_phanon_starbase_anchorage_desc:  "이 정박지 내에서 생성된 암흑 에너지 풀 내에는 여러 선박이 안전하게 정박할 수 있습니다."
+acot_phanon_starbase_anchorage_tooltip:  "§Y추가 함대 해군 용량을 제공합니다.§!"
+
+sm_acot_phanon_starbase_gun_battery:  "Phanon 은폐형 방충제 시스템"
+sm_acot_phanon_starbase_gun_battery_desc:  "이러한 모듈 내에 숨겨져 있는 경화광 생성 무기 시스템은 스테이션의 프로필을 높이지 않고도 증가된 화력을 스테이션에 제공합니다."
+acot_phanon_starbase_gun_battery_tooltip:  "§Y추가 L-무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_phanon_starbase_laser_battery:  "Phanon 은폐형 센티넬 시스템"
+sm_acot_phanon_starbase_laser_battery_desc:  "이 모듈 내에 숨겨져 있는 경광 생성 지점 방어 시스템은 기지에 프로필을 높이지 않고도 유도 무기 시스템과 공격 항공기를 격퇴할 수 있는 능력을 제공합니다."
+acot_phanon_starbase_laser_battery_tooltip:  "§Y8개의 추가 PD 무기 슬롯을 제공합니다.§!"
+
+sm_acot_phanon_starbase_missile_battery:  "Phanon 은폐형 이지스 시스템"
+sm_acot_phanon_starbase_missile_battery_desc:  "이 모듈 내에 숨겨진 하드라이트 생성 미사일 배터리는 프로필을 높이지 않고도 스테이션에 추가 미사일 발사기를 제공합니다."
+acot_phanon_starbase_missile_battery_tooltip:  "§YG-무기 슬롯 6개를 추가로 제공합니다.§!"
+
+sm_acot_phanon_starbase_hangar_bay:  "파논 은폐 프로토스 시스템"
+sm_acot_phanon_starbase_hangar_bay_desc:  "이러한 모듈 내에 숨겨진 자동 공격 항공기를 갖춘 하드라이트 생성 행거는 스테이션의 프로필을 높이지 않고도 추가 공격 항공기 지원을 제공합니다."
+acot_phanon_starbase_hangar_bay_tooltip:  "§Y추가 H 무기 슬롯 3개를 제공합니다.§!"
+
+sm_acot_phanon_starbase_dark_generator:  "Phanon 전원 도관"
+sm_acot_phanon_starbase_dark_generator_desc:  "파논 넥서스의 축소형 변형으로, 정거장이 추가 광물과 에너지를 생산하는 데 도움을 줍니다."
+acot_phanon_starbase_dark_generator_tooltip:  "§Y추가 리소스 생성을 제공합니다.§!"
+
+sm_acot_phanon_starbase_lab:  "파논 배틀 연구소"
+sm_acot_phanon_starbase_lab_desc:  "일부 과학자와 엔지니어는 잘 강화된 우주 정거장에서 작업하는 것을 선호하며 여기에 주둔할 수도 있습니다."
+acot_phanon_starbase_lab_tooltip:  "§Y추가 과학 연구를 제공합니다.§!"
+
+
+
+###################################################
+
+acot_curators_enclave_station:  "큐레이터 스테이션"
+acot_curators_enclave_station_plural:  "큐레이터 스테이션"
+
+
+acot_curator_station_key:  "큐레이터 영광의 열쇠"
+
+acot_curators_bc:  "큐레이터 전투순양함"
+acot_curators_bc_plural:  "큐레이터 전투순양함"
+
+acot_curators_bc_key:  "큐레이터 BC"
+
+acot_curators_escort:  "큐레이터 에스코트"
+acot_curators_escort_plural:  "큐레이터 에스코트"
+
+acot_curators_escort_key:  "큐레이터 에스카르고"
+
+acot_curators_oracle:  "큐레이터 프로토타입 오라클"
+acot_curators_oracle_plural:  "큐레이터 프로토타입 오라클"
+
+acot_curators_oracle_key:  "큐레이터 툼툼"
+
+################################## MEGASTRUCTORUOIS
+
+################ OBELISKU
+
+MESSAGE_ACOT_MEGA_BUILT_TITLE:  "거대 구조물 조립 완료"
+MESSAGE_ACOT_MEGA_BUILT_DESC:  "거대구조물이 자체 조립을 완료했습니다."
+message_acot_mega_enigmalith_built:  "에니그말리스 건설이 완료되었습니다."
+
+MESSAGE_ACOT_MEGA_UPGRADED_TITLE:  "거대 구조물이 업그레이드됨"
+MESSAGE_ACOT_MEGA_UPGRADED_DESC:  "Megastructure가 업그레이드를 완료했습니다."
+message_acot_mega_enigmalith_upgraded:  "에니그말리스 업그레이드가 완료되었습니다."
+message_acot_mega_amerigo_upgraded:  "에니그말리스 업그레이드가 완료되었습니다."
+
+acot_dark_matter_obelisk_core_portal:  "고대 에니그말리스 조립 포털"
+acot_dark_matter_obelisk_core_portal_DESC:  "끊임없이 다른 차원에서 에너지를 수확하여 수수께끼의 힘을 생성할 수 있는 대형 오벨리스크로 변신하는 조립 포털입니다. 우리는 그것을 활용할 수 있지만 적절한 지식이 없으면 수확량은 최소화될 것입니다."
+acot_dark_matter_obelisk_core_portal_MEGASTRUCTURE_DETAILS:  "Conduit는 £sr_dark_matter£ 및 £acot_sr_dark_energy£ 수수께끼의 리소스를 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+acot_dark_matter_obelisk_core:  "고대 수수께끼의 돌"
+acot_dark_matter_obelisk_core_DESC:  "이 대형 오벨리스크는 끊임없이 다른 차원에서 에너지를 수확하여 수수께끼의 힘을 생성하는 것 같습니다. 우리는 그것을 활용할 수 있지만 적절한 지식이 없으면 수확량은 최소화될 것입니다."
+acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS:  "Conduit는 £sr_dark_matter£ 및 £acot_sr_dark_energy£ 수수께끼의 리소스를 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+tech_precursor_enigmalith:  "수수께끼의 복제"
+tech_precursor_enigmalith_desc:  "이제 우리는 전구체 아키텍처의 기본 원리를 이해했으므로 고유한 에니그그므리스 복제를 시작할 수 있습니다."
+TECH_UNLOCK_ENIGMALITH_TITLE:  "§H대형 구조 잠금 해제:§! 고대 에니그말리스"
+TECH_UNLOCK_ENIGMALITH_DESC:  "$acot_dark_matter_obelisk_core_MEGASTRUCTURE_DETAILS$"
+
+acot_dark_matter_obelisk_core_ae:  "에니그말리스 에테나"
+acot_dark_matter_obelisk_core_ae_DESC:  "이 대형 오벨리스크는 끊임없이 다른 차원에서 에너지를 수확하여 수수께끼의 힘을 생성하는 것 같습니다."
+acot_dark_matter_obelisk_core_ae_MEGASTRUCTURE_DETAILS:  "도관은 수수께끼의 자원을 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+tech_precursor_enigmalith_ae:  "에니그말리스 에테나"
+tech_precursor_enigmalith_ae_desc:  "추가 연구를 통해 우리는 £sr_dark_matter£ 및 £acot_sr_dark_energy£ 생산에 더욱 적합한 Enigmalith의 새로운 변종을 만드는 데 성공했습니다. 결과적으로 Aetena 디자인은 더 이상 합금과 에너지 자원을 제공하지 않습니다."
+TECH_UNLOCK_ENIGMALITH_AE_TITLE:  "§H메가구조 잠금 해제:§! Enigmalith Aetena\n§H메가구조 업그레이드:§! 고대 Enigmalith"
+TECH_UNLOCK_ENIGMALITH_AE_DESC:  "§HEnigmalith Aetena:§! 다량의 £sr_dark_matter£ 및 £acot_sr_dark_energy£를 제공합니다.\n§H고대 Enigmalith:§! 합금 및 에너지 생산량이 증가했습니다."
+
+
+acot_dark_matter_obelisk_core_se:  "수수께끼의 시바"
+acot_dark_matter_obelisk_core_se_DESC:  "이 대형 오벨리스크는 다른 차원에서 끊임없이 에너지를 수확하여 별빛 에너지를 생성하는 것으로 보입니다."
+acot_dark_matter_obelisk_core_se_MEGASTRUCTURE_DETAILS:  "Conduit는 £acot_sr_stellarite£ 리소스를 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+tech_precursor_enigmalith_se:  "수수께끼의 시바"
+tech_precursor_enigmalith_se_desc:  "Sigma 기술은 우리에게 Enigmalith를 수정할 수 있는 또 다른 기회를 제공합니다. Shiva 유형은 대신 다른 차원에서 £acot_sr_stellarite£를 수집합니다."
+TECH_UNLOCK_ENIGMALITH_SE_TITLE:  "§H메가구조 잠금 해제:§! Enigmalith Shiva\n§H메가구조 업그레이드:§! 고대 Enigmalith\n§H메가구조 업그레이드:§! Enigmalith Aetena"
+TECH_UNLOCK_ENIGMALITH_SE_DESC:  "§H에니그말리스 시바: §! 중간 정도의 £acot_sr_stellarite£을 제공합니다. \n§H고대 에니그말리스:§! 합금과 에너지 생산량이 증가했습니다. \n§H에니그말리스 아에테나:§! £sr_dark_matter£ 및 £acot_sr_dark_energy£ 생산을 증가시켰습니다."
+
+acot_dark_matter_obelisk_core_oe:  "수수께끼의 오수라"
+acot_dark_matter_obelisk_core_oe_DESC:  "이 대형 오벨리스크는 끊임없이 우주에서 에너지를 수확하여 신비한 힘을 생성하는 것 같습니다."
+acot_dark_matter_obelisk_core_oe_MEGASTRUCTURE_DETAILS:  "Conduit는 수수께끼의 별 자원을 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+tech_precursor_enigmalith_oe:  "수수께끼의 오수라"
+tech_precursor_enigmalith_oe_desc:  "이제 Enigmalith를 더욱 개선할 수 있을 것입니다."
+TECH_UNLOCK_ENIGMALITH_OE_TITLE:  "§H대형 구조 잠금 해제:§! Enigmalith Osura"
+TECH_UNLOCK_ENIGMALITH_OE_DESC:  "Enigmalith의 최종 업그레이드인 Osura 디자인은 약간의 빛 에너지에 대한 적당한 초기 투자로 Stellarite의 생산량을 대폭 증가시킵니다."
+
+
+acot_dark_matter_obelisk_core_pe:  "파논 캔들 오브 굉장함"
+acot_dark_matter_obelisk_core_pe_DESC:  "이 대형 오벨리스크는 TLS에 이를 밈으로 만들어 존재하게 함으로써 수수께끼 같은 힘을 생성하는 것 같습니다."
+acot_dark_matter_obelisk_core_pe_MEGASTRUCTURE_DETAILS:  "도관은 수수께끼의 자원을 제공합니다. 전구체 기술의 발전으로 생산량이 증가합니다."
+
+
+
+################ AMERIGO
+
+acot_amerigo:  "아메리고"
+acot_amerigo_DESC:  "묘지의 함선을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지입니다."
+acot_amerigo_MEGASTRUCTURE_DETAILS:  "묘지에서 선박을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지"
+
+acot_amerigo_ae:  "아메리고 애트나"
+acot_amerigo_ae_DESC:  "묘지의 함선을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지입니다."
+acot_amerigo_ae_MEGASTRUCTURE_DETAILS:  "묘지에서 선박을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지"
+
+tech_precursor_amerigo_ae:  "아메리고 애트나"
+tech_precursor_amerigo_ae_desc:  "이제 디자인을 업그레이드할 차례입니다."
+
+acot_amerigo_se:  "아메리고 시바"
+acot_amerigo_se_DESC:  "묘지의 함선을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지입니다."
+acot_amerigo_se_MEGASTRUCTURE_DETAILS:  "묘지에서 선박을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지"
+
+tech_precursor_amerigo_se:  "아메리고 시바"
+tech_precursor_amerigo_se_desc:  "이제 디자인을 업그레이드할 차례입니다."
+
+acot_amerigo_oe:  "아메리고 오수라"
+acot_amerigo_oe_DESC:  "묘지의 함선을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지입니다."
+acot_amerigo_oe_MEGASTRUCTURE_DETAILS:  "묘지에서 선박을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지"
+
+tech_precursor_amerigo_oe:  "아메리고 오수라"
+tech_precursor_amerigo_oe_desc:  "이제 디자인을 업그레이드할 차례입니다."
+
+acot_amerigo_pe:  "아메리고 파논 에디션"
+acot_amerigo_pe_DESC:  "묘지의 함선을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지입니다."
+acot_amerigo_pe_MEGASTRUCTURE_DETAILS:  "묘지에서 선박을 다시 살아나게 복원할 수 있는 능력을 갖춘 강력한 실험 연구 우주 기지"
+
+RESTORE_AMERIGO_MEGA:  "아메리고 복원"
+RESTORE_AMERIGO_MEGA_DESC:  "고대 과학 단지를 복원할 수 있지만 이를 위해서는 엔지니어링 팀과 과학 팀 모두의 세심한 노력과 많은 시간이 필요합니다."
+
+################################### ROGUE PRECURSOR DESCRIPTOR
+
+civic_acot_rogue_precursor:  "고대 데이터뱅크 인텔리전스"
+civic_acot_rogue_precursor_desc:  "이 제국은 고대 데이터뱅크가 활성화되면서 탄생했습니다. 기계사회를 효율적으로 운영할 수 있는 고도의 지식과 지능을 보유하고 있었다."
+civic_acot_rogue_precursor_fleet:  "고대 데이터뱅크 명령 네트워크"
+civic_acot_rogue_precursor_fleet_desc:  "이 제국은 고대 데이터뱅크가 활성화되면서 탄생했습니다. 대규모 군대를 효과적으로 지휘할 수 있는 고도의 지식과 지능을 보유하고 있었다."
+civic_acot_rogue_precursor_data:  "고대 데이터뱅크 아카이브"
+civic_acot_rogue_precursor_data_desc:  "이 제국은 고대 데이터뱅크가 활성화되면서 탄생했습니다. 전구체와 관련된 많은 고급 데이터를 보유하고 있으며 이를 현대 은하계에 효과적으로 적용할 수 있습니다."
+
+personality_acot_rogue_databank_personality:  "도적 선구자"
+personality_acot_rogue_databank_personality_desc:  "와무우! 깨어나세요, 나의 주인님들!"
+
+################################### TUBOREK ###################################
+
+acot_tuborek_flagship:  "워 월드"
+acot_tuborek_flagship_plural:  "전쟁 세계"
+
+decision_acot_emissary_landing:  "사절 착륙"
+decision_acot_emissary_landing_desc:  "궤도를 돌고 있는 사절에게 행성에 착륙하라고 명령합니다. 행성이 현재 식민지화되지 않은 경우 해당 모듈에 장착된 모든 건물과 함께 즉시 식민지화됩니다. 행성이 적대적이면 사절이 착륙하여 행성 침공을 시작합니다."
+acot_requires_emissary_orbit:  "§R궤도에 사절이 있어야 합니다.§!"
+
+################################### Celestial Forger ###################################
+
+acot_world_shaper_planet_portal:  "천상의 위조자 포털 어셈블리"
+acot_world_shaper_planet_portal_DESC:  "천체를 제작하기 위해 획득한 재료를 최종적으로 구체화하는 조립 포털입니다."
+acot_world_shaper_planet_portal_MEGASTRUCTURE_DETAILS:  "천체를 제작하기 위해 획득한 재료를 최종적으로 구체화하는 조립 포털입니다."
+
+acot_world_shaper_planet_core:  "천상의 제조자 코어"
+acot_world_shaper_planet_core_DESC:  "이제 코어는 인공 행성의 지각에 내장되어 있으며 곧 나머지 지형도 완성될 예정입니다."
+acot_world_shaper_planet_core_MEGASTRUCTURE_DETAILS:  "이제 코어는 인공 행성의 지각에 내장되어 있으며 곧 나머지 지형도 완성될 예정입니다."
+
+acot_world_shaper_planet_stage_two:  "천상의 위조자 완료"
+acot_world_shaper_planet_stage_two_DESC:  "오메가룰즈"
+acot_world_shaper_planet_stage_two_MEGASTRUCTURE_DETAILS:  "오메가룰즈"
+
+decision_acot_deploy_world_shaper:  "천상의 위조자 배치"
+decision_acot_deploy_world_shaper_desc:  "시스템의 천상의 제조자에게 자체 배치를 시작하도록 명령합니다. 그러면 시스템이 결국 새로운 천체로 형성될 거대 구조물로 변하게 됩니다."
+acot_requires_world_shaper_orbit:  "§R궤도에 천상의 위조자가 있어야 합니다.§!"
+
+requires_herculean_count:  "§Y새로운 헤라클레스에 대한 연구와 준비가 필요합니다.§!"
+
+acot_is_valid_for_emissary_beam:  "§R대상은 보호된 행성일 수 없습니다.§!"
+acot_emissary_disable_system:  "사절의 전원이 꺼졌습니다"
+acot_emissary_disable_system_desc:  "사절의 전원이 꺼졌습니다"
+acot_emissary_on_cooldown:  "§R사절 광선이 재사용 대기시간 상태여서는 안 됩니다.§!"
+
+acot_aura_oracle_stealth:  "오라클 클로킹 필드"
+acot_aura_oracle_detection:  "오라클 클로킹 널리파이어"
+
+############################### HERCULEAN AUX
+
+ACOT_HERCULEAN_AUX_SUPPLY:  "엄청난 보조 제작기"
+ACOT_HERCULEAN_AUX_SUPPLY_DESC:  "보조 제작기는 Herculean에게 초기 패키지 이상의 추가 자원 생산 능력을 제공합니다."
+ACOT_HERCULEAN_AUX_SUPPLY_TOOLTIP:  "§E다음 리소스를 제공합니다.§!\n\n§Y5000§! £energy£\n§Y2500§! £alloys£\n§Y250§! £sr_dark_matter£\n§Y250§! £acot_sr_dark_energy£"
+
+ACOT_HERCULEAN_AUX_SUPPLY_S7:  "헤라클레스 항성 보조 제작기"
+ACOT_HERCULEAN_AUX_SUPPLY_S7_DESC:  "보조 Stellar Fabricators는 Herculean에 초기 패키지 이상의 추가 자원 생산 능력을 제공합니다."
+ACOT_HERCULEAN_AUX_SUPPLY_S7_TOOLTIP:  "§E다음 리소스를 제공합니다.§!\n\n§Y10000§! £energy£\n§Y5000§! £alloys£\n§Y250§! £sr_dark_matter£\n§Y250§! £acot_sr_dark_energy£\n§Y250§! £acot_sr_stellarite£"
+
+
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT:  "헤라클레스 호위 수비대"
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_DESC:  "전투에서 헤라클레스족을 지원할 호위병을 수용하기 위해 특별히 건설된 앵커리지입니다."
+ACOT_HERCULEAN_AUX_GARRISON_ESCORT_TOOLTIP:  "§EHerculean에 12개의 호위 주둔지를 제공합니다.§!\n\nHerculean이 전투에 참여할 때 호위는 AI 제어 동맹으로 생성됩니다.\n\n디자인은 제국의 호위 디자인에서 무작위로 선택됩니다.\n\nHerculean이 시스템을 떠난 후 선박 한 척 이상이 살아남으면 재사용 대기시간이 재설정됩니다. 그렇지 않으면 헤라클레스군이 수비대를 보충하는 데 360일이 소요됩니다."
+
+ACOT_HERCULEAN_AUX_GARRISON_BC:  "헤라클레스 전투순양함 주둔지"
+ACOT_HERCULEAN_AUX_GARRISON_BC_DESC:  "전투에서 헤라클레스족을 지원할 전투순양함을 수용하기 위해 특별히 제작된 앵커리지입니다."
+ACOT_HERCULEAN_AUX_GARRISON_BC_TOOLTIP:  "§EHerculean에 전투순양함 주둔지 6개를 제공합니다.§!\n\nHerculean이 전투에 참여할 때 Battlecruiser는 AI가 제어하는 ​​동맹으로 생성됩니다.\n\n디자인은 제국의 Battlecruiser 디자인에서 무작위로 선택됩니다.\n\nHerculean이 성계를 떠난 후 한 척 이상의 함선이 살아남으면 재사용 대기시간이 재설정됩니다. 그렇지 않으면 헤라클레스군이 수비대를 보충하는 데 720일이 소요됩니다."
+
+ACOT_HERCULEAN_AUX_GARRISON_TITAN:  "헤라클레스의 히페리온 수비대"
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_DESC:  "전투에서 헤라클레스족을 지원할 히페리온을 수용하기 위해 특별히 건설된 앵커리지입니다."
+ACOT_HERCULEAN_AUX_GARRISON_TITAN_TOOLTIP:  "§EHerculean에 2개의 Hyperions Garrison을 제공합니다.§!\n\nHyperions는 전투에 참여할 때 AI가 제어하는 ​​동맹으로 생성됩니다.\n\n디자인은 제국의 Hyperion의 디자인에서 무작위로 선택됩니다.\n\nHerculean이 시스템을 떠난 후 한 척 이상의 함선이 살아남으면 재사용 대기시간이 재설정됩니다. 그렇지 않으면 헤라클레스군이 수비대를 보충하는 데 1800일이 필요합니다."
+
+############################### HERCULEAN WMD WEAPONS
+
+tech_acot_precursor_herculean_wmd_rift:  "엄청난 균열 생성기"
+tech_acot_precursor_herculean_wmd_rift_desc:  "균열 발생기는 헤라클레스가 은하 내 어느 행성 궤도에서든 강력한 차원 균열을 만들어 모든 함선을 빨아들인 뒤 거대한 충격파 폭발을 일으킬 수 있게 해줍니다. 목표 선정은 건설선을 표지로 사용하여 이루어집니다."
+
+tech_acot_precursor_herculean_wmd_emp:  "엄청난 파괴 펄스 발생기"
+tech_acot_precursor_herculean_wmd_emp_desc:  "교란 펄스 생성기를 사용하면 Herculean은 은하계 내 모든 행성 궤도에서 강력한 교란 펄스를 생성하여 적의 방어막을 무력화하고 전투에서 함선의 효율성을 감소시킬 수 있습니다. 또한 보호막 생성기로 보호되지 않으면 적 행성의 기계 팝도 제거합니다. 목표 선택은 건설 선박을 마커로 사용하여 수행됩니다."
+
+acot_superweapon_rift_generator_alarming_light:  "균열 생성기 위치"
+
+acot_rift_debuff:  "리프트 블래스트"
+acot_rift_debuff_desc:  "리프트 블래스트"
+
+ACOT_HERCULEAN_WMD_RIFT:  "균열 생성기"
+ACOT_HERCULEAN_WMD_RIFT_DESC:  "균열 발생기는 헤라클레스가 은하 내 어느 행성 궤도에서든 강력한 차원 균열을 만들어 모든 함선을 빨아들인 뒤 거대한 충격파 폭발을 일으킬 수 있게 해줍니다."
+ACOT_HERCULEAN_WMD_RIFT_TOOLTIP:  "§YRift Generator 사용 가능§!\n\n§GDamage:§! 25,000. \n§G대상 대상: §! 함선, 행성, 자군 유닛, 적 유닛. \n§G준비 기간: §! 30일. \n§G쿨다운 기간: §! 1800일. \n\n목표를 표시하기 위해, 중립 세력이 소유하지 않은 행성계에 건설선을 이용해 균열 생성기 표시를 건설합니다."
+
+acot_herculean_wmd_rift_generator:  "§O마커:§! 엄청난 균열 생성기 마커"
+acot_herculean_wmd_rift_generator_DESC:  "헤라클레스에게 선택된 행성에 균열 발생기 초무기를 사용하라고 명령하며, 행성 궤도 위에 강력한 차원 균열을 만들어 대부분의 함선을 중심 질량으로 빨아들일 것이다. 영향을 받은 모든 함선은 속도가 느려지고, 10일 후 거대한 폭발이 발생해 시스템 내 모든 함선에 25,000의 피해를 입히고 식민지화된 모든 행성에 25%의 행성 파괴를 초래합니다. \n\n§G피해량: 25,000. §!\n§G적격 대상: 함선, 행성. §!\n§G준비 기간: 30일. §!\n§G쿨다운 시간: 1800일. §!\n\nETo 표적을 표시하고, 중립 당사자가 소유하지 않은 행성에 건설선을 이용해 균열 발생기 표시기를 건설합니다."
+acot_herculean_wmd_rift_generator_MEGASTRUCTURE_DETAILS:  "헤라클레스에게 선택한 행성에서 리프트 생성기 슈퍼무기를 사용하도록 명령하여 행성 궤도 위에 강력한 차원 균열을 생성하여 대부분의 함선을 중심 질량으로 빨아들입니다. 영향을 받은 모든 함선의 속도가 느려지고 10일 후에는 성계 내의 모든 함선에 25,000의 피해를 입히고 식민지화된 모든 행성에 25%의 행성 파괴를 일으키는 대규모 폭발이 발생합니다.\n\n§G피해량: 25,000.§!\n§G적격 대상: 함선, 행성, 자체 유닛, 적대 유닛.§!\n§G준비 시간: 30 일.§!\n§G쿨다운 시간: 1800일.§!\n\nE표적을 표시하려면 건설 선박을 사용하여 중립 당사자가 시스템을 소유하지 않은 행성에 리프트 생성기 마커를 구축합니다."
+
+MESSAGE_ACOT_RIFT_GENERATOR_USED_TITLE:  "균열 생성기 활성화됨"
+MESSAGE_ACOT_RIFT_GENERATOR_USED_DESC:  "균열 생성기가 [fromfrom.planet.GetName]에 활성화되었습니다!\n\n예정 시간: 30일."
+message_acot_rift_generator_used:  "균열 생성기가 [fromfrom.planet.GetName]에 활성화되었습니다!\n\n예정 시간: 30일."
+
+MESSAGE_ACOT_RIFT_GENERATOR_READY_TITLE:  "균열 생성기 준비됨"
+MESSAGE_ACOT_RIFT_GENERATOR_READY_DESC:  "[root.GetName]에 탑재된 균열 생성기가 준비되었습니다."
+message_acot_rift_generator_ready:  "[root.GetName]에 탑재된 균열 생성기가 준비되었습니다."
+
+acot_superweapon_emp_alarming_light:  "중단 펄스 위치"
+
+acot_emp_blast_planet_debuff:  "파괴 폭발"
+acot_emp_blast_planet_debuff_desc:  "이 행성은 파괴 폭발로 타격을 입었습니다."
+
+acot_emp_blast_debuff:  "파괴 폭발"
+acot_emp_blast_debuff_desc:  "파괴 폭발"
+
+ACOT_HERCULEAN_WMD_EMP:  "중단 펄스 발생기"
+ACOT_HERCULEAN_WMD_EMP_DESC:  "교란 펄스 생성기를 사용하면 Herculean은 은하계 내 모든 행성 궤도에서 강력한 교란 펄스를 생성하여 적의 방어막을 무력화하고 전투에서 함선의 효율성을 감소시킬 수 있습니다. 또한 보호막 생성기로 보호되지 않으면 적 행성의 기계 팝도 제거합니다."
+ACOT_HERCULEAN_WMD_EMP_TOOLTIP:  "§Y교란 펄스 생성기 사용 가능§!\n\n§G피해량:§! 5,000(기계 제국에 의해 제어되는 경우).\n§G적격 대상:§! 선박, 행성, 비유기체 대상, 기계 팝.\n§G준비 시간:§! 30일.\n§G쿨다운 시간:§! 720 일.\n\n목표를 표시하려면 건설 선박을 사용하여 중립 당사자가 시스템을 소유하지 않은 모든 행성에 Disruption Pulse Marker를 구축합니다."
+
+acot_herculean_wmd_emp_generator:  "§O마커:§! 엄청난 교란 펄스 마커"
+acot_herculean_wmd_emp_generator_DESC:  "헤라클레스에게 선택한 행성에서 교란 펄스 생성기 슈퍼무기를 사용하도록 명령하여 행성 궤도 위에 강력한 전자기 펄스를 생성하여 함선의 방어막을 100% 무효화하고 발사 속도를 50% 줄이며 비상 FTL을 방지하고 은폐를 해제하도록 합니다. 펄스에 맞은 행성은 에너지 생산에 막대한 -90% 디버프를 받고, 작업 생산에 -50% 디버프를 받게 됩니다. 최대 25명의 기계 팝이 죽고 지구상의 모든 기계 군대가 파괴됩니다. 행성 보호막 생성기가 있으면 모든 행성 효과가 중지되지만 그 과정에서 폭발로 인해 PSG가 튀겨 파괴될 수 있습니다.\n\n§G피해량: 5,000(기계 제국에 의해 제어되는 경우).§!\n§G적격 대상: 선박, 행성, 비유기체 대상, 기계 팝.§!\n§G준비 시간: 30일.§!\n§G쿨다운 시간: 720일.§!\n\nE목표를 표시하려면 건설 선박을 사용하여 중립 당사자가 시스템을 소유하지 않은 모든 행성에 중단 펄스 마커를 구축합니다."
+acot_herculean_wmd_emp_generator_MEGASTRUCTURE_DETAILS:  "헤라클레스에게 선택한 행성에서 교란 펄스 생성기 슈퍼무기를 사용하도록 명령하여 행성 궤도 위에 강력한 전자기 펄스를 생성하여 함선의 방어막을 100% 무효화하고 발사 속도를 50% 줄이며 비상 FTL을 방지하고 은폐를 해제하도록 합니다. 펄스에 맞은 행성은 에너지 생산에 막대한 -90% 디버프를 받고, 작업 생산에 -50% 디버프를 받게 됩니다. 최대 25명의 기계 팝이 죽고 지구상의 모든 기계 군대가 파괴됩니다. 행성 보호막 생성기가 있으면 모든 행성 효과가 중지되지만 그 과정에서 폭발로 인해 PSG가 튀겨 파괴될 수 있습니다.\n\n§G피해량: 5,000(기계 제국에 의해 제어되는 경우).§!\n§G적격 대상: 선박, 행성, 비유기체 대상, 기계 팝.§!\n§G준비 시간: 30일.§!\n§G쿨다운 시간: 720일.§!\n\nE목표를 표시하려면 건설 선박을 사용하여 중립 당사자가 시스템을 소유하지 않은 모든 행성에 중단 펄스 마커를 구축합니다."
+
+MESSAGE_ACOT_EMP_USED_TITLE:  "교란 펄스 활성화됨"
+MESSAGE_ACOT_EMP_USED_DESC:  "중단 펄스가 [fromfrom.planet.GetName]에 활성화되었습니다!\n\n예상 시간: 30일."
+message_acot_emp_used:  "중단 펄스가 [fromfrom.planet.GetName]에 활성화되었습니다!\n\n예상 시간: 30일."
+
+MESSAGE_ACOT_EMP_READY_TITLE:  "중단 펄스 준비"
+MESSAGE_ACOT_EMP_READY_DESC:  "[root.GetName]에 탑재된 교란 펄스 생성기가 준비되었습니다."
+message_acot_emp_ready:  "[root.GetName]에 탑재된 교란 펄스 생성기가 준비되었습니다."
+
+##################### PAC STUFFS
+
+ACOT_PAC_HANGAR_ARTILLERY:  "프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_FULL:  "프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_DESC:  "전구체 랜서 드론"
+
+ACOT_PAC_HANGAR_ARTILLERY_AE:  "알파 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_AE:  "알파 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_AE_DESC:  "알파 프리커서 랜서 드론"
+
+ACOT_PAC_HANGAR_ARTILLERY_SE:  "시그마 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_SE:  "시그마 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_SE_DESC:  "시그마 프리커서 랜서 드론"
+
+ACOT_PAC_HANGAR_ARTILLERY_OE:  "오메가 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_FULL_OE:  "오메가 프리커서 랜서 드론"
+ACOT_PAC_HANGAR_ARTILLERY_OE_DESC:  "오메가 프리커서 랜서 드론"
+
+##########
+
+ACOT_PAC_HANGAR_ATTACKER:  "프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_FULL:  "프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_DESC:  "전구체 체이서 드론"
+
+ACOT_PAC_HANGAR_ATTACKER_AE:  "알파 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_FULL_AE:  "알파 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_AE_DESC:  "알파 프리커서 체이서 드론"
+
+ACOT_PAC_HANGAR_ATTACKER_SE:  "시그마 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_FULL_SE:  "시그마 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_SE_DESC:  "시그마 프리커서 체이서 드론"
+
+ACOT_PAC_HANGAR_ATTACKER_OE:  "오메가 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_FULL_OE:  "오메가 프리커서 체이서 드론"
+ACOT_PAC_HANGAR_ATTACKER_OE_DESC:  "오메가 프리커서 체이서 드론"

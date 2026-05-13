@@ -1,0 +1,143 @@
+﻿l_korean:
+
+col_acot_fractured_colony:  "§E분열된 식민지§!"
+col_acot_fractured_colony_desc:  "가장 하드코어한 암흑 물질과 에너지 애호가들만이 감히 밟을 수 있는 가혹하고 위험한 식민지입니다."
+ 
+col_acot_enigmopolis:  "§B공허 구체 도메인§!"
+col_acot_enigmopolis_desc:  "우주의 공허에 도전하는 사람들의 경외감을 불러일으키는 영역입니다. 끊임없는 제국의 리듬과 국가가 사람들에게 그들이 시작한 긴 여정을 상기시켜줍니다."
+ 
+col_acot_phanon_vault:  "§RPhanon 금고§!"
+col_acot_phanon_vault_desc:  "§R파논 군단 외에는 그 목적이 전혀 알려지지 않은 신비한 기지입니다.§!"
+ 
+#### WORLD ######
+ 
+sc_acot_void_star:  "보이드 스타"
+
+acot_cracked_fractured:  "공허 분열 행성"
+acot_cracked_fractured_adj:  "공허 분열 행성"
+acot_cracked_fractured_desc:  "한때 아름다웠던 세계는 압도적인 암흑 에너지에 의해 분열되어 상상할 수 없는 세계가 존재하게 되었습니다."
+
+pc_acot_void_star:  "보이드 스타"
+pc_acot_void_star_adj:  "보이드 스타"
+pc_acot_void_star_desc:  "은하계에 배치된 가장 강력한 무기의 혼돈 에너지, 암흑 에너지가 깃들어 있는 별입니다."
+
+pc_acot_void_hole:  "§B공허의 공허§!"
+pc_acot_void_hole_adj:  "§B공허의 공허§!"
+pc_acot_void_hole_desc:  "이것이 무엇이든, 우리가 우리의 힘으로 만든 불경건한 공포는 의심의 여지 없이 뼈를 오싹하게 합니다. 몰락한 제국들은 두려움에 눈을 돌렸고, 평민들은 한때 아름다웠던 것이 이 괴물 같은 광경으로 변한 것을 보고 흠뻑 젖었습니다. 우리가 만든 것은 정말 끔찍합니다. 끔찍한 똥."
+
+pc_dark_fractured:  "부서진 세계"
+pc_dark_fractured_adj:  "부서진 세계"
+pc_dark_fractured_desc:  "분열된 세계는 격렬한 폭풍으로 뒤덮이고 수많은 어두운 변칙 개체로 가득 차 있습니다. 지금은 사람이 살 수 있는 곳이 있긴 하지만, 행성은 생명체가 거의 살 수 없는 황량한 땅으로 남아 있습니다."
+ 
+pc_dark_fractured_ae:  "극도로 분열된 세계"
+pc_dark_fractured_ae_adj:  "극도로 분열된 세계"
+pc_dark_fractured_ae_desc:  "분열된 세계는 격렬한 폭풍으로 뒤덮이고 수많은 어두운 변칙 개체로 가득 차 있습니다. 지금은 사람이 살 수 있는 곳이 있긴 하지만, 행성은 생명체가 거의 살 수 없는 황량한 땅으로 남아 있습니다."
+ 
+pc_dark_fractured_unstable:  "불안정한 분열된 세계"
+pc_dark_fractured_unstable_desc:  "분열된 세계는 격렬한 폭풍으로 뒤덮이고 수많은 어두운 변칙 개체로 가득 차 있습니다. 두꺼운 폭풍우 구름은 배가 어느 쪽이 위쪽인지 알 수 없을 정도로 위험하여 착륙 시도를 방해합니다."
+ 
+pc_dark_fractured_ae_unstable:  "불안정한 초균열 세계"
+pc_dark_fractured_ae_unstable_desc:  "분열된 세계는 격렬한 폭풍으로 뒤덮이고 수많은 어두운 변칙 개체로 가득 차 있습니다. 두꺼운 폭풍우 구름은 배가 어느 쪽이 위쪽인지 알 수 없을 정도로 위험하여 착륙 시도를 방해합니다."
+ 
+
+pc_acot_enigmatic:  "수수께끼의 세계"
+pc_acot_enigmatic_adj:  "수수께끼의 세계"
+pc_acot_enigmatic_desc:  "수수께끼의 세계는 치명적이면서도 안정적인 폭풍으로 뒤덮여 있습니다. 폭풍은 위험하면서도 다양한 폭격으로부터 지구를 보호합니다. 이제 대부분의 행성이 항해하기에 안전하지만 행성은 보호 없이는 대부분의 생명체에게 치명적인 상태로 남아 있습니다."
+ 
+pc_acot_enigmopolis:  "공허 구체"
+pc_acot_enigmopolis_adj:  "공허 구체"
+pc_acot_enigmopolis_desc:  "고대의 전구체 코어로 구동되고 아치형 통로와 자체 장벽으로 둘러싸인 강력한 에큐메노폴리스입니다."
+ 
+trait_pc_dark_fractured_preference:  "어둠의 피조물"
+trait_pc_dark_fractured_preference_desc:  "그들은 블랙홀에 있는 것을 좋아합니다."
+mod_pc_dark_fractured_habitability:  "분열된 세계의 생존 가능성"
+ 
+trait_pc_dark_fractured_ae_preference:  "지옥의 피조물"
+trait_pc_dark_fractured_ae_preference_desc:  "아마도 그들은 블랙홀일까요?"
+mod_pc_dark_fractured_ae_habitability:  "골절된 세계의 생존 가능성"
+ 
+trait_pc_acot_enigmopolis_preference:  "공허의 피조물"
+trait_pc_acot_enigmopolis_preference_desc:  "그들은 블랙홀을 탄생시킵니다."
+mod_pc_acot_enigmopolis_habitability:  "골절된 세계의 생존 가능성"
+
+trait_pc_acot_enigmatic_preference:  "지옥의 피조물"
+trait_pc_acot_enigmatic_preference_desc:  "아마도 그들은 블랙홀일까요?"
+mod_pc_acot_enigmatic_habitability:  "수수께끼의 세계 생존 가능성"
+
+#### DUSTRRYCIT ######
+ 
+district_acot_fractured_shelter:  "델타 쉘터"
+district_acot_fractured_shelter_plural:  "델타 보호소"
+district_acot_fractured_shelter_desc:  "Delta Shelters는 세계의 혹독한 환경에서 일하는 용감한 영혼들에게 보호와 주택을 제공합니다."
+ 
+tech_acot_fractured_shelter:  "강화된 대피소"
+tech_acot_fractured_shelter_desc:  "분열된 세계의 격렬한 하늘에서 암흑 에너지 폭풍이 분출되는 것은 드문 일이 아닙니다. 불안정한 지형과 적대적인 요소에서는 이러한 위험을 방어하기 위해 적절한 대피소를 만들어야 합니다."
+ 
+district_acot_fractured_science_dome:  "델타 천문대"
+district_acot_fractured_science_dome_plural:  "델타 천문대"
+district_acot_fractured_science_dome_desc:  "Delta Observatory는 연구자들이 황폐화된 세계에서 안전하게 관찰과 실험을 수행하는 데 필요한 도구와 장비를 제공합니다."
+ 
+tech_acot_fractured_science_dome:  "미지의 것을 관찰하다"
+tech_acot_fractured_science_dome_desc:  "분열된 세계에 대한 이전에 알려진 모든 이론과 물리 법칙에 도전하는 많은 불가사의와 변칙 현상이 있습니다. 하지만 우리 연구원들을 그곳으로 보내려면 위험한 환경으로부터 잘 보호되고 지원되어야 합니다."
+ 
+district_acot_fractured_dm_trapper:  "델타 스파이어"
+district_acot_fractured_dm_trapper_plural:  "델타 스파이어스"
+district_acot_fractured_dm_trapper_desc:  "Delta Spiers는 암흑 물질과 암흑 에너지를 생성하는 데 필요한 작업장을 장인과 연금술사에게 제공합니다."
+ 
+tech_acot_fractured_trapper:  "수수께끼의 첨탑"
+tech_acot_fractured_trapper_desc:  "암흑 에너지와 암흑 물질이 분열된 세계를 풍부하게 둘러싸고 있지만, 대부분은 수확하기에는 너무 불안정하고 분산되어 있습니다. Enigmatic Spiers의 디자인은 이러한 부자연스럽게 발생한 현상을 가두어 무한한 보급품으로 변환하기 위해 그려지고 있습니다."
+ 
+district_acot_fractured_dm_fort:  "델타 전초기지"
+district_acot_fractured_dm_fort_plural:  "델타 전초기지"
+district_acot_fractured_dm_fort_desc:  "델타 전초기지(Delta Outposts)는 침입자를 탐지하고 시끄럽고 날카로운 음악 테마를 배포하여 침입자를 쫓아낼 수 있는 보안 검문소입니다."
+ 
+tech_acot_fractured_fort:  "공허 카스트룸"
+tech_acot_fractured_fort_desc:  "분열된 세계에는 식민지화 시도를 파괴하려는 위험한 요소가 많이 있습니다. 이러한 요소 중 다수는 기존 요새의 약점과 격차를 발견하므로 이러한 적대적인 방문객을 저지하려면 전문적인 요새 구역이 필요합니다."
+ 
+tech_acot_fractured_size_upgrade_1:  "프랙탈 연속체"
+tech_acot_fractured_size_upgrade_1_desc:  "분열된 세계의 험난한 풍경은 인구가 적응하기 어렵게 만들고 불필요한 조정을 초래하여 추가 구역 공간이 필요합니다. 우리는 그것에 적응하는 법을 배워야 합니다."
+tech_acot_fractured_size_upgrade_1_tooltip:  "분열된 세계와 극도로 분열된 세계의 지구를 업그레이드하여 지구 슬롯을 1개 덜 소모합니다."
+ 
+tech_acot_fractured_size_upgrade_2:  "마스터 제어 터미널"
+tech_acot_fractured_size_upgrade_2_desc:  "구역의 구조적 무결성을 지속적으로 점검하기 위해 기술자와 엔지니어에게 의존하는 대신, MCT를 설치하면 손상된 부분을 스스로 읽고 수리할 수 있습니다. 이를 통해 현장 엔지니어링 팀을 위한 추가 공간을 할당하고 필요한 구역 공간을 줄일 필요가 없습니다."
+tech_acot_fractured_size_upgrade_2_tooltip:  "Fractured 및 Ultrafracutred Worlds의 구역을 업그레이드하여 구역 슬롯을 하나 더 적게 소비합니다. 효과적으로 만드는 데는 결국 하나의 슬롯만 필요합니다."
+ 
+#### AOULPA DUSTRRYCIT ######
+ 
+district_acot_fractured_ae_shelter:  "알파 쉘터"
+district_acot_fractured_ae_shelter_plural:  "알파 보호소"
+district_acot_fractured_ae_shelter_desc:  "Alpha Shelter는 세상의 가혹한 환경에서 일하는 용감한 영혼들에게 보호와 주거지를 제공합니다."
+ 
+district_acot_fractured_ae_science_dome:  "알파천문대"
+district_acot_fractured_ae_science_dome_plural:  "알파 천문대"
+district_acot_fractured_ae_science_dome_desc:  "알파 천문대는 연구원들이 황폐화된 세계에서 안전하게 관찰과 실험을 수행하는 데 필요한 도구와 장비를 제공합니다."
+ 
+district_acot_fractured_ae_trapper:  "알파첨탑"
+district_acot_fractured_ae_trapper_plural:  "알파 첨탑"
+district_acot_fractured_ae_trapper_desc:  "Alpha Spiers는 암흑 물질과 암흑 에너지를 생성하는 데 필요한 작업장을 장인과 연금술사에게 제공합니다."
+ 
+district_acot_fractured_ae_fort:  "알파 전초기지"
+district_acot_fractured_ae_fort_plural:  "알파 전초기지"
+district_acot_fractured_ae_fort_desc:  "알파 전초기지(Alpha Outposts)는 침입자를 감지하고 시끄러운 날카로운 음악 테마를 배포하여 침입자를 쫓아낼 수 있는 보안 검문소입니다."
+
+#### CUPOLIS DUSTRRYCIT ######
+ 
+district_acot_enigmapolis_city:  "공허의 넥서스"
+district_acot_enigmapolis_city_plural:  "보이드 넥시"
+district_acot_enigmapolis_city_desc:  "Void Nexi는 Void Sphere 사회의 핵심입니다. 모든 시스템 관리 사무실과 대규모 초도시가 여기에 있습니다."
+ 
+district_acot_enigmapolis_science:  "공허의 재판소"
+district_acot_enigmapolis_science_plural:  "무효 재판소"
+district_acot_enigmapolis_science_desc:  "공허 재판소는 공허 예언자들이 모여 공허를 응시하고 비전을 현실로 만드는 곳입니다."
+ 
+district_acot_enigmapolis_forge:  "보이드 알파스케이프"
+district_acot_enigmapolis_forge_plural:  "공허 알파스케이프"
+district_acot_enigmapolis_forge_desc:  "Void Alphascapes를 사용하면 Void Traveler가 하위 차원 공간으로 안전하게 건너가 그곳의 자원을 흡수할 수 있습니다."
+ 
+district_acot_enigmapolis_silo:  "공허의 대장간"
+district_acot_enigmapolis_silo_plural:  "공허의 대장간"
+district_acot_enigmapolis_silo_desc:  "보이드 포지(Void Forge)는 다양한 자원을 실체화할 수 있는 대규모의 하드라이트 공장입니다."
+ 
+district_acot_enigmapolis_fortress:  "공허 방벽"
+district_acot_enigmapolis_fortress_plural:  "공허 장벽"
+district_acot_enigmapolis_fortress_desc:  "공허 장벽은 행성에 방어 병력과 기가 캐논을 제공합니다."
