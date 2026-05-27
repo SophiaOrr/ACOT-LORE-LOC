@@ -5,94 +5,101 @@ MESSAGE_ACOT_ARMY_UPGRADE_TITLE: "Army Tier Upgrade"
 MESSAGE_ACOT_ARMY_UPGRADE_DESC: "Army Tier Upgrade"
 message_acot_army_tier_upgrade: "All eligible armies have been upgraded to the next tier."
 
-MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_TITLE: "Vehicle Pilot All Geared Up"
-MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_DESC: "Vehicle Pilot All Geared Up"
-message_acot_vehicle_pilot_replace: "All pilots on the planet have been geared up in their respective vehicles and ready for deployment."
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_TITLE: "Vehicle Pilots Prepared"
+MESSAGE_ACOT_VEHICLE_PILOT_REPLACE_DESC: "Vehicle Pilots Prepared"
+message_acot_vehicle_pilot_replace: "All pilots on the planet have cleared their respective vehicles and are ready for deployment."
 
 MESSAGE_ACOT_ARMY_MACHINE_REPAIR_TITLE: "Mechanical Armies Repaired"
 MESSAGE_ACOT_ARMY_MACHINE_REPAIR_DESC: "Mechanical Armies Repaired"
 message_acot_army_machine_repair: "All mechanical armies on the planet have been repaired."
 
-MESSAGE_ACOT_ARMY_COCOON_HATCH_TITLE: "Hive Cocoon Hatched"
-MESSAGE_ACOT_ARMY_COCOON_HATCH_DESC: "Hive Cocoon Hatched"
-message_acot_army_cocoon_hatch: "All hive cocoons on the planet have been hatched into new warriors."
+MESSAGE_ACOT_ARMY_COCOON_HATCH_TITLE: "Hive Cocoons Hatched"
+MESSAGE_ACOT_ARMY_COCOON_HATCH_DESC: "Hive Cocoons Hatched"
+message_acot_army_cocoon_hatch: "All hive cocoons on the planet have hatched into new warriors."
 
 MESSAGE_ACOT_HERO_DEATH_TITLE: "Hero Slain"
 MESSAGE_ACOT_HERO_DEATH_DESC: "Hero Slain"
-message_acot_hero_death_psi: "Our Dark Psion has been killed in action! A terrible loss!" 
-message_acot_hero_death_gene: "Our Zenith Warrior has died! What terrible news!" 
+message_acot_hero_death_psi: "Our Dark Psion has fallen! A horrible loss!" 
+message_acot_hero_death_gene: "Our Zenith Warrior has died! What dreadful news!" 
 message_acot_hero_death_cyborg: "Our Cyborg Commando has been slain! What a disaster!" 
 message_acot_hero_death_synth: "Our Synth Spectre has been destroyed! Curses!" 
-message_acot_hero_death_hive: "The Terror has been silenced! The Hive writhes!" 
+message_acot_hero_death_hive: "The Terror has been silenced! The Hive roils!" 
 message_acot_hero_death_machine: "The God-Machine is defeated! Inconceivable!" 
-message_acot_hero_death_indie_machine: "The Paradox Engine has been destroyed! What an untimely event!" 
-message_acot_hero_death_default: "This is a black day! One of our heroes has fallen!" 
+message_acot_hero_death_indie_machine: "The Paradox Engine has blown apart! Impossible!" 
+message_acot_hero_death_default: "One of our hero armies has fallen in battle!" 
 
-MESSAGE_ACOT_PHANON_INJURED_DESC: "Phanon Operative Injured"
-message_acot_phanon_operative_injured: "The Phanon Operative Team has been defeated, but managed to retreat back aboard the Star Chaser. They must remain aboard for 1800 days to rejuvinate, but can otherwise still engage in space combat aboard their Star Invader." 
-MESSAGE_ACOT_PHANON_DEATH_DESC: "Phanon Operative Partially Killed"
-message_acot_phanon_operative_dead: "One of the Two's Phanon Operative has been killed. The other managed to escape back to the Star Invader, but must remain there and can no longer engage in ground battle. Furthermore, the loss of the partner has reduced the effectiveness of the Star Invader."
-MESSAGE_ACOT_PHANON_DESTROYED_DESC: "Phanon Operative Killed"
-message_acot_phanon_operative_destroyed: "Both of the Phanon Operative's have been killed. Without the operatives, the Star Invader engaged self-destruct sequences. A total loss." 
+MESSAGE_ACOT_PHANON_INJURED_DESC: "Phanon Operative Pair Injured"
+message_acot_phanon_operative_injured: "A Phanon Operative Team has been defeated in combat, but managed to safely retreat to their Star Invader. They must remain aboard for 1800 days to rejuvenate, but may still engage in space combat." 
+MESSAGE_ACOT_PHANON_DEATH_DESC: "Phanon Operative Pair Severed"
+message_acot_phanon_operative_dead: "A Phanon Operative Team has lost one of its members. The other managed to safely retreat to their Star Invader, but must remain there and can no longer engage in ground battle. The Star Invader's combat efficacy has decreased."
+MESSAGE_ACOT_PHANON_DESTROYED_DESC: "Phanon Operative Pair Slain"
+message_acot_phanon_operative_destroyed: "A Phanon Operative Team has been killed in action. Without its operatives, the Star Invader has engaged its self-destruct protocols." 
+
+
+#################################################### Pre-FTL Army Descriptions ####################################################
+
 
 primitive_army: "Primitive Army"
 primitive_army_plural: "Primitive Armies"
-primitive_army_desc: "These poor little armies are soldiers equipped to fight in petty little wars. It is time where soldiers are expected to win with skill than with tools. Unfortunately for them, their crude weapons stand no chance against modern armor and they have little defense against modern weapons. They are most likely to run at first sight against those from the skies. Cheese cake by the way!"
+primitive_army_desc: "Meager ground forces equipped to fight in petty wars of land control. With military technology nearly non-existent, they rely primarily on cunning to secure victories. They will surely rout when faced with foes from the skies and stars."
 
 acot_medieval_army: "Medieval Army"
 acot_medieval_army_plural: "Medieval Armies"
-acot_medieval_army_desc: "During medieval ages, nations begin employing proper armies composing of both professional and levies, sometimes with war animals. Siege weapons become common. But they're still not going to stand up against modern armies. Honor and Bravery is no substitute against plasma or missile fire."
+acot_medieval_army_desc: "Primitive nation-states and local kingdoms employ the first semblances of proper armies. Composed of both professional soldiers and levies, these troops may be supported by trained war animals and siege weapons. Nevertheless, honor and bravery mean little in the face of plasma bolts."
 
-acot_steam_army: "Steam Army"
-acot_steam_army_plural: "Steam Armies"
-acot_steam_army_desc: "Introduction of firearms changes how battles are fought. Yet they're still lambs to the slaughter against any modern firepower."
+acot_steam_army: "Steam Age Army"
+acot_steam_army_plural: "Steam Age Armies"
+acot_steam_army_desc: "The introduction of combustion based projectile weaponry, or \"firearms\", vastly changes the doctrines of warfare. Conscripted and rapidly trained firing lines and battallions march from point to point, easily establishing order and holding territory. Their smoothbore shots will bounce harmlessly off of even rudimentary deflector screens."
 
 industrial_army: "Industrial Army"
 industrial_army_plural: "Industrial Armies"
-industrial_army_desc: "Industrial Army now have proper formation and somewhat established chain of command. They're on their way to discover the wonders, and perhaps, the horros of modern warfare. If only they know that their weapons and armors are still hilariously outclassed by modern weaponry."
+industrial_army_desc: "Industrialization and its corresponding expansion of military production enormously increases the scale of deployed ground forces. With this scale comes proper formation and an established chain of command. Mechanized divisions with armored vehicles are commonplace. The accompanying horrors of war may be not yet truly understood by this society."
 
-postatomic_army: "Post-atomic Army"
-postatomic_army_plural: "Post-atomic Armies"
-postatomic_army_desc: "Post-atomic Armies are made up of combined forces. Infantry, Armor, Aircraft and Fire Support makes them quite formidable compared to any of the previous iterations. Yet still they have one glaring issues. They never have to fight against anything outside of their own planet. And their weapons are still no match against modern armies."
+postatomic_army: "Post-Atomic Army"
+postatomic_army_plural: "Post-Atomic Armies"
+postatomic_army_desc: "These armies are the first to utilize all in-atmosphere locales to extend military force. Mechanized infantry, varied and specialized aircraft, and large nuclear-powered naval vessels combine to exert immense spheres of influence and precise strike capabilities. They hold sufficient might to topple their planet's governments, but such is the extent of their reach."
 
 acot_early_space_army: "Early Space Age Army"
 acot_early_space_army_plural: "Early Space Age Armies"
-acot_early_space_army_desc: "Would you look at that? The armies from this primitive is on its way to true modernization. They even have shields and proper compact energy cells! They're so close. Very close. Maybe they'll actually be able to stand up against modern armies?"
+acot_early_space_army_desc: "Only a stone's throw away from true modernization, these forces display a widespread adoption of energy-based armaments. Compact energy cell technology enables deflector screens, powered barriers, and all manner of simple laser weaponry. Combat vehicles are multipurpose, often with onboard AI and modern layered defenses. These armies will hold their own against invading forces from unwary or green interstellar empires."
 
 
-#################################################### ARMY Tech ####################################################
+#################################################### Ground Army Related Tech ####################################################
+
 
 decision_acot_rebuild_piloted_vehicle: "Rebuild Vehicles"
-decision_acot_rebuild_piloted_vehicle_desc: "It'll not do for our valuable pilots to be left stranded on the battlefield without their toys. The replacement costs are negliable so we should always strife to make sure our boys and girls are always operating at peak performance."
-decision_acot_rebuild_piloted_vehicle_tooltip: "Rebuilds destroyed vehicles for any existing pilots on the planet. This action does not cost resources but take a small amount of time."
+decision_acot_rebuild_piloted_vehicle_desc: "It is woefully inefficient and dangerous to leave highly trained pilots stranded on the battlefield without their combat vehicles. As replacement costs are negligible, it is prudent to quickly ensure all relevant divisions are operating at peak performance."
+decision_acot_rebuild_piloted_vehicle_tooltip: "Rebuilds destroyed vehicles for any existing pilots on the planet. This action does not cost resources but takes a small amount of time."
 
 decision_acot_repair_damaged_machine: "Repair Damaged Units"
-decision_acot_repair_damaged_machine_desc: "The damaged combat units can be repaired with replacement parts for free without compromising their accumulated battlefield data."
-decision_acot_repair_damaged_machine_tooltip: "Repairs damaged combat units back to their pristine condition, retaining any experiences the damaged units may have accumulated."
+decision_acot_repair_damaged_machine_desc: "Damaged combat units can be repaired with replacement parts for free without sacrificing their accumulated battlefield data."
+decision_acot_repair_damaged_machine_tooltip: "Repairs any damaged combat units on the planet. This action does not cost resources and retains the experience accrued by the damaged units."
 
 decision_acot_repair_damaged_robot: "Repair Damaged Machines"
-decision_acot_repair_damaged_robot_desc: "The damaged mechanical units can be repaired with replacement parts for free without compromising their accumulated battlefield data."
-decision_acot_repair_damaged_robot_tooltip: "Repairs damaged mechanical units back to their pristine condition, retaining any experiences the damaged units may have accumulated."
+decision_acot_repair_damaged_robot_desc: "Damaged combat robots can be repaired with replacement parts for free without sacrificing their accumulated battlefield data."
+decision_acot_repair_damaged_robot_tooltip: "Repairs any damaged combat robots on the planet. This action does not cost resources and retains the experience accrued by the damaged robots."
 
 decision_acot_hatch_cocoon: "Hatch Hive Cocoons"
-decision_acot_hatch_cocoon_desc: "In the heat of battle, it is possible that some cocoons may fail to trigger their hatching sequences properly. They can be manually triggered to hatch within the safety of a Hive planet."
-decision_acot_hatch_cocoon_tooltip: "Hatches any surviving cocoons that did not already hatch from the prior fights."
+decision_acot_hatch_cocoon_desc: "Some cocoons may fail to hatch in the heat of battle. These may be manually hatched within the safe confines of a hive colony."
+decision_acot_hatch_cocoon_tooltip: "Hatches any surviving cocoons that did not hatch on their own in prior battles."
 
 decision_acot_repair_fortification: "Repair Fortification"
-decision_acot_repair_fortification_desc: "Repairs damaged wall, restoring and replacing any destroyed walls and batteries in the process. Repairing fortification is always faster and cheaper than rebuilding them from scratch."
+decision_acot_repair_fortification_desc: "Repairs all damaged planetary fortifications, restoring and replacing any destroyed walls and batteries in the process. Repairing is always faster and cheaper than rebuilding the fortifications from scratch."
+
+acot_wall_destruction_reminder: "If any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
 
 decision_acot_upgrade_fortification: "Defensive Wall"
-decision_acot_upgrade_fortification_desc: "Upgrades the colony's defense with extra reinforced walls. Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increaing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_desc: "Upgrades the colony's lines of defense with dedicated reinforced walls. Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_1: "Reinforced Fortification Wall"
-acot_modifier_fortification_1_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_fortification_1_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$"
 
 acot_modifier_damaged_fortification_1: "Damaged Fortification Walls"
-acot_modifier_damaged_fortification_1_desc: "These walls have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_damaged_fortification_1_desc: "These defensive walls have been damaged and must be repaired.\n\n$acot_wall_destruction_reminder$"
 
 acot_defensive_wall: "Reinforced Fortification Wall"
 acot_defensive_wall_plural: "Reinforced Fortification Walls"
-acot_defensive_wall_desc: "Fortification Walls act as extra protection for the colony. Although the walls have poor offensive capabilities, being lightly armed, they are quite durable and requires low maintenance. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_wall_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$"
 acot_defensive_wall_dm: "Delta Fortification Wall"
 acot_defensive_wall_dm_plural: "Delta Fortification Walls"
 acot_defensive_wall_dm_desc: "$acot_defensive_wall_desc$"
@@ -105,17 +112,17 @@ acot_defensive_wall_se_desc: "$acot_defensive_wall_desc$"
 
 
 decision_acot_upgrade_fortification_2: "Defensive Batteries"
-decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with extra weapon batteries. These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt.\n\nNumber of walls added are based on the planet's size. Starting at 4 at planet size §Y10§! and below, increaing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_2: "Reinforced Fortification Batteries"
-acot_modifier_fortification_2_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_fortification_2_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$"
 
 acot_modifier_damaged_fortification_2: "Damaged Fortification Batteries"
-acot_modifier_damaged_fortification_2_desc: "These batteries have been damaged and must be repaired.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_modifier_damaged_fortification_2_desc: "These defensive batteries have been damaged and must be repaired.\n\n$acot_wall_destruction_reminder$"
 
 acot_defensive_cannon: "Reinforced Fortification Batteries"
 acot_defensive_cannon_plural: "Reinforced Fortification Batteries"
-acot_defensive_cannon_desc: "These walls are upgraded with powerful weapon systems, and can now assist defending armies with their powerful barrage. Even a few extra defense may be just what is needed to twart off the invasion, or buy enough time for reinforcements.\n\nIf any walls are destroyed during ground battle, they must be repaired. If all walls are destroyed, then they must be rebuilt."
+acot_defensive_cannon_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$"
 acot_defensive_cannon_dm: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_plural: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_desc: "$acot_defensive_cannon_desc$"
@@ -127,316 +134,325 @@ acot_defensive_cannon_se_plural: "Sigma Fortification Batteries"
 acot_defensive_cannon_se_desc: "$acot_defensive_cannon_desc$"
 
 decision_acot_rebuild_giga_fortress_cannon: "Rebuild Giga Fortress Cannons"
-decision_acot_rebuild_giga_fortress_cannon_desc: "Rebuilds the destroyed or missing Giga Fortress Cannons so that they may serve their purposes once again."
+decision_acot_rebuild_giga_fortress_cannon_desc: "Rebuilds all destroyed or missing Giga Fortress Cannons to return the Fortress to full operating capacity."
 
 requires_building_forts: "This army requires advanced military installations."
 requires_building_ascensions: "This army requires advanced ascension buildings."
 
 tech_acot_army_3: "Army of the Future"
-tech_acot_army_3_desc: "The soldiers proud, the machines loud, our enemies run afoul. The future is now."
+tech_acot_army_3_desc: "The soldiers proud, the machines loud, our enemies flee, cowed. A brighter future for planetside engagements awaits."
 
 tech_acot_army_5: "Supreme Commander"
-tech_acot_army_5_desc: "If fighting is surely to result in victory then you must fight. And fight we will, for we fight to win."
+tech_acot_army_5_desc: "\"If fighting is sure to result in victory, then you must fight.\"\n\n§PAnd fight we will, for we play to win.§!"
 
 tech_acot_army_morale_1: "Nationalism"
-tech_acot_army_morale_1_desc: "Though individual nations no longer play significant roles in the united empire, the new order itself is a nation of which the people should believe in its cause."
+tech_acot_army_morale_1_desc: "The traditional concept of a nation is lost and eroded in the context of an interstellar empire, but there is value to be gleaned from historic annals. The new order itself is its own form of nation, and its people should believe in its cause."
 
 tech_acot_army_morale_2: "Patriotism"
-tech_acot_army_morale_2_desc: "In the past, soldiers may fight for emotions, for countries, or for freedom. But in this vast galaxy where even the most faithful may be tested, one must hold fast to their cause, to know that their lives mean something more than just a single drop of blood against the coming blade. They must strike true and weather against the storm."
+tech_acot_army_morale_2_desc: "In the past, individual soldiers may have fought for emotions, for countries, for freedom or for their families. In a vast, cold galaxy that tests even the most ardent faith, these soldiers must hold fast to their beliefs. They must be certain their lives are not mere drops of blood on an opposing blade."
 
 tech_acot_army_morale_3: "Fanaticism"
-tech_acot_army_morale_3_desc: "Some may view fanatical beliefs to be dangerous, that it may lead to certain shortcomings and loss of perspective. Apparently, those people must never have stood directly against an incoming missile to their face. A fanatical soldier can accomplish feats that even the most loyal citizen may be astonished. They will fight and die for the cause, even if they themselves may not fully understand it."
+tech_acot_army_morale_3_desc: "Fanatical beliefs are oft viewed as dangerous, fraught with shortcomings and a loss of perspective. Philosophers peddling these views live cushy lives that involve a distinct lack of incoming missiles. A truly zealous soldier can accomplish feats that astonish even the most loyal citizen. They will fight and die for the cause, even if they themselves may not fully understand it."
 
-################ DEFENDING ARMY ################
 
-decision_acot_upgrade_garrison_1: "Defense Force Expansion"
-decision_acot_upgrade_garrison_1_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+#################################################### Defense Armies and Decisions ####################################################
+
+
+############################ Defense Upgrade Decisions ############################
+
+acot_defense_upgrade_upkeep_reminder: "This will increase the upkeep costs of the defense armies. Upgraded armies give more war exhaustion if they are defeated."
+
+decision_acot_upgrade_garrison_1: "Expand Defense Forces"
+decision_acot_upgrade_garrison_1_desc: "Upgrades this planet's defense forces with an expanded arsenal, increasing their firepower and durability.\n$acot_defense_upgrade_upkeep_reminder$"
 
 acot_modifier_defense_upgrade_1: "Expanded Defense Force"
-acot_modifier_defense_upgrade_1_desc: "Expanded Defense Force provide the defending armies with increased firepower and defenses."
+acot_modifier_defense_upgrade_1_desc: "This planet's defense forces have been significantly upgraded with an expanded arsenal."
 
-decision_acot_upgrade_garrison_2: "Maximum Defense Force"
-decision_acot_upgrade_garrison_2_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+decision_acot_upgrade_garrison_2: "Maximize Defense Forces"
+decision_acot_upgrade_garrison_2_desc: "Further upgrades this planet's defense forces with the best equipment available, massively increasing their firepower and durability.\n$acot_defense_upgrade_upkeep_reminder$"
 
-acot_modifier_defense_upgrade_2: "Maximum Defense Force"
-acot_modifier_defense_upgrade_2_desc: "Upgrades the defense force to the maximum level, massively increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+acot_modifier_defense_upgrade_2: "Maximized Defense Force"
+acot_modifier_defense_upgrade_2_desc: "This planet's defense forces have been massively upgraded and are armed to the teeth with the best equipment available."
+
+############################ Standard Defense Armies ############################
 
 defense_army: "Infantry Defense Force"
 defense_army_plural: "Infantry Defense Force"
-defense_army_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+defense_army_desc: "Typical planetary garrisons are staffed by capable, professional soldiers and equipped with a variety of modern armaments to fight off potential invaders. While they have high morale, they carry less firepower than assault armies to limit collateral damage to their homeland. As such, they will fall short against sustained or heavy assault without upgrades or backup."
 
 acot_defense_army_dm: "Delta Infantry Defense Force"
 acot_defense_army_dm_plural: "Delta Infantry Defense Forces"
-acot_defense_army_dm_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+acot_defense_army_dm_desc: "$defense_army_desc$"
 
 acot_defense_army_ae: "Alpha Infantry Defense Force"
 acot_defense_army_ae_plural: "Alpha Infantry Defense Forces"
-acot_defense_army_ae_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+acot_defense_army_ae_desc: "$defense_army_desc$"
 
 acot_defense_army_light: "Armored Defense Force"
 acot_defense_army_light_plural: "Armored Defense Forces"
-acot_defense_army_light_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_desc: "A formidable garrison force composed of both large infantry regiments and armored divisions. With strong morale and no shortage of firepower, they stand ready to rapidly respond to and eliminate all intruders."
 
 acot_defense_army_light_dm: "Delta Armored Defense Force"
 acot_defense_army_light_dm_plural: "Delta Armored Defense Forces"
-acot_defense_army_light_dm_desc: "TFormidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_dm_desc: "$acot_defense_army_light_desc$"
 
 acot_defense_army_light_ae: "Alpha Armored Defense Force"
 acot_defense_army_light_ae_plural: "Alpha Armored Defense Forces"
-acot_defense_army_light_ae_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_ae_desc: "$acot_defense_army_light_desc$"
 
 acot_defense_army_heavy: "Elite Defense Force"
 acot_defense_army_heavy_plural: "Elite Defense Forces"
-acot_defense_army_heavy_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_desc: "A vast legion of elite, highly-trained garrison forces with cutting-edge equipment. Combining infantry, heavy armor and overwhelming air support, all but the most oppressive threats to their home will break upon them." 
 
 acot_defense_army_heavy_dm: "Delta Elite Defense Force"
 acot_defense_army_heavy_dm_plural: "Delta Elite Defense Forces"
-acot_defense_army_heavy_dm_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_dm_desc: "$acot_defense_army_heavy_desc$"
 
 acot_defense_army_heavy_ae: "Alpha Elite Defense Force"
 acot_defense_army_heavy_ae_plural: "Alpha Elite Defense Forces"
-acot_defense_army_heavy_ae_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_ae_desc: "$acot_defense_army_heavy_desc$"
 
-############################
+############################ Undead Armies ############################
 
 acot_defense_undead_dm: "Undying Delta"
 acot_defense_undead_dm_plural: "Undying Deltas"
-acot_defense_undead_dm_desc: "Undying are raised up by military necromancers to help defend the homeland."
+acot_defense_undead_dm_desc: "Deathless troops raised up by militarized necromancers to defend the planet. They are exceptionally durable, albeit sluggish and single minded."
 
 acot_defense_undead_ae: "Undying Alpha"
 acot_defense_undead_ae_plural: "Undying Alphas"
-acot_defense_undead_ae_desc: "Undying are raised up by military necromancers to help defend the homeland."
+acot_defense_undead_ae_desc: "$acot_defense_undead_dm_desc$"
 
 acot_defense_undead_light: "Dread Undying"
 acot_defense_undead_light_plural: "Dread Undying"
-acot_defense_undead_light_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_desc: "Dread Undying are stronger, larger, and more responsive to commands. These undead hulks can trample infantry and tear vehicles asunder with little effort."
 
 acot_defense_undead_light_dm: "Dread Undying Delta"
 acot_defense_undead_light_dm_plural: "Dread Undying Deltas"
-acot_defense_undead_light_dm_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_dm_desc: "$acot_defense_undead_light_desc$"
 
 acot_defense_undead_light_ae: "Dread Undying Alpha"
 acot_defense_undead_light_ae_plural: "Dread Undying Alphas"
-acot_defense_undead_light_ae_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_ae_desc: "$acot_defense_undead_light_desc$"
 
 acot_defense_undead_heavy: "Colossal Undying"
 acot_defense_undead_heavy_plural: "Colossal Undyings"
-acot_defense_undead_heavy_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_desc: "The epitome of militarized necromancy, these gigantic lords of the undead rip through lesser foes like tissue paper with focused, unholy power. Each one takes an immense amount of firepower to subdue, and even more to destroy for good."
 
 acot_defense_undead_heavy_dm: "Colossal Undying Delta"
 acot_defense_undead_heavy_dm_plural: "Colossal Undying Deltas"
-acot_defense_undead_heavy_dm_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_dm_desc: "$acot_defense_undead_heavy_desc$"
 
 acot_defense_undead_heavy_ae: "Colossal Undying Alpha"
 acot_defense_undead_heavy_ae_plural: "Colossal Undying Alphas"
-acot_defense_undead_heavy_ae_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_ae_desc: "$acot_defense_undead_heavy_desc$"
 
-############################
+############################ Machine Intelligence (Gestalt) Armies ############################
 
 robotic_defense_army: "Enforcer Droid"
 robotic_defense_army_plural: "Enforcer Droids"
-robotic_defense_army_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+robotic_defense_army_desc: "Mass-produced but resilient battle droids manufactured in a variety of specialized forms. Commanded in unison by the machine's powerful defense grid network, each droid's simple capabilities combine to form an all-encompassing and devastating defensive force."
 
 acot_defense_robot_dm: "Delta Enforcer Droid"
 acot_defense_robot_dm_plural: "Delta Enforcer Droids"
-acot_defense_robot_dm_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+acot_defense_robot_dm_desc: "$robotic_defense_army_desc$"
 
 acot_defense_robot_ae: "Alpha Enforcer Droid"
 acot_defense_robot_ae_plural: "Alpha Enforcer Droids"
-acot_defense_robot_ae_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+acot_defense_robot_ae_desc: "$robotic_defense_army_desc$"
 
-acot_defense_robot_light: "Heavy Enforcer Droid"
-acot_defense_robot_light_plural: "Delta Enforcer Droids"
-acot_defense_robot_light_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light: "Lord-class Enforcer"
+acot_defense_robot_light_plural: "Lord-class Enforcers"
+acot_defense_robot_light_desc: "Ruthless and far-reaching, Lord-class Enforcers scour their home planets clean of opposition as a simple matter of programming. Boasting heavy onboard fire support, Lord-class units carry their own reinforcements including laser artillery drones and aerial supremacy."
 
-acot_defense_robot_light_dm: "Delta Heavy Enforcer Droid"
-acot_defense_robot_light_dm_plural: "Delta Heavy Enforcer Droids"
-acot_defense_robot_light_dm_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light_dm: "Lord-class Delta Enforcer"
+acot_defense_robot_light_dm_plural: "Lord-class Delta Enforcers"
+acot_defense_robot_light_dm_desc: "$acot_defense_robot_light_desc$"
 
-acot_defense_robot_light_ae: "Alpha Heavy Enforcer Droid"
-acot_defense_robot_light_ae_plural: "Alpha Heavy Enforcer Droids"
-acot_defense_robot_light_ae_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light_ae: "Lord-class Alpha Enforcer"
+acot_defense_robot_light_ae_plural: "Lord-class Alpha Enforcers"
+acot_defense_robot_light_ae_desc: "$acot_defense_robot_light_desc$"
 
-acot_defense_robot_heavy: "Supreme Enforcer Droid"
-acot_defense_robot_heavy_plural: "Supreme Enforcer Droids"
-acot_defense_robot_heavy_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy: "Tyrant-class Enforcer"
+acot_defense_robot_heavy_plural: "Tyrant-class Enforcers"
+acot_defense_robot_heavy_desc: "The pinnacle of Enforcers, Tyrant-class units field staggeringly lethal weaponry and defenses befitting a mobile citadel. Each carries swathes of vicious autonomous combat robots and has nigh limitless reinforcements at its disposal."
 
-acot_defense_robot_heavy_dm: "Delta Supreme Enforcer Droid"
-acot_defense_robot_heavy_dm_plural: "Delta Supreme Enforcer Droids"
-acot_defense_robot_heavy_dm_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy_dm: "Tyrant-class Delta Enforcer"
+acot_defense_robot_heavy_dm_plural: "Tyrant-class Delta Enforcers"
+acot_defense_robot_heavy_dm_desc: "$acot_defense_robot_heavy_desc$"
 
-acot_defense_robot_heavy_ae: "Alpha Supreme Enforcer Droid"
-acot_defense_robot_heavy_ae_plural: "Alpha Supreme Enforcer Droids"
-acot_defense_robot_heavy_ae_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy_ae: "Tyrant-class Alpha Enforcer"
+acot_defense_robot_heavy_ae_plural: "Tyrant-class Alpha Enforcers"
+acot_defense_robot_heavy_ae_desc: "$acot_defense_robot_heavy_desc$"
 
-############################
+############################ Individualist Machine Armies ############################
 
-individual_machine_defense: "Defense Battle Form"
-individual_machine_defense_plural: "Defense Battle Forms"
-individual_machine_defense_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+individual_machine_defense: "Defense Battle Frame"
+individual_machine_defense_plural: "Defense Battle Frames"
+individual_machine_defense_desc: "Composite machines of war formed by placing individual units into durable exo-shells purpose-built for combat. Substantially more resilent than organic soldiers, these mass-produced frames form the backbone of planetary defense for a machine empire."
 
-acot_defense_individual_machine_dm: "Delta Defense Battle Form"
-acot_defense_individual_machine_dm_plural: "Delta Defense Battle Forms"
-acot_defense_individual_machine_dm_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_dm: "Delta Defense Battle Frame"
+acot_defense_individual_machine_dm_plural: "Delta Defense Battle Frames"
+acot_defense_individual_machine_dm_desc: "$individual_machine_defense_desc$"
 
-acot_defense_individual_machine_ae: "Alpha Defense Battle Form"
-acot_defense_individual_machine_ae_plural: "Alpha Defense Battle Forms"
-acot_defense_individual_machine_ae_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_ae: "Alpha Defense Battle Frame"
+acot_defense_individual_machine_ae_plural: "Alpha Defense Battle Frames"
+acot_defense_individual_machine_ae_desc: "$individual_machine_defense_desc$"
 
-acot_defense_individual_machine_light: "Guardian Battle Form"
-acot_defense_individual_machine_light_plural: "Guardian Battle Forms"
-acot_defense_individual_machine_light_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light: "Guardian Mech"
+acot_defense_individual_machine_light_plural: "Guardian Mechs"
+acot_defense_individual_machine_light_desc: "Exceptionally nimble and heavily armed combat vehicles which individual units can slot into as pilots. Vectored thrusters on all parts enable these mechs to engage on any terrain at any distance, including serving as aircraft."
 
-acot_defense_individual_machine_light_dm: "Delta Guardian Battle Form"
-acot_defense_individual_machine_light_dm_plural: "Delta Guardian Battle Forms"
-acot_defense_individual_machine_light_dm_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light_dm: "Delta Guardian Mech"
+acot_defense_individual_machine_light_dm_plural: "Delta Guardian Mechs"
+acot_defense_individual_machine_light_dm_desc: "$acot_defense_individual_machine_light_desc$"
 
-acot_defense_individual_machine_light_ae: "Alpha Guardian Battle Form"
-acot_defense_individual_machine_light_ae_plural: "Alpha Guardian Battle Forms"
-acot_defense_individual_machine_light_ae_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light_ae: "Alpha Guardian Mech"
+acot_defense_individual_machine_light_ae_plural: "Alpha Guardian Mechs"
+acot_defense_individual_machine_light_ae_desc: "$acot_defense_individual_machine_light_desc$"
 
-acot_defense_individual_machine_heavy: "Eternal Battle Form"
-acot_defense_individual_machine_heavy_plural: "Eternal Battle Forms"
-acot_defense_individual_machine_heavy_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy: "Eternal Frame"
+acot_defense_individual_machine_heavy_plural: "Eternal Frames"
+acot_defense_individual_machine_heavy_desc: "Eternal Frames are enormous, modular bastions of consolidated military might that keep vigil over their home planets. With full access to all weapons and systems necessary to quell any hostility, they can articulate and adapt to invading threats of any scale."
 
-acot_defense_individual_machine_heavy_dm: "Delta Eternal Battle Form"
-acot_defense_individual_machine_heavy_dm_plural: "Delta Eternal Battle Forms"
-acot_defense_individual_machine_heavy_dm_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy_dm: "Delta Eternal Frame"
+acot_defense_individual_machine_heavy_dm_plural: "Delta Eternal Frames"
+acot_defense_individual_machine_heavy_dm_desc: "$acot_defense_individual_machine_heavy_desc$"
 
-acot_defense_individual_machine_heavy_ae: "Alpha Eternal Battle Form"
-acot_defense_individual_machine_heavy_ae_plural: "Alpha Eternal Battle Forms"
-acot_defense_individual_machine_heavy_ae_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy_ae: "Alpha Eternal Frame"
+acot_defense_individual_machine_heavy_ae_plural: "Alpha Eternal Frames"
+acot_defense_individual_machine_heavy_ae_desc: "$acot_defense_individual_machine_heavy_desc$"
 
-############################
+############################ Fanatic Guardian Armies ############################
 
 fanatic_guardian: "Fanatic Guardian"
 fanatic_guardian_plural: "Fanatic Guardians"
-fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+fanatic_guardian_desc: "These champions of the loyal and zealous masses dedicate their lives to protecting their home planet. Equipped and trained with military rigor, their immense morale allows them to weather assaults from even the deadliest of foes."
 
 acot_fanatic_guardian_dm: "Delta Fanatic Guardian"
 acot_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_fanatic_guardian_dm_desc: "$fanatic_guardian_desc$"
 
 acot_fanatic_guardian_ae: "Alpha Fanatic Guardian"
 acot_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_fanatic_guardian_ae_desc: "$fanatic_guardian_desc$"
 
 acot_fanatic_guardian_light: "Fanatic Cabal"
 acot_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_desc: "No longer a mere angry mob organized into a militia, these fanatics are supported by substantial entrenched defenses. Backed up by long range artillery and air support, their righteous vigor is all the more evident as an assembled force."
 
 acot_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
 acot_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_dm_desc: "$acot_fanatic_guardian_light_desc$"
 
 acot_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
 acot_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_ae_desc: "$acot_fanatic_guardian_light_desc$"
 
 acot_fanatic_guardian_heavy: "Fanatic Legion"
 acot_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_desc: "A legion of faithful servants of the empire, seemingly limitless in both number and fervor and replete with columns of armored vehicles and corresponding air armada. Only the most overbearing invasion forces can even hope to break their morale."
 
 acot_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
 acot_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_dm_desc: "$acot_fanatic_guardian_heavy_desc$"
 
 acot_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
 acot_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_ae_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-############################
+############################ Individualist Machine Fanatic Guardian Armies ############################
 
-machine_fanatic_guardian: "Fanatic Guardian"
-machine_fanatic_guardian_plural: "Fanatic Guardians"
-machine_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+machine_fanatic_guardian: "$fanatic_guardian$"
+machine_fanatic_guardian_plural: "$fanatic_guardian_plural$"
+machine_fanatic_guardian_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_dm: "Delta Fanatic Guardian"
-acot_machine_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_machine_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_machine_fanatic_guardian_dm: "$acot_fanatic_guardian_dm$"
+acot_machine_fanatic_guardian_dm_plural: "$acot_fanatic_guardian_dm_plural$"
+acot_machine_fanatic_guardian_dm_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_ae: "Alpha Fanatic Guardian"
-acot_machine_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_machine_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_machine_fanatic_guardian_ae: "$acot_fanatic_guardian_ae$"
+acot_machine_fanatic_guardian_ae_plural: "$acot_fanatic_guardian_ae_plural$"
+acot_machine_fanatic_guardian_ae_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_light: "Fanatic Cabal"
-acot_machine_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_machine_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light: "$acot_fanatic_guardian_light$"
+acot_machine_fanatic_guardian_light_plural: "$acot_fanatic_guardian_light_plural$"
+acot_machine_fanatic_guardian_light_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
-acot_machine_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_machine_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light_dm: "$acot_fanatic_guardian_light_dm$"
+acot_machine_fanatic_guardian_light_dm_plural: "$acot_fanatic_guardian_light_dm_plural$"
+acot_machine_fanatic_guardian_light_dm_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
-acot_machine_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_machine_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light_ae: "$acot_fanatic_guardian_light_ae$"
+acot_machine_fanatic_guardian_light_ae_plural: "$acot_fanatic_guardian_light_ae_plural$"
+acot_machine_fanatic_guardian_light_ae_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_heavy: "Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy: "$acot_fanatic_guardian_heavy$"
+acot_machine_fanatic_guardian_heavy_plural: "$acot_fanatic_guardian_heavy_plural$"
+acot_machine_fanatic_guardian_heavy_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-acot_machine_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy_dm: "$acot_fanatic_guardian_heavy_dm$"
+acot_machine_fanatic_guardian_heavy_dm_plural: "$acot_fanatic_guardian_heavy_dm_plural$"
+acot_machine_fanatic_guardian_heavy_dm_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-acot_machine_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy_ae: "$acot_fanatic_guardian_heavy_ae$"
+acot_machine_fanatic_guardian_heavy_ae_plural: "$acot_fanatic_guardian_heavy_ae_plural$"
+acot_machine_fanatic_guardian_heavy_ae_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-############################
+############################ Hive Fanatic Guardian Armies ############################
 
-acot_hive_fanatic_guardian: "Fanatic Guardian"
-acot_hive_fanatic_guardian_plural: "Fanatic Guardians"
-acot_hive_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+hive_fanatic_guardian: "$fanatic_guardian$"
+hive_fanatic_guardian_plural: "$fanatic_guardian_plural$"
+hive_fanatic_guardian_desc: "Emboldened both by loyalty to the Hive and to the faith, these unusually zealous drones guard their burrows with a fury unbefitting their obedience."
 
-acot_hive_fanatic_guardian_dm: "Delta Fanatic Guardian"
-acot_hive_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_hive_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_hive_fanatic_guardian_dm: "$acot_fanatic_guardian_dm$"
+acot_hive_fanatic_guardian_dm_plural: "$acot_fanatic_guardian_dm_plural$"
+acot_hive_fanatic_guardian_dm_desc: "$hive_fanatic_guardian_desc$"
 
-acot_hive_fanatic_guardian_ae: "Alpha Fanatic Guardian"
-acot_hive_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_hive_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_hive_fanatic_guardian_ae: "$acot_fanatic_guardian_ae$"
+acot_hive_fanatic_guardian_ae_plural: "$acot_fanatic_guardian_ae_plural$"
+acot_hive_fanatic_guardian_ae_desc: "$hive_fanatic_guardian_desc$"
 
-acot_hive_fanatic_guardian_light: "Fanatic Cabal"
-acot_hive_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_hive_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light: "$acot_fanatic_guardian_light$"
+acot_hive_fanatic_guardian_light_plural: "$acot_fanatic_guardian_light_plural$"
+acot_hive_fanatic_guardian_light_desc: "Well-organized columns of fanatical drones equally obsessed with the safety of the Hive and the defense of the faith. Hulking integrated defenses and autonomous combat vehicles bolster their firepower immensely, sending a clear message to all who would challenge their belief."
 
-acot_hive_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
-acot_hive_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_hive_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light_dm: "$acot_fanatic_guardian_light_dm$"
+acot_hive_fanatic_guardian_light_dm_plural: "$acot_fanatic_guardian_light_dm_plural$"
+acot_hive_fanatic_guardian_light_dm_desc: "$acot_hive_fanatic_guardian_light_desc$"
 
-acot_hive_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
-acot_hive_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_hive_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light_ae: "$acot_fanatic_guardian_light_ae$"
+acot_hive_fanatic_guardian_light_ae_plural: "$acot_fanatic_guardian_light_ae_plural$"
+acot_hive_fanatic_guardian_light_ae_desc: "$acot_hive_fanatic_guardian_light_desc$"
 
-acot_hive_fanatic_guardian_heavy: "Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy: "$acot_fanatic_guardian_heavy$"
+acot_hive_fanatic_guardian_heavy_plural: "$acot_fanatic_guardian_heavy_plural$"
+acot_hive_fanatic_guardian_heavy_desc: "An endless sea of soldier drones that stretches as far as the eye can see. Every inch bristles with extensive heavy weaponry and the boundless legion moves and operates as a single organism guided by unbreakable conviction."
 
-acot_hive_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy_dm: "$acot_fanatic_guardian_heavy_dm$"
+acot_hive_fanatic_guardian_heavy_dm_plural: "$acot_fanatic_guardian_heavy_dm_plural$"
+acot_hive_fanatic_guardian_heavy_dm_desc: "$acot_hive_fanatic_guardian_heavy_desc$"
 
-acot_hive_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy_ae: "$acot_fanatic_guardian_heavy_ae$"
+acot_hive_fanatic_guardian_heavy_ae_plural: "$acot_fanatic_guardian_heavy_ae_plural$"
+acot_hive_fanatic_guardian_heavy_ae_desc: "$acot_hive_fanatic_guardian_heavy_desc$"
 
-###################### SPECIAL GARRISON ARMY ######################
+############################ Special Garrison Armies ############################
 
 acot_garrison_army: "Delta Black Guard"
 acot_garrison_army_plural: "Delta Black Guards"
-acot_garrison_army_desc: "Elite garrison forces from the Emissary who are sworn to protect their new homefront till their deaths."
+acot_garrison_army_desc: "Elite garrison forces deployed by the Emissary. The regiment is sworn to protect the new homefront until their deaths."
  
 acot_garrison_army_droid: "Deltron Defender"
 acot_garrison_army_droid_plural: "Deltron Defenders"
-acot_garrison_army_droid_desc: "Advanced Defense Units installed from the Emissary programmed to guard its new homefront till their destruction."
+acot_garrison_army_droid_desc: "Exquisite defense units installed by the Emissary. Each is programmed to secure the new homefront perimeter until it is destroyed in battle."
  
 acot_garrison_army_giga: "Giga Cannon"
 acot_garrison_army_giga_plural: "Giga Cannons"
-acot_garrison_army_giga_desc: "Massive Cannons deployed from the Giga Fortress that will make short work of primitive forces."
- 
+acot_garrison_army_giga_desc: "Colossal multipart cannon assemblies detached from the planetside Giga Fortress. Their blistering arsenal of incredibly versatile weaponry will make short work of anything in atmosphere, and even tear apart bombarding space armadas."
 
-################################ ATTACKING ARMY ################################
+
+#################################################### Assault Armies ####################################################
+
 
 ################ INFANTRY AUTO ARMOR
 
