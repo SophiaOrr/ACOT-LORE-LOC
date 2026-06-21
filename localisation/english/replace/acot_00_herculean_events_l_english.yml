@@ -216,7 +216,7 @@ acot_herculean_events.8.a: "Yes, let the galaxy know, that we [root.GetName] has
 acot_herculean_events.8.a.tooltip: "Our empire will officially win the game, but we can still continue on as normal."
 acot_herculean_events.8.b: "It is a great moment for sure, but we need more."
 acot_herculean_events.8.b.tooltip: "It is too early to call this a victory."
-acot_herculean_built_score: "§EHerculean Built§!
+acot_herculean_built_score: "§EHerculean Built§!"
 
 
 acot_is_system_owned_by_progenitor_empire: "£trigger_no£ [This.GetName] is controlled by powers beyond our understanding."

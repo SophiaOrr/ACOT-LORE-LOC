@@ -1923,7 +1923,7 @@ tech_acot_strikecrafts_gunship_6s: "Gunship Strike Craft"
 tech_acot_strikecrafts_gunship_6s_desc: "While the roles of strike crafts have been well defined by bombers and interceptors, there are certain problems. Both these types of strike crafts take a significant amount of time to reach striking distances. In many battles, the carriers are long destroyed before these nimble strikecrafts even get to make their first runs. Plans are being made to create a specialized long-range strike crafts instead."
 
 ACOT_SC_GUNSHIP_4: "Gunship"
-ACOT_SC_GUNSHIP_4_DESC: Gunship"
+ACOT_SC_GUNSHIP_4_DESC: "Gunship"
 ACOT_SC_GUNSHIP_5: "Advanced Gunship"
 ACOT_SC_GUNSHIP_5_DESC: "Advanced Gunship"
 
