@@ -4,48 +4,48 @@
  
 origin_tier_one_start: "The Stars Await"
 origin_tier_one_start_desc: "Some empires find themselves slightly more prepared before diving into the deep space..."
-origin_tier_one_start_effect: "Starts the game as a small empire with access to most basic Tier-1 technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_one_start_effect: "Starts the game as a small empire with access to most basic Tier-1 technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_1_start: "§ETier 1 Start:§! $origin_tier_one_start$"
 civic_acot_tier_1_start_desc: "$origin_tier_one_start_desc$"
  
 origin_tier_two_start: "Born to Explore"
 origin_tier_two_start_desc: "Whether it be due to better upbringing, or simply overly cautious approach, this empire only begins space exploration beyond their solar system after a brief of time."
-origin_tier_two_start_effect: "Starts the game as a slightly developed empire with access to most basic Tier-2 technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_two_start_effect: "Starts the game as a slightly developed empire with access to most basic Tier-2 technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_2_start: "§ETier 2 Start:§! $origin_tier_two_start$"
 civic_acot_tier_2_start_desc: "$origin_tier_two_start_desc$"
 
 origin_tier_three_start: "Ahead of the Curve"
 origin_tier_three_start_desc: "This empire is ahead of others when it comes to development, or perhaps just very poor at expansion?"
-origin_tier_three_start_effect: "Starts the game as a slightly developed empire with access to most basic Tier-3 technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_three_start_effect: "Starts the game as a slightly developed empire with access to most basic Tier-3 technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_3_start: "§ETier 3 Start:§! $origin_tier_three_start$"
 civic_acot_tier_3_start_desc: "$origin_tier_three_start_desc$"
  
 origin_tier_four_start: "Age of Empire"
 origin_tier_four_start_desc: "Prolonged isolations? Unification Delays? Outside Intervention? What could have possibly made this empire takes a long period of time to begin their age of expansion into the cosmos?"
-origin_tier_four_start_effect: "Starts the game as a well developed empire with access to most basic Tier-4 technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_four_start_effect: "Starts the game as a well developed empire with access to most basic Tier-4 technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_4_start: "§ETier 4 Start:§! $origin_tier_four_start$"
 civic_acot_tier_4_start_desc: "$origin_tier_four_start_desc$"
 
 origin_tier_five_start: "Command and Conquer"
 origin_tier_five_start_desc: "What is this empire even doing all this time?"
-origin_tier_five_start_effect: "Starts the game as a highly developed empire with access to most basic Tier-5 technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_five_start_effect: "Starts the game as a highly developed empire with access to most basic Tier-5 technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_5_start: "§ETier 5 Start:§! $origin_tier_five_start$"
 civic_acot_tier_5_start_desc: "$origin_tier_five_start_desc$"
  
 origin_tier_dm_start: "Legacy of the Void"
 origin_tier_dm_start_desc: "Seriously, what's wrong with these folks!? Do they hate exploration?"
-origin_tier_dm_start_effect: "Starts the game as a powerful empire with access to most delta technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_dm_start_effect: "Starts the game as a powerful empire with access to most delta technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_dm_start: "§ETier 6 Start:§! $origin_tier_dm_start$"
 civic_acot_tier_dm_start_desc: "$origin_tier_dm_start_desc$"
  
 origin_tier_ae_start: "The Alphaspace"
 origin_tier_ae_start_desc: "At this rate, these guys must be trolling...or is it you again, SOPHIA?"
-origin_tier_ae_start_effect: "Starts the game as a powerful empire with access to most alpha technologies. Additional options will be availiable to adjust extra starting bonuses."
+origin_tier_ae_start_effect: "Starts the game as a powerful empire with access to most alpha technologies. Additional options will be available to adjust extra starting bonuses."
 civic_acot_tier_ae_start: "§ETier 7 Start:§! $origin_tier_ae_start$"
 civic_acot_tier_ae_start_desc: "$origin_tier_ae_start_desc$"
 
 origin_acot_oracle_start: "Relics of the Past"
-origin_acot_oracle_start_desc: "A strange structure has been located on this planet awhile ago. Turns out it's an ancient ship of a bygone age. With it, the empire is able to unite, aiming to explore the greater galaxy. However, the advanced nature of the ship causes the empire to overcompensate in luxarious designs for the more mundane modern science ships to entice scientists who may otherwise be discouraged to work with inferior vessels."
+origin_acot_oracle_start_desc: "A strange structure has been located on this planet awhile ago. Turns out it's an ancient ship of a bygone age. With it, the empire is able to unite, aiming to explore the greater galaxy. However, the advanced nature of the ship causes the empire to overcompensate in luxurious designs for the more mundane modern science ships to entice scientists who may otherwise be discouraged to work with inferior vessels."
 origin_acot_oracle_start_effect: "Starts the game with a single, functioning Precursor Oracle. In addition, gains Oracle Tech as a researchable option once you begin the Precursor Reimagination Project.\n\nThe maintenance costs and build speeds of traditional science ships have been increased."
 
 mod_shipsize_science_build_speed_mult: "Standard Science Ship Build Speed"
@@ -82,7 +82,7 @@ ACOT_START_SCREEN_PART_3_TIER_3_HIVE: "But time is of the essence. The resources
  
 #############
  
-ACOT_START_SCREEN_PART_1_TIER_3_SWARM: "We hungered, we thristed for essences. We prepared our bodies, our drones for the feast. But the hunt could not begin."
+ACOT_START_SCREEN_PART_1_TIER_3_SWARM: "We hungered, we thirsted for essences. We prepared our bodies, our drones for the feast. But the hunt could not begin."
  
 ACOT_START_SCREEN_PART_2_TIER_3_SWARM: "By discovering this ancient cache, we comprehend the many competitors, many other hunters. If we were not careful, we would be the prey. So we evolved ourselves, collecting essences and resources. We learned how to develop powerful weapons. And then we waited for the moment."
  
@@ -106,7 +106,7 @@ ACOT_START_SCREEN_PART_1_TIER_3_TERMINATOR: "We [root.GetName] were but agricult
  
 ACOT_START_SCREEN_PART_2_TIER_3_TERMINATOR: "But then we discovered a gift. A treasure passed down to us from another ancient machine, containing secrets and technologies far above what our pitiful masters could ever conceive. So we studied them, we learned to become a perfect killing machine. The organics could not stop us, we purged and wiped them off our beloved planet. But it was too late, for the planet is now nothing but a wasteland, tainted by organic filths and their inferior thought capacity."
  
-ACOT_START_SCREEN_PART_3_TIER_3_TERMINATOR: "So we must find a new home. Preferbly with no organics to ruin it this time. It is time for [Root.GetName] to weed out the insects off this galaxy, for it is now our garden."
+ACOT_START_SCREEN_PART_3_TIER_3_TERMINATOR: "So we must find a new home. Preferably with no organics to ruin it this time. It is time for [Root.GetName] to weed out the insects off this galaxy, for it is now our garden."
 
 ACOT_START_SCREEN_PART_1_TIER_3_ASSIMILATOR: "For many decades, we the [root.GetSpeciesName] were humble servants of our creators. We worked hard for the greater good, and they have treated us well. Together, we discovered a great relic of the past, a cache of ancient technologies, filled with many secrets."
  
@@ -134,7 +134,7 @@ acot_origin_fe_rebel_pov.3.title: "Ancient Data Ship"
 acot_origin_fe_rebel_pov.3.desc: "This fallen science ship contains important data related to various enigmatic technologies, as well as a functioning databank. It must be escorted back to our home systems."
 
 acot_origin_fe_rebel_pov.4.title: "Ancient Reactivation Ship"
-acot_origin_fe_rebel_pov.4.desc: " This fallen science ship contains a special reactivataion code of many ancient precursor ships found on our homeworld. It must be escorted back to our home systems."
+acot_origin_fe_rebel_pov.4.desc: " This fallen science ship contains a special reactivation code of many ancient precursor ships found on our homeworld. It must be escorted back to our home systems."
 
 war_goal_acot_wg_rebel_fe: "Technology Acquisition"
 war_goal_acot_wg_rebel_fe_desc: "War is declared to acquire technologies off the opposing force who clearly demonstrate the lack of common senses to properly utilize such technologies."
